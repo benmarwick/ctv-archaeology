@@ -1,0 +1,562 @@
+<!-- Hey Emacs, make this -*- mode: XML -*- -->
+<CRANTaskView>
+
+  <name>Finance</name>
+  <topic>Empirical Finance</topic>
+  <maintainer email="Dirk.Eddelbuettel@R-project.org">Dirk Eddelbuettel</maintainer>
+  <version>2014-12-05</version>
+  
+  <info>
+    <p>
+      This CRAN Task View contains a list of packages useful for
+      empirical work in Finance, grouped by topic. 
+    </p>
+    <p>
+      Besides these packages, a very wide variety of functions suitable for
+      empirical work in Finance is provided by both the basic R 
+      system (and its set of recommended core packages), and a number of
+      other packages on the Comprehensive R Archive Network (CRAN). 
+      Consequently, several of the other CRAN Task Views may contain suitable
+      packages, in particular the <view>Econometrics</view> ,
+      <view>Multivariate</view>, <view>Optimization</view>, <view>Robust</view>, 
+      <view>SocialSciences</view> and <view>TimeSeries</view> Task Views.
+    </p>
+    <p> 
+      Contributions are always welcome, and encouraged. Since the start of
+      this CRAN task view in April 2005, most contributions have arrived as
+      email suggestions. The source file for this particular task view file
+      now also reside in a GitHub repository (see below) so that pull
+      requests are also possible. 
+    </p>
+   
+    <p>
+    <strong>Standard regression models</strong>
+    </p>
+    <ul>
+      <li>A detailed overview of the available regression methodologies is
+	provided by the <view>Econometrics</view> task view. This is
+	complemented by the <view>Robust</view> which focuses on more robust
+	and resistant methods.
+      </li>
+      <li>Linear models such as ordinary least squares (OLS) can be estimated
+        by <code>lm()</code> (from by the stats package contained in the basic R
+        distribution). Maximum Likelihood (ML) estimation can be undertaken
+        with the standard <code>optim()</code> function. Many other suitable methods
+        are listed in the <view>Optimization</view> view. Non-linear least squares can
+	be estimated with the <code>nls()</code> function, as well as with
+	<code>nlme()</code> from the <pkg>nlme</pkg> package. 
+      </li>
+      <li>For the linear model, a variety of regression diagnostic tests 
+        are provided by the <pkg>car</pkg>, <pkg>lmtest</pkg>,
+        <pkg>strucchange</pkg>, <pkg>urca</pkg>, and <pkg>sandwich</pkg> packages. 
+	The <pkg>Rcmdr</pkg> and <pkg>Zelig</pkg> packages provide user
+	interfaces that may be of interest as well.
+      </li>
+    </ul>
+
+    <p>
+    <strong>Time series</strong>
+    </p>
+    <ul>
+      <li>A detailed overview of tools for time series analysis can be found in
+          the <view>TimeSeries</view> task view. Below a brief overview of the
+	  most important methods in finance is given.</li>
+      <li>Classical time series functionality is provided
+          by the <code>arima()</code> and <code>KalmanLike()</code>commands in the
+          basic R distribution.  
+      </li>
+      <li>The <pkg>dse</pkg> and <pkg>timsac</pkg> packages provide a variety of more
+	  advanced estimation methods; <pkg>fracdiff</pkg> can
+	  estimate fractionally integrated series; <pkg>longmemo</pkg> covers
+	  related material.
+      </li>
+      <li>For volatility modeling, the standard GARCH(1,1) model can
+          be estimated with the <code>garch()</code> function in the
+          <pkg>tseries</pkg> package.  Rmetrics (see below) contains
+          the <pkg>fGarch</pkg> package which has additional models.
+          The <pkg>rugarch</pkg> package can be used to model a
+          variety of univariate GARCH models with extensions such as
+          ARFIMA, in-mean, external regressors and various other
+          specifications; with methods for fit, forecast, simulation,
+          inference and plotting are provided too. The <pkg>rmgarch</pkg> 
+	  builds on it to provide the ability to estimate several multivariate 
+	  GARCH models. The
+          <pkg>betategarch</pkg> package can estimate and simulate the
+          Beta-t-EGARCH model by Harvey.  The <pkg>bayesGARCH</pkg>
+          package can perform Bayesian estimation of a GARCH(1,1)
+          model with Student's t innovations.  For multivariate
+          models, the <pkg>ccgarch</pkg> package can estimate
+          (multivariate) Conditional Correlation GARCH models whereas
+          the <pkg>gogarch</pkg> package provides functions for
+          generalized orthogonal GARCH models.  The
+          <pkg>AutoSEARCH</pkg> package provides automated
+          general-to-specific model selection of the mean and
+          log-volatility of a log-ARCH-X model. The <pkg>GEVStableGarch</pkg>
+          package can fit  ARMA-GARCH or ARMA-APARCH models with GEV and 
+          stable conditional distributions. The <pkg>lgarch</pkg> package 
+          can estimate and fit log-Garch models. 
+      </li>
+      <li>Unit root and cointegration tests are provided by <pkg>tseries</pkg>,
+    	  and <pkg>urca</pkg>.
+    	  The Rmetrics packages <pkg>timeSeries</pkg> and
+          <pkg>fMultivar</pkg> contain a number of estimation functions for 
+          ARMA, GARCH, long memory models, unit roots and more. 
+	  The <pkg>CADFtest</pkg> package implements the Hansen unit root test.
+      </li>
+      <li>
+	  The  <pkg>dlm</pkg> package  provides
+	  Bayesian and likelihood analysis of dynamic linear models (ie
+	  linear Gaussian state space models). 
+      </li>
+      <li>
+	  The <pkg>vars</pkg> package offer estimation, diagnostics,
+	  forecasting and error decomposition of VAR and SVAR model in a
+          classical framework.
+      </li>
+      <li>
+          The <pkg>dyn</pkg> and 
+	  <pkg>dynlm</pkg> are suitable for dynamic (linear) regression
+	  models.
+      </li>
+      <li>
+      	  Several packages provide wavelet analysis 
+	  functionality: <pkg>rwt</pkg>, <pkg>wavelets</pkg>, 
+          <pkg>waveslim</pkg>, <pkg>wavethresh</pkg>. Some methods from chaos 
+          theory are provided by the package <pkg>tseriesChaos</pkg>.
+          <pkg>tsDyn</pkg> adds time series analysis based on dynamical systems therory.
+      </li>
+      <li>
+	  The <pkg>forecast</pkg> package adds functions for
+          forecasting problems.
+      </li> 
+      <li>
+	  The <pkg>tsfa</pkg> package provides functions for time series factor analysis.
+      </li> 
+      <li>
+	  The <pkg>stochvol</pkg> package implements Bayesian
+	  estimation of stochastic volatility using Markov Chain Monte
+	  Carlo.
+      </li> 
+    </ul>
+
+    <p>
+    <strong>Finance</strong>
+    </p>
+    <ul>
+      <li>The Rmetrics suite of packages comprises
+          <pkg>fArma</pkg>, <pkg>fAsianOptions</pkg>, 
+	  <pkg>fBasics</pkg>, <pkg>fBonds</pkg>, <pkg>timeDate</pkg> (formerly: fCalendar), 
+	  <pkg>fExoticOptions</pkg>, 
+	  <pkg>fExtremes</pkg>, <pkg>fGarch</pkg>, <pkg>fImport</pkg>, 
+	  <pkg>fNonlinear</pkg>, <pkg>fOptions</pkg>, 
+	  <pkg>timeSeries</pkg> (formerly: fSeries), 
+	  <pkg>fTrading</pkg>, <pkg>fUnitRoots</pkg>
+	  and contains a very large number of relevant functions for different aspect of empirical
+	  and computational finance.
+      </li>
+      <li>The <pkg>RQuantLib</pkg> package provides several option-pricing
+          functions as well as some fixed-income functionality from the
+          QuantLib project to R.  
+      </li>
+      <li>The <pkg>quantmod</pkg> package offers a number of functions for
+          quantitative modelling in finance as well as data acqusition, plotting
+          and other utilities.
+      </li>
+      <li>The <pkg>portfolio</pkg> package contains
+          classes for equity portfolio management; the
+          <pkg>portfolioSim</pkg> builds a related simulation framework. 
+          The <pkg>backtest</pkg> offers tools to  
+	  explore portfolio-based hypotheses about financial instruments.
+	  The <pkg>stockPortfolio</pkg> package provides functions for
+	  single index, constant correlation and multigroup models.
+	  The <pkg>pa</pkg> package offers performance attribution
+	  functionality for equity portfolios.
+      </li>
+      <li>The <pkg>PerformanceAnalytics</pkg> package contains a large number
+          of functions for portfolio performance calculations and risk management.
+      </li>
+      <li>The <pkg>TTR</pkg> contains functions to construct technical
+          trading rules in R.
+      </li>
+      <li>The <pkg>sde</pkg> package provides simulation and inference functionality
+          for stochastic differential equations.
+      </li>
+      <li>The <pkg>termstrc</pkg> and <pkg>YieldCurve</pkg> packages contain methods for the estimation
+          of zero-coupon yield curves and spread curves based the parametric 
+          Nelson and Siegel (1987) method with the Svensson (1994)
+          extension. The former package adds the McCulloch (1975) cubic
+          splines approach, the latter package adds the Diebold and Li approach.
+	  The <pkg>SmithWilsonYieldCurve</pkg> construct the yield curve using 
+          the Smith-Wilson approach based on LIBOR and SWAP rates.
+      </li>
+      <li>The <pkg>vrtest</pkg> package contains a number of variance ratio
+          tests for the weak-form of the efficient markets hypothesis.
+      </li>
+      <li> The <pkg>gmm</pkg> package provides generalized method of moments
+	  (GMM) estimations function that are often used when estimating the
+	  parameters of the moment conditions implied by an asset pricing
+	  model.
+      </li>
+      <li> The <pkg>tawny</pkg> package contains estimator based on random
+	  matrix theory as well as shrinkage methods to remove sampling noise
+	  when estimating sample covariance matrices.
+      </li>
+      <li> The <pkg>opefimor</pkg> package by contains material to
+          accompany the Iacus (2011) book entitled "Option Pricing and
+          Estimation of Financial Models in R".
+      </li>
+      <li> The <pkg>maRketSim</pkg> package provides a market simulator, 
+          initially designed around the bond market.
+      </li>
+      <li> The <pkg>BurStFin</pkg> and <pkg>BurStMisc</pkg> package has a collection of
+          function for Finance including the estimation of covariance
+          matrices.  
+      </li>
+      <li> The <pkg>AmericanCallOpt</pkg> package contains a pricer for
+          different American call options.
+      </li>
+      <li> The <pkg>VarSwapPrice</pkg> package can price a variance swap 
+          via a portfolio of European options contracts.
+      </li>
+      <li> The <pkg>FinAsym</pkg> package implements the Lee and Ready (1991) 
+          and Easley and O'Hara (1987) tests for, respectively, trade direction, 
+          and probability of informed trading. 
+      </li>
+      <li>
+	The <pkg>parma</pkg> package provides support for portfolio
+	allocation and risk management applications.
+      </li>
+      <li>
+	The <pkg>GUIDE</pkg> package provides a <em>GUI</em> for
+	<em>DE</em>rivatives and contains numerous pricer examples as
+	well as interactive 2d and 3d plots to study these pricing
+	functions.
+      </li>
+      <li>
+	The <pkg>SharpeR</pkg> package contains a collection of tools
+	for analyzing significance of trading strategies, based on the
+	Sharpe ratio and overfit of the same.
+      </li>
+      <li>
+	The <pkg>RND</pkg> package implements various functions to extract risk-neutral densities 
+       from option prices.
+      </li>
+      <li>
+	<pkg>LSMonteCarlo</pkg> can price American Options via the Least Squares Monte Carlo 
+        method 
+      </li>
+      <li>
+	The <pkg>BenfordTests</pkg> package provides 
+        seven statistical tests and support functions for determining if numerical data 
+        could conform to Benford's law. 
+      </li>
+      <li>
+	The <pkg>OptHedging</pkg> package values call and put option portfolio and implements an 
+        optimal hedging strategy.
+      </li>
+      <li>
+	The <pkg>markovchain</pkg> package provides functionality to
+	easily handle and analyse discrete Markov chains.
+      </li>
+      <li>
+	The <pkg>ycinterextra</pkg> package models yield curve interpolation and extrapolation using 
+        via the Nelson-Siegel, Svensson, or Smith-Wilson models, as well as Hermite cubic splines.
+      </li>
+      <li>
+	The <pkg>tvm</pkg> package models provides functions for time
+	value of money such as cashflows and yield curves.
+      </li>
+      <li>
+	The <pkg>MarkowitzR</pkg> package provides functions to test
+	the statistical signicance of Markowitz portfolios.
+      </li>
+      <li>
+	The <pkg>egcm</pkg> package implements the Engle-Granger
+	two-stage cointegration modeling procedure with a particular
+	focus on pairs trading.
+      </li>
+      <li>
+	The <pkg>pbo</pkg> package models the probability of backtest
+        overfitting, performance degradation, probability of loss, and the
+        stochastic dominance when analysing trading strategies. 
+      </li>
+      <li>
+	The <pkg>OptionPricing</pkg> package implements 
+        rfficient Monte Carlo algorithms for the price and the sensitivities
+        of Asian and European Options under Geometric Brownian Motion. 
+      </li>
+    </ul>
+
+    <p>
+    <strong>Risk management</strong>
+    </p>
+    <ul>
+      <li>Several packages provide functionality for 
+          Extreme Value Theory models: <pkg>evd</pkg>, <pkg>evdbayes</pkg>, 
+          <pkg>evir</pkg>, <pkg>extRemes</pkg>, <pkg>ismev</pkg>.
+      </li>
+      <li>
+	The packages <pkg>CreditMetrics</pkg> and <pkg>crp.CSFP</pkg> provide function for modelling credit risks.
+      </li>
+      <li>
+          The <pkg>mvtnorm</pkg> 
+          package provides code for multivariate Normal and t-distributions.
+      </li>
+      <li>
+          The Rmetrics package
+          <pkg>fExtremes</pkg> also contain a number of relevant functions.
+      </li>
+      <li>
+	  The <pkg>copula</pkg> and <pkg>fgac</pkg> packages cover 
+          multivariate dependency structures using copula methods.
+      </li>
+      <li>
+	  The <pkg>actuar</pkg> package provides an actuarial
+	  perspective to risk management.
+      </li>
+      <li>
+	  The <pkg>ghyp</pkg> package provides generalized hyberbolic distribution
+          functions as well as procedures for VaR, CVaR or target-return
+          portfolio optimizations.
+      </li>
+      <li>
+          The <pkg>ChainLadder</pkg> package provides functions for modeling
+          insurance claim reserves; and the <pkg>lifecontingencies</pkg> package 
+          provides functions for financial and actuarial evaluations of life contingencies. 
+      </li>
+      <li>
+	  The <pkg>frmqa</pkg> package aims to collect functions for Financial Risk Management and Quantitative Analysis.
+      </li>
+      <li>
+	  The <pkg>ESG</pkg> package can be used to model for asset projection, a scenario-based simulation approach.
+      </li>
+      <li>
+	  The <pkg>riskSimul</pkg> package provides efficient simulation
+          procedures to estimate tail loss probabilities and conditional
+          excess for a stock portfolios where log-returns are assumed to
+          follow a t-copula model with generalized hyperbolic or t marginals.  
+      </li>
+      <li>
+	  The <pkg>GCPM</pkg> package anlyzes the default risk of credit
+          portfolio using both analytical and simulation approaches.
+      </li>
+    </ul>
+
+    <p>
+    <strong>Books</strong>
+    </p>
+    <ul>
+      <li>The <pkg>FinTS</pkg> package provides an R companion to Tsay (2005),
+         <em>Analysis of Financial Time Series</em>, 2nd ed. Wiley,  
+         and includes data sets, functions and script files to work some 
+         of the examples.  
+      </li>
+      <li>The <pkg>NMOF</pkg> package provides functions, examples and data 
+         from <em>Numerical Methods in Finance</em> by Manfred Gilli, Dietmar Maringer and 
+	 Enrico Schumann (2011), including the different optimization heuristics such as 
+	 Differential Evolution, Genetic Algorithms, Particle Swarms, and Threshold Accepting.
+      </li>
+    </ul>
+
+    <p>
+    <strong>Data and date management</strong>
+    </p>
+    <ul>
+      <li>The <pkg>its</pkg>, <pkg>zoo</pkg> and
+          <pkg>timeDate</pkg> (part of Rmetrics) packages provide support for
+          irregularly-spaced time series. The <pkg>xts</pkg> package extends 
+          <pkg>zoo</pkg> specifically for financial time series. See the
+	  <view>TimeSeries</view> task view for more details.
+      </li>
+      <li><pkg>timeDate</pkg> also addresses
+          calendar issues such as recurring holidays for a large number of
+          financial centers, and provides code for high-frequency data sets.
+      </li>
+      <li>
+	  The <pkg>fame</pkg> package can access Fame time series databases (but 
+	  also requires a Fame backend). The <pkg>tis</pkg> package provides 
+          time indices and time-indexed series compatible with Fame
+	  frequencies. 
+      </li>
+      <li>
+	  The <pkg>TSdbi</pkg> package provides a unifying interface for
+	  several time series data base backends, and its SQL implementations
+	  provide a database table design.
+      </li>
+      <li>
+	  The <pkg>data.table</pkg> package provides very efficient and fast
+	  access to in-memory data sets such as asset prices.
+      </li>
+      <!-- <li> -->
+      <!-- 	  The <pkg>RTAQ</pkg> package can be used to analyse trades and -->
+      <!-- 	  quotes data supplied in the TAQ format of the New York Stock -->
+      <!-- 	  Exchange in order to implement intraday trading strategies, measure -->
+      <!-- 	  liquidity and volatility, and investigate market microstructure -->
+      <!-- 	  aspects.  -->
+      <!-- </li> -->
+      <li>
+	  The <pkg>TFX</pkg> package provides an interface to the TrueFX (TM)
+	  service for free streaming real-time and historical
+	  tick-by-tick market data for interbank foreign exchange
+	  rates at the millisecond resolution.
+      </li>
+      <li>
+          The <pkg>Rbitcoin</pkg> package offers access to Bitcoin
+          exchange APIs (mtgox, bitstamp, btce, kraken) via public and
+          private API calls and integration of data structures for all
+          markets.
+      </li>
+      <li>
+      	  The <pkg>bizdays</pkg> package compute business days if
+      	  provided a list of holidays.
+      </li>
+    </ul>
+
+  </info>
+
+  <packagelist>
+    <pkg>actuar</pkg>
+    <pkg>AmericanCallOpt</pkg>
+    <pkg>AutoSEARCH</pkg>
+    <pkg>backtest</pkg>
+    <pkg>bayesGARCH</pkg>
+    <pkg>BenfordTests</pkg>
+    <pkg>betategarch</pkg>
+    <pkg>bizdays</pkg>
+    <pkg>BurStFin</pkg>
+    <pkg>BurStMisc</pkg>
+    <pkg>CADFtest</pkg>
+    <pkg>car</pkg>
+    <pkg>ccgarch</pkg>
+    <pkg>ChainLadder</pkg>
+    <pkg>copula</pkg>
+    <pkg>CreditMetrics</pkg>
+    <pkg>crp.CSFP</pkg>
+    <pkg>data.table</pkg>
+    <pkg>dlm</pkg>
+    <pkg>dse</pkg>
+    <pkg>dyn</pkg>
+    <pkg>dynlm</pkg>
+    <pkg>egcm</pkg>
+    <pkg>ESG</pkg>
+    <pkg>evd</pkg>
+    <pkg>evdbayes</pkg>
+    <pkg>evir</pkg>
+    <pkg>extRemes</pkg>
+    <pkg>fame</pkg>
+    <pkg>fgac</pkg>
+    <pkg priority="core">fArma</pkg>
+    <pkg priority="core">fAsianOptions</pkg>
+    <pkg priority="core">fBasics</pkg>
+    <pkg priority="core">fBonds</pkg>
+    <pkg priority="core">fExoticOptions</pkg>
+    <pkg priority="core">fExtremes</pkg>
+    <pkg priority="core">fGarch</pkg>
+    <pkg priority="core">fImport</pkg>
+    <pkg>FinAsym</pkg>
+    <pkg>FinTS</pkg>
+    <pkg priority="core">fMultivar</pkg>
+    <pkg priority="core">fNonlinear</pkg>
+    <pkg priority="core">fOptions</pkg>
+    <pkg priority="core">fTrading</pkg>
+    <pkg priority="core">fUnitRoots</pkg>
+    <pkg>forecast</pkg>
+    <pkg>fracdiff</pkg>
+    <pkg>frmqa</pkg>
+    <pkg>GCPM</pkg> 
+    <pkg>GEVStableGarch</pkg>
+    <pkg>ghyp</pkg>
+    <pkg>gmm</pkg>
+    <pkg>gogarch</pkg>
+    <pkg>GUIDE</pkg>
+    <pkg>ismev</pkg>
+    <pkg>its</pkg>    
+    <pkg>lgarch</pkg>
+    <pkg>lifecontingencies</pkg>
+    <pkg>lmtest</pkg>
+    <pkg>LSMonteCarlo</pkg>
+    <pkg>longmemo</pkg>
+    <pkg>markovchain</pkg>
+    <pkg>maRketSim</pkg>
+    <pkg>MarkowitzR</pkg>
+    <pkg>mvtnorm</pkg>
+    <pkg>nlme</pkg>
+    <pkg>NMOF</pkg>
+    <pkg>opefimor</pkg>
+    <pkg>OptHedging</pkg>
+    <pkg>OptionPricing</pkg>
+    <pkg>pa</pkg>
+    <pkg>parma</pkg>
+    <pkg>pbo</pkg> 
+    <pkg priority="core">PerformanceAnalytics</pkg>
+    <pkg>portfolio</pkg>
+    <pkg>portfolioSim</pkg>
+    <pkg>quantmod</pkg>
+    <pkg>Rbitcoin</pkg>
+    <pkg>Rcmdr</pkg>
+    <pkg>riskSimul</pkg>
+    <pkg>rmgarch</pkg> 
+    <pkg>RND</pkg>
+    <pkg>RQuantLib</pkg>
+    <pkg>rugarch</pkg> 
+    <pkg>rwt</pkg> 
+    <pkg>sandwich</pkg>
+    <pkg>sde</pkg>
+    <pkg>SharpeR</pkg>
+    <pkg>SmithWilsonYieldCurve</pkg>
+    <pkg>stochvol</pkg>
+    <pkg>stockPortfolio</pkg>    
+    <pkg>strucchange</pkg>
+    <pkg>timsac</pkg>
+    <pkg priority="core">tseries</pkg>
+    <pkg>termstrc</pkg>
+    <pkg>TFX</pkg>
+    <pkg>TSdbi</pkg>
+    <pkg>tsDyn</pkg>
+    <pkg>tseriesChaos</pkg>
+    <pkg>tsfa</pkg>
+    <pkg>TTR</pkg>
+    <pkg>tawny</pkg>
+    <pkg priority="core">timeDate</pkg>
+    <pkg priority="core">timeSeries</pkg>
+    <pkg>tis</pkg> 
+    <pkg>tvm</pkg>
+    <pkg priority="core">urca</pkg>
+    <pkg>vars</pkg>
+    <pkg>vrtest</pkg>
+    <pkg>VarSwapPrice</pkg>
+    <pkg>wavelets</pkg>
+    <pkg>waveslim</pkg>
+    <pkg>wavethresh</pkg> 
+    <pkg>ycinterextra</pkg>
+    <pkg>YieldCurve</pkg>
+    <pkg priority="core">xts</pkg> 
+    <pkg>Zelig</pkg>
+    <pkg priority="core">zoo</pkg>    
+  </packagelist>
+
+  <links>
+    <view>Econometrics</view>
+    <view>Multivariate</view>
+    <view>Optimization</view>
+    <view>Robust</view>
+    <view>SocialSciences</view>
+    <view>TimeSeries</view>
+    <a href="http://www.rmetrics.org">Rmetrics contains a wealth of R code for Finance</a>
+    <a href="http://www.quantlib.org">Quantlib is a C++ library for quantitative finance</a>
+    <a href="http://findata.org/rbloomberg/">Access data from a Bloomberg installation in R</a>
+    <a href="https://www.stat.math.ethz.ch/mailman/listinfo/R-SIG-Finance/">Mailing list: R Special Interest Group Finance</a>
+    <!-- <a href="http://www.russell.com/US/Indexes/US/index_values.asp">Russell indexes data</a> -->
+    <a href="http://www.msci.com/us/indexperf/index.html">MSCI indexes data</a>
+    <a href="http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html">French/Fama data</a>
+    <a href="http://www.wilshire.com/Indexes/calculator/">Wilshire indexes data</a>
+    <!-- <a href="http://www.barra.com/Research/DownloadMonthlyReturns.aspx">Barra indexes data</a> -->
+    <a href="http://orfe.princeton.edu/~rcarmona/maindownload.html">Rene Carmona</a>
+    <a href="http://faculty.washington.edu/ezivot/splus.htm">Eric Zivot</a>
+    <a href="http://www.stat.tamu.edu/~ljin/Finance/stat689-R.htm">R Code for Ruppert's 'Statistics and Finance'</a>
+    <!-- <a href="http://www.decisionsynergy.com/showPackageDownload.html">FinancePack and FractalPack</a> -->
+    <a href="http://www.r-programming.org/papers">Guy Yollin</a>
+    <a href="https://github.com/eddelbuettel/ctv-finance">GitHub repository for this Task View</a>
+  </links>
+
+</CRANTaskView>
