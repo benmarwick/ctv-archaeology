@@ -1,14 +1,23 @@
 CRAN Task View: Archaeological Science
 ---------------------------------
-
-
-**Maintainer:** Ben Marwick  
-**Contact:** benmarwick at gmail.com 
-**Version:** 2014-12-12  
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Maintainer:</strong>
+Ben Marwick</td>
+<td align="left"><strong>Contact:</strong>
+benmarwick at gmail.com </td>
+</tr>
+</tbody>
+</table>
 
 This CRAN Task View contains a list of packages useful for scientific work in Archaeology, grouped by topic. Note that this is not an official CRAN Task View, just one I have prepared for my own convenience. 
 
-Besides these packages, a very wide variety of functions suitable for scientific work in Archaeology is provided by both the basic R system (and its set of recommended core packages), and a number of other packages on the Comprehensive R Archive Network (CRAN). Consequently, several of the other CRAN Task Views may contain suitable packages, in particular the [SocialSciences](http://cran.rstudio.com/web/views/SocialSciences.html), [Spatial](http://cran.rstudio.com/web/views/Spatial.html)  [Spatio-temporal](http://cran.rstudio.com/web/views/spatioTemporal.html), [Cluster analysis](http://cran.r-project.org/web/views/Cluster.html), [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html), [Bayesian inference](http://cran.r-project.org/web/views/Bayesian.html), [Visualization](http://cran.r-project.org/web/views/Graphics.html),  and [Reproducible research](http://cran.r-project.org/web/views/ReproducibleResearch.html) Task Views. 
+Besides these packages, a very wide variety of functions suitable for scientific work in Archaeology is provided by both the basic R system (and its set of recommended core packages), and a number of other packages on the Comprehensive R Archive Network (CRAN) and [GitHub](http://www.rdocumentation.org/packages?type=github). Consequently, several of the other CRAN Task Views may contain suitable packages, in particular the [SocialSciences](http://cran.rstudio.com/web/views/SocialSciences.html), [Spatial](http://cran.rstudio.com/web/views/Spatial.html)  [Spatio-temporal](http://cran.rstudio.com/web/views/spatioTemporal.html), [Cluster analysis](http://cran.r-project.org/web/views/Cluster.html), [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html), [Bayesian inference](http://cran.r-project.org/web/views/Bayesian.html), [Visualization](http://cran.r-project.org/web/views/Graphics.html),  and [Reproducible research](http://cran.r-project.org/web/views/ReproducibleResearch.html) Task Views. 
 
 Contributions to this Task View are always welcome, and encouraged. The source file for this particular task view file resides in a GitHub repository (see below), and pull requests are the preferred method for contributions. 
 
@@ -37,10 +46,11 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 
 **Multivariate statistics**
 
+-   The [Cluster task view](http://cran.r-project.org/web/views/Cluster.html) provides a more detailed discussion of available cluster analysis methods and appropriate R functions and packages.
 -	[caret](http://cran.rstudio.com/web/packages/caret/index.html), [FactoMiner](http://cran.rstudio.com/web/packages/FactoMiner/index.html), 
 -	[aplpack](http://cran.rstudio.com/web/packages/aplpack/index.html) provides `bagplots()`
 -	`lda()` and `qda()` within [MASS](http://cran.rstudio.com/web/packages/MASS/index.html) provide linear and quadratic discrimination respectively.
--	 The [Cluster task view] provides a more detailed discussion of available cluster analysis methods and appropriate R functions and packages.
+
 
 Hierarchical cluster analysis:
 
@@ -55,7 +65,11 @@ Other partitioning methods:
 Mixture models and model-based cluster analysis:
 
 -    [mclust](http://cran.rstudio.com/web/packages/mclust/index.html) and [flexmix](http://cran.rstudio.com/web/packages/flexmix/index.html) provide implementations of model-based cluster analysis.
--	 Principal Components (PCA) is available via the `prcomp()` function (based on svd),  `rda()` (in package [vegan](http://cran.rstudio.com/web/packages/vegan/index.html)), `pca()` (in package [labdsv](http://cran.rstudio.com/web/packages/labdsc/index.html)) and `dudi.pca()` (in package [ade4](http://cran.rstudio.com/web/packages/ade4/index.html)), provide more ecologically-orientated implementations. Plotting of PCA output is available in [ggbiplot](https://github.com/vqv/ggbiplot) and [ggfortify](https://github.com/sinhrks/ggfortify). Redundancy Analysis (RDA) is available via `rda()` in vegan and `pcaiv()` in ade4. Canonical Correspondence Analysis (CCA) is implemented in `cca()` in both vegan and ade4. Detrended Correspondence Analysis (DCA) is implemented in `decorana()` in vegan. Principal coordinates analysis (PCO) is implemented in `dudi.pco()` in ade4, `pco()` in labdsv, `pco()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html), and `cmdscale()` in package [MASS](http://cran.rstudio.com/web/packages/MASS/index.html).
+-	 Principal Components (PCA) is available via the `prcomp()` function (based on svd),  `rda()` (in package [vegan](http://cran.rstudio.com/web/packages/vegan/index.html)), `pca()` (in package [labdsv](http://cran.rstudio.com/web/packages/labdsc/index.html)) and `dudi.pca()` (in package [ade4](http://cran.rstudio.com/web/packages/ade4/index.html)), provide more ecologically-orientated implementations. Plotting of PCA output is available in [ggbiplot](https://github.com/vqv/ggbiplot) and [ggfortify](https://github.com/sinhrks/ggfortify). 
+-   Redundancy Analysis (RDA) is available via `rda()` in vegan and `pcaiv()` in ade4. 
+-   Canonical Correspondence Analysis (CCA) is implemented in `cca()` in both vegan and ade4. 
+-   Detrended Correspondence Analysis (DCA) is implemented in `decorana()` in vegan. 
+-   Principal coordinates analysis (PCO) is implemented in `dudi.pco()` in ade4, `pco()` in labdsv, `pco()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html), and `cmdscale()` in package [MASS](http://cran.rstudio.com/web/packages/MASS/index.html).
 -    Non-Metric multi-Dimensional Scaling (NMDS) is provided by `isoMDS()` in package MASS and `nmds()` in ecodist. `nmds()`, a wrapper function for `isoMDS()`, is also provided by package labdsv. vegan provides helper function `metaMDS()` for `isoMDS()`, implementing random starts of the algorithm and standardised scaling of the NMDS results. The approach adopted by vegan with `metaMDS()` is the recommended approach for ecological data.
 -	`corresp()` and `mca()` in MASS provide simple and multiple correspondence analysis respectively. [ca](http://cran.rstudio.com/web/packages/ca/index.html) also provides single, multiple and joint correspondence analysis. `ca()` and `mca()` in ade4 provide correspondence and multiple correspondence analysis respectively, as well as adding homogeneous table analysis with `hta()`. Further functionality is also available within vegan co-correspondence is available from cocorresp. [FactoMineR](http://cran.rstudio.com/web/packages/FactoMineR/index.html) provides `CA()` and `MCA()` which also enable simple and multiple correspondence analysis as well as associated graphical routines.
 
@@ -69,14 +83,20 @@ Mixture models and model-based cluster analysis:
 -	Transfer function models including weighted averaging (WA), modern analogue technique (MAT), Locally-weighted WA, & maximum likelihood (aka Gaussian logistic) regression (GLR) are provided by [analogue](http://cran.rstudio.com/web/packages/analogue/index.html), [vegan](http://cran.rstudio.com/web/packages/vegan/index.html), [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) for stratigraphic analyses
 -	[G2Sd](http://cran.rstudio.com/web/packages/G2Sd/index.html) - full descriptive statistics and a physical description of sediments based on grain-size distributions, [soiltexture](http://cran.rstudio.com/web/packages/soiltexture/index.html) and [ggterm](http://cran.rstudio.com/web/packages/ggterm/index.html) for ternary plots of soil texture
 -	 Constrained clustering of stratigraphic data is provided by function `chclust()` in the form of constrained hierarchical clustering in [rioja](http://cran.rstudio.com/web/packages/rioja/index.html).
--    Radiocarbon dates can be calibrated using [BChron](http://cran.rstudio.com/web/packages/BChron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling as per the algorithm of Haslett and Parnell (2008); Relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
+-    Radiocarbon dates can be calibrated using [BChron](http://cran.rstudio.com/web/packages/BChron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    Functions for tree ring analysis can be found in [dplR](http://cran.rstudio.com/web/packages/dplR/index.html)
 
 **Phylogenetics, morphometrics and evolution**
 
-The [Phylogenetics task view] provides more detailed coverage of the subject area and related functions within R. Packages specifically tailored for the analysis of phylogenetic and evolutionary data include: [ape](http://cran.rstudio.com/web/packages/ape/index.html), [phytools](http://cran.rstudio.com/web/packages/phytools/index.html), [phangorn](http://cran.rstudio.com/web/packages/phangorn/index.html), [Rphylip](http://cran.rstudio.com/web/packages/Rphylip/index.html), [ouch](http://cran.rstudio.com/web/packages/ouch/index.html). For plotting trees most of these packages include their own modifications of the base plot() function, and there are also [ggtree](http://cran.rstudio.com/web/packages/ggtree/index.html), [ggdendro](http://cran.rstudio.com/web/packages/ggdendro/index.html), [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html), and [ggphylo](http://cran.rstudio.com/web/packages/ggphylo/index.html)
+-  The [Phylogenetics task view](http://cran.r-project.org/web/views/Phylogenetics.html) provides more detailed coverage of the subject area and related functions within R. 
+-  Packages specifically tailored for the analysis of phylogenetic and evolutionary data include: [ape](http://cran.rstudio.com/web/packages/ape/index.html), [phytools](http://cran.rstudio.com/web/packages/phytools/index.html), [phangorn](http://cran.rstudio.com/web/packages/phangorn/index.html), [Rphylip](http://cran.rstudio.com/web/packages/Rphylip/index.html), [ouch](http://cran.rstudio.com/web/packages/ouch/index.html). 
+-  For plotting trees most of these packages include their own modifications of the base `plot()` function, and there are also [ggtree](http://cran.rstudio.com/web/packages/ggtree/index.html), [ggdendro](http://cran.rstudio.com/web/packages/ggdendro/index.html), [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html), and [ggphylo](http://cran.rstudio.com/web/packages/ggphylo/index.html)
+-  Morphometric analyses are provided by [shape](http://cran.rstudio.com/web/packages/shape/index.html) and [Momocs](http://cran.rstudio.com/web/packages/Momocs/index.html).
 
-Morphometric analyses are provided by [shape](http://cran.rstudio.com/web/packages/shape/index.html) and [Momocs](http://cran.rstudio.com/web/packages/Momocs/index.html).
+**Simulations**
+
+- [RNetLogo](http://cran.rstudio.com/web/packages/RNetLogo/index.html) links R and NetLogo
+-  [simecol](http://cran.rstudio.com/web/packages/simecol/index.html)  for simulating ecological (and other) dynamic systems. It can be used for differential equations, individual-based (or agent-based) and other models as well.
 
 **Visualising Data:**
 
@@ -85,10 +105,11 @@ Morphometric analyses are provided by [shape](http://cran.rstudio.com/web/packag
 -	Stratigraphic data plots can be drawn using `Stratiplot()` function in [analogue](http://cran.rstudio.com/web/packages/analogue/index.html) and functions `strat.plot()` and strat.plot.simple in the [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) package.
 -	[rgl](http://cran.rstudio.com/web/packages/rgl/index.html) for interactive 3D plots
 -   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
+-   For colour schemes in plots: [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html)
 
 **Reproducible Research:**
 
--	[knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be executed and combined in a single document that contained plots, analysed data and formatted text. [rlp](https://github.com/yihui/rlp) is a package that lets you write an analysis as a Rmd file and then converts it into a package. [manuscriptPackage](https://github.com/jhollist/manuscriptPackage), [template](https://github.com/cboettig/template), and [template](https://github.com/Pakillo/template) (yes, that's two packages with the same name) are packages that give templates for organising an analysis as an R package (eg. where the manuscript is the package vignette) 
+-	[knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be executed and combined in a single document that contained plots, analysed data and formatted text. [rlp](https://github.com/yihui/rlp) is a package that lets you write an analysis as a Rmd file and then converts it into a package. [manuscriptPackage](https://github.com/jhollist/manuscriptPackage), [template](https://github.com/cboettig/template), and [template](https://github.com/Pakillo/template) (yes, that's two slighlty different packages with the same name) are packages that give templates for organising an analysis as an R package (eg. where the manuscript is the package vignette) 
 -   [rmarkdown](http://cran.rstudio.com/web/packages/rmarkdown/index.html) is a simple document formatting language with some minor customizations to recognise R code blocks and inline code. Complementary packages include [captioner](https://github.com/adletaw/captioner) and [kfigr](https://github.com/mkoohafkan/kfigr) for figure and table captions and cross-referencing. 
 -   [pandoc](http://johnmacfarlane.net/pandoc/) is a universal document format converter, in this context it is used to convert rmarkdown or LaTeX to PDF, MS Word or HTML files. It is included with RStudio but can also be used stand-alone from the command line.
 -   [packrat](http://cran.rstudio.com/web/packages/packrat/index.html) supports the development of isolated, stand-alone projects that include all the packages used and their dependencies. 
@@ -97,20 +118,30 @@ Morphometric analyses are provided by [shape](http://cran.rstudio.com/web/packag
 
 **Developing R software**
 
--	[devtools](http://cran.rstudio.com/web/packages/devtools/index.html) for easily creating R packages 
+-	  [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) for easily creating R packages 
 -   [roxygen2](http://cran.rstudio.com/web/packages/roxygen2/index.html) for simplifying the creation of documentation for packages,
 -   [testthat](http://cran.rstudio.com/web/packages/testthat/index.html) for developing tests of functions in packages
 -   [RCpp](http://cran.rstudio.com/web/packages/RCpp/index.html) enables the use of C++ code in R packages for high performance computing
+-   [RStudio](http://www.rstudio.com/) is an indegrated development environment that simplfies developing R code
+-   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor, which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive R development environment.
+
+**Datasets**
+
+-   [archdata](http://cran.rstudio.com/web/packages/archdata/index.html) contains eleven archaeological datasets from around the world reported in published studies. These represent typicial forms of archaeological data (and so are useful for teaching)
+-  [chemometrics]((http://cran.rstudio.com/web/packages/chemometrics/index.html)) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
 
 **Places to go for help:**
 
--	? function, eg. ?mean to get built-in help on the mean function
--	sos::findFn("rose diagram") searches all installed packages for the search term, using the [sos](http://cran.rstudio.com/web/packages/sos/index.html) package
--   Most major packages come with vignettes that narrate typical uses of the package's core functions. 
--	[stackoverflow](http://stackoverflow.com/questions/tagged/r) is an online Q&A website where questions and answers can be voted on to indicate their quality. 
--	Google searches in the form: r help [search terms]
+-	`?` function, eg. `?mean` to get built-in help on the mean function
+-	`sos::findFn("rose diagram")` searches all installed packages for the search term, using the [sos](http://cran.rstudio.com/web/packages/sos/index.html) package
+-   Most major packages come with vignettes that narrate typical uses of the package's core functions. Vignettes can be accessed with the command `vignette(packagename)`
+-	[stackoverflow](http://stackoverflow.com/questions/tagged/r) is an online Q&A point-scoring website where questions and answers can be voted on to indicate their quality. Many highly skilled R programmers are active participants.
+-	Google searches in the form: [r help [search terms]](https://www.google.com/?gws_rd=ssl#q=r+help+)
 -   A custom search engine of R resources: http://www.rseek.org/
+-   [Graphical output from the examples in the documentation for all CRAN packages](rgm3.lab.nig.ac.jp/RGM)
 -   All R package documentation (including CRAN, GitHub and Bioconductor packages) is online in an easy-to-ready format at http://www.rdocumentation.org/
+-   Cheatsheets to print for handy reference: [base](http://cran.r-project.org/doc/contrib/Short-refcard.pdf), [dplyr, tidyr, rmarkdown](http://www.rstudio.com/resources/cheatsheets/), [data.table](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf), [numerous others](http://devcheatsheet.com/tag/r/)
+-   As a last resort, you could send a message to the official [r-help email list](https://stat.ethz.ch/mailman/listinfo/r-help), but do be sure to read, follow and cite the [posting guide](http://www.r-project.org/posting-guide.html). The list is also [searchable](https://www.google.com/?gws_rd=ssl#q=site:stat.ethz.ch+pipermail+archaeology).
 
 
 ### CRAN packages:
@@ -123,8 +154,10 @@ Morphometric analyses are provided by [shape](http://cran.rstudio.com/web/packag
 -   CRAN Task View: [Cluster analysis](http://cran.r-project.org/web/views/Cluster.html)
 -   CRAN Task View: [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html) 
 -   CRAN Task View: [Bayesian inference](http://cran.r-project.org/web/views/Bayesian.html)
+-   CRAN Task View: [Phylogenetics](http://cran.r-project.org/web/views/Phylogenetics.html)
 -   CRAN Task View: [Visualization](http://cran.r-project.org/web/views/Graphics.html)
 -   CRAN Task View: [Reproducible research](http://cran.r-project.org/web/views/ReproducibleResearch.html) 
 -   [David L. Carlson's guides on using R for 'Quantifying Archaeology' by Stephen Shennan 'Statistics for Archaeologists' by Robert Drennan]( http://people.tamu.edu/~dcarlson/quant/index.html)
 -   [Matt Peeples' scripts for archaeological statistics]( http://www.mattpeeples.net/resources.html)
+-   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
