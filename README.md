@@ -37,14 +37,14 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 
 **Analysis in General**
 
--    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, 'binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, 'power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. 
+-    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, `binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, `power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. 
 -    Bayesian and resampling variants of these also exist, for example in the [BEST](http://cran.r-project.org/web/packages/BEST/index.html), [Bayesian First Aid](https://github.com/rasmusab/bayesian_first_aid) packages (see the [Bayesian](http://cran.r-project.org/web/views/Bayesian.html) task view for more) and the [coin](http://cran.rstudio.com/web/packages/coin/index.html), [boot](http://cran.r-project.org/web/packages/boot/index.html), and [bootstrap](http://cran.r-project.org/web/packages/bootstrap/index.html) packages.
 
 
 **Analysis of Categorical and Count Data**
 
 -	The table function in the R-base base package and the `xtabs()` and `ftable()` functions in the stats package construct contingency tables.
--	The `chisq.test()` and `fisher.test()` functions in the stats package may be used to test for independence in two-way contingency tables
+-	The `chisq.test()` and `fisher.test()` functions in the stats package may be used to test for independence in two-way contingency tables    
 
 
 **Linear and Generalized Linear Models**
