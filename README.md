@@ -39,7 +39,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 **Visualising data**
 
 -     [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html) produces attractive plots with a highly flexible and logical syntax. 
--    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [ggally](https://github.com/ggobi/ggally) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots), and [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2) 
+-    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [ggally](https://github.com/ggobi/ggally) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots, see also [wq](http://cran.rstudio.com/web/packages/wq/index.html)), and [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2) 
 -   [ggmaps](http://cran.rstudio.com/web/packages/ggmaps/index.html) combines the spatial information of static maps from Google Maps, OpenStreetMap, Stamen Maps or CloudMade Maps with the layered grammar of graphics implementation of ggplot2
 -	   Stratigraphic data plots can be drawn using `Stratiplot()` function in [analogue](http://cran.rstudio.com/web/packages/analogue/index.html) and functions `strat.plot()` and strat.plot.simple in the [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) package.
 -	   [rgl](http://cran.rstudio.com/web/packages/rgl/index.html) for interactive 3D plots, [scatterplot3d](http://cran.rstudio.com/web/packages/scatterplot3d/index.html) also draws 3D point clouds.
@@ -50,7 +50,8 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 **Analysis in general**
 
 -    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, `binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, `power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. 
--    Bayesian and resampling variants of these also exist, for example in the [BEST](http://cran.r-project.org/web/packages/BEST/index.html), [Bayesian First Aid](https://github.com/rasmusab/bayesian_first_aid) packages (see the [Bayesian](http://cran.r-project.org/web/views/Bayesian.html) task view for more) and the [coin](http://cran.rstudio.com/web/packages/coin/index.html), [boot](http://cran.r-project.org/web/packages/boot/index.html), and [bootstrap](http://cran.r-project.org/web/packages/bootstrap/index.html) packages.
+-    Bayesian and resampling variants of these also exist, for example in the [MCMCpack](http://cran.r-project.org/web/packages/MCMCpack/index.htm), [BEST](http://cran.r-project.org/web/packages/BEST/index.html), [Bayesian First Aid](https://github.com/rasmusab/bayesian_first_aid) packages (see the [Bayesian](http://cran.r-project.org/web/views/Bayesian.html) task view for more) and the [coin](http://cran.rstudio.com/web/packages/coin/index.html), [boot](http://cran.r-project.org/web/packages/boot/index.html), and [bootstrap](http://cran.r-project.org/web/packages/bootstrap/index.html) packages.
+-    For analysing change over time, [bcp](http://cran.r-project.org/web/packages/bcp/index.html), [changepoint](http://cran.r-project.org/web/packages/changepoint/index.html) [ecp](http://cran.r-project.org/web/packages/ecp/index.html), [AnomalyDetection](https://github.com/twitter/AnomalyDetection) and [BreakoutDetection](https://github.com/twitter/BreakoutDetection) provide functions for detecting distributional changes within time-ordered observations.
 
 **Analysis of categorical and count data**
 
@@ -109,6 +110,7 @@ Mixture models and model-based cluster analysis
 -    Radiocarbon dates can be calibrated using [BChron](http://cran.rstudio.com/web/packages/BChron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package.
 -    Functions for tree ring analysis can be found in [dplR](http://cran.rstudio.com/web/packages/dplR/index.html)
+-    The [siar](http://cran.rstudio.com/web/packages/siar/index.html) pacakge takes data on organism isotopes and fits a Bayesian model to their dietary habits based upon a Gaussian likelihood with a mixture dirichlet-distributed prior on the mean
 - See the [Environmetrics](http://cran.r-project.org/web/views/Environmetrics.html) task view for more. 
 
 **Phylogenetics, morphometrics and evolution**
@@ -129,6 +131,12 @@ Mixture models and model-based cluster analysis
 - [RNetLogo](http://cran.rstudio.com/web/packages/RNetLogo/index.html) links R and NetLogo
 -  [simecol](http://cran.rstudio.com/web/packages/simecol/index.html)  for simulating ecological (and other) dynamic systems. It can be used for differential equations, individual-based (or agent-based) and other models as well.
 -  One-dimensional cellular automata are also possible to model with the package [CellularAutomaton](http://cran.rstudio.com/web/packages/CellularAutomaton/index.html).
+
+**Network analysis**
+
+-    The two major packages are [igraph](http://cran.rstudio.com/web/packages/igraph/index.html), which is a generic network analysis and visualisation package, and [sna](http://cran.rstudio.com/web/packages/sna/index.html), which performs social analysis of networks.
+-    Other packages include [network](http://cran.rstudio.com/web/packages/network/index.html) (manipulates and displays network objects), [ergm](http://cran.rstudio.com/web/packages/ergm/index.html) (a set of tools to analyze and simulate networks based on exponential random graph models exponential random graph models), [hergm](http://cran.rstudio.com/web/packages/hergm/index.html) (implements hierarchical exponential random graph models), and [RSiena](http://cran.rstudio.com/web/packages/RSiena/index.html) (allows the analyses of the evolution of social networks using dynamic actor-oriented models)
+
 
 **Reproducible research**
 
@@ -165,7 +173,7 @@ Mixture models and model-based cluster analysis
 -   [Graphical output from the examples in the documentation for all CRAN packages](http://rgm3.lab.nig.ac.jp/RGM)
 -   All R package documentation (including CRAN, GitHub and Bioconductor packages) is online in an easy-to-ready format at http://www.rdocumentation.org/
 -   Cheatsheets to print for handy reference: [short one on base](http://cran.r-project.org/doc/contrib/Short-refcard.pdf), [longer one on base](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf), [dplyr, tidyr, rmarkdown](http://www.rstudio.com/resources/cheatsheets/), [data.table](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf), [using colours](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf), [colours](http://research.stowers-institute.org/efg/R/Color/Chart/ColorChart.pdf), [numerous others](http://devcheatsheet.com/tag/r/)
--  [stackoverflow](http://stackoverflow.com/questions/tagged/r) is an online Q&A point-scoring website where questions and answers can be voted on to indicate their quality. Many highly skilled R programmers are active participants
+-  [stackoverflow](http://stackoverflow.com/questions/tagged/r) is an online Q&A point-scoring website where questions and answers can be voted on to indicate their quality. Many highly skilled R programmers are active participants. [Cross Validated](http://stats.stackexchange.com/) is a similar Q&A site for questions about statistics
 -   You could send a message to the official [r-help email list](https://stat.ethz.ch/mailman/listinfo/r-help), but do be sure to read, follow and cite the [posting guide](http://www.r-project.org/posting-guide.html). The list is also [searchable](https://www.google.com/?gws_rd=ssl#q=site:stat.ethz.ch+pipermail+archaeology).
 
 
