@@ -36,6 +36,17 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   [dplyr](http://cran.rstudio.com/web/packages/dpylr/index.html) and [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) for splitting the data up by groups, applying some common or custom functions, and combining the output back into a convenient form (ie. typical aggregation, splitting and summarising operations). Both packages are fast on very large datasets. 
 -	[reshape2](http://cran.rstudio.com/web/packages/reshape2/index.html) and [tidyr](http://cran.rstudio.com/web/packages/tidyr/index.html) for rearranging the data from long to wide forms, and more complex reshaping. 
 
+**Visualising data**
+
+-     [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html) produces attractive plots with a highly flexible and logical syntax. 
+-    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [ggally](https://github.com/ggobi/ggally) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots), and [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2) 
+-   [ggmaps](http://cran.rstudio.com/web/packages/ggmaps/index.html) combines the spatial information of static maps from Google Maps, OpenStreetMap, Stamen Maps or CloudMade Maps with the layered grammar of graphics implementation of ggplot2
+-	   Stratigraphic data plots can be drawn using `Stratiplot()` function in [analogue](http://cran.rstudio.com/web/packages/analogue/index.html) and functions `strat.plot()` and strat.plot.simple in the [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) package.
+-	   [rgl](http://cran.rstudio.com/web/packages/rgl/index.html) for interactive 3D plots, [scatterplot3d](http://cran.rstudio.com/web/packages/scatterplot3d/index.html) also draws 3D point clouds.
+-   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
+-   For schematic diagrams such as Harris matrices, [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) is useful.
+-   For colour schemes in plots: [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html) and for some extra themes for ggplot2, including some Tufte-inspired themes, see [ggthemes](http://cran.r-project.org/web/packages/ggthemes/index.html)
+
 **Analysis in general**
 
 -    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, `binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, `power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. 
@@ -107,22 +118,17 @@ Mixture models and model-based cluster analysis
 -  For plotting trees most of these packages include their own modifications of the base `plot()` function, and there are also [ggtree](http://cran.rstudio.com/web/packages/ggtree/index.html), [ggdendro](http://cran.rstudio.com/web/packages/ggdendro/index.html), [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html), and [ggphylo](http://cran.rstudio.com/web/packages/ggphylo/index.html)
 -  Morphometric methods are provided by [shapes](http://cran.rstudio.com/web/packages/shapes/index.html) and [Momocs](http://cran.rstudio.com/web/packages/Momocs/index.html). Related packages include [Anthropometry](http://cran.rstudio.com/web/packages/Anthropometry/index.html) and [Morpho](http://cran.rstudio.com/web/packages/Morpho/index.html).
 
+**Image analysis**
+
+-   [pixmap](http://cran.rstudio.com/web/packages/pixmap/index.html) provides methods for creating, plotting and converting bitmapped images in three different formats: RGB, grey and indexed pixmaps. Similarly, [jpeg](http://cran.rstudio.com/web/packages/jpeg/index.html) provides an easy and simple way to read, write and display bitmap images stored in the JPEG format.
+-   [rimage](http://cran.rstudio.com/web/packages/rimiage/index.html) reads jpegs into RGB arrays and has functions for plotting and statistical summaries of images
+-   [EBImage](http://www.bioconductor.org/packages/release/bioc/html/EBImage.html) (requires ImageMagick) provides general purpose functionality for the reading, writing, processing and analysis of images (and is very well documented). Various functions for image processing and analysis can also be found in [ripa](http://cran.rstudio.com/web/packages/ripa/index.html)
+
 **Simulations**
 
 - [RNetLogo](http://cran.rstudio.com/web/packages/RNetLogo/index.html) links R and NetLogo
 -  [simecol](http://cran.rstudio.com/web/packages/simecol/index.html)  for simulating ecological (and other) dynamic systems. It can be used for differential equations, individual-based (or agent-based) and other models as well.
 -  One-dimensional cellular automata are also possible to model with the package [CellularAutomaton](http://cran.rstudio.com/web/packages/CellularAutomaton/index.html).
-
-**Visualising data**
-
--	   [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html) produces attractive plots with a highly flexible and logical syntax. 
--    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [ggally](https://github.com/ggobi/ggally) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots), and [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2) 
--   [ggmaps](http://cran.rstudio.com/web/packages/ggmaps/index.html) combines the spatial information of static maps from Google Maps, OpenStreetMap, Stamen Maps or CloudMade Maps with the layered grammar of graphics implementation of ggplot2
--	   Stratigraphic data plots can be drawn using `Stratiplot()` function in [analogue](http://cran.rstudio.com/web/packages/analogue/index.html) and functions `strat.plot()` and strat.plot.simple in the [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) package.
--	   [rgl](http://cran.rstudio.com/web/packages/rgl/index.html) for interactive 3D plots, [scatterplot3d](http://cran.rstudio.com/web/packages/scatterplot3d/index.html) also draws 3D point clouds.
--   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
--   For schematic diagrams such as Harris matrices, [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) is useful.
--   For colour schemes in plots: [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html) and for some extra themes for ggplot2, including some Tufte-inspired themes, see [ggthemes](http://cran.r-project.org/web/packages/ggthemes/index.html)
 
 **Reproducible research**
 
@@ -142,6 +148,7 @@ Mixture models and model-based cluster analysis
 -   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences. 
 -   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor, which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive R development environment. [Org-mode](http://orgmode.org/) provides a literate programming environment in Emacs similar to knitr in RStudio. 
 -   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham, and the package [formatR](http://cran.rstudio.com/web/packages/formatR/index.html) which is designed to reformat R code to improve readability 
+-   Ideoms of R are discussed in the [vignette](http://cran.r-project.org/web/packages/rockchalk/vignettes/Rchaeology.pdf) of the [rockchalk](http://cran.rstudio.com/web/packages/rockchalk/index.html) package and Pat Burn's essay [the R Inferno](the R Inferno.)
 
 **Datasets**
 
