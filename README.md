@@ -148,7 +148,7 @@ Mixture models and model-based cluster analysis
 -   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences. 
 -   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor, which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive R development environment. [Org-mode](http://orgmode.org/) provides a literate programming environment in Emacs similar to knitr in RStudio. 
 -   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham, and the package [formatR](http://cran.rstudio.com/web/packages/formatR/index.html) which is designed to reformat R code to improve readability 
--   Idioms of R are discussed in the [vignette](http://cran.r-project.org/web/packages/rockchalk/vignettes/Rchaeology.pdf) of the [rockchalk](http://cran.rstudio.com/web/packages/rockchalk/index.html) package and Pat Burn's essay [the R Inferno](the R Inferno.)
+-   Idioms of R are discussed in the [vignette](http://cran.r-project.org/web/packages/rockchalk/vignettes/Rchaeology.pdf) of the [rockchalk](http://cran.rstudio.com/web/packages/rockchalk/index.html) package and Pat Burn's essay [the R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/).
 
 **Datasets**
 
@@ -162,7 +162,7 @@ Mixture models and model-based cluster analysis
 -   Most major packages come with vignettes that narrate typical uses of the package's core functions. Vignettes can be accessed with the command `vignette(packagename)`.
 -	Google searches in the form: [r help [search terms]](https://www.google.com/?gws_rd=ssl#q=r+help+)
 -   A custom search engine of R resources: http://www.rseek.org/
--   [Graphical output from the examples in the documentation for all CRAN packages](rgm3.lab.nig.ac.jp/RGM)
+-   [Graphical output from the examples in the documentation for all CRAN packages](http://rgm3.lab.nig.ac.jp/RGM)
 -   All R package documentation (including CRAN, GitHub and Bioconductor packages) is online in an easy-to-ready format at http://www.rdocumentation.org/
 -   Cheatsheets to print for handy reference: [short one on base](http://cran.r-project.org/doc/contrib/Short-refcard.pdf), [longer one on base](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf), [dplyr, tidyr, rmarkdown](http://www.rstudio.com/resources/cheatsheets/), [data.table](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf), [using colours](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf), [colours](http://research.stowers-institute.org/efg/R/Color/Chart/ColorChart.pdf), [numerous others](http://devcheatsheet.com/tag/r/)
 -  [stackoverflow](http://stackoverflow.com/questions/tagged/r) is an online Q&A point-scoring website where questions and answers can be voted on to indicate their quality. Many highly skilled R programmers are active participants
