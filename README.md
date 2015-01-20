@@ -56,7 +56,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 **Multivariate statistics**
 
 -   The [Cluster task view](http://cran.r-project.org/web/views/Cluster.html) provides a more detailed discussion of available cluster analysis methods and appropriate R functions and packages.
--	[caret](http://cran.rstudio.com/web/packages/caret/index.html), [FactoMiner](http://cran.rstudio.com/web/packages/FactoMiner/index.html), 
+-	[caret](http://cran.rstudio.com/web/packages/caret/index.html) and [FactoMiner](http://cran.rstudio.com/web/packages/FactoMiner/index.html) are popular pacakges with a suite of multivariate methods
 -	[aplpack](http://cran.rstudio.com/web/packages/aplpack/index.html) provides `bagplots()`
 -	`lda()` and `qda()` within [MASS](http://cran.rstudio.com/web/packages/MASS/index.html) provide linear and quadratic discrimination respectively.
 
@@ -93,7 +93,7 @@ Mixture models and model-based cluster analysis
 **Environmental & geological analysis**
 
 -	   Transfer function models including weighted averaging (WA), modern analogue technique (MAT), Locally-weighted WA, & maximum likelihood (aka Gaussian logistic) regression (GLR) are provided by [analogue](http://cran.rstudio.com/web/packages/analogue/index.html), [vegan](http://cran.rstudio.com/web/packages/vegan/index.html), and [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) for stratigraphic analyses
--	  [G2Sd](http://cran.rstudio.com/web/packages/G2Sd/index.html) gives full descriptive statistics and a physical description of sediments based on grain-size distributions, [soiltexture](http://cran.rstudio.com/web/packages/soiltexture/index.html) and [ggterm](http://cran.rstudio.com/web/packages/ggterm/index.html) for ternary plots of soil texture
+-	  [G2Sd](http://cran.rstudio.com/web/packages/G2Sd/index.html) gives full descriptive statistics and a physical description of sediments based on grain-size distributions, [soiltexture](http://cran.rstudio.com/web/packages/soiltexture/index.html) and [ggtern](http://cran.rstudio.com/web/packages/ggtern/index.html) for ternary plots of soil texture
 -	   Constrained clustering of stratigraphic data is provided by function `chclust()` in the form of constrained hierarchical clustering in [rioja](http://cran.rstudio.com/web/packages/rioja/index.html).
 -    Radiocarbon dates can be calibrated using [BChron](http://cran.rstudio.com/web/packages/BChron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package.
@@ -138,7 +138,7 @@ Mixture models and model-based cluster analysis
 -	  [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) for easily creating R packages 
 -   [roxygen2](http://cran.rstudio.com/web/packages/roxygen2/index.html) for simplifying the creation of documentation for packages,
 -   [testthat](http://cran.rstudio.com/web/packages/testthat/index.html) for developing tests of functions in packages
--   [RCpp](http://cran.rstudio.com/web/packages/RCpp/index.html) enables the use of C++ code in R packages for high performance computing
+-   [Rcpp](http://cran.rstudio.com/web/packages/Rcpp/index.html) enables the use of C++ code in R packages for high performance computing
 -   [RStudio](http://www.rstudio.com/) is an indegrated development environment that simplfies developing R code
 -   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor, which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive R development environment.
 -   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham, and the package [formatR](http://cran.rstudio.com/web/packages/formatR/index.html) which is designed to reformat R code to improve readability 
