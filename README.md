@@ -63,7 +63,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 Hierarchical cluster analysis
 
 -    The recommended package [cluster](http://cran.rstudio.com/web/packages/cluster/index.html) provides functions for cluster analysis following the methods described in Kaufman and Rousseeuw (1990) Finding Groups in data: an introduction to cluster analysis, Wiley, New York
--    There are also `hclust()` in the stats package and hcluster() in [amap](http://cran.rstudio.com/web/packages/amap/index.html)
+-    There are also `hclust()` in the stats package and `hcluster()` in [amap](http://cran.rstudio.com/web/packages/amap/index.html)
 -    [pvclust](http://cran.rstudio.com/web/packages/pvclust/index.html) is a package for assessing the uncertainty in hierarchical cluster analysis. It provides approximately unbiased p-values as well as bootstrap p-values.
 
 Other partitioning methods
@@ -139,7 +139,7 @@ Mixture models and model-based cluster analysis
 -   [roxygen2](http://cran.rstudio.com/web/packages/roxygen2/index.html) for simplifying the creation of documentation for packages,
 -   [testthat](http://cran.rstudio.com/web/packages/testthat/index.html) for developing tests of functions in packages
 -   [Rcpp](http://cran.rstudio.com/web/packages/Rcpp/index.html) enables the use of C++ code in R packages for high performance computing
--   [RStudio](http://www.rstudio.com/) is an indegrated development environment that simplfies developing R code
+-   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences. 
 -   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor, which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive R development environment.
 -   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham, and the package [formatR](http://cran.rstudio.com/web/packages/formatR/index.html) which is designed to reformat R code to improve readability 
 
