@@ -27,7 +27,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -  To read and write Microsoft Excel files using R there are a number of packages: [gdata](http://cran.rstudio.com/web/packages/gdata/index.html) (requires Perl), [openxlsx](http://cran.rstudio.com/web/packages/openxlsx/index.html) (requires Rcpp), [XLConnect](http://cran.rstudio.com/web/packages/XLConnect/index.html) (requires [rJava](http://cran.rstudio.com/web/packages/rJava/index.html) and Java), [xlsx](http://cran.rstudio.com/web/packages/xlsx/index.html) (also requires rJava and Java). However, the preferred method is to export your spreadsheets from Excel as CSVs (comma-separated-values, a simple, non-proprietary plain-text-based format that is very transparent, being human-readable, easily machine-processable and suitable for archival storage) and read them into R using the base function `read.csv()`. Data in other types of plain text files can be read in with `read.table()`. Text data (as in sentences and paragraphs) can be read in and analysed with the [tm](http://cran.rstudio.com/web/packages/tm/index.html) package. 
 -   For quickly reading in a very large number of CSV files, or very large CSV files, use `fread()` from the [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) package or functions in the [fastread](https://github.com/hadley/fastread) package.
 -	  [RODBC](http://cran.rstudio.com/web/packages/RODBC/index.html), [RMySQL](http://cran.rstudio.com/web/packages/RMySQL/index.html), [RPostgresSQL](http://cran.rstudio.com/web/packages/RPostgresSQL/index.html), [RSQLite](http://cran.rstudio.com/web/packages/RSQLite/index.html) for connecting R to SQL databases. [RODBC](http://cran.rstudio.com/web/packages/RODBC/index.html) can connect to Microsoft Access databases. 
--	[foreign](http://cran.rstudio.com/web/packages/foreign/index.html) for reading and writing Minitab, S, SAS, SPSS, Stata, Systat and Weka files. 
+-	  The [foreign](http://cran.rstudio.com/web/packages/foreign/index.html) package can be used for reading and writing files from certain versions of Minitab, S, SAS, SPSS, Stata, Systat and Weka. 
 -   ESRI shapefiles can be read using [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) or [maptools](http://cran.rstudio.com/web/packages/maptools/index.html)
 -	   R can receive data directly from the web using [httr](http://cran.rstudio.com/web/packages/httr/index.html), [XML](http://cran.rstudio.com/web/packages/XML/index.html), [jsonlite](http://cran.rstudio.com/web/packages/jsonlite/index.html), [rvest](http://cran.rstudio.com/web/packages/rvest/index.html), [rselenium](http://cran.rstudio.com/web/packages/rselenium.index.html). R can be programmed to be a web-scraper using rvest and/or rselenium. The [Web Technologies](http://cran.r-project.org/web/views/WebTechnologies.html) task view gives more details.
 
@@ -41,12 +41,10 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, `binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, `power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. 
 -    Bayesian and resampling variants of these also exist, for example in the [BEST](http://cran.r-project.org/web/packages/BEST/index.html), [Bayesian First Aid](https://github.com/rasmusab/bayesian_first_aid) packages (see the [Bayesian](http://cran.r-project.org/web/views/Bayesian.html) task view for more) and the [coin](http://cran.rstudio.com/web/packages/coin/index.html), [boot](http://cran.r-project.org/web/packages/boot/index.html), and [bootstrap](http://cran.r-project.org/web/packages/bootstrap/index.html) packages.
 
-
 **Analysis of categorical and count data**
 
 -	The table function in the R-base base package and the `xtabs()` and `ftable()` functions in the stats package construct contingency tables.
 -	The `chisq.test()` and `fisher.test()` functions in the stats package may be used to test for independence in two-way contingency tables    
-
 
 **Linear, generalized linear models, and non-linear models**
 
@@ -61,7 +59,6 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -	[caret](http://cran.rstudio.com/web/packages/caret/index.html), [FactoMiner](http://cran.rstudio.com/web/packages/FactoMiner/index.html), 
 -	[aplpack](http://cran.rstudio.com/web/packages/aplpack/index.html) provides `bagplots()`
 -	`lda()` and `qda()` within [MASS](http://cran.rstudio.com/web/packages/MASS/index.html) provide linear and quadratic discrimination respectively.
-
 
 Hierarchical cluster analysis
 
@@ -88,8 +85,8 @@ Mixture models and model-based cluster analysis
 **Making maps and using R as a Geographical Information System**
 
 -	Making maps: [maps](http://cran.rstudio.com/web/packages/maps/index.html), [mapdata](http://cran.rstudio.com/web/packages/mapdata/index.html), [maptools](http://cran.rstudio.com/web/packages/maptools/index.html), [mapproj](http://cran.rstudio.com/web/packages/mapproj/index.html), [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html), [ggmap](http://cran.rstudio.com/web/packages/ggmap/index.html), [RgoogleMaps](http://cran.rstudio.com/web/packages/RgoogleMaps/index.html), [RColorBrewer](http://cran.rstudio.com/web/packages/RColorBrewer/index.html) 
--   Using R as a GIS for spatial analysis: [sp](http://cran.rstudio.com/web/packages/sp/index.html), [raster](http://cran.rstudio.com/web/packages/raster/index.html), [rasterVis](http://cran.rstudio.com/web/packages/rasterVis/index.html), [shapefiles](http://cran.rstudio.com/web/packages/shapefiles/index.html), [spatial](http://cran.rstudio.com/web/packages/spatial/index.html), [spatstat](http://cran.rstudio.com/web/packages/spatstat/index.html), [splancs](http://cran.rstudio.com/web/packages/splancs/index.html)
--   [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) uses the GDAL (raster) and OGR (vector) data I/O library, as well as PROJ.4 for CRS (coordinate reference systems) (re)projections
+-   R has many pacakges that enable it to be used as a GIS for spatial analysis: [sp](http://cran.rstudio.com/web/packages/sp/index.html), [raster](http://cran.rstudio.com/web/packages/raster/index.html), [rasterVis](http://cran.rstudio.com/web/packages/rasterVis/index.html), [shapefiles](http://cran.rstudio.com/web/packages/shapefiles/index.html), [spatial](http://cran.rstudio.com/web/packages/spatial/index.html), [spatstat](http://cran.rstudio.com/web/packages/spatstat/index.html), [splancs](http://cran.rstudio.com/web/packages/splancs/index.html)
+-   [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) uses the GDAL (Geospatial Data Abstraction Library) (raster) and OGR (vector) data I/O library, as well as PROJ.4 for CRS (coordinate reference systems) (re)projections
 -   [rgeos](http://cran.rstudio.com/web/packages/rgeos/index.html) uses the GEOS (Geometry Open Source) library, which powers PostGIS: does the 'usual' geometry operations for features
 -   The [Spatial](http://cran.r-project.org/web/views/Spatial.html) and [Spatio Temporal](http://cran.r-project.org/web/views/SpatioTemporal.html) task views have more details. 
 
