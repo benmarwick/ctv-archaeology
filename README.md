@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2015-01-20/td>
+2015-01-20</td>
 </tr>
 </tbody>
 </table>
