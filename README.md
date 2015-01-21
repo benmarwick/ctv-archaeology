@@ -11,7 +11,9 @@ CRAN Task View: Archaeological Science
 <td align="left"><strong>Maintainer:</strong>
 Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
-benmarwick at gmail.com </td>
+benmarwick at gmail.com</td>
+<td align="left"><strong>Version:</strong>
+2015-01-20/td>
 </tr>
 </tbody>
 </table>
