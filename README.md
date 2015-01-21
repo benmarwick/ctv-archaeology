@@ -48,7 +48,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
 -   For schematic diagrams such as Harris matrices, [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) is useful.
 -   For colour schemes in plots: [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html) and for some extra themes for ggplot2, including some Tufte-inspired themes, see [ggthemes](http://cran.r-project.org/web/packages/ggthemes/index.html)
--   [rCharts](https://github.com/ramnathv/rCharts) allows the visualization of R data using javascript libraries.
+-   [rCharts](https://github.com/ramnathv/rCharts) allows the interactive visualization of R data using javascript libraries, and [ggvis](http://cran.r-project.org/web/packages/ggvis/index.html) produces interactive web graphics using vega.
 
 **Analysis in general**
 
