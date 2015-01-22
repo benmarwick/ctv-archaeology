@@ -142,7 +142,7 @@ Mixture models and model-based cluster analysis
 
 **Reproducible research**
 
--	  [knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be combined in a single document and executed to produce a document that contains rendered plots, analysed data and formatted text. [rlp](https://github.com/yihui/rlp) is a package that lets you write an analysis as a Rmd file and then converts it into a package. [manuscriptPackage](https://github.com/jhollist/manuscriptPackage), [template](https://github.com/cboettig/template), and [template](https://github.com/Pakillo/template) (yes, that's two slighlty different packages with the same name) are packages that give templates for organising an analysis as an R package (eg. where the manuscript is the package vignette) 
+-	  [knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be combined in a single document and executed to produce a document that contains rendered plots, analysed data and formatted text. [rlp](https://github.com/yihui/rlp) is a package that lets you write an analysis as a Rmd file and then converts it into a package. [manuscriptPackage](https://github.com/jhollist/manuscriptPackage), [template](https://github.com/cboettig/template), and [template](https://github.com/Pakillo/template) (yes, that's two slightly different packages with the same name) are packages that give templates for organising an analysis as an R package (eg. where the manuscript is the package vignette) 
 -   The [rmarkdown](http://cran.rstudio.com/web/packages/rmarkdown/index.html) package implements the simple markdown document formatting language with some minor customizations to recognise R code blocks and inline code. Complementary packages include [captioner](https://github.com/adletaw/captioner) and [kfigr](https://github.com/mkoohafkan/kfigr) for figure and table captions and cross-referencing. 
 -   [pandoc](http://johnmacfarlane.net/pandoc/) is a universal document format converter (not an R package), in this context it is used to convert rmarkdown or LaTeX to PDF, MS Word or HTML files. It is included with RStudio but can also be used stand-alone from the command line. 
 -   [packrat](http://cran.rstudio.com/web/packages/packrat/index.html) supports the development of isolated, stand-alone projects that include all the packages used and their dependencies (related: [rbundler](http://cran.rstudio.com/web/packages/rbundler/index.html)). 
@@ -195,3 +195,13 @@ Mixture models and model-based cluster analysis
 -   [Matt Peeples' scripts for archaeological statistics]( http://www.mattpeeples.net/resources.html)
 -   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
+
+### Publications that include R code
+
+Drake BL, Wills WH, Hamilton MI, Dorshow W (2014) Strontium Isotopes and the Reconstruction of the Chaco Regional System: Evaluating Uncertainty with Bayesian Mixing Models. PLoS ONE 9(5): e95580. [doi:10.1371/journal.pone.0095580](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
+
+Drake, Brandon L., David T. Hanson, James L. Boone (2012) The use of radiocarbon-derived Δ13C as a paleoclimate indicator: applications in the Lower Alentejo of Portugal, Journal of Archaeological Science, Volume 39, Issue 9, September 2012, Pages 2888-2896, [http://dx.doi.org/10.1016/j.jas.2012.04.027](http://www.sciencedirect.com/science/article/pii/S0305440312001471)
+
+Drake, Brandon L., (2012) The influence of climatic change on the Late Bronze Age Collapse and the Greek Dark Ages, Journal of Archaeological Science, Volume 39, Issue 6, June 2012, Pages 1862-1870 [http://dx.doi.org/10.1016/j.jas.2012.01.029](http://www.sciencedirect.com/science/article/pii/S0305440312000416)
+
+Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
