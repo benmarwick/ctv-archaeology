@@ -210,7 +210,7 @@ Dissimilarity coefficients
 -   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
 
-### Publications that include R code
+#### Publications that include R code
 
 Crema, E.R., K. Edinborough, T. Kerig, S.J. Shennan (2014) An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, Journal of Archaeological Science, Volume 50 Pages 160-170 [http://dx.doi.org/10.1016/j.jas.2014.07.014](http://www.sciencedirect.com/science/article/pii/S0305440314002593)
 
@@ -223,3 +223,7 @@ Drake, Brandon L., (2012) The influence of climatic change on the Late Bronze Ag
 Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, Evolution and Human Behavior, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
+
+#### Contributors
+
+Ben Marwick, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, Enrico Crema, Domenico Giusti, Matt Peeples
