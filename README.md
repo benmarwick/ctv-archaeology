@@ -228,4 +228,4 @@ Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily
 
 #### Contributors
 
-Ben Marwick, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, Enrico Crema, Domenico Giusti, Matt Peeples
+Ben Marwick, Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, Enrico Crema, Domenico Giusti, Matt Peeples
