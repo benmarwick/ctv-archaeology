@@ -84,7 +84,7 @@ Hierarchical cluster analysis
 -    There are also `hclust()` in the stats package and `hcluster()` in [amap](http://cran.rstudio.com/web/packages/amap/index.html)
 -    [pvclust](http://cran.rstudio.com/web/packages/pvclust/index.html) is a package for assessing the uncertainty in hierarchical cluster analysis. It provides approximately unbiased p-values as well as bootstrap p-values.
 
-Other partitioning methods
+Other partitioning
 
 -   `kmeans()` in stats provides k-means clustering and cmeans() in [e1071](http://cran.rstudio.com/web/packages/e1071/index.html) implements a fuzzy version of the k-means algorithm. The recommended package [cluster](http://cran.rstudio.com/web/packages/cluster/index.html) also provides functions for various partitioning methodologies.
 -    To compute the optimum number of clusters there is the `pamk()` function in the [fpc](http://cran.rstudio.com/web/packages/fpc/index.html) package, `cascadeKM()` in [vegan](http://cran.rstudio.com/web/packages/vegan/index.html), `Mclust()` in [mclust](http://cran.rstudio.com/web/packages/mclust/index.html), `apcluster()` in [apcluster](http://cran.rstudio.com/web/packages/apcluster/index.html)
@@ -93,7 +93,7 @@ Mixture models and model-based cluster analysis
 
 -    [mclust](http://cran.rstudio.com/web/packages/mclust/index.html) and [flexmix](http://cran.rstudio.com/web/packages/flexmix/index.html) provide implementations of model-based cluster analysis.
 
-Principle componenents and other projection and scaling methods
+Principle components and other projection, scaling, and ordination methods
 
 -	 Principal Components (PCA) is available via the `prcomp()` function (based on svd),  `rda()` (in package [vegan](http://cran.rstudio.com/web/packages/vegan/index.html)), `pca()` (in package [labdsv](http://cran.rstudio.com/web/packages/labdsc/index.html)) and `dudi.pca()` (in package [ade4](http://cran.rstudio.com/web/packages/ade4/index.html)), provide more ecologically-orientated implementations. Plotting of PCA output is available in [ggbiplot](https://github.com/vqv/ggbiplot) and [ggfortify](https://github.com/sinhrks/ggfortify). 
 -   Redundancy Analysis (RDA) is available via `rda()` in vegan and `pcaiv()` in ade4. 
@@ -101,7 +101,8 @@ Principle componenents and other projection and scaling methods
 -   Detrended Correspondence Analysis (DCA) is implemented in `decorana()` in vegan. 
 -   Principal coordinates analysis (PCO) is implemented in `dudi.pco()` in ade4, `pco()` in labdsv, `pco()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html), and `cmdscale()` in package [MASS](http://cran.rstudio.com/web/packages/MASS/index.html).
 -    Non-Metric multi-Dimensional Scaling (NMDS) is provided by `isoMDS()` in package MASS and `nmds()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html). `nmds()`, a wrapper function for `isoMDS()`, is also provided by package [labdsv](http://cran.rstudio.com/web/packages/labdsv/index.html). vegan provides helper function `metaMDS()` for `isoMDS()`, implementing random starts of the algorithm and standardised scaling of the NMDS results. The approach adopted by vegan with `metaMDS()` is the recommended approach for ecological data.
--	`corresp()` and `mca()` in MASS provide simple and multiple correspondence analysis respectively. [ca](http://cran.rstudio.com/web/packages/ca/index.html) also provides single, multiple and joint correspondence analysis. `ca()` and `mca()` in ade4 provide correspondence and multiple correspondence analysis respectively, as well as adding homogeneous table analysis with `hta()`. Further functionality is also available within vegan co-correspondence is available from cocorresp. [FactoMineR](http://cran.rstudio.com/web/packages/FactoMineR/index.html) provides `CA()` and `MCA()` which also enable simple and multiple correspondence analysis as well as associated graphical routines.
+-	`corresp()` and `mca()` in MASS provide simple and multiple correspondence analysis respectively. [ca](http://cran.rstudio.com/web/packages/ca/index.html) also provides single, multiple and joint correspondence analysis. `ca()` and `mca()` in ade4 provide correspondence and multiple correspondence analysis respectively, as well as adding homogeneous table analysis with `hta()`. Further functionality is also available within vegan co-correspondence is available from cocorresp. [FactoMineR](http://cran.rstudio.com/web/packages/FactoMineR/index.html) provides `CA()` and `MCA()` which also enable simple and multiple correspondence analysis as well as associated graphical routines. [CAinterprTools](https://github.com/gianmarcoalberti/CAinterprTools) has functions for correspondence analysis and diagnostics. 
+-    Seriation methods are available in [seriation](http://cran.rstudio.com/web/packages/seriation/index.html), which includes ` bertinplot()` for producing battleship plots, and [CAseriation](https://github.com/gianmarcoalberti/CAseriation) which also has a battleship plotting function. 
 
 Dissimilarity coefficients
 
@@ -207,7 +208,8 @@ Dissimilarity coefficients
 -   CRAN Task View: [Reproducible research](http://cran.r-project.org/web/views/ReproducibleResearch.html) 
 -   [David L. Carlson's guides on using R for 'Quantifying Archaeology' by Stephen Shennan 'Statistics for Archaeologists' by Robert Drennan]( http://people.tamu.edu/~dcarlson/quant/index.html)
 -   [Matt Peeples' scripts for archaeological statistics]( http://www.mattpeeples.net/resources.html)
--   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php)
+-   [Gianmarco Alberti's pages on Correspondence Analysis in Archaeology](http://cainarchaeology.weebly.com/)
+-   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php), including [some code for battleship plots](http://wiki.iosa.it/dokuwiki/doku.php?id=contingency_tables)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
 
 #### Publications that include R code
