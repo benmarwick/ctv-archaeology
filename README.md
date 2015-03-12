@@ -231,6 +231,8 @@ Drake, Brandon L., (2012) The influence of climatic change on the Late Bronze Ag
 
 Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
 
+Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. Archaeology in Oceania  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
+
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, Evolution and Human Behavior, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 #### Contributors
