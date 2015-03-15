@@ -221,6 +221,8 @@ Dissimilarity coefficients
 
 #### Publications that include R code
 
+Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” Journal of Archaeological Science 52:591-608. [doi:10.1016/j.jas.2014.05.030] (http://www.sciencedirect.com/science/article/pii/S0305440314002088)
+
 Crema, E.R., K. Edinborough, T. Kerig, S.J. Shennan (2014) An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, Journal of Archaeological Science, Volume 50 Pages 160-170 [http://dx.doi.org/10.1016/j.jas.2014.07.014](http://www.sciencedirect.com/science/article/pii/S0305440314002593)
 
 Drake BL, Wills WH, Hamilton MI, Dorshow W (2014) Strontium Isotopes and the Reconstruction of the Chaco Regional System: Evaluating Uncertainty with Bayesian Mixing Models. PLoS ONE 9(5): e95580. [doi:10.1371/journal.pone.0095580](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
