@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2015-03-20</td>
+2015-04-03</td>
 </tr>
 </tbody>
 </table>
@@ -32,7 +32,8 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -	  The [haven](https://github.com/hadley/haven) and [foreign](http://cran.rstudio.com/web/packages/foreign/index.html) packages can be used for reading and writing files from certain versions of Minitab, S, SAS, SPSS, Stata, Systat and Weka. 
 -   ESRI shapefiles can be read using [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) or [maptools](http://cran.rstudio.com/web/packages/maptools/index.html)
 - R can receive data directly from the web using [httr](http://cran.rstudio.com/web/packages/httr/index.html), [XML](http://cran.rstudio.com/web/packages/XML/index.html), [jsonlite](http://cran.rstudio.com/web/packages/jsonlite/index.html), [rvest](http://cran.rstudio.com/web/packages/rvest/index.html), [RSelenium](http://cran.r-project.org/web/packages/RSelenium/index.html) (requires Selenium 2.0 Remote WebDriver). R can be programmed to be a web-scraper using rvest and/or rselenium. The [Web Technologies](http://cran.r-project.org/web/views/WebTechnologies.html) task view gives more details.
-- Google spreadsheets can be read into R using the [gspreadr](https://github.com/jennybc/gspreadr) package
+- Google spreadsheets can be read into R using the [googlesheet](https://github.com/jennybc/googlesheet) package
+- Datasets from the Open Context repository can be browsed and read into R using the [opencontext](https://github.com/ropensci/opencontext) package
 
 **Data manipulation**
 
@@ -132,6 +133,7 @@ Dissimilarity coefficients
 -	   Transfer function models including weighted averaging (WA), modern analogue technique (MAT), Locally-weighted WA, & maximum likelihood (aka Gaussian logistic) regression (GLR) are provided by [analogue](http://cran.rstudio.com/web/packages/analogue/index.html), [vegan](http://cran.rstudio.com/web/packages/vegan/index.html), and [rioja](http://cran.rstudio.com/web/packages/rioja/index.html) for stratigraphic analyses
 -	  [G2Sd](http://cran.rstudio.com/web/packages/G2Sd/index.html) gives full descriptive statistics and a physical description of sediments based on grain-size distributions, [soiltexture](http://cran.rstudio.com/web/packages/soiltexture/index.html) and [ggtern](http://cran.rstudio.com/web/packages/ggtern/index.html) for ternary plots of soil texture
 -	   Constrained clustering of stratigraphic data is provided by function `chclust()` in the form of constrained hierarchical clustering in [rioja](http://cran.rstudio.com/web/packages/rioja/index.html).
+-	   Stratigraphic columns can be plotted and analysed with the the [SDAR](http://run.unl.pt/bitstream/10362/14554/1/TGEO0128.pdf) package. 
 -    Radiocarbon dates can be calibrated using [Bchron](http://cran.rstudio.com/web/packages/Bchron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package.
 -    Functions for tree ring analysis can be found in [dplR](http://cran.rstudio.com/web/packages/dplR/index.html)
