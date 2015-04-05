@@ -240,7 +240,7 @@ Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. Archaeology in Oceania  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
 
-Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. Quaternary International. [http://dx.doi.org/10.1016/j.quaint.2014.05.007]
+Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. Quaternary International. [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
 
 Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeconomics and palaeoecology at two archaeological sites in Northwest Thailand. Journal of Anthropological Archaeology 32, 553-564.  [http://dx.doi.org/10.1016/j.jaa.2013.08.004](http://dx.doi.org/10.1016/j.jaa.2013.08.004)
 
