@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2015-04-03</td>
+2015-04-05</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 
 Model Testing and Validation
 
-- [caret](http://cran.rstudio.com/web/packages/caret/index.html) provides many functions for model training, testing, and validation. There is also Max Kuhn's excellent companion book called "Applied Predictive Modeling" (Springer, also available as an ebook).  
+- [caret](http://cran.rstudio.com/web/packages/caret/index.html) provides many functions for model training, testing, and validation. There is also Max Kuhn's excellent companion book called "Applied Predictive Modeling" (Springer, also available as an ebook). The [mlr](http://cran.r-project.org/web/packages/mlr/index.html) package also provides classification, regression, and machine learning methods. 
 -  Other packages that enable tuning and evaluation of models include bootstrap and [Hmisc](http://cran.rstudio.com/web/packages/Hmisc/index.html)
 - The [CVtools](http://cran.rstudio.com/web/packages/CVtools/index.html) and [DAAG](http://cran.rstudio.com/web/packages/DAAD/index.html) packages include cross-validation functions for evaluating the optimality of tuning parameters such as sample sizes or number of predictors etc., in statistical models 
 
