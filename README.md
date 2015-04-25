@@ -1,4 +1,4 @@
-CRAN Task View: Archaeological Science
+pvCRAN Task View: Archaeological Science
 ---------------------------------
 
 <table>
@@ -90,8 +90,8 @@ Hierarchical cluster analysis
 
 -    The package [cluster](http://cran.rstudio.com/web/packages/cluster/index.html) provides functions for cluster analysis following the methods described in Kaufman and Rousseeuw (1990) Finding Groups in data: an introduction to cluster analysis, Wiley, New York
 -    There are also `hclust()` in the stats package and `hcluster()` in [amap](http://cran.rstudio.com/web/packages/amap/index.html)
--    [pvclust](http://cran.rstudio.com/web/packages/pvclust/index.html) is a package for assessing the uncertainty in hierarchical cluster analysis. It provides approximately unbiased p-values as well as bootstrap p-values.
--    [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html) Offers a set of functions for extending dendrogram objects in R, letting you visualize and compare trees of hierarchical clusterings. It allows to both adjust a trees graphical parameters - the color, size, type, etc of its branches, nodes and labels - as well as visually (and statistically) compare different dendrograms to one another. It also enhanced the plotting of results from the [pvclust](http://cran.rstudio.com/web/packages/pvclust/index.html) package.
+-    [pvclust](http://cran.rstudio.com/web/packages/pvclust/index.html) is a package for assessing the uncertainty in hierarchical cluster analysis. It provides approximately unbiased p-values as well as bootstrap p-values. Enhanced plotting is also available through the [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html) package.
+-    [dendextend](http://cran.rstudio.com/web/packages/dendextend/index.html) Offers a set of functions for extending dendrogram objects in R. It allows to both adjust a trees graphical parameters - the color, size, type, etc of its branches, nodes and labels - as well as visually (and statistically) compare different dendrograms to one another.
 
 
 
@@ -256,4 +256,4 @@ Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily
 
 #### Contributors
 
-Ben Marwick, Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, Enrico Crema, Domenico Giusti, Matt Peeples, Mark Madsen, Daniel Contreras
+Ben Marwick, Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, Enrico Crema, Domenico Giusti, Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili)
