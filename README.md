@@ -1,4 +1,4 @@
-pvCRAN Task View: Archaeological Science
+CRAN Task View: Archaeological Science
 ---------------------------------
 
 <table>
@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2015-04-18</td>
+2015-04-25</td>
 </tr>
 </tbody>
 </table>
