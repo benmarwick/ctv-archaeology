@@ -226,6 +226,7 @@ Dissimilarity coefficients
 -   [Matt Peeples' scripts for archaeological statistics]( http://www.mattpeeples.net/resources.html)
 -   [Gianmarco Alberti's pages on Correspondence Analysis in Archaeology](http://cainarchaeology.weebly.com/)
 -   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php), including [some code for battleship plots](http://wiki.iosa.it/dokuwiki/doku.php?id=contingency_tables)
+-  [Michael Baxter's extensive notes on statistics for archaeology using R](http://www.mikemetrics.com/r-chaeology/4568129078)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
 
 #### Publications that include R code
