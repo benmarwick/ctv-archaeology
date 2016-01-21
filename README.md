@@ -179,7 +179,7 @@ Dissimilarity coefficients
 
 **Developing R code and packages**
 
--	  [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) (requires Rtools for Windows or Xcode for OSX) for easily creating R packages. Includes `use_travis()` and related functions for easily adding continuous integration for automated building and testing during package development. 
+-	  [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) (requires Rtools for Windows or Xcode for OSX) for easily creating R packages. Includes `use_travis()` and related functions for easily adding continuous integration for automated building and testing during package development. [Mason](https://github.com/metacran/mason) helps you to quickly build R packages using an interactive Q&A to generate metadata files, READMEs with badges, git repositories, etc. 
 -   [roxygen2](http://cran.rstudio.com/web/packages/roxygen2/index.html) for simplifying the creation of documentation for packages,
 -   [testthat](http://cran.rstudio.com/web/packages/testthat/index.html) for developing tests of functions in packages
 -   [Rcpp](http://cran.rstudio.com/web/packages/Rcpp/index.html) enables the use of C++ code in R packages for high performance computing, requires Rtools for Windows or Xcode for OSX
