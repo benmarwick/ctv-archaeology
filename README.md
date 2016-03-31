@@ -54,7 +54,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
 -   For schematic diagrams, such as Harris matrices, [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) is useful.
 -   For colour schemes in plots: [viridis](https://github.com/sjmgarnier/viridis) for perfectly perceptually-uniform colours, [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html), and  [munsell](http://cran.r-project.org/web/packages/munsell/index.html) for exploring and using the Munsell colour system, and for some extra themes for ggplot2, including some Tufte-inspired themes, see [ggthemes](http://cran.r-project.org/web/packages/ggthemes/index.html). 
--   
+
 **Analysis in general**
 
 -    Base R, especially the stats package, has a lot of functionality useful for analysing archaeological data. For example, `chisq.test()`, `prop.test()`, `binom.test()`, `t.test()`, `wilcox.test()`, `kruskal.test()`, `mcnemar.test()`, `cor.test()`, `power.t.test()`, `power.prop.test()`, `power.anova.test()` among many others. [Hmisc](http://cran.r-project.org/web/packages/Hmisc/index.html) includes bootstrapping, setting confidence intervals, and power analysis functions, see also [psych](http://cran.r-project.org/web/packages/psych/index.html) for useful descriptive statistics and visualizations.
