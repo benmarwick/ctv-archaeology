@@ -41,7 +41,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   [dplyr](http://cran.rstudio.com/web/packages/dplyr/index.html) and [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) for splitting the data up by groups, applying some common or custom functions, and combining the output back into a convenient form (ie. typical aggregation, splitting and summarising operations). Both packages are fast on very large datasets. 
 -	[reshape2](http://cran.rstudio.com/web/packages/reshape2/index.html) and [tidyr](http://cran.rstudio.com/web/packages/tidyr/index.html) for rearranging the data from long to wide forms, and more complex reshaping. 
 -	[purrr](http://cran.rstudio.com/web/packages/purrr/index.html) simplifies working with lists, applying functions to list elements and collecting the results
-- [sqldf](http://cran.rstudio.com/web/packages/sqldf/index.html) can manipulate data directly in R using SQL queries
+-	[broom](http://cran.rstudio.com/web/packages/broom/index.html) takes the output of built-in functions in R, such as `lm` or `t.test`, and turns them into tidy data frames.
 
 **Visualising data**
 
