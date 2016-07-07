@@ -1,5 +1,9 @@
+# R files
 .Rproj.user
 .Rhistory
 .RData
 *.html
 *.Rproj
+
+# GNUEmacs backup
+*~
