@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2016-06-28</td>
+2016-07-09</td>
 </tr>
 </tbody>
 </table>
@@ -46,7 +46,8 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 **Visualising data**
 
 -     [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html) produces a very wide variety of attractive plots with a highly flexible and logical syntax. 
--    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [GGally](http://cran.r-project.org/web/packages/GGally/index.html) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots, see also [wq](http://cran.rstudio.com/web/packages/wq/index.html)), [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2),[ggalt](https://github.com/hrbrmstr/ggalt) (more geoms, coords, stats, scales and fonts, including splines, 1d and 2d densities), [plotly](https://github.com/ropensci/plotly) for making ggplots interactive with mouse-over pop-ups, etc., [ggrepel](https://github.com/slowkow/ggrepel) for moving overlapping text labels away from each other.
+-    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses), [GGally](http://cran.r-project.org/web/packages/GGally/index.html) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)  (arranging multiple plots, see also [wq](http://cran.rstudio.com/web/packages/wq/index.html)), [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2),[ggalt](https://github.com/hrbrmstr/ggalt) (more geoms, coords, stats, scales and fonts, including splines, 1d and 2d densities), and [ggrepel](https://github.com/slowkow/ggrepel) for moving overlapping text labels away from each other.
+-    [plotly](https://github.com/ropensci/plotly) and [ggiraph](https://github.com/davidgohel/ggiraph) make ggplots interactive with mouse-over pop-ups, zooming, click-actions, etc., 
 -    [circlize](https://cran.r-project.org/web/packages/circlize/index.html) implement Circos in R for circular and chord plots. 
 -   [plotrix](http://cran.rstudio.com/web/packages/plotrix/index.html) has the function `battleship.plot()` to make Ford's battleship diagrams. 
 -   [ggmaps](http://cran.rstudio.com/web/packages/ggmaps/index.html) combines the spatial information of static maps from Google Maps, OpenStreetMap, Stamen Maps or CloudMade Maps with the layered grammar of graphics implementation of ggplot2
