@@ -251,6 +251,8 @@ Dissimilarity coefficients
 
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. Journal of Human Evolution  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
+Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. Asian Perspectives 55(1). https://github.com/cylerc/AP_SC
+
 Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” Journal of Archaeological Science 52:591-608. [doi:10.1016/j.jas.2014.05.030] (http://www.sciencedirect.com/science/article/pii/S0305440314002088)
 
 Crema, E. R., J. Habu, K. Kobayashi and M. Madella (2016). "Summed Probability Distribution of <sup>14</sup>C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan." [PLoS ONE 11(4): e0154809.](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0154809), [GitHub repo](https://github.com/ercrema/Jomon_SPD_Comparison), [Zenodo repo](http://dx.doi.org/10.5281/zenodo.47339).
