@@ -34,6 +34,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   ESRI shapefiles can be read using [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) or [maptools](http://cran.rstudio.com/web/packages/maptools/index.html)
 - R can receive data directly from the web using [httr](http://cran.rstudio.com/web/packages/httr/index.html), [XML](http://cran.rstudio.com/web/packages/XML/index.html), [jsonlite](http://cran.rstudio.com/web/packages/jsonlite/index.html), [rvest](http://cran.rstudio.com/web/packages/rvest/index.html), [RSelenium](http://cran.r-project.org/web/packages/RSelenium/index.html) (requires Selenium 2.0 Remote WebDriver). R can be programmed to be a web-scraper using rvest and/or rselenium. The [Web Technologies](http://cran.r-project.org/web/views/WebTechnologies.html) task view gives more details.
 - Google spreadsheets can be read into R using the [googlesheet](https://github.com/jennybc/googlesheet) package
+- Tables can be read directly from Microsoft Word documents with [docxtractr](https://cran.r-project.org/web/packages/docxtractr), and from PDF documents with [tabulizer](https://github.com/leeper/tabulizer)
 - Datasets from the Open Context repository can be browsed and read into R using the [opencontext](https://github.com/ropensci/opencontext) package
 
 **Data manipulation**
