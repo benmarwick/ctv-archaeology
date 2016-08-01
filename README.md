@@ -209,10 +209,12 @@ Dissimilarity coefficients
 **Datasets**
 
 -   [archdata](http://cran.rstudio.com/web/packages/archdata/index.html) contains eleven archaeological datasets from around the world reported in published studies. These represent typical forms of archaeological data (and so are useful for teaching)
--  [chemometrics](http://cran.rstudio.com/web/packages/chemometrics/index.html) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
+-   [binford](https://github.com/benmarwick/binford) contains more than 200 variables coding aspects of hunter-gatherer subsistence, mobility, and social organization for 339 ethnographically documented groups of hunter-gatherers, as used in Binford (2001) _Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets_
 -  [BSDA](http://cran.rstudio.com/web/packages/BSDA/index.html) contains a dataset of 60 radiocarbon ages of observations taken from an archaeological site with four phases of occupation.
--  [zooaRch](http://cran.r-project.org/web/packages/zooaRch/) contains two zooarchaeological datasets.
 -  [cawd](https://github.com/sfsheath/cawd) contains 15 datasets of ancient Greek, Roman and Persian maps and digital atlas data 
+-  [chemometrics](http://cran.rstudio.com/web/packages/chemometrics/index.html) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
+-  [zooaRch](http://cran.r-project.org/web/packages/zooaRch/) contains two zooarchaeological datasets.
+
 
 **Places to go for help**
 
