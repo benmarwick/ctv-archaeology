@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2016-08-05</td>
+2016-08-16</td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +43,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -	[tidyr](http://cran.rstudio.com/web/packages/tidyr/index.html) for rearranging the data from long to wide forms, and more complex reshaping. 
 -	[purrr](http://cran.rstudio.com/web/packages/purrr/index.html) simplifies working with lists, applying functions to list elements and collecting the results
 -	[broom](http://cran.rstudio.com/web/packages/broom/index.html) takes the output of many built-in functions in R, such as `lm` or `t.test`, and turns them into tidy data frames.
--	[measurements](https://cran.r-project.org/web/packages/measurements/) and [convertr](https://github.com/ropenscilabs/convertr) converts between metric and imperial units, or calculate a dimension's unknown value from other dimensions' measurements.
+-	[measurements](https://cran.r-project.org/web/packages/measurements/), [convertr](https://github.com/ropenscilabs/convertr), and  [units](https://cran.r-project.org/web/packages/units) converts between metric and imperial units, or calculate a dimension's unknown value from other dimensions' measurements.
 
 **Visualising data**
 
