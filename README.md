@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2016-09-16</td>
+2016-11-19</td>
 </tr>
 </tbody>
 </table>
@@ -259,9 +259,9 @@ Dissimilarity coefficients
 
 #### Publications that include R code
 
-Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. Journal of Human Evolution  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
+Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
-Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. Asian Perspectives 55(1). https://github.com/cylerc/AP_SC
+Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
 
 Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” Journal of Archaeological Science 52:591-608. [doi:10.1016/j.jas.2014.05.030] (http://www.sciencedirect.com/science/article/pii/S0305440314002088)
 
@@ -287,13 +287,19 @@ Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M
 
 Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. Quaternary International. [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
 
+Marwick, B., Van Vlack, H.G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., Kwak, S. 2016 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand, _Journal of Archaeological Science_  <http://dx.doi.org/10.1016/j.jas.2016.10.010>, <https://github.com/benmarwick/ktc11>, <https://osf.io/axxf8/>
+
+Marwick, B, C. Clarkson, S. O'Connor & S. Collins 2016 "Pleistocene-aged stone artefacts from Jerimalai, East Timor: Long term conservatism in early modern human technology in island Southeast Asia" _Journal of Human Evolution_ DOI: 10.1016/j.jhevol.2016.09.004, <https://github.com/benmarwick/Pleistocene-aged-stone-artefacts-from-Jerimalai--East-Timor>, <https://osf.io/63zey>
+
 Marwick, B. 2016. Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. Journal of Archaeological Method and Theory, 1-27. [doi: 10.1007/s10816-015-9272-9](http://dx.doi.org/10.1007/s10816-015-9272-9), [text source repo](https://github.com/benmarwick/basic_computational_reproducibility_case_study)
 
 Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeconomics and palaeoecology at two archaeological sites in Northwest Thailand. Journal of Anthropological Archaeology 32, 553-564.  [http://dx.doi.org/10.1016/j.jaa.2013.08.004](http://dx.doi.org/10.1016/j.jaa.2013.08.004)
 
 Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) Data Mining Applications with R. Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
-Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: http://doi.org/10.5334/oq.28 data & code: http://eprints.whiterose.ac.uk/104121/
+Nakoinz, O., D. Knitter (2016) Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
+
+Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, Evolution and Human Behavior, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
