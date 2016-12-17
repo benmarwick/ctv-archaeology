@@ -259,6 +259,8 @@ Dissimilarity coefficients
 
 #### Publications that include R code
 
+d'Alpoim Guedes J, Jin G, Bocinsky RK (2015) The Impact of Climate on the Spread of Rice to North-Eastern China: A New Look at the Data from Shandong Province. PLOS ONE 10(6): e0130430. doi: <http://dx.doi.org/10.1371/journal.pone.0130430>
+
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
