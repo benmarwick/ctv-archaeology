@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2016-12-06</td>
+2016-12-18</td>
 </tr>
 </tbody>
 </table>
@@ -302,6 +302,8 @@ Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeco
 Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) Data Mining Applications with R. Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
 Nakoinz, O., D. Knitter (2016) Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
+
+Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemical residues on archaeological floors in the presence of barriers, J Archaeol Sci 70, 91-101. https://github.com/famuvie/ArchaeologicalFloors
 
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
