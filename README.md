@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2016-12-18</td>
+2017-01-02</td>
 </tr>
 </tbody>
 </table>
@@ -256,7 +256,7 @@ Dissimilarity coefficients
 -   [Gianmarco Alberti's pages on Correspondence Analysis in Archaeology](http://cainarchaeology.weebly.com/)
 -   [Quantitative Archaeology Wiki](http://wiki.iosa.it/doku.php), including [some code for battleship plots](http://wiki.iosa.it/dokuwiki/doku.php?id=contingency_tables)
 -  [Michael Baxter's 'Notes on Quantitative Archaeology using R'](http://www.mikemetrics.com/r-chaeology/4568129078)
--   [GitHub repositoryRfor this Task View](https://github.com/benmarwick/ctv-archaeology)
+-   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
 
 #### Publications that include R code
 
@@ -284,7 +284,7 @@ Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization ev
 
 Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. Archaeology in Oceania 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
 
-Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." [Journal of Archaeological Science](http://www.sciencedirect.com/science/article/pii/S030544031630053X) 71: 1-9.
+Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." [Journal of Archaeological Science]<http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
 
 Lightfoot E and O'Connell TC (2016).“On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
