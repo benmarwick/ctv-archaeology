@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2017-03-07</td>
+2017-03-20</td>
 </tr>
 </tbody>
 </table>
@@ -163,9 +163,10 @@ Dissimilarity coefficients
 -    Radiocarbon dates can be calibrated using [Bchron](http://cran.rstudio.com/web/packages/Bchron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). Some of these methods can also be found in [rcarbon](https://github.com/ahb108/rcarbon).
 -    Bayesian age-depth modelling of radiocarbon dates is also available in [Bacon](http://chrono.qub.ac.uk/blaauw/bacon.html), and [clam](http://chrono.qub.ac.uk/blaauw/) contains functions for "classical", non-Bayesian age-depth modelling. These are not R packages, but [clam](https://github.com/SimonGoring/clam) has been packaged for easy use.
 -    The [roxcal](https://github.com/MartinHinz/roxcal) package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations. 
-- [ArchaeoPhases](https://cran.r-project.org/package=ArchaeoPhases) provides statistical tools to analyze and to estimate archeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
--    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package (including radial plotting) and in the [numOSL](https://cran.r-project.org/web/packages/numOSL/index.html) package, includingequivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
+- [ArchaeoPhases](https://cran.r-project.org/package=ArchaeoPhases) provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
+-    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package (including radial plotting) and in the [numOSL](https://cran.r-project.org/web/packages/numOSL/index.html) package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
 -    The [archSeries](https://github.com/davidcorton/archSeries) makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges
+- For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
  
 
 **Phylogenetics, morphometrics, evolution and shape analysis**
