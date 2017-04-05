@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2017-03-20</td>
+2017-04-04</td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +136,7 @@ Dissimilarity coefficients
 
 **Making maps and using R as a Geographical Information System**
 
--	Making maps: [maps](http://cran.rstudio.com/web/packages/maps/index.html), [rworldmap](http://cran.rstudio.com/web/packages/rworldmap/index.html), [mapdata](http://cran.rstudio.com/web/packages/mapdata/index.html), [maptools](http://cran.rstudio.com/web/packages/maptools/index.html), [mapproj](http://cran.rstudio.com/web/packages/mapproj/index.html), [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html), [ggmap](http://cran.rstudio.com/web/packages/ggmap/index.html), [RgoogleMaps](http://cran.rstudio.com/web/packages/RgoogleMaps/index.html), [cartography](http://cran.rstudio.com/web/packages/cartography/index.html) [RColorBrewer](http://cran.rstudio.com/web/packages/RColorBrewer/index.html) 
+-	Making maps: [ggspatial](http://cran.rstudio.com/web/packages/ggspatial/index.html) for easy plotting of most kinds of spatial data, see also: [maps](http://cran.rstudio.com/web/packages/maps/index.html), [rworldmap](http://cran.rstudio.com/web/packages/rworldmap/index.html), [mapdata](http://cran.rstudio.com/web/packages/mapdata/index.html), [maptools](http://cran.rstudio.com/web/packages/maptools/index.html), [mapproj](http://cran.rstudio.com/web/packages/mapproj/index.html), [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html), [ggmap](http://cran.rstudio.com/web/packages/ggmap/index.html), [RgoogleMaps](http://cran.rstudio.com/web/packages/RgoogleMaps/index.html), [cartography](http://cran.rstudio.com/web/packages/cartography/index.html) [RColorBrewer](http://cran.rstudio.com/web/packages/RColorBrewer/index.html) 
 -	Scale bars and North arrows can be added to maps made with ggplot and ggmap using [GISTools](https://cran.r-project.org/web/packages/GISTools), [ggsn](https://github.com/oswaldosantos/ggsn) or [legendMap] (https://github.com/3wen/legendMap). 
 -	Interactive mapping of spatial objects with zooming and panning is possible with [leaflet](https://cran.rstudio.com/web/packages/leaflet/index.html) and geo[mapview](http://cran.rstudio.com/web/packages/mapview/index.html)
 -   R has many packages that enable it to be used as a GIS for spatial analysis: [sp](http://cran.rstudio.com/web/packages/sp/index.html), [raster](http://cran.rstudio.com/web/packages/raster/index.html), [rasterVis](http://cran.rstudio.com/web/packages/rasterVis/index.html), [shapefiles](http://cran.rstudio.com/web/packages/shapefiles/index.html), [spatial](http://cran.rstudio.com/web/packages/spatial/index.html), [spatstat](http://cran.rstudio.com/web/packages/spatstat/index.html), [splancs](http://cran.rstudio.com/web/packages/splancs/index.html), [ipdw](http://cran.rstudio.com/web/packages/ipdw/index.html), [geoR](http://cran.rstudio.com/web/packages/geoR/index.html),  [argosfilter](http://cran.rstudio.com/web/packages/argosfilter/index.html), [ads](http://cran.rstudio.com/web/packages/ads/index.html), [spdep](http://cran.rstudio.com/web/packages/spdep/index.html), [gstat](http://cran.rstudio.com/web/packages/gstat/index.html), [GISTools](http://cran.rstudio.com/web/packages/GISTools/index.html)
