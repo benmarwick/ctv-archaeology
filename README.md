@@ -145,6 +145,7 @@ Dissimilarity coefficients
 -   [rgdal](http://cran.rstudio.com/web/packages/rgdal/index.html) uses the GDAL (Geospatial Data Abstraction Library) (raster) and OGR (vector) data I/O library, as well as PROJ.4 for CRS (coordinate reference systems) (re)projections
 -   [rgeos](http://cran.rstudio.com/web/packages/rgeos/index.html) uses the GEOS (Geometry Open Source) library, which powers PostGIS: does the 'usual' geometry operations for features
 -   The [Spatial](http://cran.r-project.org/web/views/Spatial.html) and [Spatio Temporal](http://cran.r-project.org/web/views/SpatioTemporal.html) task views have more details. 
+-  [recexcavAAR](https://cran.r-project.org/web/packages/recexcavAAR/index.html) 3D Reconstruction of Archaeological Excavations
 
 **Environmental & geological analysis**
 
@@ -193,6 +194,10 @@ Dissimilarity coefficients
 
 -    The two major packages are [igraph](http://cran.rstudio.com/web/packages/igraph/index.html), which is a generic network analysis and visualisation package, and [sna](http://cran.rstudio.com/web/packages/sna/index.html), which performs social analysis of networks.
 -    Other packages include [statnet](http://cran.rstudio.com/web/packages/statnet/index.html), [intergraph](http://cran.rstudio.com/web/packages/intergraph/index.html), [network](http://cran.rstudio.com/web/packages/network/index.html) (manipulates and displays network objects), [ergm](http://cran.rstudio.com/web/packages/ergm/index.html) (a set of tools to analyze and simulate networks based on exponential random graph models exponential random graph models), [hergm](http://cran.rstudio.com/web/packages/hergm/index.html) (implements hierarchical exponential random graph models), and [RSiena](http://cran.rstudio.com/web/packages/RSiena/index.html) (allows the analyses of the evolution of social networks using dynamic actor-oriented models)
+
+**Mortality Analysis**
+
+- [mortAAR](https://cran.r-project.org/web/packages/mortAAR/index.html) Analysis of Archaeological Mortality Data
 
 **Reproducible research**
 
