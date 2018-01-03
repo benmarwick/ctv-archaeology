@@ -319,6 +319,8 @@ Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeco
 
 Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) Data Mining Applications with R. Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
+McPherron SP 2018 Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. PLOS ONE 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+
 Nakoinz, O., D. Knitter (2016) Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
 
 Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemical residues on archaeological floors in the presence of barriers, J Archaeol Sci 70, 91-101. https://github.com/famuvie/ArchaeologicalFloors
