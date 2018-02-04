@@ -297,19 +297,19 @@ Drake, Brandon L., (2012) The influence of climatic change on the Late Bronze Ag
 
 Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
 
-Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. Archaeology in Oceania 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
+Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. _Archaeology in Oceania_ 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
 
-Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." [Journal of Archaeological Science]<http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
+Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." [_Journal of Archaeological Science_]<http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
 
 Giusti, D. and M. Arzarello, 2016, The need for a taphonomic perspective in spatial analysis: Formation processes at the Early Pleistocene site of Pirro Nord (P13), Apricena, Italy, _Journal of Archaeological Science: Reports_ 8, 235--249 code and data: <https://github.com/dncgst/pirronord_jas-reports>
 
-Huffer, D. and Graham, S. 2017 The Insta-Dead: the rhetoric of the human remains trade on Instagram, Internet Archaeology 45. <https://doi.org/10.11141/ia.45.5>, code & data: <https://zenodo.org/record/546132>
+Huffer, D. and Graham, S. 2017 The Insta-Dead: the rhetoric of the human remains trade on Instagram, _Internet Archaeology_ 45. <https://doi.org/10.11141/ia.45.5>, code & data: <https://zenodo.org/record/546132>
 
 Lightfoot E and O'Connell TC (2016).“On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
-Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. Archaeology in Oceania  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
+Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
 
-Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. Quaternary International. [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
+Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. _Quaternary International_ [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
 
 Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_ <http://doi.org/10.1016/j.jasrep.2017.07.004>
 
@@ -319,21 +319,21 @@ Marwick, B., Van Vlack, H.G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, 
 
 Marwick, B, C. Clarkson, S. O'Connor & S. Collins 2016 "Pleistocene-aged stone artefacts from Jerimalai, East Timor: Long term conservatism in early modern human technology in island Southeast Asia" _Journal of Human Evolution_ DOI: 10.1016/j.jhevol.2016.09.004, <https://github.com/benmarwick/Pleistocene-aged-stone-artefacts-from-Jerimalai--East-Timor>, <https://osf.io/63zey>
 
-Marwick, B. 2016. Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. Journal of Archaeological Method and Theory, 1-27. [doi: 10.1007/s10816-015-9272-9](http://dx.doi.org/10.1007/s10816-015-9272-9), [text source repo](https://github.com/benmarwick/basic_computational_reproducibility_case_study)
+Marwick, B. 2017. Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 1-27. [doi: 10.1007/s10816-015-9272-9](http://dx.doi.org/10.1007/s10816-015-9272-9), [text source repo](https://github.com/benmarwick/basic_computational_reproducibility_case_study)
 
-Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeconomics and palaeoecology at two archaeological sites in Northwest Thailand. Journal of Anthropological Archaeology 32, 553-564.  [http://dx.doi.org/10.1016/j.jaa.2013.08.004](http://dx.doi.org/10.1016/j.jaa.2013.08.004)
+Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeconomics and palaeoecology at two archaeological sites in Northwest Thailand. _Journal of Anthropological Archaeology_ 32, 553-564.  [http://dx.doi.org/10.1016/j.jaa.2013.08.004](http://dx.doi.org/10.1016/j.jaa.2013.08.004)
 
-Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) Data Mining Applications with R. Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
+Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) _Data Mining Applications with R_ Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
-McPherron SP 2018 Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. PLOS ONE 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+McPherron SP 2018 Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
 
-Nakoinz, O., D. Knitter (2016) Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
+Nakoinz, O., D. Knitter (2016) _Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements_. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
 
-Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemical residues on archaeological floors in the presence of barriers, J Archaeol Sci 70, 91-101. https://github.com/famuvie/ArchaeologicalFloors
+Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemical residues on archaeological floors in the presence of barriers, _J Archaeol Sci_ 70, 91-101. https://github.com/famuvie/ArchaeologicalFloors
 
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
-Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, Evolution and Human Behavior, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
+Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016) "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903> 
 
