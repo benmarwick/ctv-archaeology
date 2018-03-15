@@ -339,9 +339,13 @@ Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemica
 
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
+Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., 2018. Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
+
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016) "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903> 
+
+
 
 #### Contributors
 
