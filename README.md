@@ -150,7 +150,7 @@ Dissimilarity coefficients
 -   The [Spatial](http://cran.r-project.org/web/views/Spatial.html) and [Spatio Temporal](http://cran.r-project.org/web/views/SpatioTemporal.html) task views have more details. 
 -  [recexcavAAR](https://cran.r-project.org/web/packages/recexcavAAR/index.html) 3D Reconstruction of Archaeological Excavations
 - [SiteExploitationTerritories](https://github.com/eScienceCenter/SiteExploitationTerritories) implements the Tobler Hiking Function for spatial time-cost analysis of rasters 
-- [klrfoam](https://github.com/mrecos/klrfome) provides functions to model a single scalar outcome (e.g. presence/absence of an archaeological site) to a distribution of features (such as landscape and environmental variables).
+- [klrfome](https://github.com/mrecos/klrfome) provides functions to model a single scalar outcome (e.g. presence/absence of an archaeological site) to a distribution of features (such as landscape and environmental variables).
 
 **Environmental & geological analysis**
 
