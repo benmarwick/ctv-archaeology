@@ -238,6 +238,7 @@ Dissimilarity coefficients
 -  [chemometrics](http://cran.rstudio.com/web/packages/chemometrics/index.html) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
 -  [zooaRch](http://cran.r-project.org/web/packages/zooaRch/) contains two zooarchaeological datasets.
 -  [gsloid](https://CRAN.R-project.org/package=gsloid) Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka
+- [evoarchdata](https://github.com/benmarwick/evoarchdata) contains four published datasets widely used in archaeological studies of cultural evolution
 
 
 **Places to go for help**
