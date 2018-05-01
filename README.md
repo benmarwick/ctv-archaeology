@@ -281,9 +281,11 @@ d'Alpoim Guedes J, Jin G, Bocinsky RK (2015) The Impact of Climate on the Spread
 
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
-Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? _Lithic Technology_ <http://doi.org/10.1080/01977261.2017.1416918> <https://github.com/taphocoenose/The-atlatl-to-bow-transition>
+Beheim, Bret A., and Adrian V. Bell. 2011. Inheritance, Ecology and the Evolution of the Canoes of East Oceania. _Proceedings of the Royal Society B: Biological Sciences_, February. <https://doi.org/10.1098/rspb.2011.0060> <https://github.com/babeheim/polynesian-canoe-analysis>
 
-Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploitation Based on Fetal Prey Osteometry and Reproductive Phenology. _Archaeological and Anthropological Sciences_ <http://doi.org/10.1007/s12520-017-0500-y> <https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation>
+Breslawski RP, Etter BL, Jorgeson I, Boulanger MT 2018. The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? _Lithic Technology_ <http://doi.org/10.1080/01977261.2017.1416918> <https://github.com/taphocoenose/The-atlatl-to-bow-transition>
+
+Breslawski RP, Playford T 2017. Probabilistic Models of Seasonal Bison Exploitation Based on Fetal Prey Osteometry and Reproductive Phenology. _Archaeological and Anthropological Sciences_ <http://doi.org/10.1007/s12520-017-0500-y> <https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation>
 
 Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco 2015 Combining morphological and metric variations in the study of design and functionality in stone weights. A comparative approach from continental and insular Patagonia, Argentina. _Journal of Archaeological Science: Reports_ 4:578-587. <http://dx.doi.org./10.1016/j.jasrep.2015.10.028>
 
