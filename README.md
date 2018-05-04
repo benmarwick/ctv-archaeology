@@ -357,7 +357,9 @@ Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach 
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., 2018. Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
-Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. (2017) Bayesian analysis and free market trade within the Roman Empire, Antiquity, 91(359), pp. 1241–1252. doi:10.15184/aqy.2017.131 <https://github.com/xrubio/bayesRome>
+Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. 2018 The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
+
+Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. 2017 Bayesian analysis and free market trade within the Roman Empire, Antiquity, 91(359), pp. 1241–1252. doi:10.15184/aqy.2017.131 <https://github.com/xrubio/bayesRome>
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
