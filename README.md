@@ -351,6 +351,8 @@ Negre, J., Muñoz, F., Lancelotti, C., 2016. Geostatistical modelling of chemica
 
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
+Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. 2018. “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
+
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeol Anthropol Sci_ (2018). https://doi-org.offcampus.lib.washington.edu/10.1007/s12520-018-0617-7
 
 Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach to reconstructing population dynamics and size from settlement data: demography of the Mesolithic-Neolithic transition at Lepenski Vir. _Archaeol Anthropol Sci_ 8, 169–186. https://doi.org/10.1007/s12520-014-0223-2
