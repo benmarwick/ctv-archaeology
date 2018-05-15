@@ -289,6 +289,8 @@ Breslawski RP, Playford T 2017. Probabilistic Models of Seasonal Bison Exploitat
 
 Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco 2015 Combining morphological and metric variations in the study of design and functionality in stone weights. A comparative approach from continental and insular Patagonia, Argentina. _Journal of Archaeological Science: Reports_ 4:578-587. <http://dx.doi.org./10.1016/j.jasrep.2015.10.028>
 
+Carleton, W. C. , J. Conolly, and G. Iannone 2012 A locally-adaptive model of archaeological potential (LAMAP) _Journal of Archaeological Science_ 39(11), 3371-3385, 2012 <https://doi.org/10.1016/j.jas.2012.05.022>, <https://github.com/wccarleton/lamap>
+
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
