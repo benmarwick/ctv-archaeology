@@ -301,7 +301,6 @@ Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations
 
 Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., 2018. Identifying social learning between Roman amphorae workshops through morphometric similarity. _Journal of Archaeological Science_ 96, 117–123. <https://doi.org/10.1016/j.jas.2018.06.002>,   <https://github.com/Mcotsar/LearningBaetica>
 
-
 Crema, E.R., Kandler, A., Shennan, S., 2016. Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions, _Scientific Reports_ 6, 39122.
 
 Crema, E. R., J. Habu, K. Kobayashi and M. Madella (2016). "Summed Probability Distribution of <sup>14</sup>C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan." [_PLoS ONE_ 11(4): e0154809.](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0154809), [GitHub repo](https://github.com/ercrema/Jomon_SPD_Comparison), [Zenodo repo](http://dx.doi.org/10.5281/zenodo.47339).
@@ -331,6 +330,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 Lightfoot E and O'Connell TC (2016).“On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
+
+Mackay, Alex, Sam C. Lin, Lachlan S. Kenna, and Alex F. Blackwood. 2018. Variance in the Response of Silcrete to Rapid Heating Complicates Assumptions about Past Heat Treatment Methods.” _Archaeological and Anthropological Sciences_, June 20, 2018, 1–12. <https://doi.org/10.1007/s12520-018-0663-1>.
 
 Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. _Quaternary International_ [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
 
@@ -365,6 +366,8 @@ Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of mini
 Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach to reconstructing population dynamics and size from settlement data: demography of the Mesolithic-Neolithic transition at Lepenski Vir. _Archaeol Anthropol Sci_ 8, 169–186. https://doi.org/10.1007/s12520-014-0223-2
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., 2018. Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
+
+Riris, P. 2018. Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. 2018 The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
 
