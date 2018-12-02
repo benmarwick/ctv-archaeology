@@ -288,6 +288,9 @@ Beheim, Bret A., and Adrian V. Bell. 2011. Inheritance, Ecology and the Evolutio
 
 Bicho, N. and Cascalheira, J. (2018) The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
 
+Birch, T. and M. Martinón-Torres (2019) Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_
+101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
+
 Breslawski RP, Etter BL, Jorgeson I, Boulanger MT 2018. The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? _Lithic Technology_ <http://doi.org/10.1080/01977261.2017.1416918> <https://github.com/taphocoenose/The-atlatl-to-bow-transition>
 
 Breslawski RP, Playford T 2017. Probabilistic Models of Seasonal Bison Exploitation Based on Fetal Prey Osteometry and Reproductive Phenology. _Archaeological and Anthropological Sciences_ <http://doi.org/10.1007/s12520-017-0500-y> <https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation>
