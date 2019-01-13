@@ -323,6 +323,8 @@ Crema, E. R., J. Habu, K. Kobayashi and M. Madella (2016). "Summed Probability D
 
 Crema, E.R., K. Edinborough, T. Kerig, S.J. Shennan (2014) An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 [http://dx.doi.org/10.1016/j.jas.2014.07.014](http://www.sciencedirect.com/science/article/pii/S0305440314002593)
 
+DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. E., & Becker, M. (2019). Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLOS ONE, 14(1), e0210409. https://doi.org/10.1371/journal.pone.0210409
+
 Drake BL, Wills WH, Hamilton MI, Dorshow W (2014) Strontium Isotopes and the Reconstruction of the Chaco Regional System: Evaluating Uncertainty with Bayesian Mixing Models. PLoS ONE 9(5): e95580. [doi:10.1371/journal.pone.0095580](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
 
 Drake, Brandon L., David T. Hanson, James L. Boone (2012) The use of radiocarbon-derived Δ13C as a paleoclimate indicator: applications in the Lower Alentejo of Portugal, _Journal of Archaeological Science_, Volume 39, Issue 9, September 2012, Pages 2888-2896, [http://dx.doi.org/10.1016/j.jas.2012.04.027](http://www.sciencedirect.com/science/article/pii/S0305440312001471)
