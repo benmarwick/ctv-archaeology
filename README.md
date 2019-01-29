@@ -51,9 +51,9 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 **Visualising data**
 
 - [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html) produces a very wide variety of attractive plots with a highly flexible and logical syntax. 
-- To combine and align multiple ggplot2 plots (and other image types) in one panel, use [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html), [patchwork](https://github.com/thomasp85/patchwork), [egg](https://CRAN.R-project.org/package=egg), [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html), or [multipanelfigure](https://CRAN.R-project.org/package=multipanelfigure) (the most versatile for combining different elements)
 -    Extensions include [ggbiplot](https://github.com/vqv/ggbiplot) (PCA biplots with ellipses),  [GGally](http://cran.r-project.org/web/packages/GGally/index.html) (plot matrices), [ggtern](http://www.ggtern.com/) (ternary plots), [ggfortify](https://github.com/sinhrks/ggfortify) (many methods for plotting PCA, clustering, linear model output, etc., using ggplot2),[ggalt](https://github.com/hrbrmstr/ggalt) (more geoms, coords, stats, scales and fonts, including splines, 1d and 2d densities), [waffle](https://github.com/hrbrmstr/waffle) (for square pie charts), [ggraph](https://github.com/thomasp85/ggraph) for treemaps, [ggfan](https://CRAN.R-project.org/package=ggfan) for fanplots, [tidybayes](https://github.com/mjskay/tidybayes) for plotting output of Bayesian analysies, [ggridges](https://CRAN.R-project.org/package=ggridges) for ridge plots, [ggalt](https://CRAN.R-project.org/package=ggalt) for many additional geoms, and [ggrepel](https://github.com/slowkow/ggrepel) for moving overlapping text labels away from each other.
 -    For showing distributions across several categories: [ggforce](https://CRAN.R-project.org/package=ggforce), [ggbeeswarm](https://github.com/eclarke/ggbeeswarm), [vipor](https://github.com/sherrillmix/vipor), [sinaplot](https://cran.r-project.org/web/packages/sinaplot)
+-     For isolines and isobands use [ggisoband](https://github.com/clauswilke/ggisoband)
 -    [plotly](https://github.com/ropensci/plotly) and [ggiraph](https://github.com/davidgohel/ggiraph) make ggplots interactive with mouse-over pop-ups, zooming, click-actions, etc. [scatterD3](https://github.com/juba/scatterD3) makes highly interactive scatter plots
 -    [circlize](https://cran.r-project.org/web/packages/circlize/index.html) implements Circos in R for circular and chord plots. Rose plots can be made with [ggplot2](http://cran.rstudio.com/web/packages/ggplot2/index.html), Schmidt diagrams can be made with the `net` function in [RFOC](https://cran.r-project.org/web/packages/RFOC) or the `Stereo*` functions in [RockFab](https://cran.r-project.org/web/packages/RockFab/)
 -   [plotrix](http://cran.rstudio.com/web/packages/plotrix/index.html) has the function `battleship.plot()` to make Ford's battleship diagrams. 
@@ -63,6 +63,15 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 -   [tabplot](https://github.com/mtennekes/tabplot/) for exploratory data visualisation of tables
 -   For schematic diagrams, such as Harris matrices, [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) is useful.
 -   For colour schemes in plots: [viridis](https://github.com/sjmgarnier/viridis) for perfectly perceptually-uniform colours, [RColorBrewer](http://cran.r-project.org/web/packages/RColorBrewer/index.html), [wesanderson](http://cran.r-project.org/web/packages/wesanderson/index.html), and  [munsell](http://cran.r-project.org/web/packages/munsell/index.html) for exploring and using the Munsell colour system, and for some extra themes for ggplot2, including some Tufte-inspired themes, see [ggthemes](http://cran.r-project.org/web/packages/ggthemes/index.html). 
+
+**Multi-panel plot layouts**
+
+- To combine and align multiple ggplot2 plots (and other image types) in one panel:
+- use [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
+- [patchwork](https://github.com/thomasp85/patchwork)
+- [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html)
+- [egg](https://CRAN.R-project.org/package=egg)
+- [multipanelfigure](https://CRAN.R-project.org/package=multipanelfigure), perhaps the most versatile for combining different elements)
 
 **Analysis in general**
 
