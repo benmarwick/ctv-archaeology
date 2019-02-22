@@ -354,9 +354,11 @@ Giusti, D., Tourloukis, V., Konidaris, G., Thompson, N., Karkanas, P., Panagopou
 
 Giusti, D. and M. Arzarello, 2016, The need for a taphonomic perspective in spatial analysis: Formation processes at the Early Pleistocene site of Pirro Nord (P13), Apricena, Italy, _Journal of Archaeological Science: Reports_ 8, 235--249 code and data: <https://github.com/dncgst/pirronord_jas-reports>
 
+Hoggard, C. S., McNabb, J., & Cole, J. N. (2019). The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-019-00024-6> <https://osf.io/td92j/>
+
 Horta, P., Cascalheira, J., & Bicho, N. (2019). The Role of Lithic Bipolar Technology in Western Iberia’s Upper Paleolithic: the Case of Vale Boi (Southern Portugal). _Journal of Paleolithic Archaeology_ <https://doi.org/10.1007/s41982-019-0022-5> <https://osf.io/wpxgh/>
 
-Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., ... Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_ <https://doi.org/10.1038/s41586-018-0710-1> <https://doi.org/10.17605/OSF.IO/ERNTJ >
+Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., ... Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_ <https://doi.org/10.1038/s41586-018-0710-1> <https://doi.org/10.17605/OSF.IO/ERNTJ>
 
 Huffer, D. and Graham, S. 2017 The Insta-Dead: the rhetoric of the human remains trade on Instagram, _Internet Archaeology_ 45. <https://doi.org/10.11141/ia.45.5>, code & data: <https://zenodo.org/record/546132>
 
