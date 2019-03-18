@@ -175,6 +175,7 @@ Dissimilarity coefficients
 - The [siar](http://cran.rstudio.com/web/packages/siar/index.html) package takes data on organism isotopes and fits a Bayesian model to their dietary habits based upon a Gaussian likelihood with a mixture dirichlet-distributed prior on the mean
 -    The [zooaRch](http://cran.r-project.org/web/packages/zooaRch/) package has functions for survival analysis of zooarchaeological datasets
 -    Functions for tree ring analysis can be found in [dplR](http://cran.rstudio.com/web/packages/dplR/index.html)
+- [Orientations](https://github.com/surf3s/Orientations)for doing fabric analysis. Initially intended for use with total station coordinate data (two XYZ points on the long axis of an object) but bearing and plunge data can be transformed into the appropriate format for use here (see McPherron 2018).
 - See the [Environmetrics](http://cran.r-project.org/web/views/Environmetrics.html) task view for more.
 
 **Dating**
