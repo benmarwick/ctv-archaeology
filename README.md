@@ -356,7 +356,9 @@ Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A.
 
 Giusti, D., Tourloukis, V., Konidaris, G., Thompson, N., Karkanas, P., Panagopoulou, E., & Harvati, K. (2018). Beyond maps: patterns of formation processes at the Middle Pleistocene open-air site of Marathousa 1, Megalopolis Basin, Greece. _Quaternary International._ <https://doi.org/10.1016/j.quaint.2018.01.041>
 
-Giusti, D. and M. Arzarello, 2016, The need for a taphonomic perspective in spatial analysis: Formation processes at the Early Pleistocene site of Pirro Nord (P13), Apricena, Italy, _Journal of Archaeological Science: Reports_ 8, 235--249 code and data: <https://github.com/dncgst/pirronord_jas-reports>
+Giusti, D. and M. Arzarello, 2016, The need for a taphonomic perspective in spatial analysis: Formation processes at the Early Pleistocene site of Pirro Nord (P13), Apricena, Italy, _Journal of Archaeological Science: Reports_ 8, 235--249 code and data: <https://github.com/dncgst/pirronord_jas-reports> 
+
+Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic technological blade strategies: an experimental investigation. Lithics–The Journal of the Lithic Studies Society, (39), 52. <http://journal.lithics.org/index.php/lithics/article/view/737> <https://osf.io/5v8xh/>
 
 Hoggard, C. S., McNabb, J., & Cole, J. N. (2019). The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-019-00024-6> <https://osf.io/td92j/>
 
