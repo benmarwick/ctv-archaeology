@@ -410,6 +410,8 @@ Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of mini
 
 Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach to reconstructing population dynamics and size from settlement data: demography of the Mesolithic-Neolithic transition at Lepenski Vir. _Archaeol Anthropol Sci_ 8, 169–186. https://doi.org/10.1007/s12520-014-0223-2
 
+Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late Gravettian Site of Kostënki 21 Layer III, Russia: a Chronocultural Reassessment Based on a New Interpretation of the Significance of Intra-site Spatial Patterning. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-018-0018-6>
+
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., 2018. Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
 Riris, P. 2018. Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
