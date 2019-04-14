@@ -434,6 +434,7 @@ Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwi
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. 2015. “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
 
+Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2018.86 https://osf.io/2gub7/
 
 #### Contributors
 
