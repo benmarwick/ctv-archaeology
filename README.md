@@ -316,7 +316,10 @@ Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Tran
 
 Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploitation Based on Fetal Prey Osteometry and Reproductive Phenology. _Archaeological and Anthropological Sciences_ <http://doi.org/10.1007/s12520-017-0500-y> <https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation>
 
-Calandra, I., Schunk, L., Rodriguez, A., Gneisinger, W., Pedergnana, A., Paixao, E., Marreiros, J. (2019). Back to the edge: relative coordinate system for use-wear analysis. _Archaeological and Anthropological Sciences_. <https://doi.org/10.1007/s12520-019-00801-y> 
+Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans and megafauna suggest mixed causes for North American Pleistocene extinctions. Nature communications, 9(1), 5441. https://doi.org/10.1038/s41467-018-07897-1
+
+
+Calandra I., Schunk, L., Rodriguez, A., Gneisinger, W., Pedergnana, A., Paixao, E., Marreiros, J. (2019). Back to the edge: relative coordinate system for use-wear analysis. _Archaeological and Anthropological Sciences_. <https://doi.org/10.1007/s12520-019-00801-y> 
 
 Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco (2015) Combining morphological and metric variations in the study of design and functionality in stone weights. A comparative approach from continental and insular Patagonia, Argentina. _Journal of Archaeological Science: Reports_ 4:578-587. <http://dx.doi.org./10.1016/j.jasrep.2015.10.028>
 
