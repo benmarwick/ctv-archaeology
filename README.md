@@ -318,7 +318,6 @@ Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploit
 
 Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans and megafauna suggest mixed causes for North American Pleistocene extinctions. Nature communications, 9(1), 5441. https://doi.org/10.1038/s41467-018-07897-1
 
-
 Calandra I., Schunk, L., Rodriguez, A., Gneisinger, W., Pedergnana, A., Paixao, E., Marreiros, J. (2019). Back to the edge: relative coordinate system for use-wear analysis. _Archaeological and Anthropological Sciences_. <https://doi.org/10.1007/s12520-019-00801-y> 
 
 Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco (2015) Combining morphological and metric variations in the study of design and functionality in stone weights. A comparative approach from continental and insular Patagonia, Argentina. _Journal of Archaeological Science: Reports_ 4:578-587. <http://dx.doi.org./10.1016/j.jasrep.2015.10.028>
@@ -356,6 +355,8 @@ Drake, Brandon L., WH Wills, and Erik B Erhardt (2012) The 5.1 ka aridization ev
 Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. _Archaeology in Oceania_ 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
 
 Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." _Journal of Archaeological Science_ <http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
+
+Garvey, Raven. (2018). Current and potential roles of archaeology in the development of cultural evolutionary theory. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170057. https://doi.org/10.1098/rstb.2017.0057 <https://dx.doi.org/10.6084/m9.figshare.c.3965853>
 
 Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A., … Harvati, K. (2019). Recursive anisotropy: a spatial taphonomic study of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi, Mygdonia Basin, Greece. _Boreas_, 0(0). https://doi.org/10.1111/bor.12368
 
