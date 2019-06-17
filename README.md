@@ -309,8 +309,12 @@ Beheim, Bret A., and Adrian V. Bell. 2011. Inheritance, Ecology and the Evolutio
 
 Bicho, N. and Cascalheira, J. (2018) The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
 
+Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. 2019. Early human settlement of Sahul was not an accident. Scientific Reports doi:10.1038/s41598-019-42946-9 https://github.com/cjabradshaw/SahulHuman
+
 Birch, T. and M. Martinón-Torres (2019) Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_
 101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
+
+Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution doi:10.1038/s41559-019-0902-6 https://github.com/cjabradshaw/SahulHuman 
 
 Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? _Lithic Technology_ <http://doi.org/10.1080/01977261.2017.1416918> <https://github.com/taphocoenose/The-atlatl-to-bow-transition>
 
@@ -327,6 +331,8 @@ Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco (201
 Carleton, W. C. , J. Conolly, and G. Iannone (2012) A locally-adaptive model of archaeological potential (LAMAP) _Journal of Archaeological Science_ 39(11), 3371-3385, 2012 <https://doi.org/10.1016/j.jas.2012.05.022>, <https://github.com/wccarleton/lamap>
 
 Carleton, W., McCauley, B., Costopoulos, A., & Collard, M. (2018). An evolutionary agent-based model contradicts Dunnell’s version of the waste hypothesis for cultural elaboration. <https://doi.org/10.31235/osf.io/2h36u> <https://github.com/wccarleton/abm_waste>
+
+Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
 
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin (2015) The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
