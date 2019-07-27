@@ -442,6 +442,8 @@ Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros D
 
 Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. 2017 Bayesian analysis and free market trade within the Roman Empire, Antiquity, 91(359), pp. 1241–1252. doi:10.15184/aqy.2017.131 <https://github.com/xrubio/bayesRome>
 
+Schmid, C. (2019). Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and Northwestern Europe using radiocarbon data. _Adaptive Behavior_, 1059712319860842. <https://osf.io/b6np2/>
+
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 Sinensky, R. J., and A. Farahani. 2018. DIVERSITY-DISTURBANCE RELATIONSHIPS IN THE LATE ARCHAIC SOUTHWEST: IMPLICATIONS FOR FARMER-FORAGER FOODWAYS American Antiquity 83 (2): 364–364. <https://doi.org/10.1017/aaq.2017.74>
