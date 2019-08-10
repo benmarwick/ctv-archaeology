@@ -311,8 +311,7 @@ Bicho, N. and Cascalheira, J. (2018) The use of lithic assemblages for the defin
 
 Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. 2019. Early human settlement of Sahul was not an accident. Scientific Reports doi:10.1038/s41598-019-42946-9 https://github.com/cjabradshaw/SahulHuman
 
-Birch, T. and M. Martinón-Torres (2019) Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_
-101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
+Birch, T. and M. Martinón-Torres (2019) Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_ 101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
 
 Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution doi:10.1038/s41559-019-0902-6 https://github.com/cjabradshaw/SahulHuman 
 
