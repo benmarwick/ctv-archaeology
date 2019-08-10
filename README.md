@@ -388,7 +388,7 @@ Huffer, D. and Graham, S. 2017 The Insta-Dead: the rhetoric of the human remains
 
 King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & Halcrow, S. E. (2018). Marine resource reliance in the human populations of the Atacama Desert, northern Chile–A view from prehistory. _Quaternary Science Reviews_, 182, 163-174. <https://doi.org/10.1016/j.quascirev.2017.12.009>
 
-Lightfoot E and O'Connell TC (2016).“On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
+Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
 
