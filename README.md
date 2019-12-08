@@ -301,6 +301,8 @@ d'Alpoim Guedes J, Jin G, Bocinsky RK (2015) The Impact of Climate on the Spread
 
 d’Alpoim Guedes, Jade and R. Kyle Bocinsky. Climate change stimulated agricultural innovation and exchange across Asia, 2018. _Science Advances_ 4:eaar4491. <http://doi.org/10.1126/sciadv.aar4491>
 
+d’Alpoim Guedes, J., Hanson, S., Higham, C., Higham, T., & Lertcharnrit, T. (2019). The wet and the dry, the wild and the cultivated: Subsistence and risk management in ancient Central Thailand. Archaeological and Anthropological Sciences, 11(12), 6473–6484. https://doi.org/10.1007/s12520-019-00794-8
+
 Angourakis, Andreas, Verònica Martínez Ferreras, Alexis Torrano, and Josep M. Gurt Esparraguera. 2018. “Presenting Multivariate Statistical Protocols in R Using Roman Wine Amphorae Productions in Catalonia, Spain.” _Journal of Archaeological Science_ 93 (May): 150–65. https://doi.org/10.1016/j.jas.2018.03.007. Describes the cerUB pkg
 
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
