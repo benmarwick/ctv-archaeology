@@ -315,6 +315,8 @@ Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Sa
 
 Birch, T. and M. Martinón-Torres (2019) Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_ 101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
 
+Borck, L., Athenstädt, J.C., Cheromiah, L.A., Aragon, L.D., Brandes, U. and Hofman, C.L., (2020). Plainware and Polychrome: Quantifying Perceptual Differences in Ceramic Classification Between Diverse Groups to Further a Strong Objectivity. Journal of Computer Applications in Archaeology, 3(1), pp.135–150. DOI: <http://doi.org/10.5334/jcaa.37>
+
 Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. 2019. Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution doi:10.1038/s41559-019-0902-6 https://github.com/cjabradshaw/SahulHuman 
 
 Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Transition: What Can We Learn from Modern Recreational Competitions? _Lithic Technology_ <http://doi.org/10.1080/01977261.2017.1416918> <https://github.com/taphocoenose/The-atlatl-to-bow-transition>
