@@ -297,6 +297,8 @@ Dissimilarity coefficients
 
 #### Publications that include R code
 
+Allison, James R. (2019) Ceramic Production and Exchange among the Virgin Anasazi, 30 Years Later, _KIVA_, 85:4, 289-312, <http://doi.org/10.1080/00231940.2019.1689660>
+
 d'Alpoim Guedes J, Jin G, Bocinsky RK (2015) The Impact of Climate on the Spread of Rice to North-Eastern China: A New Look at the Data from Shandong Province. PLOS ONE 10(6): e0130430. doi: <http://dx.doi.org/10.1371/journal.pone.0130430>
 
 d’Alpoim Guedes, Jade and R. Kyle Bocinsky. Climate change stimulated agricultural innovation and exchange across Asia, 2018. _Science Advances_ 4:eaar4491. <http://doi.org/10.1126/sciadv.aar4491>
