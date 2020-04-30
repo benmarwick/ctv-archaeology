@@ -221,6 +221,9 @@ Dissimilarity coefficients
 
 - [mortAAR](https://cran.r-project.org/web/packages/mortAAR/index.html) Analysis of Archaeological Mortality Data
 
+**Skyscape Archaeology**
+- [skyscapeR](https://github.com/f-silva-archaeo/skyscapeR) Data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy
+
 **Writing Reproducible manuscripts**
 
 -  [rrtools](https://github.com/benmarwick/rrtools), is a package that provides instructions, templates, and functions for making a basic compendium suitable for writing reproducible research reports and articles with R.
@@ -470,6 +473,8 @@ Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 Sinensky, R. J., and A. Farahani. 2018. DIVERSITY-DISTURBANCE RELATIONSHIPS IN THE LATE ARCHAIC SOUTHWEST: IMPLICATIONS FOR FARMER-FORAGER FOODWAYS American Antiquity 83 (2): 364–364. <https://doi.org/10.1017/aaq.2017.74>
+
+Silva, F., 2020. A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016) "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903> 
 
