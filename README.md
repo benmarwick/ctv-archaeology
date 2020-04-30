@@ -445,6 +445,8 @@ Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach 
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., 2019. Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
+Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
+
 Reeves, J. S., McPherron, S. P., Aldeias, V., Dibble, H. L., Goldberg, P., Sandgathe, D., & Turq, A. (2019). Measuring spatial structure in time-averaged deposits insights from Roc de Marsal, France. Archaeological and Anthropological Sciences. <https://doi.org/10.1007/s12520-019-00871-y>
 
 Reynolds, N., & Green, C. (2019). Spatiotemporal modelling of radiocarbon dates using linear regression does not indicate a vector of demic dispersal associated with the earliest Gravettian assemblages in Europe. Journal of Archaeological Science: Reports, 27, 101958. https://doi.org/10.1016/j.jasrep.2019.101958
@@ -478,6 +480,8 @@ Suárez, R., & Cardillo, M. (2019). Life history or stylistic variation? A geome
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. 2015. “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
 Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2018.86 https://osf.io/2gub7/
+
+Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing between sheep and goat postcranial remains. _Journal of Archaeological Science: Reports_ 12: 625-31. <https://doi.org/10.1016/j.jasrep.2017.02.022>
 
 Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure of human populations during the Last Glacial Maximum (LGM) in Western Europe. PloS one, 14(6), e0217996. <https://osf.io/n24rq/>
 
