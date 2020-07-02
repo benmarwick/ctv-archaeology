@@ -316,6 +316,8 @@ Beck, J., & Smith, B. H. (2019). Don't throw the baby teeth out with the bathwat
 
 Beheim, Bret A., and Adrian V. Bell. 2011. Inheritance, Ecology and the Evolution of the Canoes of East Oceania. _Proceedings of the Royal Society B: Biological Sciences_, February. <https://doi.org/10.1098/rspb.2011.0060> <https://github.com/babeheim/polynesian-canoe-analysis>
 
+Benjamin J, O’Leary M, McDonald J, Wiseman C, McCarthy J, Beckett E, et al. (2020) Aboriginal artefacts on the continental shelf reveal ancient drowned cultural landscapes in northwest Australia. PLoS ONE 15(7): e0233912. <https://doi.org/10.1371/journal.pone.0233912> <https://github.com/patrick-morrison/benjamin_et_al_2020_submerged_cb>
+
 Biagetti, S., Alcaina-Mateos, J., Crema, E.R., 2016. A matter of ephemerality: the study of Kel Tadrart Tuareg (southwest Libya) campsites via quantitative spatial analysis. Ecology and Society 21. https://doi.org/10.5751/ES-08202-210142 [GitHub repo](https://github.com/ercrema/a_matter_of_ephemerality).
 
 Bicho, N. and Cascalheira, J. (2018) The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
