@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2020-04-29</td>
+2020-07-13</td>
 </tr>
 </tbody>
 </table>
@@ -480,7 +480,9 @@ Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., 2018. Two mi
 
 Riede, F. C. Hoggard & S. Shennan (2019) Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
 
-Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South America correlates with mid-Holocene climate change. Scientific reports, 9(1), 6850.
+Riris, P. (2020). Spatial structure among the geometric earthworks of western Amazonia (Acre, Brazil). _Journal of Anthropological Archaeology_, 59, 101177. <https://doi.org/10.1016/j.jaa.2020.101177> <https://doi.org/10.17605/OSF.IO/NG896>
+
+Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South America correlates with mid-Holocene climate change. _Scientific reports_, 9(1), 6850.
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
