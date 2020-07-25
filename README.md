@@ -376,6 +376,8 @@ Crema, E.R., K. Edinborough, T. Kerig, S.J. Shennan (2014) An Approximate Bayesi
 
 Crema, E.R., Kobayashi, K., 2020. A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507). 
 
+DiNapoli, R. J., Rieth, T. M., Lipo, C. P., & Hunt, T. L. (2020). A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). _Journal of Archaeological Science_, 105094.
+
 DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. E., & Becker, M. (2019). Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLOS ONE, 14(1), e0210409. https://doi.org/10.1371/journal.pone.0210409
 
 Dombrosky, J. (2020). A ~1000-year 13C Suess correction model for the study of past ecosystems. _The Holocene_, 30(3), 474–478. https://doi.org/10.1177/0959683619887416
@@ -427,6 +429,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 Kintigh, K.W. and Peeples, M.A., 2020. Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
+
+Lipo, C. P., Hunt, T. L., Horneman, R., & Bonhomme, V. (2016). Weapons of war? Rapa Nui mata’a morphometric analyses. _Antiquity_, 90(349), 172–187. doi:10.15184/aqy.2015.189 
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
 
