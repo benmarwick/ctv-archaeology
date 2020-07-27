@@ -510,6 +510,8 @@ Schmidt, S. C. (2020). Siedlungsgrößen und Abstände zwischen Siedlungsstandor
 
 Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. Journal of Computer Applications in Archaeology, 3(1), pp.18–32. DOI: <http://doi.org/10.5334/jcaa.29>
 
+Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of intraspecific morphological variation in Gahagan bifaces from the southern Caddo area and central Texas. Southeastern Archaeology, 39(2), pp.125–145. DOI: <https://doi.org/10.1080/0734578X.2020.1744416> data & code: <https://osf.io/2g95w/>
+
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014) Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
 Sinensky, R. J., and A. Farahani. 2018. DIVERSITY-DISTURBANCE RELATIONSHIPS IN THE LATE ARCHAIC SOUTHWEST: IMPLICATIONS FOR FARMER-FORAGER FOODWAYS American Antiquity 83 (2): 364–364. <https://doi.org/10.1017/aaq.2017.74>
