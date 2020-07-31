@@ -539,4 +539,4 @@ Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marea
 
 #### Contributors
 
-[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili)
+[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang)
