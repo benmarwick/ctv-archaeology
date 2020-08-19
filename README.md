@@ -506,6 +506,8 @@ Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros D
 
 Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. 2017 Bayesian analysis and free market trade within the Roman Empire, Antiquity, 91(359), pp. 1241–1252. doi:10.15184/aqy.2017.131 <https://github.com/xrubio/bayesRome>
 
+Sanger, M.C., Bourcy, S., Ogden, Q.M. et al. Post-marital Residence Patterns in the Late Archaic Coastal Southeast USA: Similarities in Stone Tools Revealed by Geometric Morphometrics. _J Archaeol Method Theory_ 27, 327–359 (2020). <https://doi.org/10.1007/s10816-019-09435-9> <https://orb.binghamton.edu/dissertation_and_theses/46/>
+
 Schmid, C. (2019). Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and Northwestern Europe using radiocarbon data. _Adaptive Behavior_, 1059712319860842. <https://osf.io/b6np2/>
 
 Schmidt, S. C. (2020). Siedlungsgrößen und Abstände zwischen Siedlungsstandorten – eine geostatistische Analyse von Transektdaten, _Praehistorische Zeitschrift_, 94(2), 499-528. doi: https://doi.org/10.1515/pz-2019-0015 
