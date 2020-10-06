@@ -538,6 +538,8 @@ Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobo
 
 Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2018.86 https://osf.io/2gub7/
 
+Wolfhagen, J. (2020). Re-examining the use of the LSI technique in zooarchaeology. _Journal of Archaeological Science_ Volume 123, November 2020, 105254 https://doi.org/10.1016/j.jas.2020.105254 https://osf.io/4k62y/
+
 Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing between sheep and goat postcranial remains. _Journal of Archaeological Science: Reports_ 12: 625-31. <https://doi.org/10.1016/j.jasrep.2017.02.022>
 
 Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure of human populations during the Last Glacial Maximum (LGM) in Western Europe. PloS one, 14(6), e0217996. <https://osf.io/n24rq/>
