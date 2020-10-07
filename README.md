@@ -536,6 +536,8 @@ Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. 2015. “Toward a Theory of Pu
 
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. 2020. Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
+Weiss, Marcel. 2020. “The Lichtenberg Keilmesser - It’s All about the Angle.” _PLOS ONE_ 15(10): e0239718. <https://doi.org/10.1371/journal.pone.0239718>
+
 Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2018.86 https://osf.io/2gub7/
 
 Wolfhagen, J. (2020). Re-examining the use of the LSI technique in zooarchaeology. _Journal of Archaeological Science_ Volume 123, November 2020, 105254 https://doi.org/10.1016/j.jas.2020.105254 https://osf.io/4k62y/
