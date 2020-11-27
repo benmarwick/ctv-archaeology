@@ -360,7 +360,9 @@ Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patri
 
 Cochrane, E. E., Tautunu, A. A. M. M., & DiNapoli, R. J. (2019). Hypotheses to explain the few early coastal archaeological deposits in Sāmoa: Preliminary evaluations. _Journal of Archaeological Science: Reports_, 26, 101931. <https://doi.org/10.17608/k6.auckland.7647218>
 
-Coco, E., Holdaway, S. & Iovita, R. The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. J Paleo Arch (2020). <https://doi.org/10.1007/s41982-020-00055-4>
+Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spatial averaging: implications for archaeological cultures. _Humanities and Social Sciences Communications_, 7(1), 1-9. <https://www.nature.com/articles/s41599-020-00635-3>
+
+Coco, E., Holdaway, S. & Iovita, R. The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. _J Paleo Arch_ (2020). <https://doi.org/10.1007/s41982-020-00055-4>
 
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
 
