@@ -470,6 +470,9 @@ Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeco
 
 Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) _Data Mining Applications with R_ Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
+McLaughlin, T. Rowan, Gómez-Puche Magdalena, Cascalheira João, Bicho Nuno and Fernández-López de Pablo Javier (2021) Late Glacial and Early Holocene human demographic responses to climatic and environmental change in Atlantic Iberia _Phil. Trans. R. Soc._ B37620190724
+<http://doi.org/10.1098/rstb.2019.0724>
+
 McLaughlin, T.R. (2018). On Applications of Space–Time Modelling with Open-Source 14C Age Calibration. _J Archaeol Method_ Theory  <https://doi.org/10.1007/s10816-018-9381-3>
 
 McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandžić, T., ... & Reeves, J. (2020). Introducing platform surface interior angle (PSIA) and its role in flake formation, size and shape. Plos one, 15(11), e0241714. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241714>
