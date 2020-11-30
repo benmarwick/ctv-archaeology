@@ -549,6 +549,8 @@ Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Ka
 
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. 2015. “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
+Vander Linden, Marc and Silva Fabio (2021) Dispersals as demographic processes: testing and describing the spread of the Neolithic in the Balkans _Phil. Trans. R. Soc._ B37620200231 http://doi.org/10.1098/rstb.2020.0231
+
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. 2020. Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
