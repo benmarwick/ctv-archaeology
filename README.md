@@ -311,6 +311,8 @@ d’Alpoim Guedes, J., Hanson, S., Higham, C., Higham, T., & Lertcharnrit, T. (2
 
 Angourakis, Andreas, Verònica Martínez Ferreras, Alexis Torrano, and Josep M. Gurt Esparraguera. 2018. “Presenting Multivariate Statistical Protocols in R Using Roman Wine Amphorae Productions in Catalonia, Spain.” _Journal of Archaeological Science_ 93 (May): 150–65. https://doi.org/10.1016/j.jas.2018.03.007. Describes the cerUB pkg
 
+Arroyo-Kalin, Manuel and Riris Philip (2021) Did pre-Columbian populations of the Amazonian biome reach carrying capacity during the Late Holocene? _Phil. Trans. R. Soc._ B37620190715 <http://doi.org/10.1098/rstb.2019.0715>
+
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
 Beck, J., & Smith, B. H. (2019). Don't throw the baby teeth out with the bathwater: Estimating subadult age using tooth wear in commingled archaeological assemblages. _International Journal of Osteoarchaeology_, 29(5), 831-842. <https://doi.org/10.1002/oa.2802>
