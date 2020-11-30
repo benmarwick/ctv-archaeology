@@ -521,6 +521,8 @@ Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South Ame
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
+Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021) Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Phil. Trans. R. Soc._ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
+
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021) Population density and size facilitate interactive capacity and the rise of the state _Phil. Trans. R. Soc._ B37620190725 http://doi.org/10.1098/rstb.2019.0725
 
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. (2018) The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
