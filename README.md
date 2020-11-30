@@ -526,6 +526,9 @@ Schmid, C. (2019). Evaluating Cultural Transmission in Bronze Age burial rites o
 
 Schmidt, S. C. (2020). Siedlungsgrößen und Abstände zwischen Siedlungsstandorten – eine geostatistische Analyse von Transektdaten, _Praehistorische Zeitschrift_, 94(2), 499-528. doi: https://doi.org/10.1515/pz-2019-0015 
 
+Schmidt, Isabell, Hilpert Johanna, Kretschmer Inga, Peters Robin, Broich Manuel, Schiesberg Sara, Vogels Oliver, Wendt Karl Peter, Zimmermann Andreas and Maier Andreas (2021) Approaching prehistoric demography: proxies, scales and scope of the Cologne Protocol in European contexts _Phil. Trans. R. Soc._ B37620190714
+<http://doi.org/10.1098/rstb.2019.0714>
+
 Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. Journal of Computer Applications in Archaeology, 3(1), pp.18–32. DOI: <http://doi.org/10.5334/jcaa.29>
 
 Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of intraspecific morphological variation in Gahagan bifaces from the southern Caddo area and central Texas. Southeastern Archaeology, 39(2), pp.125–145. DOI: <https://doi.org/10.1080/0734578X.2020.1744416> data & code: <https://osf.io/2g95w/>
