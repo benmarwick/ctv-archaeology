@@ -556,6 +556,8 @@ Strawhacker, C., Snitker, G., Peeples, M. A., Kinzig, A. P., Kintigh, K. W., Boc
 
 Suárez, R., & Cardillo, M. (2019). Life history or stylistic variation? A geometric morphometric method for evaluation of Fishtail point variability. Journal of Archaeological Science: Reports, 27, 101997. <https://doi.org/10.1016/j.jasrep.2019.101997>
 
+Suryanarayan, A., Cubas, M., Craig, O. E., Heron, C. P., Shinde, V. S., Singh, R. N., O'Connell, T. C., Petrie, C. A. (2021) Lipid residues in pottery from the Indus Civilisation in northwest India. _Journal of Archaeological Science_125. <https://doi.org/10.1016/j.jas.2020.105291> 
+
 Tallavaara, Miikka and Jørgensen Erlend Kirkeng (2021) Why are population growth rate estimates of past and present hunter–gatherers so different? _Phil. Trans. R. Soc._ B37620190708 http://doi.org/10.1098/rstb.2019.0708
 
 Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Katie (2021) Directly modelling population dynamics in the South American Arid Diagonal using 14C dates _Phil. Trans. R. Soc._ B37620190723 <http://doi.org/10.1098/rstb.2019.0723>
