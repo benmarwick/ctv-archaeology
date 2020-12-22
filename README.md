@@ -354,6 +354,8 @@ Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco (201
 
 Carleton, W. C. (2020). Evaluating Bayesian Radiocarbon‐dated Event Count (REC) models for the study of long‐term human and environmental processes. _Journal of Quaternary Science_ https://doi.org/10.1002/jqs.3256
 
+Carleton W. C., Groucutt HS. (2020) Sum things are not what they seem: Problems with point-wise interpretations and quantitative analyses of proxies based on aggregated radiocarbon dates. _The Holocene_  https://doi.org/10.1177/0959683620981700
+  
 Carleton, W. C. , J. Conolly, and G. Iannone (2012) A locally-adaptive model of archaeological potential (LAMAP) _Journal of Archaeological Science_ 39(11), 3371-3385, 2012 <https://doi.org/10.1016/j.jas.2012.05.022>, <https://github.com/wccarleton/lamap>
 
 Carleton, W., McCauley, B., Costopoulos, A., & Collard, M. (2018). An evolutionary agent-based model contradicts Dunnell’s version of the waste hypothesis for cultural elaboration. <https://doi.org/10.31235/osf.io/2h36u> <https://github.com/wccarleton/abm_waste>
