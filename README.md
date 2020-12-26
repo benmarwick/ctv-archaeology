@@ -424,6 +424,8 @@ Giusti, D., Tourloukis, V., Konidaris, G., Thompson, N., Karkanas, P., Panagopou
 
 Giusti, D. and M. Arzarello, 2016, The need for a taphonomic perspective in spatial analysis: Formation processes at the Early Pleistocene site of Pirro Nord (P13), Apricena, Italy, _Journal of Archaeological Science: Reports_ 8, 235--249 code and data: <https://github.com/dncgst/pirronord_jas-reports> 
 
+González-Molina I, Jiménez-García B, Maíllo-Fernández JM, Baquedano E, Domínguez-Rodrigo M (2020) Distinguishing Discoid and Centripetal Levallois methods through machine learning. _PLOS ONE_ 15(12): e0244288. <https://doi.org/10.1371/journal.pone.0244288> <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T8SEC2>
+
 Graham, S., Gupta, N., Smith, J., Angourakis, A., Reinhard, A., Ellenberger, K., Batist, Z., Rivard, J., Marwick, B., Carter, M., Compton, B., Blades, R., Wood, C., Nobles, G. (2019) _The Open Digital Archaeology Textbook_ <https://o-date.github.io/> Code notebooks and repositories, and text source at <https://github.com/o-date>
 
 Hageneuer, S. & Schmidt, S. C. (2019). Monumentality by numbers. In: Buccellati, F., Hageneuer, S., van der Heyden, S. & Levenson, F. (Eds.), _Size Matters - Understanding Monumentality Across Ancient Civilizations_. Bielefeld: transcript Verlag: 291-308. https://doi.org/10.14361/9783839445389-017
