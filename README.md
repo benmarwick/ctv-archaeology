@@ -452,6 +452,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 
 Kintigh, K.W. and Peeples, M.A., 2020. Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
+Lawrence D, Palmisano A, de Gruchy MW (2021) Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. doi:10.1371/journal.pone.0244871
+
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. 2020. “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
