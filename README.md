@@ -503,6 +503,8 @@ Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. 2018. “Assessing Raw 
 
 Pargeter, J., Khreisheh, N., & Stout, D. (2019). Understanding stone tool-making skill acquisition: Experimental methods and evolutionary implications. _Journal of Human Evolution_, 133, 146-166. <https://osf.io/h5c8t/>
 
+Pederzani, S., Aldeias, V., Dibble, H.L. et al. Reconstructing Late Pleistocene paleoclimate at the scale of human behavior: an example from the Neandertal occupation of La Ferrassie (France). _Sci Rep_ 11, 1419 (2021). https://doi.org/10.1038/s41598-020-80777-1
+
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
 
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeol Anthropol Sci_ (2018). https://doi.org/10.1007/s12520-018-0617-7
