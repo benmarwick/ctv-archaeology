@@ -513,6 +513,8 @@ Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of mini
 
 Porčić, Marko, Blagojević Tamara, Pendić Jugoslav and Stefanović Sofija (2021) The Neolithic Demographic Transition in the Central Balkans: population dynamics reconstruction based on new radiocarbon evidence _Phil. Trans. R. Soc._ B37620190712 <http://doi.org/10.1098/rstb.2019.0712>
 
+Porčić, M., Blagojević, T., Pendić, J., & Stefanović, S. (2020). The timing and tempo of the Neolithic expansion across the Central Balkans in the light of the new radiocarbon evidence. _Journal of Archaeological Science: Reports_, 33, 102528. <https://doi.org/10.1016/j.jasrep.2020.102528>
+
 Porčić, M., Nikolić, M., 2016. The Approximate Bayesian Computation approach to reconstructing population dynamics and size from settlement data: demography of the Mesolithic-Neolithic transition at Lepenski Vir. _Archaeol Anthropol Sci_ 8, 169–186. https://doi.org/10.1007/s12520-014-0223-2
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., 2019. Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
