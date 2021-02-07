@@ -380,9 +380,11 @@ Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016) Paleoecology and Forager 
 
 Contreras, Daniel A., Joël Guiot, Romain Suarez, and Alan Kirman. (2018) "Reaching The Human Scale: A Spatial and Temporal Downscaling Approach To The Archaeological Implications Of Paleoclimate Data." _Journal of Archaeological Science_ 93:54-67.[doi:10.1016/j.jas.2018.02.013](https://doi.org/10.1016/j.jas.2018.02.013)
 
-Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” _Journal of Archaeological Science_ 52:591-608. [doi:10.1016/j.jas.2014.05.030] (http://www.sciencedirect.com/science/article/pii/S0305440314002088)
+Contreras, Daniel A. and John Meadows. (2014) “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” _Journal of Archaeological Science_ 52:591-608. [doi:10.1016/j.jas.2014.05.030](http://www.sciencedirect.com/science/article/pii/S0305440314002088)
 
 Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., 2018. Identifying social learning between Roman amphorae workshops through morphometric similarity. _Journal of Archaeological Science_ 96, 117–123. <https://doi.org/10.1016/j.jas.2018.06.002>,   <https://github.com/Mcotsar/LearningBaetica>
+
+Crema, E. R., and A. Bevan 2020 INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_ :1–17. https://doi.org/10.1017/RDC.2020.95
 
 Crema, E.R., Kandler, A., Shennan, S., 2016. Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions, _Scientific Reports_ 6, 39122.
 
