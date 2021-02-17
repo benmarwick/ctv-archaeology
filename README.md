@@ -598,7 +598,7 @@ Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobo
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
 
-Wang, L. and Marwick, B. (2020). Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. _Archaeological Research in Asia_. <https://doi.org/10.1016/j.ara.2020.100226> <https://.com/LiYingWang/kwl-ornaments> <https://osf.io/r8yga/>
+Wang, L. and Marwick, B. (2020). Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. _Archaeological Research in Asia_. <https://doi.org/10.1016/j.ara.2020.100226> <https://github.com/LiYingWang/kwl-ornaments> <https://osf.io/r8yga/>
 
 Weiss, Marcel. 2020. “The Lichtenberg Keilmesser - It’s All about the Angle.” _PLOS ONE_ 15(10): e0239718. <https://doi.org/10.1371/journal.pone.0239718>
 
