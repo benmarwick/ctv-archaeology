@@ -439,6 +439,8 @@ Graham, S., Gupta, N., Smith, J., Angourakis, A., Reinhard, A., Ellenberger, K.,
 
 Hageneuer, S. & Schmidt, S. C. (2019). Monumentality by numbers. In: Buccellati, F., Hageneuer, S., van der Heyden, S. & Levenson, F. (Eds.), _Size Matters - Understanding Monumentality Across Ancient Civilizations_. Bielefeld: transcript Verlag: 291-308. https://doi.org/10.14361/9783839445389-017
 
+Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The human experience of social transformation: Insights from comparative archaeology. _PLOS ONE_ 13(11): e0208060. https://doi.org/10.1371/journal.pone.0208060
+
 Hinz, M., (2020). Sensitivity of Radiocarbon Sum Calibration. _Journal of Computer Applications in Archaeology_, 3(1), pp.238–252. DOI: http://doi.org/10.5334/jcaa.53
 
 Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic technological blade strategies: an experimental investigation. Lithics–The Journal of the Lithic Studies Society, (39), 52. <http://journal.lithics.org/index.php/lithics/article/view/737> <https://osf.io/5v8xh/>
