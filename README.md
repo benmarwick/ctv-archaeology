@@ -393,6 +393,8 @@ Crema, E.R., K. Edinborough, T. Kerig, S.J. Shennan (2014). An Approximate Bayes
 
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507). 
 
+Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., 2021: Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
+
 Davis, D.S.; DiNapoli, R.J.; Douglass, K. (2020). Integrating Point Process Models, Evolutionary Ecology and Traditional Knowledge Improves Landscape Archaeology—A Case from Southwest Madagascar. _Geosciences_ , 10, 287.
 
 DiNapoli, R. J., Rieth, T. M., Lipo, C. P., & Hunt, T. L. (2020). A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). _Journal of Archaeological Science_, 105094.
