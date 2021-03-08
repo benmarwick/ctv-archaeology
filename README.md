@@ -189,6 +189,7 @@ Dissimilarity coefficients
 -    The [archSeries](https://github.com/davidcorton/archSeries) makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges
 -    The [ADMUR](https://github.com/UCL/ADMUR) package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
 - For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
+- [SPARTAAS](https://CRAN.R-project.org/package=SPARTAAS) Statistical pattern recognition and dating using archaeological artefacts assemblages. 
  
 
 **Evolution, phylogenetics, morphometrics, and shape analysis**
