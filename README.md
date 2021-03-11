@@ -366,6 +366,8 @@ Carney, M. and Davies, B., (2020). Agent-Based Modeling, Scientific Reproducibil
 
 Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
 
+Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Middle Paleolithic human settlement in westernmost Iberia. _Journal of Quaternary Science_ https://doi.org/10.1002/jqs.3286
+
 Cascalheira, João. (2019). Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe. _PloS one_, 14(12). https://doi.org/10.1371/journal.pone.0225828
 
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin (2015). The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
