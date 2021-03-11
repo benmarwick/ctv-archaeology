@@ -348,6 +348,8 @@ Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans
 
 Brunner M, von Felten J, Hinz M, Hafner A (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE 15(12): e0243719. https://doi.org/10.1371/journal.pone.0243719
 
+Bustos-Pérez, G., Baena, J., (2021). Predicting Flake Mass: A View from Machine Learning. _Lithic Technology_ 14. https://doi.org/10.1080/01977261.2021.1881267
+
 Calandra, I., Schunk, L., Bob, K., Gneisinger, W., Pedergnana, A., Paixao, E., ... & Marreiros, J. (2019). The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility. _Scientific reports_, 9(1), 1-10. <https://doi.org/10.1038/s41598-019-42713-w>
 
 Calandra I., Schunk, L., Rodriguez, A., Gneisinger, W., Pedergnana, A., Paixao, E., Marreiros, J. (2019). Back to the edge: relative coordinate system for use-wear analysis. _Archaeological and Anthropological Sciences_. <https://doi.org/10.1007/s12520-019-00801-y> 
