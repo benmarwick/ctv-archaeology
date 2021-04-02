@@ -475,6 +475,8 @@ Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-p
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
 
+Lewis, J. (2021). Probabilistic Modelling for Incorporating Uncertainty in Least Cost Path Results: A Postdictive Roman Road Case Study. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-021-09522-w
+
 Lewis, J. (2020). Visibility of the Gask Ridge road from simulated Watchtowers: A Monte Carlo testing approach. Journal of Archaeological Science: Reports, 33, 102482. https://doi.org/10.1016/j.jasrep.2020.102482
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
