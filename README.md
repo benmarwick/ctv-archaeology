@@ -471,7 +471,7 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 
 Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
-Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. doi:10.1371/journal.pone.0244871
+Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. <doi:10.1371/journal.pone.0244871>
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
 
@@ -527,6 +527,8 @@ Palmisano, A. (2017). Confronting scales of settlement hierarchy in state-level 
 
 Palmisano, A., Bevan, A., & Shennan, S. (2017). Comparing archaeological proxies for long-term population patterns: An example from central Italy. _Journal of Archaeological Science_, 87, 59-72. <https://doi.org/10.1016/j.jas.2017.10.001>
 
+Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies. Quaternary Science Reviews, 252, 106739. <https://doi.org/10.1016/j.quascirev.2020.106739>
+
 Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
 
 Pargeter, J., Khreisheh, N., & Stout, D. (2019). Understanding stone tool-making skill acquisition: Experimental methods and evolutionary implications. _Journal of Human Evolution_, 133, 146-166. <https://osf.io/h5c8t/>
@@ -565,6 +567,8 @@ Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South Ame
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
+Roberts, N., Woodbridge, J., Bevan, A., Palmisano, A., Shennan, S., & Asouti, E. (2018). Human responses and non-responses to climatic variations during the last Glacial-Interglacial transition in the eastern Mediterranean. Quaternary Science Reviews, 184, 47-67. <https://doi.org/10.1016/j.quascirev.2017.09.011>
+
 Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021). Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
 
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021). Population density and size facilitate interactive capacity and the rise of the state _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190725 http://doi.org/10.1098/rstb.2019.0725
@@ -598,6 +602,8 @@ Silva, F., (2020). A probabilistic framework and significance test for the analy
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016). "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903> 
 
 Stewart, M., Carleton, W.C. & Groucutt, H.S. (2021). Climate change, not human population growth, correlates with Late Quaternary megafauna declines in North America. _Nature communications_ 12, 965 https://doi.org/10.1038/s41467-021-21201-8
+
+Stoddart, S., Palmisano, A.,Redhouse, D., Barker, G., di Paola, G., Motta, L., Rasmussen, T., Samuels, T. & Witcher, R. (2020). Patterns of EtruscanUrbanism. Front. Digit. Humanit. 7:1. <https://doi.org/10.3389/fdigh.2020.00001>
 
 Strawhacker, C., Snitker, G., Peeples, M. A., Kinzig, A. P., Kintigh, K. W., Bocinsky, K., ... & Sandor, J. A. (2020). A Landscape Perspective on Climate-Driven Risks to Food Security: Exploring the Relationship between Climate and Social Transformation in the Prehispanic US Southwest. _American Antiquity_, 85(3), 427-451.  <https://doi.org/10.1017/aaq.2020.35> <https://github.com/gsnitker/LTVTP> <https://core.tdar.org/collection/14044/long-term-vulnerability-and-transformation-project-ltvtp-documents-and-data>
 
