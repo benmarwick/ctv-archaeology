@@ -207,6 +207,7 @@ Dissimilarity coefficients
 -   [EBImage](http://www.bioconductor.org/packages/release/bioc/html/EBImage.html) (requires ImageMagick) provides general purpose functionality for the reading, writing, processing and analysis of images (and is very well documented). Various functions for image processing and analysis can also be found in [ripa](http://cran.rstudio.com/web/packages/ripa/index.html) and [imager](https://github.com/dahtah/imager)
 -   [magick](https://github.com/jeroenooms/magick) provides bindings to the [ImageMagick image-processing library](http://www.imagemagick.org/), the most comprehensive open-source image processing package available.
 -   [iconr](https://cran.r-project.org/web/packages/iconr) analysis of Prehistoric Iconography, considers any iconographic composition (‘decoration’) as a geometric graph of graphical units (GUs)
+-   [outlineR](https://github.com/yesdavid/outlineR) An R package to derive outline shapes from (multiple) artefacts on JPEG images
 
 **Simulations**
 
