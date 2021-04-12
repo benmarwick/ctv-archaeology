@@ -522,6 +522,8 @@ Negre, J., Muñoz, F., & Barceló, J. A. (2017). A Cost-Based Ripley’s K Funct
 
 Negre, J., Muñoz, F., Lancelotti, C., (2016). Geostatistical modelling of chemical residues on archaeological floors in the presence of barriers, _Journal of Archaeological Science_ 70, 91-101. https://github.com/famuvie/ArchaeologicalFloors
 
+Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Takakura, J., Yamaoka, T., Noguchi, A., Kondo, Y., & Kobayashi, Y. (2021). Spatiotemporal variability in lithic technology of Middle-to-Upper Paleolithic Asia: A new dataset and its statistical analyses. Quaternary International. https://doi.org/10.1016/j.quaint.2021.03.022
+
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
 Palmisano, A. (2017). Confronting scales of settlement hierarchy in state-level societies: Upper Mesopotamia and Central Anatolia in the Middle Bronze Age. _Journal of Archaeological Science: Reports_, 14, 220-240. <https://doi.org/10.1016/j.jasrep.2017.05.029>
