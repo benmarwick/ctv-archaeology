@@ -548,6 +548,8 @@ Porčić, M., Nikolić, M., (2016). The Approximate Bayesian Computation approac
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., (2019). Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
+Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 (2021). https://doi.org/10.1038/s41467-021-22506-4
+
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
 Reeves, J. S., McPherron, S. P., Aldeias, V., Dibble, H. L., Goldberg, P., Sandgathe, D., & Turq, A. (2019). Measuring spatial structure in time-averaged deposits insights from Roc de Marsal, France. Archaeological and Anthropological Sciences. <https://doi.org/10.1007/s12520-019-00871-y>
