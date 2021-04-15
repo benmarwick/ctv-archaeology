@@ -376,6 +376,10 @@ Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Mi
 
 Cascalheira, João. (2019). Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe. _PloS one_, 14(12). https://doi.org/10.1371/journal.pone.0225828
 
+Cheung, C., & Szpak, P. (2020). Interpreting Past Human Diets Using Stable Isotope Mixing Models. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-020-09492-5>
+
+Cheung, C., & Szpak, P. (2021). Interpreting Past Human Diets Using Stable Isotope Mixing Models—Best Practices for Data Acquisition. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-021-09514-w>
+
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin (2015). The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
 Cochrane, E. E., Tautunu, A. A. M. M., & DiNapoli, R. J. (2019). Hypotheses to explain the few early coastal archaeological deposits in Sāmoa: Preliminary evaluations. _Journal of Archaeological Science: Reports_, 26, 101931. <https://doi.org/10.17608/k6.auckland.7647218>
