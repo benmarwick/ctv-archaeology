@@ -394,6 +394,8 @@ Contreras, Daniel A., Joël Guiot, Romain Suarez, and Alan Kirman. (2018). "Reac
 
 Contreras, Daniel A. and John Meadows. (2014). “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” _Journal of Archaeological Science_ 52:591-608. [doi:10.1016/j.jas.2014.05.030](http://www.sciencedirect.com/science/article/pii/S0305440314002088)
 
+Coto-Sarmiento, M. & Rubio-Campillo, X. (2021): The tracing of trade: Exploring the patterns of olive oil production and distribution from Roman Baetica. Archaelogical and Anthropological Sciences,13,70. <https://doi.org/10.1007/s12520-021-01305-4>
+
 Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., (2018). Identifying social learning between Roman amphorae workshops through morphometric similarity. _Journal of Archaeological Science_ 96, 117–123. <https://doi.org/10.1016/j.jas.2018.06.002>,   <https://github.com/Mcotsar/LearningBaetica>
 
 Crema, E. R., and A. Bevan (2020). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_ :1–17. https://doi.org/10.1017/RDC.2020.95
