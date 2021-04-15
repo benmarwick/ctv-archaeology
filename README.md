@@ -366,6 +366,8 @@ Carleton, W. C. , J. Conolly, and G. Iannone (2012). A locally-adaptive model of
 
 Carleton, W., McCauley, B., Costopoulos, A., & Collard, M. (2018). An evolutionary agent-based model contradicts Dunnell’s version of the waste hypothesis for cultural elaboration. <https://doi.org/10.31235/osf.io/2h36u> <https://github.com/wccarleton/abm_waste>
 
+Carney, M., Tushingham, S., McLaughlin, T., & d’Alpoim Guedes, J. (2021). Harvesting strategies as evidence for 4000 years of camas (Camassia quamash) management in the North American Columbia Plateau. _Royal Society Open Science_ 8(4), 202213. <https://doi.org/10.1098/rsos.202213> <https://github.com/mollyrcarney/POV_camas_management>
+
 Carney, M. and Davies, B., (2020). Agent-Based Modeling, Scientific Reproducibility, and Taphonomy: A Successful Model Implementation Case Study. _Journal of Computer Applications in Archaeology_ 3(1), pp.182–196. DOI: <http://doi.org/10.5334/jcaa.52> <https://zenodo.org/record/3761900>
 
 Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
