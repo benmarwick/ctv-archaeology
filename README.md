@@ -446,6 +446,8 @@ González-Molina I, Jiménez-García B, Maíllo-Fernández JM, Baquedano E, Dom�
 
 Graham, S., Gupta, N., Smith, J., Angourakis, A., Reinhard, A., Ellenberger, K., Batist, Z., Rivard, J., Marwick, B., Carter, M., Compton, B., Blades, R., Wood, C., Nobles, G. (2019). _The Open Digital Archaeology Textbook_ <https://o-date.github.io/> Code notebooks and repositories, and text source at <https://github.com/o-date>
 
+Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W. (2021). Exploring variability in lithic armature discard in the archaeological record. _Journal of Human Evolution_, 155, 102981. <https://doi.org/10.1016/j.jhevol.2021.102981>
+
 Hageneuer, S. & Schmidt, S. C. (2019). Monumentality by numbers. In: Buccellati, F., Hageneuer, S., van der Heyden, S. & Levenson, F. (Eds.), _Size Matters - Understanding Monumentality Across Ancient Civilizations_. Bielefeld: transcript Verlag: 291-308. https://doi.org/10.14361/9783839445389-017
 
 Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The human experience of social transformation: Insights from comparative archaeology. _PLOS ONE_ 13(11): e0208060. https://doi.org/10.1371/journal.pone.0208060
