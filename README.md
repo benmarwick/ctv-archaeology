@@ -432,6 +432,8 @@ Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stra
 
 Edinborough, K., Porčić, M., Martindale, A., Brown, T. J., Supernant, K., & Ames, K. M. (2017). Radiocarbon test for demographic events in written and oral history. _Proceedings of the National Academy of Sciences_, 114(47), 12436-12441. <https://doi.org/10.1073/pnas.1713012114>
 
+Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz, D. Fuller, J. Gill, J. Kaplan, N. Kingston, H. Locke, C. McMichael, D. Ranco, T. Rick, M.R. Shaw, L. Stephens, J.C. Svenning, J.E.M. Watson, (2021). People have shaped most of terrestrial nature for at least 12,000 years. _PNAS_. https://doi.org/10.1073/pnas.2023483118
+
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8> 
