@@ -358,7 +358,7 @@ Calandra, I., Schunk, L., Bob, K., Gneisinger, W., Pedergnana, A., Paixao, E., .
 
 Calandra I., Schunk, L., Rodriguez, A., Gneisinger, W., Pedergnana, A., Paixao, E., Marreiros, J. (2019). Back to the edge: relative coordinate system for use-wear analysis. _Archaeological and Anthropological Sciences_. <https://doi.org/10.1007/s12520-019-00801-y> 
 
-Cardillo, M., & Charlin, J. (2018). Phylogenetic analysis of stemmed points from Patagonia: Shape change and morphospace evolution. _Journal of Lithic Studies_, 5(2). <https://doi.org/10.2218/jls.2797> data & code: <https://doi.org/10.2218/jls.v5i2>
+Cardillo, M., & Charlin, J. (2018). Phylogenetic analysis of stemmed points from Patagonia: Shape change and morphospace evolution. _Journal of Lithic Studies_, 5(2). <https://doi.org/10.2218/jls.2797> data & code: https://zenodo.org/record/4670467
 
 Cardillo, Marcelo, Scartascini Federico Luis and Zangrando Atilio Francisco (2015). Combining morphological and metric variations in the study of design and functionality in stone weights. A comparative approach from continental and insular Patagonia, Argentina. _Journal of Archaeological Science: Reports_ 4:578-587. <https://doi.org/10.1016/j.jasrep.2015.10.030>
 
