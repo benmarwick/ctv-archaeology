@@ -488,6 +488,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 
 Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
+Lancelotti C, Martinez-Sánchez R, Vera-Rodríguez JC, Pérez-Jordà G, Peña-Chocarro L, Biagetti S, Madella M. (2021). Phytolith analyses from Khil and Kaf Taht el-Ghar (Western Maghreb): Plant use trajectories in a long-term perspective. _Journal of Archaeological Science: Reports_, 37, 102921.
+
 Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. <doi:10.1371/journal.pone.0244871>
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
