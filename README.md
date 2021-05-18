@@ -492,6 +492,8 @@ Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and 
 
 Lancelotti, C. (2018). Not all that burns is wood. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC). _PLoS One_ 2018; 13(3): e0192364.
 
+Lancelotti C, Ruiz-Pérez J, García-Granero JJ. 2017. Investigating fuel and fireplaces with a combination of phytoliths and multi-element analysis: an ethnographic experiment. _Vegetation History and Archaeobotany_ 26:75-83.
+
 Lancelotti C, Martinez-Sánchez R, Vera-Rodríguez JC, Pérez-Jordà G, Peña-Chocarro L, Biagetti S, Madella M. (2021). Phytolith analyses from Khil and Kaf Taht el-Ghar (Western Maghreb): Plant use trajectories in a long-term perspective. _Journal of Archaeological Science: Reports_, 37, 102921.
 
 Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. <doi:10.1371/journal.pone.0244871>
