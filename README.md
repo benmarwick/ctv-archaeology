@@ -328,6 +328,8 @@ Benjamin J, O’Leary M, McDonald J, Wiseman C, McCarthy J, Beckett E, et al. (2
 
 Bevan A. and Crema E. R. (2021). Modifiable reporting unit problems and time series of long-term human activity. _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190726 <http://doi.org/10.1098/rstb.2019.0726>
 
+Biagetti S, Alcaina-Mateos J, Ruiz-Giralt A, Lancelotti C, Groenewald P, Ibañez-Insa J, et al. (2021). Identifying anthropogenic features at Seoke (Botswana) using pXRF: Expanding the record of southern African Stone Walled Sites. _PLoS ONE_ 16(5): e0250776. https://doi.org/10.1371/journal.pone.0250776
+
 Biagetti, S., Alcaina-Mateos, J., Crema, E.R., (2016). A matter of ephemerality: the study of Kel Tadrart Tuareg (southwest Libya) campsites via quantitative spatial analysis. Ecology and Society 21. https://doi.org/10.5751/ES-08202-210142 [GitHub repo](https://github.com/ercrema/a_matter_of_ephemerality).
 
 Bicho, N. and Cascalheira, J. (2018). The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
