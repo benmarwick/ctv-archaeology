@@ -404,6 +404,8 @@ Coto-Sarmiento, M. & Rubio-Campillo, X. (2021): The tracing of trade: Exploring 
 
 Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., (2018). Identifying social learning between Roman amphorae workshops through morphometric similarity. _Journal of Archaeological Science_ 96, 117–123. <https://doi.org/10.1016/j.jas.2018.06.002>,   <https://github.com/Mcotsar/LearningBaetica>
 
+Crema ER, Shoda S (2021). A Bayesian approach for fitting and comparing demographic growth models of radiocarbon dates: A case study on the Jomon-Yayoi transition in Kyushu (Japan). _PLOS ONE_ 16(5): e0251695. https://doi.org/10.1371/journal.pone.0251695
+
 Crema, E. R., and A. Bevan (2020). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_ :1–17. https://doi.org/10.1017/RDC.2020.95
 
 Crema, E.R., Kandler, A., Shennan, S., (2016). Revealing patterns of cultural transmission from frequency data: equilibrium and non-equilibrium assumptions, _Scientific Reports_ 6, 39122.
