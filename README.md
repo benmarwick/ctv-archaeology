@@ -338,6 +338,8 @@ Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Sa
 
 Birch, T. and M. Martinón-Torres (2019). Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_ 101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
 
+Blinkhorn, J., Groucutt, H.S., Scerri, E.M.L. et al. (2021). Directional changes in Levallois core technologies between Eastern Africa, Arabia, and the Levant during MIS 5. _Scientific Reports_ 11, 11465 (2021). https://doi.org/10.1038/s41598-021-90744-z
+
 Borck, L., Athenstädt, J.C., Cheromiah, L.A., Aragon, L.D., Brandes, U. and Hofman, C.L., (2020). Plainware and Polychrome: Quantifying Perceptual Differences in Ceramic Classification Between Diverse Groups to Further a Strong Objectivity. Journal of Computer Applications in Archaeology, 3(1), pp.135–150. DOI: <http://doi.org/10.5334/jcaa.37>
 
 Bradshaw, C. J. A., Norman, K., Ulm, S., Williams, A. N., Clarkson, C., Chadœuf, J., Lin, S. C., Jacobs, Z., Roberts, R. G., Bird, M. I., Weyrich, L. S., Haberle, S. G., O’Connor, S., Llamas, B., Cohen, T. J., Friedrich, T., Veth, P., Leavesley, M., & Saltré, F. (2021). Stochastic models support rapid peopling of Late Pleistocene Sahul. Nature Communications, 12(1), 2440. https://doi.org/10.1038/s41467-021-21551-3
