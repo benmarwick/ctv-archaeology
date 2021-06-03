@@ -584,6 +584,8 @@ Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extin
 
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
+Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
+
 Reese, K. M. (2020). Check dam agriculture on the mesa verde cuesta. Journal of Archaeological Science: Reports, 31, 102372.
 
 Reese, K., Glowacki, D., & Kohler, T. (2019). Dynamic Communities on the Mesa Verde Cuesta. American Antiquity, 84(4), 728-747. doi:10.1017/aaq.2019.74
