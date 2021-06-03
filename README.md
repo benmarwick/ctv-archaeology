@@ -572,6 +572,8 @@ Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturali
 
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
 
+Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
+
 Porčić, Marko, Blagojević Tamara, Pendić Jugoslav and Stefanović Sofija (2021). The Neolithic Demographic Transition in the Central Balkans: population dynamics reconstruction based on new radiocarbon evidence _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190712 <http://doi.org/10.1098/rstb.2019.0712>
 
 Porčić, M., Blagojević, T., Pendić, J., & Stefanović, S. (2020). The timing and tempo of the Neolithic expansion across the Central Balkans in the light of the new radiocarbon evidence. _Journal of Archaeological Science: Reports_, 33, 102528. <https://doi.org/10.1016/j.jasrep.2020.102528>
