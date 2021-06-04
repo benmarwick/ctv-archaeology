@@ -442,7 +442,7 @@ Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stra
 
 Edinborough, K., Porčić, M., Martindale, A., Brown, T. J., Supernant, K., & Ames, K. M. (2017). Radiocarbon test for demographic events in written and oral history. _Proceedings of the National Academy of Sciences_, 114(47), 12436-12441. <https://doi.org/10.1073/pnas.1713012114>
 
-Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz, D. Fuller, J. Gill, J. Kaplan, N. Kingston, H. Locke, C. McMichael, D. Ranco, T. Rick, M.R. Shaw, L. Stephens, J.C. Svenning, J.E.M. Watson, (2021). People have shaped most of terrestrial nature for at least 12,000 years. _PNAS_. https://doi.org/10.1073/pnas.2023483118
+Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz, D. Fuller, J. Gill, J. Kaplan, N. Kingston, H. Locke, C. McMichael, D. Ranco, T. Rick, M.R. Shaw, L. Stephens, J.C. Svenning, J.E.M. Watson, (2021). People have shaped most of terrestrial nature for at least 12,000 years. _Proceedings of the National Academy of Sciences_. https://doi.org/10.1073/pnas.2023483118
 
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
@@ -642,7 +642,7 @@ Sinensky, R. J., and A. Farahani. (2018). DIVERSITY-DISTURBANCE RELATIONSHIPS IN
 
 Silva, F., (2020). A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
 
-Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeol Anthropol Sci 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
+Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeological and Anthropological Sciences 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016). "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903> 
 
