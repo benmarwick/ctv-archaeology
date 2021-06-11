@@ -1,5 +1,5 @@
 CRAN Task View: Archaeological Science
----------------------------------
+--------------------------------------
 
 <table>
 <colgroup>
