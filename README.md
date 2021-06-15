@@ -452,6 +452,8 @@ Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, 
 
 Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis (MCA): An Innovative way of Examining Questions in Archaeology Using Ethnographic Data. _Advances in Archaeological Practice_, 6(4), 328-341. http://doi.org/10.1017/aap.2018.9
 
+Garland, N. (2021). TRAC at 30: A Bibliometric Analysis of the TRAC Community. _Theoretical Roman Archaeology Journal_, 4(1), Article 1. https://doi.org/10.16995/traj.4344
+
 Garvey, Raven. (2018). Current and potential roles of archaeology in the development of cultural evolutionary theory. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170057. https://doi.org/10.1098/rstb.2017.0057 <https://dx.doi.org/10.6084/m9.figshare.c.3965853>
 
 Gauthier, Nicolas (2021). Hydroclimate variability influenced social interaction in the prehistoric american southwest. _Frontiers in Earth Science_ 8:713. DOI:10.3389/feart.2020.620856.
