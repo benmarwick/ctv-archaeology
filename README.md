@@ -562,6 +562,8 @@ Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Taka
 
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
+Paixão, E., Marreiros, J., Dubreuil, L., Gneisinger, W., Carver, G., Prévost, M., & Zaidner, Y. (2021). The Middle Paleolithic ground stones tools of Nesher Ramla unit V (Southern Levant): A multi-scale use-wear approach for assessing the assemblage functional variability. Quaternary International. https://doi.org/10.1016/j.quaint.2021.06.009
+
 Palmisano, A. (2017). Confronting scales of settlement hierarchy in state-level societies: Upper Mesopotamia and Central Anatolia in the Middle Bronze Age. _Journal of Archaeological Science: Reports_, 14, 220-240. <https://doi.org/10.1016/j.jasrep.2017.05.029>
 
 Palmisano, A., Bevan, A., & Shennan, S. (2017). Comparing archaeological proxies for long-term population patterns: An example from central Italy. _Journal of Archaeological Science_, 87, 59-72. <https://doi.org/10.1016/j.jas.2017.10.001>
