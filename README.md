@@ -460,6 +460,8 @@ Garvey, Raven. (2018). Current and potential roles of archaeology in the develop
 
 Gauthier, Nicolas (2021). Hydroclimate variability influenced social interaction in the prehistoric american southwest. _Frontiers in Earth Science_ 8:713. DOI:10.3389/feart.2020.620856.
 
+Giomi, E., Mills, B. J., Aragon, L. D., Bellorado, B. A., & Peeples, M. A. (2021). Reading between the Lines: The Social Value of Dogoszhi Style in the Chaco World. _American Antiquity_, 1–24. https://doi.org/10.1017/aaq.2021.50
+
 Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A., … Harvati, K. (2019). Recursive anisotropy: a spatial taphonomic study of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi, Mygdonia Basin, Greece. _Boreas_, 48(3), 713--730. https://doi.org/10.1111/bor.12368
 
 Giusti, D., Tourloukis, V., Konidaris, G., Thompson, N., Karkanas, P., Panagopoulou, E., & Harvati, K. (2018). Beyond maps: patterns of formation processes at the Middle Pleistocene open-air site of Marathousa 1, Megalopolis Basin, Greece. _Quaternary International_ 497, 137--153 <https://doi.org/10.1016/j.quaint.2018.01.041>
