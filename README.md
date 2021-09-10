@@ -387,6 +387,8 @@ Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploit
 
 Brown, A., & Crema, E. (2019). Maori Population Growth in Pre-contact New Zealand: regional population dynamics inferred from summed probability distributions of radiocarbon dates. _The Journal of Island and Coastal Archaeology_ <https://doi-org/10.1080/15564894.2019.1605429> <https://zenodo.org/record/2250314>
 
+Brownlee, E. (2021). Grave Goods in Early Medieval Europe: regional variability and decline, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.11
+
 Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans and megafauna suggest mixed causes for North American Pleistocene extinctions. Nature communications, 9(1), 5441. https://doi.org/10.1038/s41467-018-07897-1
 
 Brunner M, von Felten J, Hinz M, Hafner A (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE 15(12): e0243719. https://doi.org/10.1371/journal.pone.0243719
