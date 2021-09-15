@@ -633,6 +633,8 @@ Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., L
 
 Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 (2021). https://doi.org/10.1038/s41467-021-22506-4
 
+Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-to-End Bayesian Analysis for Summarizing Sets of Radiocarbon Dates. _Journal of Archaeological Science_ 135: 105473. https://doi.org/10.1016/j.jas.2021.105473
+
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
 Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
