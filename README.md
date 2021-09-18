@@ -215,6 +215,7 @@ Dissimilarity coefficients
 - See the [Environmetrics](http://cran.r-project.org/web/views/Environmetrics.html) task view for more.
 
 ## Dating
+
 -    Radiocarbon dates can be calibrated using [Bchron](http://cran.rstudio.com/web/packages/Bchron/index.html) with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    [rcarbon](https://github.com/ahb108/rcarbon) for basic calibration, modelling, hypothesis testing
 -    Bayesian age-depth modelling of radiocarbon dates is also available in [Bacon](http://chrono.qub.ac.uk/blaauw/bacon.html), and [clam](http://chrono.qub.ac.uk/blaauw/) contains functions for "classical", non-Bayesian age-depth modelling. These are not R packages, but [clam](https://github.com/SimonGoring/clam) has been packaged for easy use.
@@ -271,6 +272,7 @@ Dissimilarity coefficients
 -   [packrat](http://cran.rstudio.com/web/packages/packrat/index.html) supports the development of isolated, stand-alone projects that include all the packages used and their dependencies. [miniCRAN](http://cran.rstudio.com/web/packages/miniCRAN/index.html) has functions to create a local repository to install packages (and their dependancies) from without internet access. Related packages include [rbundler](http://cran.rstudio.com/web/packages/rbundler/index.html) for package development which manages dependencies listed in a package's DESCRIPTION file by storing them in a local project-specific library for installation, and [pkgsnap](https://github.com/MangoTheCat/pkgsnap) for creating a snapshot of your installed CRAN packages with 'snap', and then using 'restore' on another system to recreate exactly the same environment.
 -   [checkpoint](http://cran.rstudio.com/web/packages/checkpoint/index.html) allows you to install R packages from a specific snapshot date in the past, ensuring that you use the same package version that you started with, not a more recent one (related: [gRAN](https://github.com/rgmbecker/gRAN) can retrieve and build sources for any version of any non-base package that has ever been released on CRAN or BioConductor).
 -   [rocker](https://github.com/rocker-org/rocker) is a project that provides Docker containers to run R in a lightweight virtual environment, the hadleyverse container includes dplyr, ggplot2, etc., as well as RStudio server and LaTeX. The package [harbor](https://github.com/wch/harbor) provides functions for controlling docker containers on local and remote hosts. The [analogsea](https://github.com/sckott/analogsea) package has functions for deploying R and RStudio quickly & easily on DigitalOcean clusters using Docker images for cloud computing. The [dockertest](https://github.com/richfitz/dockertest) package contains functions for generating Dockerfiles from R packages and other R projects, and building Docker containers that contains all the package dependencies. [liftr](https://CRAN.R-project.org/package=liftr) helps with persistent reproducible reporting by containerization of R Markdown documents.
+
 ### Writing Reproducible manuscripts
 
 -  [rrtools](https://github.com/benmarwick/rrtools), is a package that provides instructions, templates, and functions for making a basic compendium suitable for writing reproducible research reports and articles with R.
@@ -296,6 +298,7 @@ Dissimilarity coefficients
 
 -   [archdata](http://cran.rstudio.com/web/packages/archdata/index.html) contains eleven archaeological datasets from around the world reported in published studies. These represent typical forms of archaeological data (and so are useful for teaching)
 -   [binford](https://github.com/benmarwick/binford) contains more than 200 variables coding aspects of hunter-gatherer subsistence, mobility, and social organization for 339 ethnographically documented groups of hunter-gatherers, as used in Binford (2001) _Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets_
+- [bioanth](https://github.com/geanes/bioanth) contains three osteometric datasets useful for biological and forensic anthropology.
 -  [BSDA](http://cran.rstudio.com/web/packages/BSDA/index.html) contains a dataset of 60 radiocarbon ages of observations taken from an archaeological site with four phases of occupation.
 -  [cawd](https://github.com/sfsheath/cawd) contains 15 datasets of ancient Greek, Roman and Persian maps and digital atlas data
 -  [chemometrics](http://cran.rstudio.com/web/packages/chemometrics/index.html) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
@@ -735,4 +738,4 @@ Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F.
 
 ## Contributors
 
-[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang)
+[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy)
