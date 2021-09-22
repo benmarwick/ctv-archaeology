@@ -588,6 +588,8 @@ Marwick, B., (2013). Multiple Optima in Hoabinhian flaked stone artefact palaeoe
 
 Marwick, B. (2013). Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) _Data Mining Applications with R_ Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
+Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27 (2021). <https://doi.org/10.1007/s41982-021-00097-2>
+
 McLaughlin, T. Rowan, Gómez-Puche Magdalena, Cascalheira João, Bicho Nuno and Fernández-López de Pablo Javier (2021). Late Glacial and Early Holocene human demographic responses to climatic and environmental change in Atlantic Iberia _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190724 <http://doi.org/10.1098/rstb.2019.0724>
 
 McLaughlin, T.R. (2018). On Applications of Space–Time Modelling with Open-Source 14C Age Calibration. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-018-9381-3>
