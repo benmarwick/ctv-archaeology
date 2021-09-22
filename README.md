@@ -622,6 +622,8 @@ Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Ra
 
 Pargeter, J., Khreisheh, N., & Stout, D. (2019). Understanding stone tool-making skill acquisition: Experimental methods and evolutionary implications. _Journal of Human Evolution_, 133, 146-166. <https://osf.io/h5c8t/>
 
+Pederzani, Sarah, Kate Britton, Vera Aldeias, et al. (2021). Subarctic Climate for the Earliest Homo Sapiens in Europe. _Science Advances_ 7(39).   <https://doi.org/10.1126/sciadv.abi4642>
+
 Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Pleistocene paleoclimate at the scale of human behavior: an example from the Neandertal occupation of La Ferrassie (France). _Scientific Reports_ 11, 1419  https://doi.org/10.1038/s41598-020-80777-1
 
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
