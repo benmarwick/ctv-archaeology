@@ -628,6 +628,8 @@ Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Plei
 
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
 
+Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using Georeferenced Survey Simulation: An R package for subsurface survey. _PLoS ONE_ 16(9): e0257386. doi:10.1371/journal.pone.0257386
+
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
 
 Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
