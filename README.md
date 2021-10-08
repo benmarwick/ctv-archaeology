@@ -708,6 +708,8 @@ Sinensky, R. J., and A. Farahani. (2018). DIVERSITY-DISTURBANCE RELATIONSHIPS IN
 
 Silva, F., (2020). A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
 
+Smith, G. R. Spasov, N. L. Martisius, V. Sinet-Mathiot, V. Aldeias, et al. (2021). Subsistence behavior during the Initial Upper Paleolithic in Europe: Site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria), Journal of Human Evolution, Volume 161, 2021, 103074, https://doi.org/10.1016/j.jhevol.2021.103074
+
 Spake, L., Cardoso, H.F.V. (2021). Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. _International Journal of Osteoarchaeology_ 31:232-242. <https://osf.io/c2x7k/> 
 
 Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeological and Anthropological Sciences 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
