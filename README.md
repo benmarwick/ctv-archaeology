@@ -436,6 +436,8 @@ Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spat
 
 Coco, E., Holdaway, S. & Iovita, R. (2020). The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. _Journal of Paleolithic Archaeology_  <https://doi.org/10.1007/s41982-020-00055-4>
 
+Conrad, C., R. Shoocongdej, B. Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ https://doi.org/10.15184/aqy.2021.44
+
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016). Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
 
 Contreras, Daniel A., Joël Guiot, Romain Suarez, and Alan Kirman. (2018). "Reaching The Human Scale: A Spatial and Temporal Downscaling Approach To The Archaeological Implications Of Paleoclimate Data." _Journal of Archaeological Science_ 93:54-67.[doi:10.1016/j.jas.2018.02.013](https://doi.org/10.1016/j.jas.2018.02.013)
@@ -469,6 +471,8 @@ DiNapoli, R. J., Rieth, T. M., Lipo, C. P., & Hunt, T. L. (2020). A model-based 
 DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. E., & Becker, M. (2019). Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLOS ONE, 14(1), e0210409. https://doi.org/10.1371/journal.pone.0210409
 
 Dombrosky, J. (2020). A ~1000-year 13C Suess correction model for the study of past ecosystems. _The Holocene_, 30(3), 474–478. https://doi.org/10.1177/0959683619887416
+
+Dosseto, A,. and B. Marwick (2022). UThwigl — An R Package for Closed- and Open-System Uranium–Thorium Dating. _Quaternary Geochronology_ 67: 101235 https://doi.org/10.1016/j.quageo.2021.101235 
 
 Drake BL, Wills WH, Hamilton MI, Dorshow W (2014). Strontium Isotopes and the Reconstruction of the Chaco Regional System: Evaluating Uncertainty with Bayesian Mixing Models. PLoS ONE 9(5): e95580. [doi:10.1371/journal.pone.0095580](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
 
@@ -735,6 +739,8 @@ Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. (2015). “Toward a Theory of 
 Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes: testing and describing the spread of the Neolithic in the Balkans _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620200231 http://doi.org/10.1098/rstb.2020.0231
 
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
+
+Wang, Li-Ying, and Ben Marwick (2021). A Bayesian Networks Approach to Infer Social Changes from Burials in Northeastern Taiwan during the European Colonization Period. _Journal of Archaeological Science_ 134: 105471.
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
 
