@@ -620,6 +620,8 @@ Palmisano, A., Bevan, A., & Shennan, S. (2017). Comparing archaeological proxies
 
 Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies. Quaternary Science Reviews, 252, 106739. <https://doi.org/10.1016/j.quascirev.2020.106739>
 
+Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _J World Prehist_ (2021). https://doi.org/10.1007/s10963-021-09159-3
+
 Parkinson, E.W., McLaughlin, T.R., Esposito, C. et al. (2021). Radiocarbon Dated Trends and Central Mediterranean Prehistory. _J World Prehist_. https://doi.org/10.1007/s10963-021-09158-4
 
 Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
