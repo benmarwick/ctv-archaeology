@@ -602,6 +602,8 @@ McLaughlin, T. Rowan, Gómez-Puche Magdalena, Cascalheira João, Bicho Nuno and 
 
 McLaughlin, T.R. (2018). On Applications of Space–Time Modelling with Open-Source 14C Age Calibration. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-018-9381-3>
 
+McPherron, Shannon P., Will Archer, Erik R. Otárola-Castillo, Melissa G. Torquato, and Trevor L. Keevil (2021). Machine Learning, Bootstrapping, Null Models, and Why We Are Still Not 100% Sure Which Bone Surface Modifications Were Made by Crocodiles. _Journal of Human Evolution_ 103071. <https://doi.org/10.1016/j.jhevol.2021.103071>
+
 McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandžić, T., ... & Reeves, J. (2020). Introducing platform surface interior angle (PSIA) and its role in flake formation, size and shape. Plos one, 15(11), e0241714. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241714>
 
 McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
