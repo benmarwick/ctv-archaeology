@@ -380,6 +380,8 @@ Blinkhorn, J., Groucutt, H.S., Scerri, E.M.L. et al. (2021). Directional changes
 
 Borck, L., Athenstädt, J.C., Cheromiah, L.A., Aragon, L.D., Brandes, U. and Hofman, C.L., (2020). Plainware and Polychrome: Quantifying Perceptual Differences in Ceramic Classification Between Diverse Groups to Further a Strong Objectivity. Journal of Computer Applications in Archaeology, 3(1), pp.135–150. DOI: <http://doi.org/10.5334/jcaa.37>
 
+Bourgon, N., K. Jaouen, A-M. Bacon, et al. (2021).Trophic Ecology of a Late Pleistocene Early Modern Human from Tropical Southeast Asia Inferred from Zinc Isotopes. _Journal of Human Evolution_ 161: 103075.
+
 Bradshaw, C. J. A., Norman, K., Ulm, S., Williams, A. N., Clarkson, C., Chadœuf, J., Lin, S. C., Jacobs, Z., Roberts, R. G., Bird, M. I., Weyrich, L. S., Haberle, S. G., O’Connor, S., Llamas, B., Cohen, T. J., Friedrich, T., Veth, P., Leavesley, M., & Saltré, F. (2021). Stochastic models support rapid peopling of Late Pleistocene Sahul. Nature Communications, 12(1), 2440. https://doi.org/10.1038/s41467-021-21551-3
 
 Bradshaw, CJA, S Ulm, AN Williams, MI Bird, RG Roberts, Z Jacobs, F Laviano, LS Weyrich, T Friedrich, K Norman, F Saltré. (2019). Minimum founding populations for the first peopling of Sahul. Nature Ecology and Evolution doi:10.1038/s41559-019-0902-6 https://github.com/cjabradshaw/SahulHuman
