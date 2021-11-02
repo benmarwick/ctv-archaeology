@@ -690,6 +690,8 @@ Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peru
 
 Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021). Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
 
+Robinson, J.R. (2021). Investigating Isotopic Niche Space: Using rKIN for Stable Isotope Studies in Archaeology. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-021-09541-7>
+
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021). Population density and size facilitate interactive capacity and the rise of the state _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190725 http://doi.org/10.1098/rstb.2019.0725
 
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. (2018). The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
