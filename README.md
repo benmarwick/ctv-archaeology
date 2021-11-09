@@ -650,6 +650,8 @@ Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using G
 
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
 
+Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Units and Fragmented Objects with the TSAR Method — Topological Study of Archaeological Refitting. _Journal of Archaeological Science_ 136: 105501. <https://doi.org/10.1016/j.jas.2021.105501>
+
 Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
 
 Porčić, Marko, Blagojević Tamara, Pendić Jugoslav and Stefanović Sofija (2021). The Neolithic Demographic Transition in the Central Balkans: population dynamics reconstruction based on new radiocarbon evidence _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190712 <http://doi.org/10.1098/rstb.2019.0712>
