@@ -428,6 +428,8 @@ Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Mi
 
 Cascalheira, João. (2019). Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe. _PloS one_, 14(12). https://doi.org/10.1371/journal.pone.0225828
 
+Chan, B, Francisco Gibaja J, García-Díaz V, Hoggard CS, Mazzucco N, Rowland JT, et al. (2020). Towards an understanding of retouch flakes: A use-wear blind test on knapped stone microdebitage. _PLoS ONE_ 15(12): e0243101. https://doi.org/10.1371/journal.pone.0243101
+
 Cheung, C., & Szpak, P. (2020). Interpreting Past Human Diets Using Stable Isotope Mixing Models. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-020-09492-5>
 
 Cheung, C., & Szpak, P. (2021). Interpreting Past Human Diets Using Stable Isotope Mixing Models—Best Practices for Data Acquisition. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-021-09514-w>
