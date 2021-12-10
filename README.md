@@ -642,6 +642,8 @@ Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Ra
 
 Pargeter, J., Khreisheh, N., & Stout, D. (2019). Understanding stone tool-making skill acquisition: Experimental methods and evolutionary implications. _Journal of Human Evolution_, 133, 146-166. <https://osf.io/h5c8t/>
 
+Pedergnana, A., Calandra, I., Bob, K., Gneisinger, W., Paixão, E., Schunk, L., Hildebrandt, A., & Marreiros, J. (2020). Evaluating the microscopic effect of brushing stone tools as a cleaning procedure. Quaternary International, 569–570, 263–276. https://doi.org/10.1016/j.quaint.2020.06.031
+
 Pedergnana, A., Calandra, I., Evans, A. A., Bob, K., Hildebrandt, A., & Ollé, A. (2020). Polish is quantitatively different on quartzite flakes used on different worked materials. PLOS ONE, 15(12), e0243295. https://doi.org/10.1371/journal.pone.0243295
 
 Pederzani, Sarah, Kate Britton, Vera Aldeias, et al. (2021). Subarctic Climate for the Earliest Homo Sapiens in Europe. _Science Advances_ 7(39).   <https://doi.org/10.1126/sciadv.abi4642>
