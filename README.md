@@ -646,6 +646,8 @@ Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). 
 
 Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _J World Prehist_ (2021). https://doi.org/10.1007/s10963-021-09159-3
 
+Park, G. & B. Marwick (2022). How did the introduction of stemmed points affect mobility and site occupation during the late Pleistocene in Korea? _Quaternary Science Reviews_, 277, 107312. 
+
 Parkinson, E.W., McLaughlin, T.R., Esposito, C. et al. (2021). Radiocarbon Dated Trends and Central Mediterranean Prehistory. _J World Prehist_. https://doi.org/10.1007/s10963-021-09158-4
 
 Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
