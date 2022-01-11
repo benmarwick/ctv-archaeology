@@ -532,6 +532,8 @@ Graham, S., Gupta, N., Smith, J., Angourakis, A., Reinhard, A., Ellenberger, K.,
 
 Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W. (2021). Exploring variability in lithic armature discard in the archaeological record. _Journal of Human Evolution_, 155, 102981. <https://doi.org/10.1016/j.jhevol.2021.102981>
 
+Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M. L., Stewart, M., & Vella, N. C. (2022). The 4.2 ka Event and the End of the Maltese “Temple Period.” Frontiers in Earth Science, 9, 1227. <https://doi.org/10.3389/feart.2021.771683>
+
 Groucutt, H.S., White, T.S., Scerri, E.M.L. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. _Nature_  <https://doi.org/10.1038/s41586-021-03863-y> <https://doi.org/10.5281/zenodo.5082969>
 
 Hageneuer, S. & Schmidt, S. C. (2019). Monumentality by numbers. In: Buccellati, F., Hageneuer, S., van der Heyden, S. & Levenson, F. (Eds.), _Size Matters - Understanding Monumentality Across Ancient Civilizations_. Bielefeld: transcript Verlag: 291-308. https://doi.org/10.14361/9783839445389-017
