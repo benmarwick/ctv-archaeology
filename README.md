@@ -588,6 +588,8 @@ Lewis, J. (2020). Visibility of the Gask Ridge road from simulated Watchtowers: 
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
+Lin SC, Rezek Z, Abdolahzadeh A, Braun DR, Dogandžić T, Leader GM, et al. (2022). The mediating effect of platform width on the size and shape of stone flakes. PLoS ONE 17(1): e0262920. doi:10.1371/journal.pone.0262920
+
 Lipo, C. P., Hunt, T. L., Horneman, R., & Bonhomme, V. (2016). Weapons of war? Rapa Nui mata’a morphometric analyses. _Antiquity_, 90(349), 172–187. <doi:10.15184/aqy.2015.189>  <https://github.com/clipo/mataaMorphometrics>
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar (2014). Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
