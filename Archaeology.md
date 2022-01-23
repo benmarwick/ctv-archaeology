@@ -25,9 +25,9 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 - `r github("benmarwick/evoarchdata")` contains four published datasets widely used in archaeological studies of cultural evolution
 - `r github("tesselle/fasti")` contains two datasets for chronological modelling with `r pkg("ArchaeoPhases")`.
 - `r github("ropensci/c14bazAAR")` contains over 20 datasets of radiocarbon ages from around the world. 
+-  `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
 
-
-### Dating
+### Analysis of dates (radiocarbon, etc.) and chronological patterns
 
 -    Radiocarbon dates can be calibrated using `r pkg("Bchron")` with various calibration curves (including user generated ones); also does Age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM).
 -    `r pkg("rcarbon")` for basic calibration, modelling, hypothesis testing, and 
@@ -38,4 +38,16 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 -    Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` package (including radial plotting) and in the `r pkg("numOSL")` package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
 -    The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges
 -    The r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
-- `r pkg("SPARTAAS")` Statistical pattern recognition and dating using archaeological artefacts assemblages.
+- `r pkg("SPARTAAS")` provides statistical pattern recognition and dating using archaeological artefacts assemblages.
+- `r pkg("kairos")` and `r github("ISAAKiel/aoristAAR")` provide functions for the aoristic analysis of archaeological data (takes into account the uncertainty of the exact moment that an event occurred when examining the overall incidence of events over time)
+- `r pkg("kairos")` provides functions for mean ceramic date estimation
+- `r github("joeroe/c14") provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. rcarbon, Bchron, oxcAAR, c14bazAAR, ArchaeoPhases, stratigraphr) together and work with them in a tidy data workflow.
+
+### Survey, excavation, and stratigraphic analysis
+
+- `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology
+- `r pkg("recexcavAAR")` for 3D reconstruction and analysis of excavations, provides methods to reconstruct natural and artificial surfaces based on field measurements. This allows to spatially contextualize documented subunits and features. 
+- `r pkg("ISAAKiel/profileAAR")` provides a QGIS plugin to transforms profile control points for photogrammetric rectification from archaeological excavation
+- `r github("joeroe/stratigraphr")` provides a tidy framework for working with archaeological stratigraphy and chronology in R. It includes tools for reading, analysing, and visualising stratigraphies (Harris matrices) and sequences as directed graphs; helper functions for using radiocarbon dates in a tidy data analysis; and an R interface to OxCal's Chronological Query Language (CQL).
+- `r github("joeroe/fieldwalkr")` for designing and evaluating sampling strategies in spatial survey (fieldwalking in archaeological jargon). It contains functions for simulating the effect of different survey units, sampling methods and detection functions on the estimation of randomly generated or observed point processes.
+
