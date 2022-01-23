@@ -702,6 +702,8 @@ Reese, K., Glowacki, D., & Kohler, T. (2019). Dynamic Communities on the Mesa Ve
 
 Reeves, J. S., McPherron, S. P., Aldeias, V., Dibble, H. L., Goldberg, P., Sandgathe, D., & Turq, A. (2019). Measuring spatial structure in time-averaged deposits insights from Roc de Marsal, France. Archaeological and Anthropological Sciences. <https://doi.org/10.1007/s12520-019-00871-y>
 
+Reidsma, F. H., Sifogeorgaki, I., Dinckal, A., Huisman, H., Sier, M. J., van Os, B., & Dusseldorp, G. L. (2021). Making the Invisible Stratigraphy Visible: A Grid-Based, Multi-Proxy Geoarchaeological Study of Umhlatuzana Rockshelter, South Africa. _Frontiers in Earth Science_, 9. https://www.frontiersin.org/article/10.3389/feart.2021.664105
+
 Reynolds, N., & Green, C. (2019). Spatiotemporal modelling of radiocarbon dates using linear regression does not indicate a vector of demic dispersal associated with the earliest Gravettian assemblages in Europe. Journal of Archaeological Science: Reports, 27, 101958. https://doi.org/10.1016/j.jasrep.2019.101958
 
 Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late Gravettian Site of Kostënki 21 Layer III, Russia: a Chronocultural Reassessment Based on a New Interpretation of the Significance of Intra-site Spatial Patterning. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-018-0018-6>
