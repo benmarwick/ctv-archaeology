@@ -73,6 +73,12 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 -  `r github("ISAAKiel/pathAAR")` to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters.
 -  `r github("mrecos/klrfome")` for archaeological site location modeling; maps a single scalar outcome (e.g. presence/absence; 0/1) to a distribution of features. 
 -  `r github("eScienceCenter/SiteExploitationTerritories")` calculates a non-isotropic spatial relationship by integrating human energy expenditure in terrain based estimations.
+-  `r github("nevrome/bleiglas")` calculates of three dimensional Voronoi diagrams from input point clouds for spatiotemporal applications in archaeology.
+
+### Mortuary analysis
+
+- `r pkg("mortAAR")` calculates a life table based on archaeological demographic data.
+- `r github("nevrome/varnastats")` for bi- and multivariate analysis of matrices of archaeological data. Developed and used for the analysis of Varna Necropolis (Bulgaria).
 
 ### Survey, excavation, and stratigraphic analysis
 
@@ -88,6 +94,7 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 - `r pkg("tabula")` provides a convenient and reproducible toolkit for relative dating by matrix seriation (reciprocal ranking, CA-based seriation). This package provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
 - `r pkg("dimensio")` provides simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
 - `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
+- `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 
 ### Zooarchaeological analysis
 
