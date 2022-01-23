@@ -17,7 +17,7 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 -    `r pkg("rcarbon")` for basic calibration, hypothesis testing, and modelling.
 -    Bayesian age-depth modelling of radiocarbon dates is also available in `r pkg("nimbleCarbon")` and `r pkg("clam")`.
 -    `r github("ropensci/c14bazAAR")` for the retrieval and preparation of large radiocarbon datasets.
--    The `r pkg("oxcAAR") package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
+-    The `r pkg("oxcAAR")` package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
 - `r pkg("ArchaeoPhases")` provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
 -    Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` package (including radial plotting) and in the `r pkg("numOSL")` package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
 -    The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges
@@ -30,9 +30,9 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 
 ### Artefact analysis
 
-- `r github("yesdavid/outlineR") for the fast and easy extraction of single outline shapes of, for example, stone tools from images containing multiple thereof, such as the ones present in archaeological publications.
-- `r github("ISAAKiel/shapAAR") for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.
-- `r github("cornelmpop/Lithics3D") for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
+- `r github("yesdavid/outlineR")` for the fast and easy extraction of single outline shapes of, for example, stone tools from images containing multiple thereof, such as the ones present in archaeological publications.
+- `r github("ISAAKiel/shapAAR")` for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.
+- `r github("cornelmpop/Lithics3D")` for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
 - `r pkg("iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.)
 
 ### Cultural evolutionary analysis
@@ -99,5 +99,5 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 ### Zooarchaeological analysis
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
-- `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data. Accompanied by `r github("zooaRchGUI/zooaRchGUI") which provides a Graphical User Interface (GUI) to `r pkg("zooaRch")`.
+- `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data. Accompanied by `r github("zooaRchGUI/zooaRchGUI")` which provides a Graphical User Interface (GUI) to `r pkg("zooaRch")`.
 
