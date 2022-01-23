@@ -64,6 +64,13 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using ggplot2
 -  `r pkg("simmr") and `r pkg(`IsotopeR")` provide methods for working with isotope data
 -  `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sedminent colour
+-  `r pkg("nexus")` for wxploration and analysis of compositional data in the framework of Aitchison (1986), for chemical fingerprinting and source tracking of ancient materials.
+
+### Landscape analysis
+
+- `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape
+-  `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
+-  `r github("ISAAKiel/pathAAR")`  to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters.
 
 ### Survey, excavation, and stratigraphic analysis
 
@@ -74,8 +81,14 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 - `r github("joeroe/fieldwalkr")` for designing and evaluating sampling strategies in spatial survey (fieldwalking in archaeological jargon). It contains functions for simulating the effect of different survey units, sampling methods and detection functions on the estimation of randomly generated or observed point processes.
 - `r github("mrecos/signboardr")` Utilize Google Vision API to extract text from archaeological photos containing a sign board.
 
+### Quantitative analysis
+
+- `r pkg("tabula")` provides a convenient and reproducible toolkit for relative dating by matrix seriation (reciprocal ranking, CA-based seriation). This package provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
+- `r pkg("dimensio")` provides simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
+- `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
+
 ### Zooarchaeological analysis
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
-- `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data.
+- `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data. Accompanied by `r github("zooaRchGUI/zooaRchGUI") which provides a Graphical User Interface (GUI) to `r pkg("zooaRch")`.
 
