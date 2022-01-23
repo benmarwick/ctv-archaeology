@@ -62,7 +62,7 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 - `r github("ISAAKiel/magAAR")` analyse geomagnetic data from archaeological contexts
 - `r pkg("G2Sd")`, `r pkg("rysgran")` and `r pkg("EMMAgeo")` for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods, like Folk & Ward (1957), etc.
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using ggplot2
--  `r pkg("simmr") and `r pkg(`IsotopeR")` provide methods for working with isotope data
+-  ` r pkg("siar")`, `r pkg("simmr")` and `r pkg(`IsotopeR")` provide methods for working with isotope data
 -  `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sedminent colour
 -  `r pkg("nexus")` for wxploration and analysis of compositional data in the framework of Aitchison (1986), for chemical fingerprinting and source tracking of ancient materials.
 
@@ -70,7 +70,9 @@ Many relevant packages can also be found in other CRAN Task Views, especially [E
 
 - `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape
 -  `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
--  `r github("ISAAKiel/pathAAR")`  to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters.
+-  `r github("ISAAKiel/pathAAR")` to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters.
+-  `r github("mrecos/klrfome")` for archaeological site location modeling; maps a single scalar outcome (e.g. presence/absence; 0/1) to a distribution of features. 
+-  `r github("eScienceCenter/SiteExploitationTerritories")` calculates a non-isotropic spatial relationship by integrating human energy expenditure in terrain based estimations.
 
 ### Survey, excavation, and stratigraphic analysis
 
