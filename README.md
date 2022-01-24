@@ -354,6 +354,8 @@ Angourakis, Andreas, Verònica Martínez Ferreras, Alexis Torrano, and Josep M. 
 
 Arroyo-Kalin, Manuel and Riris Philip (2021). Did pre-Columbian populations of the Amazonian biome reach carrying capacity during the Late Holocene? _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190715 <http://doi.org/10.1098/rstb.2019.0715>
 
+Barr, W. A., Pobiner, B., Rowan, J., Du, A., & Faith, J. T. (2022). No sustained increase in zooarchaeological evidence for carnivory after the appearance of Homo erectus. _Proceedings of the National Academy of Sciences_, 119(5). https://doi.org/10.1073/pnas.2115540119
+
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
 Beck, J., Gjesfjeld, E., & Chrisomalis, S. (2021). Prestige or Perish: Publishing Decisions in Academic Archaeology. _American Antiquity_, 86(4), 669-695. doi:10.1017/aaq.2021.64
