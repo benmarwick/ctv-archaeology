@@ -7,9 +7,9 @@ version: 2022-01-22
 source: https://github.com/cran-task-views/Archaeology
 ---
 
-This task view is a list of packages useful for many kinds of archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, artefact types and faunal remains, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to guide archaeologists in finding a package relevant to specialised archaeological research. It assumes some familiarity using R already and is not an introduction to using R in archaeology. 
+This task view is a list of packages useful for many kinds of archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, artefact types and faunal remains, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to guide archaeologists in finding a package relevant to specialised archaeological research. It assumes some familiarity using R already and is not an introduction to using R in archaeology. If you think that some package is missing from the list, please contact the maintainer.
 
-Many archaeologists also use packages listed in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not list those packages here.
+Many archaeologists also use packages listed in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not list those packages here. 
 
 ### Analysis of dates (radiocarbon, etc.) and chronological patterns
 
