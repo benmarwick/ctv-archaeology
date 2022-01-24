@@ -9,7 +9,7 @@ source: https://github.com/cran-task-views/Archaeology
 
 This task view is a list of packages useful for many kinds of archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, artefact types and faunal remains, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to guide archaeologists in finding a package relevant to specialised archaeological research. It assumes some familiarity using R already and is not an introduction to using R in archaeology. 
 
-Many relevant packages can also be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views.
+Many archaeologists also use packages listed in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not list those packages here.
 
 ### Analysis of dates (radiocarbon, etc.) and chronological patterns
 
@@ -64,7 +64,7 @@ Many relevant packages can also be found in other CRAN Task Views, especially `r
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using ggplot2
 -  ` r pkg("siar")`, `r pkg("simmr")` and `r pkg(`IsotopeR")` provide methods for working with isotope data
 -  `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sedminent colour
--  `r pkg("nexus")` for wxploration and analysis of compositional data in the framework of Aitchison (1986), for chemical fingerprinting and source tracking of ancient materials.
+-  `r pkg("nexus")` for exploration and analysis of compositional data in the framework of Aitchison (1986), for chemical fingerprinting and source tracking of ancient materials.
 
 ### Landscape analysis
 
