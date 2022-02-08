@@ -229,6 +229,11 @@ Dissimilarity coefficients
 - For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
 - [SPARTAAS](https://CRAN.R-project.org/package=SPARTAAS) Statistical pattern recognition and dating using archaeological artefacts assemblages.
 
+## Tree-ring analysis / Dendrochronolohy
+
+- Dendrochronology Program Library in R [dplR] (https://cran.r-project.org/web/packages/dplR/index.html) is a library that includes many tools and functions to analyze and edit tree ring series.
+- [measuRing] (https://cran.r-project.org/web/packages/measuRing/index.html) provides tools to measure tree rings on scanned images of wood samples
+- [RingdateR](https://ringdater.github.io/ringdater/index.html) is a graphical and statistical tool for crossdating annually resolved time series such as tree rings or mollusc, coral and otolith growth increments 
 
 ## Evolution, phylogenetics, morphometrics, and shape analysis
 
@@ -785,6 +790,10 @@ Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes:
 
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
+Visser, RM. 2021 On the similarity of tree-ring patterns: Assessing the influence of semi-synchronous growth changes on the Gleichläufigkeitskoeffizient for big tree-ring data sets. Archaeometry 63(1): 204–215. DOI: https://doi.org/10.1111/arcm.12600.
+
+Visser, R.M., 2021. Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. Journal of Computer Applications in Archaeology 4(1): 230–253. DOI: http://doi.org/10.5334/jcaa.79
+
 Wang, Li-Ying, and Ben Marwick (2021). A Bayesian Networks Approach to Infer Social Changes from Burials in Northeastern Taiwan during the European Colonization Period. _Journal of Archaeological Science_ 134: 105471.
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
@@ -811,4 +820,4 @@ Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F.
 
 ## Contributors
 
-[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy)
+[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy), [Ronald Visser](https://github.com/RonaldVisser)
