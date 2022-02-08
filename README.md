@@ -158,6 +158,7 @@ Other partitioning methods
 -   `kmeans()` in stats provides k-means clustering and cmeans() in [e1071](http://cran.rstudio.com/web/packages/e1071/index.html) implements a fuzzy version of the k-means algorithm. The recommended package [cluster](http://cran.rstudio.com/web/packages/cluster/index.html) also provides functions for various partitioning methodologies.
 -    To compute the optimum number of clusters there is the `pamk()` function in the [fpc](http://cran.rstudio.com/web/packages/fpc/index.html) package, `cascadeKM()` in [vegan](http://cran.rstudio.com/web/packages/vegan/index.html), `Mclust()` in [mclust](http://cran.rstudio.com/web/packages/mclust/index.html), `apcluster()` in [apcluster](http://cran.rstudio.com/web/packages/apcluster/index.html)
 - Self-organising maps can be produced with the [kohonen](https://CRAN.R-project.org/package=kohonen)
+- Percolation analysis can be produced with the [percopackage](https://github.com/SCSchmidt/percopackage)
 
 Mixture models and model-based cluster analysis
 
