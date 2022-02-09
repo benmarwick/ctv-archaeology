@@ -538,6 +538,8 @@ González-Molina I, Jiménez-García B, Maíllo-Fernández JM, Baquedano E, Dom�
 
 Graham, S., Gupta, N., Smith, J., Angourakis, A., Reinhard, A., Ellenberger, K., Batist, Z., Rivard, J., Marwick, B., Carter, M., Compton, B., Blades, R., Wood, C., Nobles, G. (2019). _The Open Digital Archaeology Textbook_ <https://o-date.github.io/> Code notebooks and repositories, and text source at <https://github.com/o-date>
 
+Gravel-Miguel, C., De Vynck, J., Wren, C. D., Murray, J. K., & Marean, C. W. (2022). Were prehistoric coastal sites more intensively occupied than inland sites? Using an agent-based model to understand the intensity of prehistoric coastal occupation, and what it means for studies on the evolution of the coastal adaptation. _Quaternary International_ https://doi.org/10.1016/j.quaint.2022.02.003
+
 Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W. (2021). Exploring variability in lithic armature discard in the archaeological record. _Journal of Human Evolution_, 155, 102981. <https://doi.org/10.1016/j.jhevol.2021.102981>
 
 Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M. L., Stewart, M., & Vella, N. C. (2022). The 4.2 ka Event and the End of the Maltese “Temple Period.” Frontiers in Earth Science, 9, 1227. <https://doi.org/10.3389/feart.2021.771683>
