@@ -590,6 +590,8 @@ Leggett, S. (2021). Migration and cultural integration in the early medieval cem
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
 
+Lewis, J. (2022). 2nd c. CE defenses around small towns in Roman Britain structured by road network connectivity. _Journal of Roman Archaeology_, 1–12. https://doi.org/10.1017/S1047759421000775
+
 Lewis, J. (2021). Probabilistic Modelling for Incorporating Uncertainty in Least Cost Path Results: A Postdictive Roman Road Case Study. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-021-09522-w
 
 Lewis, J. (2020). Visibility of the Gask Ridge road from simulated Watchtowers: A Monte Carlo testing approach. Journal of Archaeological Science: Reports, 33, 102482. https://doi.org/10.1016/j.jasrep.2020.102482
