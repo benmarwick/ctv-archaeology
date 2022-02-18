@@ -758,6 +758,8 @@ Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological
 
 Selden Jr., R. Z., Dockall, J. E., Bousman, C. B., & Perttula, T. K. (2021). Shape as a function of time + raw material + burial context? An exploratory analysis of Perdiz arrow points from the ancestral Caddo area of the American Southeast. _Journal of Archaeological Science: Reports_, 37, 102916. https://doi.org/10.1016/j.jasrep.2021.102916
 
+Schoville, B.J., Brown, K.S. & Wilkins, J. (2022). A Lithic Provisioning Model as a Proxy for Landscape Mobility in the Southern and Middle Kalahari. J Archaeol Method Theory 29, 162–187 https://doi.org/10.1007/s10816-021-09507-9
+
 Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of intraspecific morphological variation in Gahagan bifaces from the southern Caddo area and central Texas. Southeastern Archaeology, 39(2), pp.125–145. DOI: <https://doi.org/10.1080/0734578X.2020.1744416> data & code: <https://osf.io/2g95w/>
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014). Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
