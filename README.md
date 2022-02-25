@@ -568,6 +568,8 @@ Huffer, D. and Graham, S. (2018). Fleshing Out the Bones: Studying the Human Rem
 
 Ivanovaitė, L., Serwatka, K., Hoggard, C., Sauer, F., & Riede, F. (2020). All these Fantastic Cultures? Research History and Regionalization in the Late Palaeolithic Tanged Point Cultures of Eastern Europe. _European Journal of Archeology_, 23 (2), 162-185. doi:10.1017/eaa.2019.59 <https://osf.io/agrwb/> <https://github.com/CSHoggard/-Eastern-Europe-Tanged-Points>
 
+Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Ecological Factors Affect Long-Term Resilience of Voyaging Canoes in Pre-contact Eastern Polynesia: A Multiproxy Approach From the ArchaeoEcology Project. _Frontiers in Ecology and Evolution_, 9. https://www.frontiersin.org/article/10.3389/fevo.2021.750351
+
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
 
 Kim, H., Lee, G.-A., & Crema, E. R. (2021). Bayesian analyses question the role of climate in Chulmun demography. Scientific Reports, 11(1), 23797. https://doi.org/10.1038/s41598-021-03180-4
