@@ -790,6 +790,8 @@ Suryanarayan, A., Cubas, M., Craig, O. E., Heron, C. P., Shinde, V. S., Singh, R
 
 Tallavaara, Miikka and Jørgensen Erlend Kirkeng (2021). Why are population growth rate estimates of past and present hunter–gatherers so different? _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190708 http://doi.org/10.1098/rstb.2019.0708
 
+Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvironmental framework for the Middle Stone Age of eastern Africa. _Scientific Reports_ 12, 3689 (2022). https://doi.org/10.1038/s41598-022-07742-y
+
 Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Katie (2021). Directly modelling population dynamics in the South American Arid Diagonal using 14C dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190723 <http://doi.org/10.1098/rstb.2019.0723>
 
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. (2015). “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
