@@ -760,6 +760,8 @@ Schmidt, Isabell, Hilpert Johanna, Kretschmer Inga, Peters Robin, Broich Manuel,
 
 Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. Journal of Computer Applications in Archaeology, 3(1), pp.18–32. DOI: <http://doi.org/10.5334/jcaa.29>
 
+Schotsmans, E.M.J., Busacca, G., Lin, S.C. et al. (2022). New insights on commemoration of the dead through mortuary and architectural use of pigments at Neolithic Çatalhöyük, Turkey. Scientific Reports 12, 4055. https://doi.org/10.1038/s41598-022-07284-3
+
 Selden Jr., R. Z., Dockall, J. E., Bousman, C. B., & Perttula, T. K. (2021). Shape as a function of time + raw material + burial context? An exploratory analysis of Perdiz arrow points from the ancestral Caddo area of the American Southeast. _Journal of Archaeological Science: Reports_, 37, 102916. https://doi.org/10.1016/j.jasrep.2021.102916
 
 Schoville, B.J., Brown, K.S. & Wilkins, J. (2022). A Lithic Provisioning Model as a Proxy for Landscape Mobility in the Southern and Middle Kalahari. J Archaeol Method Theory 29, 162–187 https://doi.org/10.1007/s10816-021-09507-9
