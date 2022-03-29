@@ -698,6 +698,8 @@ Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Un
 
 Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
 
+Pop, CM, Wilson, L, Browne, CL. (2022) Evaluating landscape knowledge and lithic resource selection at the French Middle Paleolithic site of the Bau de l'Aubesier. _Journal of Human Evolution_. 2022 Mar 23;166:103152. doi: 10.1016/j.jhevol.20
+
 Porčić, Marko, Blagojević Tamara, Pendić Jugoslav and Stefanović Sofija (2021). The Neolithic Demographic Transition in the Central Balkans: population dynamics reconstruction based on new radiocarbon evidence _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190712 <http://doi.org/10.1098/rstb.2019.0712>
 
 Porčić, M., Blagojević, T., Pendić, J., & Stefanović, S. (2020). The timing and tempo of the Neolithic expansion across the Central Balkans in the light of the new radiocarbon evidence. _Journal of Archaeological Science: Reports_, 33, 102528. <https://doi.org/10.1016/j.jasrep.2020.102528>
