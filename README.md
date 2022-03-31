@@ -772,9 +772,11 @@ Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014). Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
+Silva, F., (2020). A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
+
 Sinensky, R. J., and A. Farahani. (2018). DIVERSITY-DISTURBANCE RELATIONSHIPS IN THE LATE ARCHAIC SOUTHWEST: IMPLICATIONS FOR FARMER-FORAGER FOODWAYS American Antiquity 83 (2): 364–364. <https://doi.org/10.1017/aaq.2017.74>
 
-Silva, F., (2020). A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
+Sinensky, R., Schachner, G., Wilshusen, R., & Damiata, B. (2022). Volcanic climate forcing, extreme cold and the Neolithic Transition in the northern US Southwest. _Antiquity_, 96(385), 123-141. doi:10.15184/aqy.2021.19
 
 Smith, G. R. Spasov, N. L. Martisius, V. Sinet-Mathiot, V. Aldeias, et al. (2021). Subsistence behavior during the Initial Upper Paleolithic in Europe: Site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria), Journal of Human Evolution, Volume 161, 2021, 103074, https://doi.org/10.1016/j.jhevol.2021.103074
 
