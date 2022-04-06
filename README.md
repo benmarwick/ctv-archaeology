@@ -560,6 +560,10 @@ Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic tec
 
 Hoggard, C. S., McNabb, J., & Cole, J. N. (2019). The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-019-00024-6> <https://osf.io/td92j/>
 
+Horta, P., Bicho, N., & Cascalheira, J. (2022). Lithic bipolar methods as an adaptive 
+strategy through space and time. Journal of Archaeological Science: Reports, 
+41, 103263.
+
 Horta, P., Cascalheira, J., & Bicho, N. (2019). The Role of Lithic Bipolar Technology in Western Iberia’s Upper Paleolithic: the Case of Vale Boi (Southern Portugal). _Journal of Paleolithic Archaeology_ <https://doi.org/10.1007/s41982-019-0022-5> <https://osf.io/wpxgh/>
 
 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., ... Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_ <https://doi.org/10.1038/s41586-018-0710-1> <https://doi.org/10.17605/OSF.IO/ERNTJ>
