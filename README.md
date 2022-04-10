@@ -778,6 +778,8 @@ Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of
 
 Shennan, SJ, Enrico R. Crema, Tim Kerig, (2014). Isolation-by-distance, homophily, and 'core' vs. 'package' cultural evolution models in Neolithic Europe, _Evolution and Human Behavior_, Available online 2 October 2014,  [http://dx.doi.org/10.1016/j.evolhumbehav.2014.09.006](http://www.sciencedirect.com/science/article/pii/S1090513814001251)
 
+Shott, M., & Otárola-Castillo, E. (2022). Parts and Wholes: Reduction Allometry and Modularity in Experimental Folsom Points. _American Antiquity_, 87(1), 80-99. doi:10.1017/aaq.2021.62
+
 Silva, F., (2020). A probabilistic framework and significance test for the analysis of structural orientations in skyscape archaeology. Journal of Archaeological Science 118, 105138. https://doi.org/10.1016/j.jas.2020.105138
 
 Sinensky, R. J., and A. Farahani. (2018). DIVERSITY-DISTURBANCE RELATIONSHIPS IN THE LATE ARCHAIC SOUTHWEST: IMPLICATIONS FOR FARMER-FORAGER FOODWAYS American Antiquity 83 (2): 364–364. <https://doi.org/10.1017/aaq.2017.74>
