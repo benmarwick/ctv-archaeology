@@ -698,6 +698,8 @@ Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturali
 
 Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using Georeferenced Survey Simulation: An R package for subsurface survey. _PLoS ONE_ 16(9): e0257386. doi:10.1371/journal.pone.0257386
 
+Phillips, D., Wearing, H., & Clark, J. (2018). VILLAGE GROWTH, EMERGING INFECTIOUS DISEASE, AND THE END OF THE NEOLITHIC DEMOGRAPHIC TRANSITION IN THE SOUTHWEST UNITED STATES AND NORTHWEST MEXICO. _American Antiquity_, 83(2), 263-280. doi:10.1017/aaq.2018.3
+
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
 
 Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Units and Fragmented Objects with the TSAR Method — Topological Study of Archaeological Refitting. _Journal of Archaeological Science_ 136: 105501. <https://doi.org/10.1016/j.jas.2021.105501>
