@@ -496,6 +496,8 @@ DiNapoli, R. J., Rieth, T. M., Lipo, C. P., & Hunt, T. L. (2020). A model-based 
 
 DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. E., & Becker, M. (2019). Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLOS ONE, 14(1), e0210409. https://doi.org/10.1371/journal.pone.0210409
 
+Dombrosky, Jonathan, Thomas F. Turner, Alexandra Harris, and Emily Lena Jones. (2022). “Body Size from Unconventional Specimens: A 3D Geometric Morphometrics Approach to Fishes from Ancestral Pueblo Contexts.” Journal of Archaeological Science 142: 105600.
+
 Dombrosky, J. (2020). A ~1000-year 13C Suess correction model for the study of past ecosystems. _The Holocene_, 30(3), 474–478. https://doi.org/10.1177/0959683619887416
 
 Dosseto, A,. and B. Marwick (2022). UThwigl — An R Package for Closed- and Open-System Uranium–Thorium Dating. _Quaternary Geochronology_ 67: 101235 https://doi.org/10.1016/j.quageo.2021.101235 
