@@ -590,6 +590,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 
 Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
+Kelmelis, Saige, and Sharon N. DeWitte. (2021). “Urban and Rural Survivorship in Pre- and Post-Black Death Denmark.” _Journal of Archaeological Science: Reports_ 38: 103089.
+
 Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. Veget Hist Archaeobot <https://doi.org/10.1007/s00334-021-00856-9>
 
 Lancelotti, C. (2018). Not all that burns is wood. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC). _PLoS One_ 13(3): e0192364.
