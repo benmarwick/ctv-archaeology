@@ -374,6 +374,8 @@ Belmiro, J., Bicho, N., Haws, J., & Cascalheira, J. (2020). The Gravettian-Solut
 
 Benjamin J, O’Leary M, McDonald J, Wiseman C, McCarthy J, Beckett E, et al. (2020). Aboriginal artefacts on the continental shelf reveal ancient drowned cultural landscapes in northwest Australia. PLoS ONE 15(7): e0233912. <https://doi.org/10.1371/journal.pone.0233912> <https://github.com/patrick-morrison/benjamin_et_al_2020_submerged_cb>
 
+Bevan, A., Colledge, S., Fuller, D., Fyfe, R., Shennan, S., & Stevens, C. (2017). Holocene fluctuations in human population demonstrate repeated links to food production and climate. Proceedings of the National Academy of Sciences of the United States of America, 114(49), E10524–E10531. https://doi.org/10.1073/pnas.1709190114
+
 Bevan A. and Crema E. R. (2021). Modifiable reporting unit problems and time series of long-term human activity. _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190726 <http://doi.org/10.1098/rstb.2019.0726>
 
 Biagetti S, Alcaina-Mateos J, Ruiz-Giralt A, Lancelotti C, Groenewald P, Ibañez-Insa J, et al. (2021). Identifying anthropogenic features at Seoke (Botswana) using pXRF: Expanding the record of southern African Stone Walled Sites. _PLoS ONE_ 16(5): e0250776. https://doi.org/10.1371/journal.pone.0250776
