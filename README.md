@@ -384,6 +384,8 @@ Biagetti, S., Alcaina-Mateos, J., Crema, E.R., (2016). A matter of ephemerality:
 
 Bicho, N. and Cascalheira, J. (2018). The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
 
+Bird, Darcy et al. (2022). P3k14c, a Synthetic Global Database of Archaeological Radiocarbon Dates. _Scientific Data_ 9(1): 27. <https://doi.org/10.1038/s41597-022-01118-7>
+
 Bird, MI, SA Condie, S O’Connor, D O’Grady, C Reepmeyer, S Ulm, M Zega, F Saltré, CJA Bradshaw. (2019). Early human settlement of Sahul was not an accident. Scientific Reports doi:10.1038/s41598-019-42946-9 https://github.com/cjabradshaw/SahulHuman
 
 Birch, T. and M. Martinón-Torres (2019). Shape as a measure of weapon standardisation: From metric to geometric morphometric analysis of the Iron Age ‘Havor’ lance from Southern Scandinavia. _Journal of Archaeological Science_ 101: 34-51 <https://doi.org/10.1016/j.jas.2018.11.002>
