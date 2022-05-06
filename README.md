@@ -690,6 +690,8 @@ Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). 
 
 Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _J World Prehist_ (2021). https://doi.org/10.1007/s10963-021-09159-3
 
+Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. doi:10.15184/aqy.2021.181
+
 Park, G. & B. Marwick (2022). How did the introduction of stemmed points affect mobility and site occupation during the late Pleistocene in Korea? _Quaternary Science Reviews_, 277, 107312. 
 
 Parkinson, E.W., McLaughlin, T.R., Esposito, C. et al. (2021). Radiocarbon Dated Trends and Central Mediterranean Prehistory. _J World Prehist_. https://doi.org/10.1007/s10963-021-09158-4
