@@ -392,11 +392,11 @@ Birch, T. and M. Martinón-Torres (2019). Shape as a measure of weapon standardi
 
 Blinkhorn James, Timbrell Lucy, Grove Matt and Scerri Eleanor M. L. (2022). Evaluating refugia in recent human evolution in Africa _Phil. Trans. R. Soc._ B3772020048520200485
 
-Blinkhorn, J., Groucutt, H.S., Scerri, E.M.L. et al. (2021). Directional changes in Levallois core technologies between Eastern Africa, Arabia, and the Levant during MIS 5. _Scientific Reports_ 11, 11465 (2021). https://doi.org/10.1038/s41598-021-90744-z
+Blinkhorn, J., Groucutt, H.S., Scerri, E.M.L. et al. (2021). Directional changes in Levallois core technologies between Eastern Africa, Arabia, and the Levant during MIS 5. _Scientific Reports_ 11, 11465  https://doi.org/10.1038/s41598-021-90744-z
 
 Borck, L., Athenstädt, J.C., Cheromiah, L.A., Aragon, L.D., Brandes, U. and Hofman, C.L., (2020). Plainware and Polychrome: Quantifying Perceptual Differences in Ceramic Classification Between Diverse Groups to Further a Strong Objectivity. Journal of Computer Applications in Archaeology, 3(1), pp.135–150. DOI: <http://doi.org/10.5334/jcaa.37>
 
-Bourgon, N., K. Jaouen, A-M. Bacon, et al. (2021).Trophic Ecology of a Late Pleistocene Early Modern Human from Tropical Southeast Asia Inferred from Zinc Isotopes. _Journal of Human Evolution_ 161: 103075.
+Bourgon, N., K. Jaouen, A-M. Bacon, et al. (2021). Trophic Ecology of a Late Pleistocene Early Modern Human from Tropical Southeast Asia Inferred from Zinc Isotopes. _Journal of Human Evolution_ 161: 103075.
 
 Bradshaw, C. J. A., Norman, K., Ulm, S., Williams, A. N., Clarkson, C., Chadœuf, J., Lin, S. C., Jacobs, Z., Roberts, R. G., Bird, M. I., Weyrich, L. S., Haberle, S. G., O’Connor, S., Llamas, B., Cohen, T. J., Friedrich, T., Veth, P., Leavesley, M., & Saltré, F. (2021). Stochastic models support rapid peopling of Late Pleistocene Sahul. Nature Communications, 12(1), 2440. https://doi.org/10.1038/s41467-021-21551-3
 
@@ -466,11 +466,11 @@ Contreras, Daniel A., Joël Guiot, Romain Suarez, and Alan Kirman. (2018). "Reac
 
 Contreras, Daniel A. and John Meadows. (2014). “Summed radiocarbon calibrations as a population proxy: a critical evaluation using a realistic simulation approach.” _Journal of Archaeological Science_ 52:591-608. [doi:10.1016/j.jas.2014.05.030](http://www.sciencedirect.com/science/article/pii/S0305440314002088)
 
-Coto-Sarmiento, M. & Rubio-Campillo, X. (2021): The tracing of trade: Exploring the patterns of olive oil production and distribution from Roman Baetica. Archaelogical and Anthropological Sciences,13,70. <https://doi.org/10.1007/s12520-021-01305-4>
+Coto-Sarmiento, M. & Rubio-Campillo, X. (2021). The tracing of trade: Exploring the patterns of olive oil production and distribution from Roman Baetica. Archaelogical and Anthropological Sciences,13,70. <https://doi.org/10.1007/s12520-021-01305-4>
 
 Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., (2018). Identifying social learning between Roman amphorae workshops through morphometric similarity. _Journal of Archaeological Science_ 96, 117–123. <https://doi.org/10.1016/j.jas.2018.06.002>,   <https://github.com/Mcotsar/LearningBaetica>
 
-Courtenay, L.A., Herranz-Rodrigo, D., González-Aguilera, D. et al. Developments in data science solutions for carnivore tooth pit classification. _Scientific Reports_ 11, 10209 (2021). <https://doi.org/10.1038/s41598-021-89518-4>
+Courtenay, L.A., Herranz-Rodrigo, D., González-Aguilera, D. et al. (2021). Developments in data science solutions for carnivore tooth pit classification. _Scientific Reports_ 11, 10209  <https://doi.org/10.1038/s41598-021-89518-4>
 
 Cortell-Nicolau A, García-Puchol O, Barrera-Cruz M, García-Rivero D (2021). The spread of agriculture in Iberia through Approximate Bayesian Computation and Neolithic projectile tools. PLoS ONE 16(12): e0261813. doi:10.1371/journal.pone.0261813
 
@@ -484,7 +484,9 @@ Crema, E.R., Kandler, A., Shennan, S., (2016). Revealing patterns of cultural tr
 
 Crema, E. R., J. Habu, K. Kobayashi and M. Madella (2016). "Summed Probability Distribution of <sup>14</sup>C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan." [_PLoS ONE_ 11(4): e0154809.](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0154809), [GitHub repo](https://github.com/ercrema/Jomon_SPD_Comparison), [Zenodo repo](http://dx.doi.org/10.5281/zenodo.47339).
 
-Crema, E.R., K. Edinborough, Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A., … Harvati, K. (2019). Recursive anisotropy: a spatial taphonomic study of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi, Mygdonia Basin, Greece. Boreas, 0(0). https://doi.org/10.1111/bor.12368T. Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 [http://dx.doi.org/10.1016/j.jas.2014.07.014](http://www.sciencedirect.com/science/article/pii/S0305440314002593)
+Crema, E.R., K. Edinborough, Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A., … Harvati, K. (2019). Recursive anisotropy: a spatial taphonomic study of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi, Mygdonia Basin, Greece. Boreas, 0(0). https://doi.org/10.1111/bor.12368T. 
+
+Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 [http://dx.doi.org/10.1016/j.jas.2014.07.014](http://www.sciencedirect.com/science/article/pii/S0305440314002593)
 
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507).
 
@@ -600,7 +602,7 @@ Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential 
 
 Lancelotti, C. (2018). Not all that burns is wood. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC). _PLoS One_ 13(3): e0192364.
 
-Lancelotti C, Ruiz-Pérez J, García-Granero JJ. 2017. Investigating fuel and fireplaces with a combination of phytoliths and multi-element analysis: an ethnographic experiment. _Vegetation History and Archaeobotany_ 26:75-83.
+Lancelotti C, Ruiz-Pérez J, García-Granero JJ. (2017). Investigating fuel and fireplaces with a combination of phytoliths and multi-element analysis: an ethnographic experiment. _Vegetation History and Archaeobotany_ 26:75-83.
 
 Lancelotti C, Martinez-Sánchez R, Vera-Rodríguez JC, Pérez-Jordà G, Peña-Chocarro L, Biagetti S, Madella M. (2021). Phytolith analyses from Khil and Kaf Taht el-Ghar (Western Maghreb): Plant use trajectories in a long-term perspective. _Journal of Archaeological Science: Reports_, 37, 102921.
 
@@ -688,7 +690,7 @@ Palmisano, A., Bevan, A., & Shennan, S. (2017). Comparing archaeological proxies
 
 Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). Holocene regional population dynamics and climatic trends in the Near East: A first comparison using archaeo-demographic proxies. Quaternary Science Reviews, 252, 106739. <https://doi.org/10.1016/j.quascirev.2020.106739>
 
-Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _J World Prehist_ (2021). https://doi.org/10.1007/s10963-021-09159-3
+Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _Journal of World Prehistory_  https://doi.org/10.1007/s10963-021-09159-3
 
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. doi:10.15184/aqy.2021.181
 
@@ -720,7 +722,7 @@ Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Un
 
 Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
 
-Pop, CM, Wilson, L, Browne, CL. (2022) Evaluating landscape knowledge and lithic resource selection at the French Middle Paleolithic site of the Bau de l'Aubesier. _Journal of Human Evolution_. 2022 Mar 23;166:103152. doi: 10.1016/j.jhevol.20
+Pop, CM, Wilson, L, Browne, CL. (2022). Evaluating landscape knowledge and lithic resource selection at the French Middle Paleolithic site of the Bau de l'Aubesier. _Journal of Human Evolution_. 2022 Mar 23;166:103152. doi: 10.1016/j.jhevol.20
 
 Porčić, Marko, Blagojević Tamara, Pendić Jugoslav and Stefanović Sofija (2021). The Neolithic Demographic Transition in the Central Balkans: population dynamics reconstruction based on new radiocarbon evidence _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190712 <http://doi.org/10.1098/rstb.2019.0712>
 
@@ -730,7 +732,7 @@ Porčić, M., Nikolić, M., (2016). The Approximate Bayesian Computation approac
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., (2019). Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
-Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 (2021). https://doi.org/10.1038/s41467-021-22506-4
+Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 https://doi.org/10.1038/s41467-021-22506-4
 
 Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-to-End Bayesian Analysis for Summarizing Sets of Radiocarbon Dates. _Journal of Archaeological Science_ 135: 105473. https://doi.org/10.1016/j.jas.2021.105473
 
@@ -832,7 +834,7 @@ Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes:
 
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
-Visser, RM. 2021 On the similarity of tree-ring patterns: Assessing the influence of semi-synchronous growth changes on the Gleichläufigkeitskoeffizient for big tree-ring data sets. Archaeometry 63(1): 204–215. DOI: https://doi.org/10.1111/arcm.12600.
+Visser, RM. (2021). On the similarity of tree-ring patterns: Assessing the influence of semi-synchronous growth changes on the Gleichläufigkeitskoeffizient for big tree-ring data sets. Archaeometry 63(1): 204–215. DOI: https://doi.org/10.1111/arcm.12600.
 
 Visser, R.M., 2021. Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. Journal of Computer Applications in Archaeology 4(1): 230–253. DOI: http://doi.org/10.5334/jcaa.79
 
@@ -857,8 +859,6 @@ Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure o
 Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marean, C. W. (2019). The foraging potential of the Holocene Cape south coast of South Africa without the Palaeo-Agulhas Plain. _Quaternary Science Reviews_, 105789. <https://doi.org/10.1016/j.quascirev.2019.06.012>
 
 Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. _PloS one_, 15(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
-
-
 
 ## Contributors
 
