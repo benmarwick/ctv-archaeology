@@ -24,6 +24,6 @@ jobs:
             owner: 'benmarwick',
             repo: 'archaepaperswithcode',
             workflow_id: 'archaepaperswithcode.yml',
-            ref: 'master'
+            ref: 'main'
           })
   
