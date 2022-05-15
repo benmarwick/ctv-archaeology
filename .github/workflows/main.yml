@@ -2,7 +2,16 @@
    
 name: archaeology-papers-with-code
  
-on: [push]
+on: 
+  push:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Run archaepaperswithcode manually'
 jobs:
   dispatch:
     runs-on: ubuntu-latest
