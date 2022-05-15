@@ -14,6 +14,6 @@ jobs:
   archaepaperswithcode-post:
     runs-on: macos-latest
     run: |
-  curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/benmarwick/archaepaperswithcode/actions/workflows/build.yaml/dispatches --data '{"ref": "master"}'
+  curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/benmarwick/archaepaperswithcode/actions/workflows/archaepaperswithcode.yaml/dispatches --data '{"ref": "master"}'
   
   
