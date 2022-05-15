@@ -754,6 +754,8 @@ Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., (2018). Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
+Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in prehistory at 50. _Evolutionary Human Sciences_, 4, E16. doi:10.1017/ehs.2022.18
+
 Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
 
 Riris, P., Silva, F. (2021). Resolution and the detection of cultural dispersals: development and application of spatiotemporal methods in Lowland South America. _Humanities and Social Sciences Communications_ 8, 36  https://doi.org/10.1057/s41599-021-00717-w
