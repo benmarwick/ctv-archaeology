@@ -1,0 +1,19 @@
+
+   
+name: archaeology-papers-with-code
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Run archaeology-papers-with-code manually'
+jobs:
+  archaepaperswithcode-post:
+    runs-on: macos-latest
+    run: |
+  curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/benmarwick/archaepaperswithcode/actions/workflows/build.yaml/dispatches --data '{"ref": "master"}'
+  
+  
