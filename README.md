@@ -458,6 +458,8 @@ Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spat
 
 Coco, E., Holdaway, S. & Iovita, R. (2020). The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. _Journal of Paleolithic Archaeology_  <https://doi.org/10.1007/s41982-020-00055-4>
 
+Cole, K. E., Yaworsky, P. M., & Hart, I. A. (2022). Evaluating statistical models for establishing morphometric taxonomic identifications and a new approach using Random Forest. _Journal of Archaeological Science_ 143, 105610. https://doi.org/10.1016/j.jas.2022.105610
+
 Conrad, C., R. Shoocongdej, B. Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ https://doi.org/10.15184/aqy.2021.44
 
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016). Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
