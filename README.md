@@ -528,6 +528,8 @@ Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz
 
 Falcucci, A., Karakostis, F. A., Göldner, D., & Peresani, M. (2022). Bringing shape into focus: Assessing differences between blades and bladelets and their technological significance in 3D form. _Journal of Archaeological Science: Reports_, 43, 103490. https://doi.org/10.1016/j.jasrep.2022.103490
 
+Falcucci, A., & Peresani, M. (2022). The contribution of integrated 3D model analysis to Protoaurignacian stone tool design. _PLOS ONE_, 17(5), e0268539. https://doi.org/10.1371/journal.pone.0268539
+
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8>
