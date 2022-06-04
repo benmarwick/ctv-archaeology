@@ -13,7 +13,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2020-12-26</td>
+2022-06-03</td>
 </tr>
 </tbody>
 </table>
@@ -569,8 +569,6 @@ Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M
 Groucutt, H.S., White, T.S., Scerri, E.M.L. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. _Nature_  <https://doi.org/10.1038/s41586-021-03863-y> <https://doi.org/10.5281/zenodo.5082969>
 
 Hatton A., Collins B, Schoville BJ, Wilkins J (2022). Ostrich eggshell beads from Ga-Mohana Hill North Rockshelter, southern Kalahari, and the implications for understanding social networks during Marine Isotope Stage 2. PLoS ONE 17(6): e0268943. http://doi.org/10.1371/journal.pone.0268943
-
-Hausmann, N., Meredith-Williams, M., & Laurie, E. (2020). Shellfish resilience to prehistoric human consumption in the southern Red Sea: Variability in Conomurex fasciatus across time and space. _Quaternary International_. http://doi.org/10.1016/j.quaint.2020.04.034 
 
 Hageneuer, S. & Schmidt, S. C. (2019). Monumentality by numbers. In: Buccellati, F., Hageneuer, S., van der Heyden, S. & Levenson, F. (Eds.), _Size Matters - Understanding Monumentality Across Ancient Civilizations_. Bielefeld: transcript Verlag: 291-308. https://doi.org/10.14361/9783839445389-017
 
