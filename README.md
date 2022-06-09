@@ -862,6 +862,8 @@ Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study 
 
 Wang, L. and Marwick, B. (2020). Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. _Archaeological Research in Asia_. <https://doi.org/10.1016/j.ara.2020.100226> <https://github.com/LiYingWang/kwl-ornaments> <https://osf.io/r8yga/>
 
+Way, A.M., de la Peña, P., de la Peña, E. et al. (2022). Howiesons Poort backed artifacts provide evidence for social connectivity across southern Africa during the Final Pleistocene. Scientific Reports 12, 9 https://doi.org/10.1038/s41598-022-12677-5
+
 Weiss, Marcel. (2020). “The Lichtenberg Keilmesser - It’s All about the Angle.” _PLOS ONE_ 15(10): e0239718. <https://doi.org/10.1371/journal.pone.0239718>
 
 Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee River Valley prior to initial domestication. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2018.86 https://osf.io/2gub7/
