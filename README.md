@@ -788,6 +788,8 @@ Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L.
 
 Robinson, J.R. (2021). Investigating Isotopic Niche Space: Using rKIN for Stable Isotope Studies in Archaeology. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-021-09541-7>
 
+Rodríguez, J., Willmes, C., Sommer, C., & Mateos, A. (2022). Sustainable human population density in Western Europe between 560.000 and 360.000 years ago. Scientific Reports, 12(1), 6907. https://doi.org/10.1038/s41598-022-10642-w
+
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021). Population density and size facilitate interactive capacity and the rise of the state _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190725 http://doi.org/10.1098/rstb.2019.0725
 
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. (2018). The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
