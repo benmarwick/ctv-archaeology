@@ -258,6 +258,7 @@ Dissimilarity coefficients
 - [RNetLogo](http://cran.rstudio.com/web/packages/RNetLogo/index.html) links R and NetLogo
 -  [simecol](http://cran.rstudio.com/web/packages/simecol/index.html) for simulating ecological (and other) dynamic systems. It can be used for differential equations, individual-based (or agent-based) and other models as well.
 -  One-dimensional cellular automata are also possible to model with the package [CellularAutomaton](http://cran.rstudio.com/web/packages/CellularAutomaton/index.html).
+- [archeofrag](https://cran.r-project.org/package=archeofrag) for simulating site formation processes, with a particular focus on refitting and spatial analysis.
 
 ## Network analysis
 
