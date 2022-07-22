@@ -454,6 +454,8 @@ Cheung, C., & Szpak, P. (2021). Interpreting Past Human Diets Using Stable Isoto
 
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin (2015). The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
+Cobos, V. A., Postillone, M. B., Bernal, V., & Perez, S. I. (2022). Spatio-temporal demographic dynamics of the human populations from Northwest Patagonia and central Chile during the Pleistocene-Holocene. _Journal of Archaeological Science: Reports_, 44, 103547. https://doi.org/10.1016/j.jasrep.2022.103547
+
 Cochrane, E. E., Tautunu, A. A. M. M., & DiNapoli, R. J. (2019). Hypotheses to explain the few early coastal archaeological deposits in Sāmoa: Preliminary evaluations. _Journal of Archaeological Science: Reports_, 26, 101931. <https://doi.org/10.17608/k6.auckland.7647218>
 
 Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spatial averaging: implications for archaeological cultures. _Humanities and Social Sciences Communications_, 7(1), 1-9. <https://www.nature.com/articles/s41599-020-00635-3>
