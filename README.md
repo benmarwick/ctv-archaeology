@@ -628,6 +628,8 @@ Lancelotti, C., Balbo, A.L. Madella, M., Iriarte, E., Rojo-Guerra, M., Ignacio R
 
 Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. <doi:10.1371/journal.pone.0244871>
 
+Leggett, S. (2022). A Hierarchical Meta-Analytical Approach to Western European Dietary Transitions in the First Millennium AD. _European Journal of Archaeology_, 1-21. https://doi.org/10.1017/eaa.2022.23
+
 Leggett, S. (2021). Migration and cultural integration in the early medieval cemetery of Finglesham, Kent, through stable isotopes. _Archaeol Anthropol Sci_ 13, 1. https://doi.org/10.1007/s12520-021-01429-7
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
