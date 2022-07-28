@@ -866,6 +866,8 @@ Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes:
 
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
+Visentin, D., & Carrer, F. (2017). Evaluating Mesolithic settlement patterns in mountain environments (Dolomites, Eastern Italian Alps): the role of research biases and locational strategies. _Archeologia e calcolatori_ 28(1), 129-154. http://eprints.bice.rm.cnr.it/id/eprint/17240
+
 Visser, RM. (2021). On the similarity of tree-ring patterns: Assessing the influence of semi-synchronous growth changes on the Gleichläufigkeitskoeffizient for big tree-ring data sets. Archaeometry 63(1): 204–215. DOI: https://doi.org/10.1111/arcm.12600.
 
 Visser, R.M., 2021. Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. Journal of Computer Applications in Archaeology 4(1): 230–253. DOI: http://doi.org/10.5334/jcaa.79
