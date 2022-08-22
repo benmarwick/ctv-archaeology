@@ -498,6 +498,8 @@ Crema, E.R., Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation app
 
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507).
 
+Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Mesolithic social networks on the Iberian Peninsula using ornaments. _Archaeological and Anthropological Sciences_ 14, 174. https://doi.org/10.1007/s12520-022-01641-z
+
 Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., (2021). Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
 
 Davis, D.S.; DiNapoli, R.J.; Douglass, K. (2020). Integrating Point Process Models, Evolutionary Ecology and Traditional Knowledge Improves Landscape Archaeology—A Case from Southwest Madagascar. _Geosciences_ , 10, 287.
