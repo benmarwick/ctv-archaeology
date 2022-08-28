@@ -844,6 +844,8 @@ Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of di
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016). "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903>
 
+Stewart, M., Carleton, W.C. and Groucutt, H.S. (2022). Extreme events in biological, societal, and earth sciences: A systematic review of the literature. _Frontiers of Earth Science_ 10:786829. https://doi.org/10.3389/feart.2022.786829
+
 Stewart, M., Carleton, W.C. & Groucutt, H.S. (2021). Climate change, not human population growth, correlates with Late Quaternary megafauna declines in North America. _Nature communications_ 12, 965 https://doi.org/10.1038/s41467-021-21201-8
 
 Stoddart, S., Palmisano, A.,Redhouse, D., Barker, G., di Paola, G., Motta, L., Rasmussen, T., Samuels, T. & Witcher, R. (2020). Patterns of EtruscanUrbanism. Front. Digit. Humanit. 7:1. <https://doi.org/10.3389/fdigh.2020.00001>
