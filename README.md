@@ -382,6 +382,8 @@ Biagetti S, Alcaina-Mateos J, Ruiz-Giralt A, Lancelotti C, Groenewald P, Ibañez
 
 Biagetti, S., Alcaina-Mateos, J., Crema, E.R., (2016). A matter of ephemerality: the study of Kel Tadrart Tuareg (southwest Libya) campsites via quantitative spatial analysis. Ecology and Society 21. https://doi.org/10.5751/ES-08202-210142 [GitHub repo](https://github.com/ercrema/a_matter_of_ephemerality).
 
+Bicho, N. and Esteves, E. (2022). Pleistocene hunter-gatherer coastal adaptations in Atlantic Iberia. _Frontiers in Earth Sciences_ 10:957214. https://doi.org/10.3389/feart.2022.957214
+
 Bicho, N. and Cascalheira, J. (2018). The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
 
 Bird, Darcy et al. (2022). P3k14c, a Synthetic Global Database of Archaeological Radiocarbon Dates. _Scientific Data_ 9(1): 27. <https://doi.org/10.1038/s41597-022-01118-7>
