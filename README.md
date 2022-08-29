@@ -63,7 +63,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 ## Data acquisition
 
 -  The ideal method is to export your spreadsheets from Excel (or whatever program you made them) as CSVs (comma-separated-values, a simple, non-proprietary plain-text-based format that is very transparent, being human-readable, easily machine-processable and suitable for archival storage) and read them into R using the base function `read.csv()`. Data in other types of plain text files can be read in with `read.table()`.
--  To read Microsoft Excel files into R there are a number of packages: [readxl]( https://github.com/hadley/readxl) (requires Rcpp, which in turn requires Rtools for Windows or XCode for OSX), [gdata](http://cran.rstudio.com/web/packages/gdata/index.html) (requires Perl), [openxlsx](http://cran.rstudio.com/web/packages/openxlsx/index.html) (requires Rcpp, which in turn requires Rtools for Windows or XCode for OSX), [XLConnect](http://cran.rstudio.com/web/packages/XLConnect/index.html) (requires [rJava](http://cran.rstudio.com/web/packages/rJava/index.html) and Java), [xlsx](http://cran.rstudio.com/web/packages/xlsx/index.html) (also requires rJava and Java). OpenDocument Spreadsheet files can be read into R using [readODS](http://cran.rstudio.com/web/packages/readODS/index.html).
+-  To read Microsoft Excel files into R there is [readxl]( https://github.com/hadley/readxl). OpenDocument Spreadsheet files can be read into R using [readODS](http://cran.rstudio.com/web/packages/readODS/index.html).
 -  For working with untidy and/or complex Excel spreadsheets (i.e. many tables in one sheet, coloured cells, cells with formulas, etc.), use [jailbreakr](https://github.com/rsheets/jailbreakr), [xlsxtractr](https://github.com/hrbrmstr/xlsxtractr), [tidyxl](https://github.com/nacnudus/tidyxl) and [unpivotr](https://github.com/nacnudus/unpivotr)
 -  Text data (as in sentences and paragraphs) can be read in and analysed with the [tm](http://cran.rstudio.com/web/packages/tm/index.html) package or [tidytext](https://cran.r-project.org/package=tidytext). If the text is in a Microsoft Word file, use [textreadr](https://CRAN.R-project.org/package=textreadr), or if it's a PDF file, use [pdftools](https://CRAN.R-project.org/package=pdftools). Text in image files can be extracted with [tesseract](https://cran.r-project.org/package=tesseract)
 -   For quickly reading in a very large number of CSV files, or very large CSV files, use `fread()` from the [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) package or functions in the [readr](https://github.com/hadley/readr) package. For plain text (CSV, TSV, etc) files that are too big to fit in memory, use [chunked](https://CRAN.R-project.org/package=chunked) to read and operate on them in small chunks.
@@ -106,7 +106,6 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 - use [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html) for a publication-ready theming and labelling
 - [patchwork](https://github.com/thomasp85/patchwork) for a simple grammar using `+`, `/`, etc
 - [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html) for configuring layouts with a matrix
-- [egg](https://CRAN.R-project.org/package=egg)
 - [multipanelfigure](https://CRAN.R-project.org/package=multipanelfigure), perhaps the most versatile for combining different elements
 
 ## Analysis in general
@@ -174,7 +173,8 @@ Principle components and other projection, scaling, and ordination methods
 -    Non-Metric multi-Dimensional Scaling (NMDS) is provided by `isoMDS()` in package MASS and `nmds()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html). `nmds()`, a wrapper function for `isoMDS()`, is also provided by package [labdsv](http://cran.rstudio.com/web/packages/labdsv/index.html). vegan provides helper function `metaMDS()` for `isoMDS()`, implementing random starts of the algorithm and standardised scaling of the NMDS results. The approach adopted by vegan with `metaMDS()` is the recommended approach for ecological data.
 - `corresp()` and `mca()` in MASS provide simple and multiple correspondence analysis respectively. [ca](http://cran.rstudio.com/web/packages/ca/index.html) also provides single, multiple and joint correspondence analysis. `ca()` and `mca()` in ade4 provide correspondence and multiple correspondence analysis respectively, as well as adding homogeneous table analysis with `hta()`. Further functionality is also available within vegan co-correspondence is available from cocorresp. [FactoMineR](http://cran.rstudio.com/web/packages/FactoMineR/index.html) provides `CA()` and `MCA()` which also enable simple and multiple correspondence analysis as well as associated graphical routines. [CAinterprTools](https://github.com/gianmarcoalberti/CAinterprTools) has functions for correspondence analysis and diagnostics.
 -    Seriation methods are available in [seriation](http://cran.rstudio.com/web/packages/seriation/index.html), which includes `bertinplot()` for producing battleship plots, and [CAseriation](https://github.com/gianmarcoalberti/CAseriation) which also has a battleship plotting function.
--    [tabula](https://github.com/nfrerebeau/tabula) provides methods to analyse and visualise archaeological count data (artifacts, faunal remains, etc.) using diversity measures and Ford (1962) and Bertin (1977) diagrams.
+-    [tabula](http://cran.rstudio.com/web/packages/tabula) provides methods to analyse and visualise archaeological count data (artifacts, faunal remains, etc.) using diversity measures and Ford (1962) and Bertin (1977) diagrams.
+- [dimensio](http://cran.rstudio.com/web/packages/dimensio) provides a set of tools to compute, extract, summarize and visualize results of Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). It also includes methods for partial bootstrap validation.
 
 Dissimilarity coefficients
 
@@ -228,6 +228,8 @@ Dissimilarity coefficients
 -    The [ADMUR](https://github.com/UCL/ADMUR) package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
 - For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
 - [SPARTAAS](https://CRAN.R-project.org/package=SPARTAAS) Statistical pattern recognition and dating using archaeological artefacts assemblages.
+- [kairos](http://cran.rstudio.com/web/packages/kairos) provides methods for analysis of chronological patterns from archaeological count data, including Mean Ceramic Date (MCD)
+
 
 ## Tree-ring analysis / Dendrochronolohy
 
