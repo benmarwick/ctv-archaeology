@@ -732,6 +732,8 @@ Pedergnana, A., Calandra, I., Bob, K., Gneisinger, W., Paixão, E., Schunk, L., 
 
 Pedergnana, A., Calandra, I., Evans, A. A., Bob, K., Hildebrandt, A., & Ollé, A. (2020). Polish is quantitatively different on quartzite flakes used on different worked materials. PLOS ONE, 15(12), e0243295. https://doi.org/10.1371/journal.pone.0243295
 
+Pedersen, Jesper B., Martin E. Poulsen and Felix Riede (2022). Jels 3, a New Late Palaeolithic Open-Air Site in Denmark, Sheds Light on the Pioneer Colonization of Northern Europe, _Journal of Field Archaeology_ https://doi.org/10.1080/00934690.2022.2086346
+
 Pederzani, Sarah, Kate Britton, Vera Aldeias, et al. (2021). Subarctic Climate for the Earliest Homo Sapiens in Europe. _Science Advances_ 7(39).   <https://doi.org/10.1126/sciadv.abi4642>
 
 Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Pleistocene paleoclimate at the scale of human behavior: an example from the Neandertal occupation of La Ferrassie (France). _Scientific Reports_ 11, 1419  https://doi.org/10.1038/s41598-020-80777-1
