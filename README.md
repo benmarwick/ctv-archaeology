@@ -894,6 +894,8 @@ Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee Riv
 
 Wilczek, J., Monna, F., Navarro, N., & Chateau-Smith, C. (2021). A computer tool to identify best matches for pottery fragments. Journal of Archaeological Science: Reports, 37, 102891. https://doi.org/10.1016/j.jasrep.2021.102891
 
+Will, M., Bader, G. D., Sommer, C., Cooper, A., & Green, A. (2022). Coastal adaptations on the eastern seaboard of South Africa during the Pleistocene and Holocene? Current evidence and future perspectives from archaeology and marine geology. _Frontiers in Earth Science_, 10, 964423. https://doi.org/10.3389/feart.2022.964423
+
 Wolfhagen, J. (2020). Re-examining the use of the LSI technique in zooarchaeology. _Journal of Archaeological Science_ Volume 123, November 2020, 105254 https://doi.org/10.1016/j.jas.2020.105254 https://osf.io/4k62y/
 
 Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing between sheep and goat postcranial remains. _Journal of Archaeological Science: Reports_ 12: 625-31. <https://doi.org/10.1016/j.jasrep.2017.02.022>
