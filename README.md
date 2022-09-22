@@ -706,6 +706,8 @@ Negre, J., Muñoz, F., Lancelotti, C., (2016). Geostatistical modelling of chemi
 
 Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Takakura, J., Yamaoka, T., Noguchi, A., Kondo, Y., & Kobayashi, Y. (2021). Spatiotemporal variability in lithic technology of Middle-to-Upper Paleolithic Asia: A new dataset and its statistical analyses. _Quaternary International_. https://doi.org/10.1016/j.quaint.2021.03.022
 
+Ordonez, A., Riede, F. (2022). Changes in limiting factors for forager population dynamics in Europe across the last glacial-interglacial transition. _Nature Communications_ 13, 5140  https://doi.org/10.1038/s41467-022-32750-x
+
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
 Pardo-Gordó, S., Aubán, J. B., Jiménez-Puerto, J., Armero, C., & García-Donato, G. (2022). The chronology of archaeological assemblages based on an automatic Bayesian procedure: Eastern Iberia as study case. _Journal of Archaeological Science_, 139(105555), 105555. https://doi.org/10.1016/j.jas.2022.105555
