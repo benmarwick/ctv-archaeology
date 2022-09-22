@@ -480,6 +480,8 @@ Courtenay, L.A., Herranz-Rodrigo, D., González-Aguilera, D. et al. (2021). Deve
 
 Cortell-Nicolau A, García-Puchol O, Barrera-Cruz M, García-Rivero D (2021). The spread of agriculture in Iberia through Approximate Bayesian Computation and Neolithic projectile tools. PLoS ONE 16(12): e0261813. doi:10.1371/journal.pone.0261813
 
+Crema, E. R., Stevens, C. J., & Shoda, S. (2022). Bayesian analyses of direct radiocarbon dates reveal geographic variations in the rate of rice farming dispersal in prehistoric Japan. _Science Advances_, 8(38), eadc9171. https://doi.org/10.1126/sciadv.adc9171
+
 Crema, E. R. (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method Theory_ https://doi.org/10.1007/s10816-022-09559-5
 
 Crema ER, Shoda S (2021). A Bayesian approach for fitting and comparing demographic growth models of radiocarbon dates: A case study on the Jomon-Yayoi transition in Kyushu (Japan). _PLOS ONE_ 16(5): e0251695. https://doi.org/10.1371/journal.pone.0251695
