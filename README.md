@@ -840,6 +840,8 @@ Sinensky, R., Schachner, G., Wilshusen, R., & Damiata, B. (2022). Volcanic clima
 
 Smith, G. R. Spasov, N. L. Martisius, V. Sinet-Mathiot, V. Aldeias, et al. (2021). Subsistence behavior during the Initial Upper Paleolithic in Europe: Site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria), Journal of Human Evolution, Volume 161, 2021, 103074, https://doi.org/10.1016/j.jhevol.2021.103074
 
+Smith, G.M., Noack, E.S., Behrens, N.M. et al. (2020). When Lithics Hit Bones: Evaluating the Potential of a Multifaceted Experimental Protocol to Illuminate Middle Palaeolithic Weapon Technology. _Journal of Paleolithic Archaeology_ 3, 126–156 https://doi.org/10.1007/s41982-020-00053-6
+
 Spake, L., Cardoso, H.F.V. (2021). Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. _International Journal of Osteoarchaeology_ 31:232-242. <https://osf.io/c2x7k/> 
 
 Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeological and Anthropological Sciences 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
