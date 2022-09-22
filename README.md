@@ -708,6 +708,8 @@ Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Taka
 
 Ordonez, A., Riede, F. (2022). Changes in limiting factors for forager population dynamics in Europe across the last glacial-interglacial transition. _Nature Communications_ 13, 5140  https://doi.org/10.1038/s41467-022-32750-x
 
+Otárola-Castillo, E., Torquato, M., Wolfhagen, J., Hill, M., & Buck, C. (2022). Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology. _Advances in Archaeological Practice_, 1-17. https://doi.org/10.1017/aap.2022.10
+
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
 Pardo-Gordó, S., Aubán, J. B., Jiménez-Puerto, J., Armero, C., & García-Donato, G. (2022). The chronology of archaeological assemblages based on an automatic Bayesian procedure: Eastern Iberia as study case. _Journal of Archaeological Science_, 139(105555), 105555. https://doi.org/10.1016/j.jas.2022.105555
