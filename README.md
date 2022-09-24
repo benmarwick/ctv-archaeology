@@ -752,6 +752,8 @@ Phillips, D., Wearing, H., & Clark, J. (2018). VILLAGE GROWTH, EMERGING INFECTIO
 
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
 
+Plutniak, S., Asftolfo Araujo, Bambang Sugiyanto, Adhi Agus Oktaviana, Jean-Michel Chazine & François-Xavier Ricaut (2022). Mainland-coastal interactions in East Borneo: Inter-site comparison and Bayesian chronological models of two Late Pleistocene–Holocene sequences (Liang Abu and Kimanis rock shelters), _The Journal of Island and Coastal Archaeology_, http://doi.org/10.1080/15564894.2022.2108947
+
 Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Units and Fragmented Objects with the TSAR Method — Topological Study of Archaeological Refitting. _Journal of Archaeological Science_ 136: 105501. <https://doi.org/10.1016/j.jas.2021.105501>
 
 Pollard, D. (2021). All equal in the presence of death? A quantitative analysis of the Early Iron Age cemeteries of Knossos, Crete, Journal of Anthropological Archaeology, Volume 63, 2021, 101320,
