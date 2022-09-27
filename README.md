@@ -730,6 +730,8 @@ Park, G. & B. Marwick (2022). How did the introduction of stemmed points affect 
 
 Parkinson, E.W., McLaughlin, T.R., Esposito, C. et al. (2021). Radiocarbon Dated Trends and Central Mediterranean Prehistory. _J World Prehist_. https://doi.org/10.1007/s10963-021-09158-4
 
+Pargeter, J., Chen, C., Buchanan, B., Fisch, M., Bebber, M., & Eren, M. I. (2022). Stone tool backing and adhesion in hunting weaponry: First results of an experimental program. _Journal of Archaeological Science: Reports_, 45, 103639. https://doi.org/10.1016/j.jasrep.2022.103639
+
 Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
 
 Pargeter, J., Khreisheh, N., & Stout, D. (2019). Understanding stone tool-making skill acquisition: Experimental methods and evolutionary implications. _Journal of Human Evolution_, 133, 146-166. <https://osf.io/h5c8t/>
