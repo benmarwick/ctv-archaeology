@@ -229,6 +229,7 @@ Dissimilarity coefficients
 - For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
 - [SPARTAAS](https://CRAN.R-project.org/package=SPARTAAS) Statistical pattern recognition and dating using archaeological artefacts assemblages.
 - [kairos](http://cran.rstudio.com/web/packages/kairos) provides methods for analysis of chronological patterns from archaeological count data, including Mean Ceramic Date (MCD)
+- [nimbleCarbon](https://cran.r-project.org/package=nimbleCarbon) add on library for the [nimble](https://cran.r-project.org/package=nimble) package for Bayesian Analyses of radiocarbon dates, including phase models and custom population growth growth models.
 
 ## Tree-ring analysis / Dendrochronolohy
 
@@ -495,6 +496,12 @@ Crema, E. R., J. Habu, K. Kobayashi and M. Madella (2016). "Summed Probability D
 Crema, E.R., K. Edinborough, Giusti, D., Konidaris, G. E., Tourloukis, V., Marini, M., Maron, M., Zerboni, A., … Harvati, K. (2019). Recursive anisotropy: a spatial taphonomic study of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi, Mygdonia Basin, Greece. Boreas, 0(0). https://doi.org/10.1111/bor.12368T. 
 
 Crema, E.R., Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 http://dx.doi.org/10.1016/j.jas.2014.07.014
+
+Crema, E.R., Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. Journal of Archaeological Science 87, 1-9.https://github.com/ercrema/JAS2017_spatialSPD
+
+Crema E.R. (2014). A simulation model of fission-fusion dynamics and long-term settlement change. Journal of Archaeological Method and Theory , 21, 385-404 https://github.com/ercrema/fissionfusion2014
+
+Crema, E.R., Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015), Human Biology, 87 (3), 151-168 https://github.com/ercrema/CulturalIncubatorSourceCodes 
 
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507).
 
@@ -771,6 +778,8 @@ Porčić, M., Nikolić, M., (2016). The Approximate Bayesian Computation approac
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., (2019). Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
 Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 https://doi.org/10.1038/s41467-021-22506-4
+
+Prentiss, A.M., Edinborough, K., Crema, E. R., Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. Journal of Archaeological Science: Reports, 44, 103512. https://doi.org/10.1016/j.jasrep.2022.103512 
 
 Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-to-End Bayesian Analysis for Summarizing Sets of Radiocarbon Dates. _Journal of Archaeological Science_ 135: 105473. https://doi.org/10.1016/j.jas.2021.105473
 
