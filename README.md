@@ -884,6 +884,8 @@ Utting, B. (2022). Geochemical fingerprinting of Pleistocene stone tools from th
 
 Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes: testing and describing the spread of the Neolithic in the Balkans _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620200231 http://doi.org/10.1098/rstb.2020.0231
 
+Vidal-Cordasco, M., Ocio, D., Hickler, T. et al. (2022). Ecosystem productivity affected the spatiotemporal disappearance of Neanderthals in Iberia. _Nature Ecology and Evolution_ (2022). https://doi.org/10.1038/s41559-022-01861-5
+
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
 
 Visentin, D., & Carrer, F. (2017). Evaluating Mesolithic settlement patterns in mountain environments (Dolomites, Eastern Italian Alps): the role of research biases and locational strategies. _Archeologia e calcolatori_ 28(1), 129-154. http://eprints.bice.rm.cnr.it/id/eprint/17240
