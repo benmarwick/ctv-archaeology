@@ -874,6 +874,8 @@ Tallavaara, Miikka and Jørgensen Erlend Kirkeng (2021). Why are population grow
 
 Tenzer, M. (2022). Tweets in the Peak: Twitter Analysis - the impact of Covid-19 on cultural landscapes, _Internet Archaeology_ 59. https://doi.org/10.11141/ia.59.6
 
+Timbrell, L., Scott, C., Habte, B. et al. (2022). Testing inter-observer error under a collaborative research framework for studying lithic shape variability. _Archaeological Anthropological Science_ 14, 209 https://doi.org/10.1007/s12520-022-01676-2
+
 Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvironmental framework for the Middle Stone Age of eastern Africa. _Scientific Reports_ 12, 3689 (2022). https://doi.org/10.1038/s41598-022-07742-y
 
 Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Katie (2021). Directly modelling population dynamics in the South American Arid Diagonal using 14C dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190723 <http://doi.org/10.1098/rstb.2019.0723>
