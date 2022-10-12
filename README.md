@@ -713,8 +713,6 @@ Negre, J., Muñoz, F., Lancelotti, C., (2016). Geostatistical modelling of chemi
 
 Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Takakura, J., Yamaoka, T., Noguchi, A., Kondo, Y., & Kobayashi, Y. (2021). Spatiotemporal variability in lithic technology of Middle-to-Upper Paleolithic Asia: A new dataset and its statistical analyses. _Quaternary International_. https://doi.org/10.1016/j.quaint.2021.03.022
 
-Nørtoft, M., (2022). A New Framework for Quantifying Prehistoric Grave Wealth. _Journal of Computer Applications in Archaeology_, 5(1), pp.123–139. http://doi.org/10.5334/jcaa.86
-
 Ordonez, A., Riede, F. (2022). Changes in limiting factors for forager population dynamics in Europe across the last glacial-interglacial transition. _Nature Communications_ 13, 5140  https://doi.org/10.1038/s41467-022-32750-x
 
 Otárola-Castillo, E., Torquato, M., Wolfhagen, J., Hill, M., & Buck, C. (2022). Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology. _Advances in Archaeological Practice_, 1-17. https://doi.org/10.1017/aap.2022.10
