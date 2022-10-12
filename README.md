@@ -497,7 +497,7 @@ Crema, E.R., K. Edinborough, Giusti, D., Konidaris, G. E., Tourloukis, V., Marin
 
 Crema, E.R., Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 http://dx.doi.org/10.1016/j.jas.2014.07.014
 
-Crema, E.R., Bevan, A., Shennan, S.(2017). Spatio-temporal approaches to archaeological radiocarbon dates. Journal of Archaeological Science 87, 1-9.https://github.com/ercrema/JAS2017_spatialSPD
+Crema, E.R., Bevan, A., Shennan, S. (2017). Spatio-temporal approaches to archaeological radiocarbon dates. Journal of Archaeological Science 87, 1-9.https://github.com/ercrema/JAS2017_spatialSPD
 
 Crema E.R. (2014). A simulation model of fission-fusion dynamics and long-term settlement change. Journal of Archaeological Method and Theory , 21, 385-404 https://github.com/ercrema/fissionfusion2014
 
