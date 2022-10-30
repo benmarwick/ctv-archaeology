@@ -889,6 +889,8 @@ Tallavaara, Miikka and Jørgensen Erlend Kirkeng (2021). Why are population grow
 
 Tenzer, M. (2022). Tweets in the Peak: Twitter Analysis - the impact of Covid-19 on cultural landscapes, _Internet Archaeology_ 59. https://doi.org/10.11141/ia.59.6
 
+Timbrell, L., Peña, P. de la, Way, A., Hoggard, C., Backwell, L., Francesco d’Errico, Wadley, L., & Grove, M. (2022). Technological and geometric morphometric analysis of ‘post-Howiesons Poort points’ from Border Cave, KwaZulu-Natal, South Africa. _Quaternary Science Reviews_, 297, 107813. https://doi.org/10.1016/j.quascirev.2022.107813
+
 Timbrell, L., Scott, C., Habte, B. et al. (2022). Testing inter-observer error under a collaborative research framework for studying lithic shape variability. _Archaeological Anthropological Science_ 14, 209 https://doi.org/10.1007/s12520-022-01676-2
 
 Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvironmental framework for the Middle Stone Age of eastern Africa. _Scientific Reports_ 12, 3689 (2022). https://doi.org/10.1038/s41598-022-07742-y
