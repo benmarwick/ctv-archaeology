@@ -940,6 +940,8 @@ Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure o
 
 Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marean, C. W. (2019). The foraging potential of the Holocene Cape south coast of South Africa without the Palaeo-Agulhas Plain. _Quaternary Science Reviews_, 105789. <https://doi.org/10.1016/j.quascirev.2019.06.012>
 
+Wyatt-Spratt, S., (2022). After the Revolution: A Review of 3D Modelling as a Tool for Stone Artefact Analysis. _Journal of Computer Applications in Archaeology_, 5(1), pp.215–237. http://doi.org/10.5334/jcaa.103
+
 Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. _PloS one_, 15(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
 
 ## Contributors
