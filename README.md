@@ -1,6 +1,9 @@
 CRAN Task View: Archaeological Science
 --------------------------------------
 
+[![DOI](https://zenodo.org/badge/29466157.svg)](https://zenodo.org/badge/latestdoi/29466157)
+
+
 <table>
 <colgroup>
 <col width="50%" />
@@ -13,7 +16,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2022-08-28</td>
+2022-11-08</td>
 </tr>
 </tbody>
 </table>
