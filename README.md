@@ -625,6 +625,8 @@ Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Eco
 
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
 
+Kempf, M., & Günther, G. (2023). Point pattern and spatial analyses using archaeological and environmental data – A case study from the Neolithic Carpathian Basin. _Journal of Archaeological Science: Reports_, 47, 103747. https://doi.org/10.1016/j.jasrep.2022.103747
+
 Kim, H., Lee, G.-A., & Crema, E. R. (2021). Bayesian analyses question the role of climate in Chulmun demography. Scientific Reports, 11(1), 23797. https://doi.org/10.1038/s41598-021-03180-4
 
 King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & Halcrow, S. E. (2018). Marine resource reliance in the human populations of the Atacama Desert, northern Chile–A view from prehistory. _Quaternary Science Reviews_, 182, 163-174. <https://doi.org/10.1016/j.quascirev.2017.12.009>
