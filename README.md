@@ -289,7 +289,8 @@ Dissimilarity coefficients
 -   The [rticles](https://github.com/rstudio/rticles) package includes templates for converting markdown documents into PDF files formatted ready for submission for publication, such as in the PLOS journals, the Frontiers In journals, and Elsevier journals. Similarly, the [papaja](https://github.com/crsh/papaja) packge contains a template for converting a markdown file into an APA-formatted PDF. These packages depend on [pandoc](http://johnmacfarlane.net/pandoc/), a universal document format converter (not an R package). In this context it is used to convert rmarkdown or LaTeX to PDF, MS Word or HTML files. It is included with RStudio but can also be used stand-alone from the command line. 
 -   For making nice tables in documents: [kableExtra](https://cran.r-project.org/web/packages/kableExtra), [gt](https://cran.r-project.org/web/packages/gt), [flextable](https://cran.r-project.org/web/packages/flextable)
 -   The [quarto](http://cran.rstudio.com/web/packages/quarto) package implements markdown document formatting language for scientific and technical publishing. Quarto documents are authored using markdown with R code blocks and inline code. It has all the usual scholarly accessories: citations, figures, tables, captions and cross-referencing.
--   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences, including vim keyboard shortcuts. There are also packages that make scholarly writing in RStudio easy: [wordcountaddin](https://github.com/benmarwick/wordcountaddin)
+-   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences, including vim 
+board shortcuts. There are also packages that make scholarly writing in RStudio easy: [wordcountaddin](https://github.com/benmarwick/wordcountaddin)
 
 
 ## Developing R code and packages
@@ -631,6 +632,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
 Kelmelis, Saige, and Sharon N. DeWitte. (2021). “Urban and Rural Survivorship in Pre- and Post-Black Death Denmark.” _Journal of Archaeological Science: Reports_ 38: 103089.
+
+Key, A, Ashton, N. (2022). Hominins likely occupied northern Europe before one million years ago. _Evolutionary Anthropology_  2022; 1- 16. http://doi.org/10.1002/evan.21966
 
 Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. Veget Hist Archaeobot <https://doi.org/10.1007/s00334-021-00856-9>
 
