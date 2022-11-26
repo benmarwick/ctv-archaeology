@@ -557,6 +557,8 @@ Farahani, A. (2018). A 2500-year historical ecology of agricultural production u
 
 Field, S., Glowacki, D.M. & Gettler, L.T. (2022). The Importance of Energetics in Archaeological Least Cost Analysis. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-022-09564-8
 
+Fitzhugh, B., Brown, W. A., Misarti, N., Takase, K., & Tremayne, A. H. (2022). Human Paleodemography and Paleoecology of the North Pacific Rim from the Mid to Late Holocene. _Quaternary Research_ 108, 123–149. https://doi.org/10.1017/qua.2022.35
+
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8>
 
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
