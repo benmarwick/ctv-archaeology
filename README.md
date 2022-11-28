@@ -817,6 +817,8 @@ Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., (2018). Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
+Riede, F., Lew-Levy, S., Johannsen, N. N., Lavi, N., & Andersen, M. M. (2022). Toys as Teachers: A Cross-Cultural Analysis of Object Use and Enskillment in Hunter–Gatherer Societies. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09593-3
+
 Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in prehistory at 50. _Evolutionary Human Sciences_, 4, E16. doi:10.1017/ehs.2022.18
 
 Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
