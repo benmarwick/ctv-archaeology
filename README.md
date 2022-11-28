@@ -553,6 +553,8 @@ Falcucci, A., Karakostis, F. A., Göldner, D., & Peresani, M. (2022). Bringing s
 
 Falcucci, A., & Peresani, M. (2022). The contribution of integrated 3D model analysis to Protoaurignacian stone tool design. _PLOS ONE_, 17(5), e0268539. https://doi.org/10.1371/journal.pone.0268539
 
+Falótico, T., Valença, T., Verderane, M. P., & Fogaça, M. D. (2022). Stone tools differences across three capuchin monkey populations: Food’s physical properties, ecology, and culture. _Scientific Reports_, 12(1), Article 1. https://doi.org/10.1038/s41598-022-18661-3
+
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
 Field, S., Glowacki, D.M. & Gettler, L.T. (2022). The Importance of Energetics in Archaeological Least Cost Analysis. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-022-09564-8
