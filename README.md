@@ -833,6 +833,8 @@ Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South Ame
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
+Roalkvam, I. (2023). A simulation-based assessment of the relation between Stone age sites and relative sea-level change along the Norwegian Skagerrak coast. _Quaternary Science Reviews_, 299, 107880. https://doi.org/10.1016/j.quascirev.2022.107880
+
 Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021). Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
 
 Robinson, J.R. (2021). Investigating Isotopic Niche Space: Using rKIN for Stable Isotope Studies in Archaeology. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-021-09541-7>
