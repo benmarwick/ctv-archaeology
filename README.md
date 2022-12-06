@@ -913,6 +913,8 @@ Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvi
 
 Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Katie (2021). Directly modelling population dynamics in the South American Arid Diagonal using 14C dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190723 <http://doi.org/10.1098/rstb.2019.0723>
 
+Trentacoste, A., Nieto-Espinet, A., Guimarães Chiarelli, S., & Valenzuela-Lamas, S. (2022). Systems change: Investigating climatic and environmental impacts on livestock production in lowland Italy between the Bronze Age and Late Antiquity (c. 1700 BC – AD 700). _Quaternary International_. https://doi.org/10.1016/j.quaint.2022.11.005
+
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. (2015). “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
 Utting, B. (2022). Geochemical fingerprinting of Pleistocene stone tools from the Tràng An Landscape Complex, Ninh Bình Province, Vietnam. _PLoS ONE_ 17(6): e0269658. https://doi.org/10.1371/journal.pone.0269658
