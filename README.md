@@ -701,6 +701,8 @@ Marwick, B. (2013). Discovery of Emergent Issues and Controversies in Anthropolo
 
 Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27 (2021). <https://doi.org/10.1007/s41982-021-00097-2>
 
+McCool, W. C., Codding, B. F., Vernon, K. B., Wilson, K. M., Yaworsky, P. M., Marwan, N., & Kennett, D. J. (2022). Climate change–induced population pressure drives high rates of lethal violence in the Prehispanic central Andes. _Proceedings of the National Academy of Sciences_, 119(17), e2117556119. https://doi.org/10.1073/pnas.2117556119
+
 McLaughlin, T. Rowan, Gómez-Puche Magdalena, Cascalheira João, Bicho Nuno and Fernández-López de Pablo Javier (2021). Late Glacial and Early Holocene human demographic responses to climatic and environmental change in Atlantic Iberia _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190724 <http://doi.org/10.1098/rstb.2019.0724>
 
 McLaughlin, T.R. (2018). On Applications of Space–Time Modelling with Open-Source 14C Age Calibration. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-018-9381-3>
@@ -713,7 +715,8 @@ McPherron, Shannon P., Will Archer, Erik R. Otárola-Castillo, Melissa G. Torqua
 
 McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandžić, T., ... & Reeves, J. (2020). Introducing platform surface interior angle (PSIA) and its role in flake formation, size and shape. Plos one, 15(11), e0241714. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241714>
 
-McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation 
+esses using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
 
 Miller, J.M., Wang, Y.V. (2021). Ostrich eggshell beads reveal 50,000-year-old social network in Africa. _Nature_ https://doi.org/10.1038/s41586-021-04227-2
 
