@@ -940,6 +940,8 @@ Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study 
 
 Wang, L. and Marwick, B. (2020). Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. _Archaeological Research in Asia_. <https://doi.org/10.1016/j.ara.2020.100226> <https://github.com/LiYingWang/kwl-ornaments> <https://osf.io/r8yga/>
 
+Wattanapituksakul, A., Shoocongdej, R., & Conrad, C. (2022). Preservation of Mammalian Teeth and Bones Influences Identification of Terminal Pleistocene to Middle Holocene Hunter-Gatherer Subsistence at Ban Rai Rockshelter, Northwest Thailand. _Quaternary_, 5(4), Article 4. https://doi.org/10.3390/quat5040051
+
 Way, A.M., de la Peña, P., de la Peña, E. et al. (2022). Howiesons Poort backed artifacts provide evidence for social connectivity across southern Africa during the Final Pleistocene. Scientific Reports 12, 9 https://doi.org/10.1038/s41598-022-12677-5
 
 Weiss, Marcel. (2020). “The Lichtenberg Keilmesser - It’s All about the Angle.” _PLOS ONE_ 15(10): e0239718. <https://doi.org/10.1371/journal.pone.0239718>
