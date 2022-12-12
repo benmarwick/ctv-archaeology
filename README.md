@@ -750,6 +750,8 @@ Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). 
 
 Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _Journal of World Prehistory_  https://doi.org/10.1007/s10963-021-09159-3
 
+Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. (2022). Testing the Effect of Learning Conditions and Individual Motor/Cognitive Differences on Knapping Skill Acquisition. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09592-4
+
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. doi:10.15184/aqy.2021.181
 
 Park, G. & B. Marwick (2022). How did the introduction of stemmed points affect mobility and site occupation during the late Pleistocene in Korea? _Quaternary Science Reviews_, 277, 107312. 
