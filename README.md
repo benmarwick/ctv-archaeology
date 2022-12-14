@@ -798,6 +798,8 @@ Porčić, M., Nikolić, M., (2016). The Approximate Bayesian Computation approac
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., (2019). Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
+Pozo, J. M., Trentacoste, A., Nieto-Espinet, A., Guimarães, S., & Valenzuela-Lamas, S. (2022). zoolog R package: Zooarchaeological analysis with log-ratios. Quaternary International. https://doi.org/10.1016/j.quaint.2022.11.006
+
 Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 https://doi.org/10.1038/s41467-021-22506-4
 
 Prentiss, A.M., Edinborough, K., Crema, E. R., Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. Journal of Archaeological Science: Reports, 44, 103512. https://doi.org/10.1016/j.jasrep.2022.103512 
