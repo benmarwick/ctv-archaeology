@@ -671,6 +671,8 @@ Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope 
 
 Li, L., Reeves, J.S., Lin, S.C. et al. (2022). Quantifying knapping actions: a method for measuring the angle of blow on flakes. _Archaeological and Anthropological Sciences_ 14, 156 https://doi.org/10.1007/s12520-022-01626-y
 
+Lin, S.C., White, L.T., Jatmiko et al. (2022). Characterising the stone artefact raw materials at Liang Bua, Indonesia. J Paleo Arch 5, 22. https://doi.org/10.1007/s41982-022-00133-9
+
 Lin SC, Rezek Z, Abdolahzadeh A, Braun DR, Dogandžić T, Leader GM, et al. (2022). The mediating effect of platform width on the size and shape of stone flakes. PLoS ONE 17(1): e0262920. doi:10.1371/journal.pone.0262920
 
 Lipo, C. P., Hunt, T. L., Horneman, R., & Bonhomme, V. (2016). Weapons of war? Rapa Nui mata’a morphometric analyses. _Antiquity_, 90(349), 172–187. <doi:10.15184/aqy.2015.189>  <https://github.com/clipo/mataaMorphometrics>
