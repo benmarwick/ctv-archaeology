@@ -515,6 +515,8 @@ Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Meso
 
 Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., (2021). Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
 
+Davis, D.S., G. Caspari, C. P. Lipo, and M. C. Sanger (2021). Deep Learning Reveals Extent of Archaic Native American Shell-Ring Building Practices. _Journal of Archaeological Science_ 132: 105433. https://doi.org/10.1016/j.jas.2021.105433
+
 Davis, D.S.; DiNapoli, R.J.; Douglass, K. (2020). Integrating Point Process Models, Evolutionary Ecology and Traditional Knowledge Improves Landscape Archaeology—A Case from Southwest Madagascar. _Geosciences_ , 10, 287.
 
 Díaz-Rodríguez, M., & Fábregas-Valcarce, R. (2022). Evaluating the effectiveness of three spatial cluster analysis methods on Palaeolithic site location distributions in Galicia, NW Iberian Peninsula. _Journal of Archaeological Science: Reports_, 41, 103323. https://doi.org/10.1016/j.jasrep.2021.103323
