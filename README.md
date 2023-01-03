@@ -515,6 +515,8 @@ Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Meso
 
 Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., (2021). Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
 
+Dapschauskas, R., Göden, M. B., Sommer, C., & Kandel, A. W. (2022). The Emergence of Habitual Ochre Use in Africa and its Significance for The Development of Ritual Behavior During The Middle Stone Age. _Journal of World Prehistory_, 35(3), 233–319. https://doi.org/10.1007/s10963-022-09170-2. [Zenodo repo](https://doi.org/10.5281/zenodo.5883926)
+
 Davis, D.S., G. Caspari, C. P. Lipo, and M. C. Sanger (2021). Deep Learning Reveals Extent of Archaic Native American Shell-Ring Building Practices. _Journal of Archaeological Science_ 132: 105433. https://doi.org/10.1016/j.jas.2021.105433
 
 Davis, D. S., Andriankaja, V., Carnat, T. L., Chrisostome, Z. M., Colombe, C., Fenomanana, F., Hubertine, L., Justome, R., Lahiniriko, F., Léonce, H., Manahira, G., Pierre, B. V., Roi, R., Soafiavy, P., Victorian, F., Voahirana, V., Manjakahery, B., & Douglass, K. (2020). Satellite-based remote sensing rapidly reveals extensive record of Holocene coastal settlement on Madagascar. Journal of Archaeological Science, 115, 105097. https://doi.org/10.1016/j.jas.2020.105097
