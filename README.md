@@ -734,6 +734,8 @@ esses using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/
 
 Miller, J.M., Wang, Y.V. (2021). Ostrich eggshell beads reveal 50,000-year-old social network in Africa. _Nature_ https://doi.org/10.1038/s41586-021-04227-2
 
+Motes-Rodrigo A, McPherron SP, Archer W, Hernandez-Aguilar RA, Tennie C (2022). Experimental investigation of orangutans’ lithic percussive and sharp stone tool behaviours. PLoS ONE 17(2): e0263343. https://doi.org/10.1371/journal.pone.0263343
+
 Nakagawa, T., Kohei Tamura, Yuji Yamaguchi, Naoko Matsumoto, Takehiko Matsugi, Hisashi Nakao, (2021). Population pressure and prehistoric violence in the Yayoi period of Japan, Journal of Archaeological Science, Volume 132, 2021, 105420, https://doi.org/10.1016/j.jas.2021.105420 https://github.com/tmr-kohei/nakagawa2021
 
 Nakoinz, O., D. Knitter (2016). _Modelling Human Behaviour in Landscapes. Basic Concepts and Modelling Elements_. Quantitative Archaeology and Archaeological Modelling 1. Springer, New York. <https://github.com/dakni/mhbil>, <https://github.com/ISAAKiel>
