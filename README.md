@@ -866,6 +866,8 @@ Rodríguez, J., Willmes, C., Sommer, C., & Mateos, A. (2022). Sustainable human 
 
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021). Population density and size facilitate interactive capacity and the rise of the state _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190725 http://doi.org/10.1098/rstb.2019.0725
 
+Ruebens, K., Smith, G.M., Fewlass, H., Sinet-Mathiot, V., Hublin, J.-J. and Welker, F. (2023). Neanderthal subsistence, taphonomy and chronology at Salzgitter-Lebenstedt (Germany): a multifaceted analysis of morphologically unidentifiable bone. Journal of Quaternary Science. https://doi.org/10.1002/jqs.3499
+
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. (2018). The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
 
 Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodríguez, J. (2017). Bayesian analysis and free market trade within the Roman Empire, Antiquity, 91(359), pp. 1241–1252. doi:10.15184/aqy.2017.131 <https://github.com/xrubio/bayesRome>
