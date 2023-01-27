@@ -944,6 +944,8 @@ Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Ka
 
 Trentacoste, A., Nieto-Espinet, A., Guimarães Chiarelli, S., & Valenzuela-Lamas, S. (2022). Systems change: Investigating climatic and environmental impacts on livestock production in lowland Italy between the Bronze Age and Late Antiquity (c. 1700 BC – AD 700). _Quaternary International_. https://doi.org/10.1016/j.quaint.2022.11.005
 
+Tsirintoulaki, K., Matzig, D. N., & Riede, F. (2023). A 2D Geometric Morphometric Assessment of Chrono-Cultural Trends in Osseous Barbed Points of the European Final Palaeolithic and Early Mesolithic. Open Archaeology, 9(1). https://doi.org/10.1515/opar-2022-0276
+
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. (2015). “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
 Utting, B. (2022). Geochemical fingerprinting of Pleistocene stone tools from the Tràng An Landscape Complex, Ninh Bình Province, Vietnam. _PLoS ONE_ 17(6): e0269658. https://doi.org/10.1371/journal.pone.0269658
