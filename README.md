@@ -447,6 +447,8 @@ Carney, M. and Davies, B., (2020). Agent-Based Modeling, Scientific Reproducibil
 
 Carrer, F., Kossowski, T. M., Wilk, J., Pietrzak, M. B., & Bivand, R. S. (2021). The application of Local Indicators for Categorical Data (LICD) to explore spatial dependence in archaeological spaces. _Journal of Archaeological Science_, 126, 105306. <https://doi.org/10.1016/j.jas.2020.105306>
 
+Carrero-Pazos, M. (2023). Análisis de patrones espaciales de puntos para el estudio de tendencias locacionales en distribuciones de yacimientos arqueológicos. Vegueta: Anuario de la Facultad de Geografía e Historia, 97–114. https://doi.org/10.51349/veg.2023.1.04
+
 Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
 
 Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Middle Paleolithic human settlement in westernmost Iberia. _Journal of Quaternary Science_ https://doi.org/10.1002/jqs.3286
