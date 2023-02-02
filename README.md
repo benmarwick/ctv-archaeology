@@ -471,6 +471,8 @@ Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spat
 
 Coco, E., Holdaway, S. & Iovita, R. (2020). The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. _Journal of Paleolithic Archaeology_  <https://doi.org/10.1007/s41982-020-00055-4>
 
+Codding, B. F., Brenner Coltrain, J., Louderback, L., Vernon, K. B., Magargal, K. E., Yaworsky, P. M., Robinson, E., Brewer, S. C., & Spangler, J. D. (2022). Socioecological Dynamics Structuring the Spread of Farming in the North American Basin-Plateau Region. Environmental Archaeology, 27(4), 434–446. https://doi.org/10.1080/14614103.2021.1927480
+
 Cole, K. E., Yaworsky, P. M., & Hart, I. A. (2022). Evaluating statistical models for establishing morphometric taxonomic identifications and a new approach using Random Forest. _Journal of Archaeological Science_ 143, 105610. https://doi.org/10.1016/j.jas.2022.105610
 
 Conrad, C., R. Shoocongdej, B. Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ https://doi.org/10.15184/aqy.2021.44
