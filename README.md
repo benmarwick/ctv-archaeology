@@ -577,6 +577,8 @@ Fitzhugh, B., Brown, W. A., Misarti, N., Takase, K., & Tremayne, A. H. (2022). H
 
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8>
 
+Fontana, G., & Bernard, S. (2023). A new method for the energetics analysis of polygonal masonry in Samnite hillforts (Italy). _Journal of Archaeological Science_, 105730. https://doi.org/10.1016/j.jas.2023.105730
+
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
 
 Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis (MCA): An Innovative way of Examining Questions in Archaeology Using Ethnographic Data. _Advances in Archaeological Practice_, 6(4), 328-341. http://doi.org/10.1017/aap.2018.9
