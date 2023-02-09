@@ -918,6 +918,8 @@ Sommer, C., Kandel, A. W., & Hochschild, V. (2022). The use of prehistoric ‘bi
 
 Spake, L., Cardoso, H.F.V. (2021). Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. _International Journal of Osteoarchaeology_ 31:232-242. <https://osf.io/c2x7k/> 
 
+Stantis, C., Maaranen, N., Kharobi, A., Nowell, G. M., Macpherson, C., Schutkowski, H., & Bourke, S. (2022). Jordanian migration and mobility in the Middle Bronze Age (ca. 2100–1550 BCE) at Pella. International Journal of Osteoarchaeology, 32(2), 339–357. https://doi.org/10.1002/oa.3069
+
 Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeological and Anthropological Sciences 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016). "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903>
