@@ -621,6 +621,8 @@ Hermes, T. R., Schmid, C., Tabaldiev, K., & Motuzaite Matuzeviciute, G. (2022). 
 
 Hewitt, Richard J., Francis F. Wenban-Smith, and Martin R. Bates. (2020). "Detecting Associations between Archaeological Site Distributions and Landscape Features: A Monte Carlo Simulation Approach for the R Environment" Geosciences 10, no. 9: 326. https://doi.org/10.3390/geosciences10090326
 
+Hinz, Martin and Heitz, Caroline. (2022). "Unsupervised Classification of Neolithic Pottery From the Northern Alpine Space Using t-SNE and HDBSCAN" _Open Archaeology_, vol. 8, no. 1, , pp. 1183-1217. https://doi.org/10.1515/opar-2022-0274
+
 Hinz, M., (2020). Sensitivity of Radiocarbon Sum Calibration. _Journal of Computer Applications in Archaeology_, 3(1), pp.238–252. DOI: http://doi.org/10.5334/jcaa.53
 
 Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic technological blade strategies: an experimental investigation. Lithics–The Journal of the Lithic Studies Society, (39), 52. <http://journal.lithics.org/index.php/lithics/article/view/737> <https://osf.io/5v8xh/>
