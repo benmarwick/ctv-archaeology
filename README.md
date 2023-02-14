@@ -920,6 +920,8 @@ Snitker, G., Moser, J. D., Southerlin, B., & Stewart, C. (2022). Detecting histo
 
 Sommer, C., Kandel, A. W., & Hochschild, V. (2022). The use of prehistoric ‘big data’ for mapping early human cultural networks. _Journal of Maps_, 1–12. https://doi.org/10.1080/17445647.2022.2118628
 
+Souza, J. G. de, Ruiz-Pérez, J., Lancelotti, C., & Madella, M. (2022). Environmental effects on the spread of the Neolithic crop package to South Asia. PLOS ONE, 17(7), e0268482. https://doi.org/10.1371/journal.pone.0268482
+
 Spake, L., Cardoso, H.F.V. (2021). Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. _International Journal of Osteoarchaeology_ 31:232-242. <https://osf.io/c2x7k/> 
 
 Stantis, C., Maaranen, N., Kharobi, A., Nowell, G. M., Macpherson, C., Schutkowski, H., & Bourke, S. (2022). Jordanian migration and mobility in the Middle Bronze Age (ca. 2100–1550 BCE) at Pella. International Journal of Osteoarchaeology, 32(2), 339–357. https://doi.org/10.1002/oa.3069
