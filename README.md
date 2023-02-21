@@ -619,6 +619,8 @@ Hatton A., Collins B, Schoville BJ, Wilkins J (2022). Ostrich eggshell beads fro
 
 Hausmann, N., Meredith-Williams, M., & Laurie, E. (2020). Shellfish resilience to prehistoric human consumption in the southern Red Sea: Variability in Conomurex fasciatus across time and space. _Quaternary International_. http://doi.org/10.1016/j.quaint.2020.04.034 
 
+Hecht, E.E., Pargeter, J., Khreisheh, N. et al. (2023). Neuroplasticity enables bio-cultural feedback in Paleolithic stone-tool making. Sci Rep 13, 2877 https://doi.org/10.1038/s41598-023-29994-y
+
 Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The human experience of social transformation: Insights from comparative archaeology. _PLOS ONE_ 13(11): e0208060. https://doi.org/10.1371/journal.pone.0208060
 
 Hermes, T. R., Schmid, C., Tabaldiev, K., & Motuzaite Matuzeviciute, G. (2022). Carbon and oxygen stable isotopic evidence for diverse sheep and goat husbandry strategies amid a Final Bronze Age farming milieu in the Kyrgyz Tian Shan. _International Journal of Osteoarchaeology_, 1– 12. https://doi.org/10.1002/oa.3103
