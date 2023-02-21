@@ -559,6 +559,8 @@ Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization
 
 Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." _Journal of Archaeological Science_ <http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
 
+Eberl, M., Bell, C., Spencer-Smith, J., Raj, M., Sarubbi, A., Johnson, P., McBride, M. (2023). Machine Learning–Based Identification of Lithic Microdebitage. Advances in Archaeological Practice, 1-12. http://doi.org/10.1017/aap.2022.35
+
 Edinborough, K., Porčić, M., Martindale, A., Brown, T. J., Supernant, K., & Ames, K. M. (2017). Radiocarbon test for demographic events in written and oral history. _Proceedings of the National Academy of Sciences_, 114(47), 12436-12441. <https://doi.org/10.1073/pnas.1713012114>
 
 Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz, D. Fuller, J. Gill, J. Kaplan, N. Kingston, H. Locke, C. McMichael, D. Ranco, T. Rick, M.R. Shaw, L. Stephens, J.C. Svenning, J.E.M. Watson, (2021). People have shaped most of terrestrial nature for at least 12,000 years. _Proceedings of the National Academy of Sciences_. https://doi.org/10.1073/pnas.2023483118
