@@ -587,6 +587,8 @@ Fontana, G., & Bernard, S. (2023). A new method for the energetics analysis of p
 
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
 
+Frederiks, P. L. (2022). Rekonstruktion einer übermoorten, prähistorischen Landschaft bei Wanna, Ldkr. Cuxhaven. Siedlungs- und Küstenforschung im südlichen Nordseegebiet 45, 43–100.
+
 Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis (MCA): An Innovative way of Examining Questions in Archaeology Using Ethnographic Data. _Advances in Archaeological Practice_, 6(4), 328-341. http://doi.org/10.1017/aap.2018.9
 
 Garland, N. (2021). TRAC at 30: A Bibliometric Analysis of the TRAC Community. _Theoretical Roman Archaeology Journal_, 4(1), Article 1. https://doi.org/10.16995/traj.4344
@@ -1024,4 +1026,4 @@ Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F.
 
 ## Contributors
 
-[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy), [Ronald Visser](https://github.com/RonaldVisser)
+[Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy), [Ronald Visser](https://github.com/RonaldVisser), [Moritz Mennenga](https://github.com/MoritzMennenga)
