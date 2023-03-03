@@ -707,6 +707,8 @@ Lombao, D., Rabuñal, J.R., Morales, J.I. et al. (2022). The Technological Behav
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar (2014). Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
 
+Machause López, S., & Diez Castillo, (2022). Analysing the sacred landscape in the Iberian Culture: GIS, caves and ritual performance. _Zephyrvs_, 90, 135-158. https://doi.org/10.14201/zephyrus202290135158
+
 Mackay, Alex, Sam C. Lin, Lachlan S. Kenna, and Alex F. Blackwood. (2018). Variance in the Response of Silcrete to Rapid Heating Complicates Assumptions about Past Heat Treatment Methods.” _Archaeological and Anthropological Sciences_, June 20, 2018, 1–12. <https://doi.org/10.1007/s12520-018-0663-1>.
 
 Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M (2014). Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. _Quaternary International_ [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
