@@ -844,6 +844,8 @@ Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-
 
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
+Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
+
 Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
 
 Reese, K. M. (2020). Check dam agriculture on the mesa verde cuesta. Journal of Archaeological Science: Reports, 31, 102372.
