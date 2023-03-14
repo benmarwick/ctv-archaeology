@@ -633,6 +633,8 @@ Hinz, Martin and Heitz, Caroline. (2022). "Unsupervised Classification of Neolit
 
 Hinz, M., (2020). Sensitivity of Radiocarbon Sum Calibration. _Journal of Computer Applications in Archaeology_, 3(1), pp.238–252. DOI: http://doi.org/10.5334/jcaa.53
 
+Hoebe, P. W., Peeters, J. H. M., & Arnoldussen, S. (2023). Parsing prehistoric patterns: Prospects and limitations of a big radiocarbon dataset for understanding the impact of climate on Late Palaeolithic and Mesolithic populations in northwest Europe (16–7.5 ka calBP). _Journal of Archaeological Science: Reports_, 49, 103944. https://doi.org/10.1016/j.jasrep.2023.103944
+
 Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic technological blade strategies: an experimental investigation. Lithics–The Journal of the Lithic Studies Society, (39), 52. <http://journal.lithics.org/index.php/lithics/article/view/737> <https://osf.io/5v8xh/>
 
 Hoggard, C. S., McNabb, J., & Cole, J. N. (2019). The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-019-00024-6> <https://osf.io/td92j/>
