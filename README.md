@@ -1026,6 +1026,8 @@ Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marea
 
 Wyatt-Spratt, S., (2022). After the Revolution: A Review of 3D Modelling as a Tool for Stone Artefact Analysis. _Journal of Computer Applications in Archaeology_, 5(1), pp.215–237. http://doi.org/10.5334/jcaa.103
 
+Yaworsky, P.M., Hussain, S.T. & Riede, F. (2023). Climate-driven habitat shifts of high-ranked prey species structure Late Upper Paleolithic hunting. _Scientific Reports_ 13, 4238 (2023). https://doi.org/10.1038/s41598-023-31085-x
+
 Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. _PloS one_, 15(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
 
 ## Contributors
