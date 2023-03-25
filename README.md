@@ -627,6 +627,8 @@ Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The huma
 
 Hermes, T. R., Schmid, C., Tabaldiev, K., & Motuzaite Matuzeviciute, G. (2022). Carbon and oxygen stable isotopic evidence for diverse sheep and goat husbandry strategies amid a Final Bronze Age farming milieu in the Kyrgyz Tian Shan. _International Journal of Osteoarchaeology_, 1– 12. https://doi.org/10.1002/oa.3103
 
+Herrera Malatesta, E., Ulloa Hung, J. and Hofman, C.L., (2023). Looking at the Big Picture: Using Spatial Statistical Analyses to Study Indigenous Settlement Patterns in the North-Western Dominican Republic. _Journal of Computer Applications in Archaeology_, 6(1), pp.16–28. http://doi.org/10.5334/jcaa.83
+
 Hewitt, Richard J., Francis F. Wenban-Smith, and Martin R. Bates. (2020). "Detecting Associations between Archaeological Site Distributions and Landscape Features: A Monte Carlo Simulation Approach for the R Environment" Geosciences 10, no. 9: 326. https://doi.org/10.3390/geosciences10090326
 
 Hinz, Martin and Heitz, Caroline. (2022). "Unsupervised Classification of Neolithic Pottery From the Northern Alpine Space Using t-SNE and HDBSCAN" _Open Archaeology_, vol. 8, no. 1, , pp. 1183-1217. https://doi.org/10.1515/opar-2022-0274
