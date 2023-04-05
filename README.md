@@ -707,6 +707,8 @@ Lin SC, Rezek Z, Abdolahzadeh A, Braun DR, Dogandžić T, Leader GM, et al. (202
 
 Lipo, C. P., Hunt, T. L., Horneman, R., & Bonhomme, V. (2016). Weapons of war? Rapa Nui mata’a morphometric analyses. _Antiquity_, 90(349), 172–187. <doi:10.15184/aqy.2015.189>  <https://github.com/clipo/mataaMorphometrics>
 
+Liu, C., Khreisheh, N., Stout, D., & Pargeter, J. (2023). Differential effects of knapping skill acquisition on the cultural reproduction of Late Acheulean handaxe morphology: Archaeological and experimental insights. _Journal of Archaeological Science: Reports_, 49, 103974. https://doi.org/10.1016/j.jasrep.2023.103974
+
 Llorente-Rodríguez, L., Craig, O. E., Colonese, A. C., von Tersch, M., Roselló-Izquierdo, E., González Gómez de Agüero, E., Fernández-Rodríguez, C., Quirós-Castillo, J. A., López-Arias, B., Marlasca-Martín, R., Nottingham, J., & Morales Muñiz, A. (2022). Elucidating historical fisheries’ networks in the Iberian Peninsula using stable isotopes. _Fish and Fisheries_, 00, 1– 12. https://doi.org/10.1111/faf.12655
 
 Lombao, D., Rabuñal, J.R., Morales, J.I. et al. (2022). The Technological Behaviours of Homo antecessor: Core Management and Reduction Intensity at Gran Dolina-TD6.2 (Atapuerca, Spain). Journal of Archaeological Method and Theory https://doi.org/10.1007/s10816-022-09579-1
