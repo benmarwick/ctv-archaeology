@@ -575,6 +575,8 @@ Falcucci, A., & Peresani, M. (2022). The contribution of integrated 3D model ana
 
 Falótico, T., Valença, T., Verderane, M. P., & Fogaça, M. D. (2022). Stone tools differences across three capuchin monkey populations: Food’s physical properties, ecology, and culture. _Scientific Reports_, 12(1), Article 1. https://doi.org/10.1038/s41598-022-18661-3
 
+Farahani, A., Miller, M. J., Porter, B. W., Dawson, T., & Routledge, B. (2023). Stable isotopes of archaeological and modern semi-terrestrial crabs (Potamon potamios) provide paleoecological insights into brachyuran ecology and human resource acquisition in late Holocene Jordan. _Quaternary International_. https://doi.org/10.1016/j.quaint.2023.03.001
+
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
 Field, S., Glowacki, D.M. & Gettler, L.T. (2022). The Importance of Energetics in Archaeological Least Cost Analysis. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-022-09564-8
