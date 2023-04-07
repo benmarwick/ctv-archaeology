@@ -557,6 +557,8 @@ Drake, Brandon L., (2012). The influence of climatic change on the Late Bronze A
 
 Drake, Brandon L., WH Wills, and Erik B Erhardt (2012). The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
 
+Dye, T. S., Buck, C. E., DiNapoli, R. J., & Philippe, A. (2023). Bayesian chronology construction and substance time. Journal of Archaeological Science, 153, 105765. https://doi.org/10.1016/j.jas.2023.105765
+
 Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. _Archaeology in Oceania_ 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
 
 Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." _Journal of Archaeological Science_ <http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
