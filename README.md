@@ -796,6 +796,8 @@ Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). 
 
 Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _Journal of World Prehistory_  https://doi.org/10.1007/s10963-021-09159-3
 
+Pargeter, J., Brooks, A., Douze, K., Eren, M., Groucutt, H., McNeil, J., Leplongeon, A. (2023). Replicability in Lithic Analysis. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2023.4
+
 Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. (2022). Testing the Effect of Learning Conditions and Individual Motor/Cognitive Differences on Knapping Skill Acquisition. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09592-4
 
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. doi:10.15184/aqy.2021.181
