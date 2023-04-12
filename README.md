@@ -361,6 +361,8 @@ d’Alpoim Guedes, J., Hanson, S., Higham, C., Higham, T., & Lertcharnrit, T. (2
 
 Angourakis, Andreas, Verònica Martínez Ferreras, Alexis Torrano, and Josep M. Gurt Esparraguera. (2018). “Presenting Multivariate Statistical Protocols in R Using Roman Wine Amphorae Productions in Catalonia, Spain.” _Journal of Archaeological Science_ 93 (May): 150–65. https://doi.org/10.1016/j.jas.2018.03.007. Describes the cerUB pkg
 
+Arranz-Otaegui, A., Roe, J. (2023). Revisiting the concept of the ‘Neolithic Founder Crops’ in southwest Asia. Veget Hist Archaeobot (2023). https://doi.org/10.1007/s00334-023-00917-1
+
 Arroyo-Kalin, Manuel and Riris Philip (2021). Did pre-Columbian populations of the Amazonian biome reach carrying capacity during the Late Holocene? _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190715 <http://doi.org/10.1098/rstb.2019.0715>
 
 Barr, W. A., Pobiner, B., Rowan, J., Du, A., & Faith, J. T. (2022). No sustained increase in zooarchaeological evidence for carnivory after the appearance of Homo erectus. _Proceedings of the National Academy of Sciences_, 119(5). https://doi.org/10.1073/pnas.2115540119
