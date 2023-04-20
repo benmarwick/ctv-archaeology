@@ -858,6 +858,8 @@ Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Interv
 
 Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
 
+Radinovic, M., & Kajtez, I. (2021). Outlining the knapping techniques: Assessment of the shape and regularity of prismatic blades using elliptic Fourier analysis. _Journal of Archaeological Science: Reports_, 38, 103079. https://doi.org/10.1016/j.jasrep.2021.103079
+
 Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
 
 Reese, K. M. (2020). Check dam agriculture on the mesa verde cuesta. Journal of Archaeological Science: Reports, 31, 102372.
