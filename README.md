@@ -822,6 +822,8 @@ Pederzani, Sarah, Kate Britton, Vera Aldeias, et al. (2021). Subarctic Climate f
 
 Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Pleistocene paleoclimate at the scale of human behavior: an example from the Neandertal occupation of La Ferrassie (France). _Scientific Reports_ 11, 1419  https://doi.org/10.1038/s41598-020-80777-1
 
+Peeples, M. A. and R. J. Bischoff (2023). Archaeological networks, community detection, and critical scales of interaction in the U.S. Southwest/Mexican Northwest, _Journal of Anthropological Archaeology_, Volume 70, 2023, 101511, https://doi.org/10.1016/j.jaa.2023.101511
+
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
 
 Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using Georeferenced Survey Simulation: An R package for subsurface survey. _PLoS ONE_ 16(9): e0257386. doi:10.1371/journal.pone.0257386
