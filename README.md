@@ -535,6 +535,8 @@ Davis, D.S.; DiNapoli, R.J.; Douglass, K. (2020). Integrating Point Process Mode
 
 de la Peña P, Thomas M, Molefyane TR (2022). Particle size distribution: An experimental study using southern African reduction methods and raw materials. _PLOS ONE_ 17(12): e0278867. https://doi.org/10.1371/journal.pone.0278867
 
+Díaz-Rodríguez, M. Ramón Fábregas-Valcarce, Augusto Pérez-Alberti (2023). A predictive model for Palaeolithic sites: A case study of Monforte de Lemos basin, NW Iberian Peninsula, _Journal of Archaeological Science: Reports_, Volume 49, 104012, https://doi.org/10.1016/j.jasrep.2023.104012
+
 Díaz-Rodríguez, M., & Fábregas-Valcarce, R. (2022). Evaluating the effectiveness of three spatial cluster analysis methods on Palaeolithic site location distributions in Galicia, NW Iberian Peninsula. _Journal of Archaeological Science: Reports_, 41, 103323. https://doi.org/10.1016/j.jasrep.2021.103323
 
 DiNapoli, R. J., Crema, E. R., Lipo, C. P., Rieth, T. M., & Hunt, T. L. (2021). Approximate Bayesian Computation of radiocarbon and paleoenvironmental record shows population resilience on Rapa Nui (Easter Island). Nature Communications, 12(1), 3939. https://doi.org/10.1038/s41467-021-24252-z
