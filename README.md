@@ -661,6 +661,8 @@ Huffer, D. and Graham, S. (2017). The Insta-Dead: the rhetoric of the human rema
 
 Huffer, D. and Graham, S. (2018). Fleshing Out the Bones: Studying the Human Remains Trade with Tensorflow and Inception, _Journal of Computer Applications in Archaeology_ 1(1), pp.55-063. <https://doi.org/10.5334/jcaa.8>, code & data: <https:doi.org/10.17605/OSF.IO/9CFJA>
 
+Iminjili, V., Stewart, M., Culley, C., Hixon, S., Goldstein, S., Bleasdale, M., Jesús Sanchez Flores, A., Lucas, M., Ilgner, J., Prendergast, M. E., Crowther, A., Boivin, N., & Roberts, P. (2023). Late Pleistocene to late Holocene palaeoecology and human foraging at Kuumbi Cave, Zanzibar Island. Frontiers in _Environmental Archaeology_, 2. https://www.frontiersin.org/articles/10.3389/fearc.2023.1080785
+
 Ivanovaitė, L., Serwatka, K., Hoggard, C., Sauer, F., & Riede, F. (2020). All these Fantastic Cultures? Research History and Regionalization in the Late Palaeolithic Tanged Point Cultures of Eastern Europe. _European Journal of Archeology_, 23 (2), 162-185. doi:10.1017/eaa.2019.59 <https://osf.io/agrwb/> <https://github.com/CSHoggard/-Eastern-Europe-Tanged-Points>
 
 Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Ecological Factors Affect Long-Term Resilience of Voyaging Canoes in Pre-contact Eastern Polynesia: A Multiproxy Approach From the ArchaeoEcology Project. _Frontiers in Ecology and Evolution_, 9. https://www.frontiersin.org/article/10.3389/fevo.2021.750351
