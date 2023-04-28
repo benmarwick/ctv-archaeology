@@ -719,6 +719,8 @@ Liu, C., Khreisheh, N., Stout, D., & Pargeter, J. (2023). Differential effects o
 
 Llorente-Rodríguez, L., Craig, O. E., Colonese, A. C., von Tersch, M., Roselló-Izquierdo, E., González Gómez de Agüero, E., Fernández-Rodríguez, C., Quirós-Castillo, J. A., López-Arias, B., Marlasca-Martín, R., Nottingham, J., & Morales Muñiz, A. (2022). Elucidating historical fisheries’ networks in the Iberian Peninsula using stable isotopes. _Fish and Fisheries_, 00, 1– 12. https://doi.org/10.1111/faf.12655
 
+Lombao, D., Cueva-Temprana, A., Mosquera, M., & Morales, J. I. (2020). A new approach to measure reduction intensity on cores and tools on cobbles: The Volumetric Reconstruction Method. Archaeological and Anthropological Sciences, 12(9), 222. https://doi.org/10.1007/s12520-020-01154-7
+
 Lombao, D., Rabuñal, J.R., Morales, J.I. et al. (2022). The Technological Behaviours of Homo antecessor: Core Management and Reduction Intensity at Gran Dolina-TD6.2 (Atapuerca, Spain). Journal of Archaeological Method and Theory https://doi.org/10.1007/s10816-022-09579-1
 
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar (2014). Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
