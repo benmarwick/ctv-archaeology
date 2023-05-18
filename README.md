@@ -477,6 +477,8 @@ Codding, B. F., Brenner Coltrain, J., Louderback, L., Vernon, K. B., Magargal, K
 
 Cole, K. E., Yaworsky, P. M., & Hart, I. A. (2022). Evaluating statistical models for establishing morphometric taxonomic identifications and a new approach using Random Forest. _Journal of Archaeological Science_ 143, 105610. https://doi.org/10.1016/j.jas.2022.105610
 
+Coltofean-Arizancu, L., Gaydarska, B., Plutniak, S., Mary, L., Hlad, M., Algrain, I., Sengeløv, A. (2023). Harassment, assault, bullying and intimidation (HABI) in archaeology: A Europe-wide survey. _Antiquity_ 1-19. http://doi.org/10.15184/aqy.2023.58
+
 Conrad, C., R. Shoocongdej, B. Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ https://doi.org/10.15184/aqy.2021.44
 
 Conrad, C., Higham, C., Eda, M. and Marwick, B. (2016). Paleoecology and Forager Subsistence Strategies During the Pleistocene-Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55(1). https://github.com/cylerc/AP_SC
