@@ -525,6 +525,8 @@ Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population
 
 Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Mesolithic social networks on the Iberian Peninsula using ornaments. _Archaeological and Anthropological Sciences_ 14, 174. https://doi.org/10.1007/s12520-022-01641-z
 
+Daems, D., Coco, E., Gillreath-Brown, A., & Kafetzaki, D. (2023). The Effects of Time-Averaging on Archaeological Networks. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09608-7
+
 Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., (2021). Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
 
 Dapschauskas, R., Göden, M. B., Sommer, C., & Kandel, A. W. (2022). The Emergence of Habitual Ochre Use in Africa and its Significance for The Development of Ritual Behavior During The Middle Stone Age. _Journal of World Prehistory_, 35(3), 233–319. https://doi.org/10.1007/s10963-022-09170-2. [Zenodo repo](https://doi.org/10.5281/zenodo.5883926)
