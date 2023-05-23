@@ -737,6 +737,8 @@ Mackay, Alex, Sam C. Lin, Lachlan S. Kenna, and Alex F. Blackwood. (2018). Varia
 
 Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M (2014). Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. _Quaternary International_ [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
 
+Maier, A., John, R., Linsel, F. et al. (2023). Analyzing Trends in Material Culture Evolution—a Case Study of Gravettian Points from Lower Austria and Moravia. _Journal of Paleolithic Archaeology_ 6, 15  https://doi.org/10.1007/s41982-023-00145-z
+
 Marwick, B., Wang, L.-Y., Robinson, R., & Loiselle, H. (2019). How to Use Replication Assignments for Teaching Integrity in Empirical Archaeology. _Advances in Archaeological Practice_, 1–9.  <https://doi.org/10.1017/aap.2019.38>
 
 Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. (2017). Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_ <http://doi.org/10.1016/j.jasrep.2017.07.004>
