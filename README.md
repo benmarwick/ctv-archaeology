@@ -757,6 +757,8 @@ Marwick, B., (2013). Multiple Optima in Hoabinhian flaked stone artefact palaeoe
 
 Marwick, B. (2013). Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) _Data Mining Applications with R_ Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
+Matzig, D.N., Schmid, C. & Riede, F. (2023). Mapping the field of cultural evolutionary theory and methods in archaeology using bibliometric methods. _Humanities and Social Sciences Communications_ 10, 271  https://doi.org/10.1057/s41599-023-01767-y
+
 Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27 (2021). <https://doi.org/10.1007/s41982-021-00097-2>
 
 McCool, W. C., Codding, B. F., Vernon, K. B., Wilson, K. M., Yaworsky, P. M., Marwan, N., & Kennett, D. J. (2022). Climate change–induced population pressure drives high rates of lethal violence in the Prehispanic central Andes. _Proceedings of the National Academy of Sciences_, 119(17), e2117556119. https://doi.org/10.1073/pnas.2117556119
