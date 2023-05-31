@@ -1054,6 +1054,8 @@ Wilson, Evan Patrick, Dietrich Stout, Cheng Liu, Megan Beney Kilgore & Justin Pa
 
 Wilson, K.M., McCool, W.C., Brewer, S.C. et al. (2022). Climate and demography drive 7000 years of dietary change in the Central Andes. _Scientific Reports_ 12, 2026  https://doi.org/10.1038/s41598-022-05774-y
 
+Wolfhagen, J. (2023). Estimating the Ontogenetic Age and Sex Composition of Faunal Assemblages with Bayesian Multilevel Mixture Models. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09611-y
+
 Wolfhagen, J. (2020). Re-examining the use of the LSI technique in zooarchaeology. _Journal of Archaeological Science_ Volume 123, November 2020, 105254 https://doi.org/10.1016/j.jas.2020.105254 https://osf.io/4k62y/
 
 Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing between sheep and goat postcranial remains. _Journal of Archaeological Science: Reports_ 12: 625-31. <https://doi.org/10.1016/j.jasrep.2017.02.022>
