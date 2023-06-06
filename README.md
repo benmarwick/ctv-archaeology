@@ -623,6 +623,8 @@ Gravel-Miguel, C., De Vynck, J., Wren, C. D., Murray, J. K., & Marean, C. W. (20
 
 Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W. (2021). Exploring variability in lithic armature discard in the archaeological record. _Journal of Human Evolution_, 155, 102981. <https://doi.org/10.1016/j.jhevol.2021.102981>
 
+Gregory, A., Mitchell, P. & Pargeter, J. (2023). Raw Material Surveys and Their Behavioral Implications in Highland Lesotho. _Journal of Paleolithic Archaeology_ 6, 18 https://doi.org/10.1007/s41982-023-00138-y
+
 Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M. L., Stewart, M., & Vella, N. C. (2022). The 4.2 ka Event and the End of the Maltese “Temple Period.” Frontiers in Earth Science, 9, 1227. <https://doi.org/10.3389/feart.2021.771683>
 
 Groucutt, H.S., White, T.S., Scerri, E.M.L. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. _Nature_  <https://doi.org/10.1038/s41586-021-03863-y> <https://doi.org/10.5281/zenodo.5082969>
