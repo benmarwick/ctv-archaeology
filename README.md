@@ -495,6 +495,8 @@ Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., (2018). Identifying social 
 
 Courtenay, L.A., Herranz-Rodrigo, D., González-Aguilera, D. et al. (2021). Developments in data science solutions for carnivore tooth pit classification. _Scientific Reports_ 11, 10209  <https://doi.org/10.1038/s41598-021-89518-4>
 
+Cortell-Nicolau, A., García-Puchol, O., & Juan-Cabanilles, J. (2023). The geometric microliths of cueva de la cocina and their significance in the mesolithic of Eastern Iberia: A morphometric study. _Quaternary International_ https://doi.org/10.1016/j.quaint.2023.05.014
+
 Cortell-Nicolau A, García-Puchol O, Barrera-Cruz M, García-Rivero D (2021). The spread of agriculture in Iberia through Approximate Bayesian Computation and Neolithic projectile tools. PLoS ONE 16(12): e0261813. doi:10.1371/journal.pone.0261813
 
 Crawford, K., Huster, A., Peeples, M., Gauthier, N., Smith, M., Lobo, J., Lawrence, D. (2023). A systematic approach for studying the persistence of settlements in the past. Antiquity, 97(391), 213-230. https://doi.org/10.15184/aqy.2022.175
