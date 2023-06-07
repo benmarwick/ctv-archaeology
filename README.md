@@ -1,6 +1,9 @@
 CRAN Task View: Archaeological Science
 --------------------------------------
 
+[![DOI](https://zenodo.org/badge/29466157.svg)](https://zenodo.org/badge/latestdoi/29466157)
+
+
 <table>
 <colgroup>
 <col width="50%" />
@@ -13,7 +16,7 @@ Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
 <td align="left"><strong>Version:</strong>
-2022-06-03</td>
+2022-11-08</td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +66,7 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 ## Data acquisition
 
 -  The ideal method is to export your spreadsheets from Excel (or whatever program you made them) as CSVs (comma-separated-values, a simple, non-proprietary plain-text-based format that is very transparent, being human-readable, easily machine-processable and suitable for archival storage) and read them into R using the base function `read.csv()`. Data in other types of plain text files can be read in with `read.table()`.
--  To read Microsoft Excel files into R there are a number of packages: [readxl]( https://github.com/hadley/readxl) (requires Rcpp, which in turn requires Rtools for Windows or XCode for OSX), [gdata](http://cran.rstudio.com/web/packages/gdata/index.html) (requires Perl), [openxlsx](http://cran.rstudio.com/web/packages/openxlsx/index.html) (requires Rcpp, which in turn requires Rtools for Windows or XCode for OSX), [XLConnect](http://cran.rstudio.com/web/packages/XLConnect/index.html) (requires [rJava](http://cran.rstudio.com/web/packages/rJava/index.html) and Java), [xlsx](http://cran.rstudio.com/web/packages/xlsx/index.html) (also requires rJava and Java). OpenDocument Spreadsheet files can be read into R using [readODS](http://cran.rstudio.com/web/packages/readODS/index.html).
+-  To read Microsoft Excel files into R there is [readxl]( https://github.com/hadley/readxl). OpenDocument Spreadsheet files can be read into R using [readODS](http://cran.rstudio.com/web/packages/readODS/index.html).
 -  For working with untidy and/or complex Excel spreadsheets (i.e. many tables in one sheet, coloured cells, cells with formulas, etc.), use [jailbreakr](https://github.com/rsheets/jailbreakr), [xlsxtractr](https://github.com/hrbrmstr/xlsxtractr), [tidyxl](https://github.com/nacnudus/tidyxl) and [unpivotr](https://github.com/nacnudus/unpivotr)
 -  Text data (as in sentences and paragraphs) can be read in and analysed with the [tm](http://cran.rstudio.com/web/packages/tm/index.html) package or [tidytext](https://cran.r-project.org/package=tidytext). If the text is in a Microsoft Word file, use [textreadr](https://CRAN.R-project.org/package=textreadr), or if it's a PDF file, use [pdftools](https://CRAN.R-project.org/package=pdftools). Text in image files can be extracted with [tesseract](https://cran.r-project.org/package=tesseract)
 -   For quickly reading in a very large number of CSV files, or very large CSV files, use `fread()` from the [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) package or functions in the [readr](https://github.com/hadley/readr) package. For plain text (CSV, TSV, etc) files that are too big to fit in memory, use [chunked](https://CRAN.R-project.org/package=chunked) to read and operate on them in small chunks.
@@ -106,7 +109,6 @@ Contributions to this Task View are always welcome, and encouraged. The source f
 - use [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html) for a publication-ready theming and labelling
 - [patchwork](https://github.com/thomasp85/patchwork) for a simple grammar using `+`, `/`, etc
 - [gridExtra](http://cran.rstudio.com/web/packages/gridExtra/index.html) for configuring layouts with a matrix
-- [egg](https://CRAN.R-project.org/package=egg)
 - [multipanelfigure](https://CRAN.R-project.org/package=multipanelfigure), perhaps the most versatile for combining different elements
 
 ## Analysis in general
@@ -174,7 +176,8 @@ Principle components and other projection, scaling, and ordination methods
 -    Non-Metric multi-Dimensional Scaling (NMDS) is provided by `isoMDS()` in package MASS and `nmds()` in [ecodist](http://cran.rstudio.com/web/packages/ecodist/index.html). `nmds()`, a wrapper function for `isoMDS()`, is also provided by package [labdsv](http://cran.rstudio.com/web/packages/labdsv/index.html). vegan provides helper function `metaMDS()` for `isoMDS()`, implementing random starts of the algorithm and standardised scaling of the NMDS results. The approach adopted by vegan with `metaMDS()` is the recommended approach for ecological data.
 - `corresp()` and `mca()` in MASS provide simple and multiple correspondence analysis respectively. [ca](http://cran.rstudio.com/web/packages/ca/index.html) also provides single, multiple and joint correspondence analysis. `ca()` and `mca()` in ade4 provide correspondence and multiple correspondence analysis respectively, as well as adding homogeneous table analysis with `hta()`. Further functionality is also available within vegan co-correspondence is available from cocorresp. [FactoMineR](http://cran.rstudio.com/web/packages/FactoMineR/index.html) provides `CA()` and `MCA()` which also enable simple and multiple correspondence analysis as well as associated graphical routines. [CAinterprTools](https://github.com/gianmarcoalberti/CAinterprTools) has functions for correspondence analysis and diagnostics.
 -    Seriation methods are available in [seriation](http://cran.rstudio.com/web/packages/seriation/index.html), which includes `bertinplot()` for producing battleship plots, and [CAseriation](https://github.com/gianmarcoalberti/CAseriation) which also has a battleship plotting function.
--    [tabula](https://github.com/nfrerebeau/tabula) provides methods to analyse and visualise archaeological count data (artifacts, faunal remains, etc.) using diversity measures and Ford (1962) and Bertin (1977) diagrams.
+-    [tabula](http://cran.rstudio.com/web/packages/tabula) provides methods to analyse and visualise archaeological count data (artifacts, faunal remains, etc.) using diversity measures and Ford (1962) and Bertin (1977) diagrams.
+- [dimensio](http://cran.rstudio.com/web/packages/dimensio) provides a set of tools to compute, extract, summarize and visualize results of Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). It also includes methods for partial bootstrap validation.
 
 Dissimilarity coefficients
 
@@ -222,12 +225,14 @@ Dissimilarity coefficients
 -    Bayesian age-depth modelling of radiocarbon dates is also available in [Bacon](http://chrono.qub.ac.uk/blaauw/bacon.html), and [clam](http://chrono.qub.ac.uk/blaauw/) contains functions for "classical", non-Bayesian age-depth modelling. These are not R packages, but [clam](https://github.com/SimonGoring/clam) has been packaged for easy use.
 -    [c14bazAAR](https://cran.r-project.org/web/packages/c14bazAAR/index.html) for the retrieval and preparation of large radiocarbon datasets.
 -    The [oxcAAR](https://github.com/ISAAKiel/oxcAAR) package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
-- [ArchaeoPhases](https://cran.r-project.org/package=ArchaeoPhases) provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
+- [ArchaeoPhases](https://cran.r-project.org/package=ArchaeoPhases) provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods. [chronos](https://cran.r-project.org/package=chronos) is a fork of ArchaeoPhases v1.5 (Philippe and Vibet 2020) rewritten in S4 and using ggplot2
 -    Various R functions for Luminescence Dating data analysis are in the [Luminescence](http://cran.rstudio.com/web/packages/Luminescence/index.html) package (including radial plotting) and in the [numOSL](https://cran.r-project.org/web/packages/numOSL/index.html) package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
 -    The [archSeries](https://github.com/davidcorton/archSeries) makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges
 -    The [ADMUR](https://github.com/UCL/ADMUR) package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
 - For time series analysis using calendar dates, [zoo](https://cran.r-project.org/package=zoo) and [padr](https://cran.r-project.org/package=padr) are useful.
 - [SPARTAAS](https://CRAN.R-project.org/package=SPARTAAS) Statistical pattern recognition and dating using archaeological artefacts assemblages.
+- [kairos](http://cran.rstudio.com/web/packages/kairos) provides methods for analysis of chronological patterns from archaeological count data, including Mean Ceramic Date (MCD)
+- [nimbleCarbon](https://cran.r-project.org/package=nimbleCarbon) add on library for the [nimble](https://cran.r-project.org/package=nimble) package for Bayesian Analyses of radiocarbon dates, including phase models and custom population growth growth models.
 
 ## Tree-ring analysis / Dendrochronolohy
 
@@ -274,31 +279,28 @@ Dissimilarity coefficients
 
 ## Reproducible research
 
--   [knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be combined in a single document and executed to produce a document that contains rendered plots, analysed data and formatted text. The [remake](https://github.com/richfitz/remake) package has functions that enable declarative workflows so that each time an analysis is run, it updates only the parts of the workflow that have changed.
--   The [rrrpkg](https://github.com/ropensci/rrrpkg) essay explains why the R package is a suitable file-and-folder structure for almost any research project, with real-world examples, [manuscriptPackage](https://github.com/jhollist/manuscriptPackage), [template](https://github.com/cboettig/template), [template](https://github.com/Pakillo/template) (yes, that's two slightly different packages with the same name), and [prodigenr](https://github.com/lwjohnst86/prodigenr), [makeProject](https://cran.r-project.org/web/packages/makeProject), and [ProjectTemplate](https://cran.r-project.org/web/packages/ProjectTemplate/index.html) are packages that give templates for organising an analysis as an R package (eg. where the manuscript is the package vignette, or similarly bundled with the package). [rlp](https://github.com/yihui/rlp) is a package that lets you write an analysis as a Rmd file and then converts it into a package
--   [packrat](http://cran.rstudio.com/web/packages/packrat/index.html) supports the development of isolated, stand-alone projects that include all the packages used and their dependencies. [miniCRAN](http://cran.rstudio.com/web/packages/miniCRAN/index.html) has functions to create a local repository to install packages (and their dependancies) from without internet access. Related packages include [rbundler](http://cran.rstudio.com/web/packages/rbundler/index.html) for package development which manages dependencies listed in a package's DESCRIPTION file by storing them in a local project-specific library for installation, and [pkgsnap](https://github.com/MangoTheCat/pkgsnap) for creating a snapshot of your installed CRAN packages with 'snap', and then using 'restore' on another system to recreate exactly the same environment.
--   [checkpoint](http://cran.rstudio.com/web/packages/checkpoint/index.html) allows you to install R packages from a specific snapshot date in the past, ensuring that you use the same package version that you started with, not a more recent one (related: [gRAN](https://github.com/rgmbecker/gRAN) can retrieve and build sources for any version of any non-base package that has ever been released on CRAN or BioConductor).
--   [rocker](https://github.com/rocker-org/rocker) is a project that provides Docker containers to run R in a lightweight virtual environment, the hadleyverse container includes dplyr, ggplot2, etc., as well as RStudio server and LaTeX. The package [harbor](https://github.com/wch/harbor) provides functions for controlling docker containers on local and remote hosts. The [analogsea](https://github.com/sckott/analogsea) package has functions for deploying R and RStudio quickly & easily on DigitalOcean clusters using Docker images for cloud computing. The [dockertest](https://github.com/richfitz/dockertest) package contains functions for generating Dockerfiles from R packages and other R projects, and building Docker containers that contains all the package dependencies. [liftr](https://CRAN.R-project.org/package=liftr) helps with persistent reproducible reporting by containerization of R Markdown documents.
+-   [knitr](http://cran.rstudio.com/web/packages/knitr/index.html) enables R code and text with formatting instructions (eg. markdown or LaTeX) to be combined in a single document and executed to produce a document that contains rendered plots, analysed data and formatted text. 
+-   The [targets](http://cran.rstudio.com/web/packages/targets) package has functions that enable declarative workflows so that each time an analysis is run, it updates only the parts of the workflow that have changed.
+-   [renv](http://cran.rstudio.com/web/packages/renv) supports the development of isolated, stand-alone R projects that include all the packages used and their dependencies. 
+-   [rocker](https://github.com/rocker-org/rocker) is a project that provides Docker containers to run R in a lightweight virtual environment, the hadleyverse container includes dplyr, ggplot2, etc., as well as RStudio server and LaTeX. 
 
 ### Writing Reproducible manuscripts
 
 -  [rrtools](https://github.com/benmarwick/rrtools), is a package that provides instructions, templates, and functions for making a basic compendium suitable for writing reproducible research reports and articles with R.
--   The [rticles](https://github.com/rstudio/rticles) package includes templates for converting markdown documents into PDF files formatted ready for submission for publication, such as in the PLOS journals, the Frontiers In journals, and Elsevier journals. Similarly, the [papaja](https://github.com/crsh/papaja) packge contains a template for converting a markdown file into an APA-formatted PDF. These packages depend on [pandoc](http://johnmacfarlane.net/pandoc/), a universal document format converter (not an R package). In this context it is used to convert rmarkdown or LaTeX to PDF, MS Word or HTML files. It is included with RStudio but can also be used stand-alone from the command line.
--   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences, including vim keyboard shortcuts. There are also packages that make scholarly writing in RStudio easy: [wordcountaddin](https://github.com/benmarwick/wordcountaddin), [citr](https://github.com/crsh/citr). And several for making nice tables: [kableExtra](https://cran.r-project.org/web/packages/kableExtra), [carpenter)](https://github.com/lwjohnst86/carpenter), [htmlTable)](https://cran.r-project.org/web/packages/htmlTable), [pixiedust](https://cran.r-project.org/web/packages/pixiedust/index.html), [pander](https://github.com/Rapporter/pander), [simpletable](https://github.com/jalapic/simpletable) [stargazer](https://cran.r-project.org/web/packages/stargazer/)
--   The [rmarkdown](http://cran.rstudio.com/web/packages/rmarkdown/index.html) package implements the simple markdown document formatting language with some minor customizations to recognize R code blocks and inline code. The [bookdown](http://cran.rstudio.com/web/packages/bookdown/index.html) package provides tools for single file and multi-chapter rmarkdown documents with all the usual scholarly accessories: citations, figures, tables, captions and cross-referencing.
-- [redoc](https://github.com/noamross/redoc) is an experimental package to enable a two-way R-Markdown ⟷ Microsoft Word workflow.
--   [Emacs](http://www.gnu.org/software/emacs/) is a highly flexible text editor (easiest to use as the [spacemacs](http://spacemacs.org/) distribution), which when used with the [Emacs Speaks Statistics](http://ess.r-project.org/) package, is a comprehensive writing and R development environment. [Org-mode](http://orgmode.org/) provides a literate programming environment in Emacs similar to knitr.
+-   The [rticles](https://github.com/rstudio/rticles) package includes templates for converting markdown documents into PDF files formatted ready for submission for publication, such as in the PLOS journals, the Frontiers In journals, and Elsevier journals. Similarly, the [papaja](https://github.com/crsh/papaja) packge contains a template for converting a markdown file into an APA-formatted PDF. These packages depend on [pandoc](http://johnmacfarlane.net/pandoc/), a universal document format converter (not an R package). In this context it is used to convert rmarkdown or LaTeX to PDF, MS Word or HTML files. It is included with RStudio but can also be used stand-alone from the command line. 
+-   For making nice tables in documents: [kableExtra](https://cran.r-project.org/web/packages/kableExtra), [gt](https://cran.r-project.org/web/packages/gt), [flextable](https://cran.r-project.org/web/packages/flextable)
+-   The [quarto](http://cran.rstudio.com/web/packages/quarto) package implements markdown document formatting language for scientific and technical publishing. Quarto documents are authored using markdown with R code blocks and inline code. It has all the usual scholarly accessories: citations, figures, tables, captions and cross-referencing.
+-   [RStudio](http://www.rstudio.com/) is an integrated development environment that simplfies developing R code with numerous built-in conveniences, including vim 
+board shortcuts. There are also packages that make scholarly writing in RStudio easy: [wordcountaddin](https://github.com/benmarwick/wordcountaddin)
+
 
 ## Developing R code and packages
 
--   [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) (requires Rtools for Windows or Xcode for OSX) for easily creating R packages. [usethis](https://CRAN.R-project.org/package=usethis) automates many tasks surrouding package-making, including `use_travis()` and related functions for easily adding continuous integration for automated building and testing during package development. [Mason](https://github.com/metacran/mason) helps you to quickly build R packages using an interactive Q&A to generate metadata files, READMEs with badges, git repositories, etc.
+-   [devtools](http://cran.rstudio.com/web/packages/devtools/index.html) (requires Rtools for Windows or Xcode for OSX) for easily creating R packages. [usethis](https://CRAN.R-project.org/package=usethis) automates many tasks surrouding package-making.
 -   [Goodpractice](https://github.com/MangoTheCat/goodpractice) gives advice about good practices when building R packages. Advice includes functions and syntax to avoid, package structure, code complexity, code formatting, etc.
--   [badgecreatr](https://github.com/RMHogervorst/badgecreatr) generates badges for your readme file to signal the quality and current status of your package.
 -   [roxygen2](http://cran.rstudio.com/web/packages/roxygen2/index.html) for simplifying the creation of documentation for packages,
 -   [testthat](http://cran.rstudio.com/web/packages/testthat/index.html) for developing tests of functions in packages
--   [Rcpp](http://cran.rstudio.com/web/packages/Rcpp/index.html) enables the use of C++ code in R packages for high performance computing, requires Rtools for Windows or Xcode for OSX
--   [editR](https://github.com/swarm-lab/editR) is a basic Rmarkdown editor with instant previewing of your document. It allows you to create and edit Rmarkdown documents while instantly previewing the result of your writing and coding.
--   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham, and the packages [formatR](http://cran.rstudio.com/web/packages/formatR/index.html) and [rfmt](https://github.com/google/rfmt) which are designed to reformat R code to improve readability. The [lintr](http://cran.r-project.org/web/packages/lintr/) package analyses code to check that it conforms to Hadley Wickham's style guide (this package is built into RStudio)
+-   [Style guide for writing R code](http://adv-r.had.co.nz/Style.html) by Hadley Wickham. The [lintr](http://cran.r-project.org/web/packages/lintr/) package analyses code to check that it conforms to Hadley Wickham's style guide (this package is built into RStudio)
 -   Idioms of R are discussed in the [vignette](http://cran.r-project.org/web/packages/rockchalk/vignettes/Rchaeology.pdf) of the [rockchalk](http://cran.rstudio.com/web/packages/rockchalk/index.html) package, and Pat Burn's essay [the R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/).
 
 ## Datasets
@@ -309,12 +311,11 @@ Dissimilarity coefficients
 -  [BSDA](http://cran.rstudio.com/web/packages/BSDA/index.html) contains a dataset of 60 radiocarbon ages of observations taken from an archaeological site with four phases of occupation.
 -  [cawd](https://github.com/sfsheath/cawd) contains 15 datasets of ancient Greek, Roman and Persian maps and digital atlas data
 -  [chemometrics](http://cran.rstudio.com/web/packages/chemometrics/index.html) contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
-- [folio](https://cloud.r-project.org/web/packages/folio/index.html) contains multiple datasets of with different types of data that are meant to be used to illustrate statistics in the classroom.
+- [folio](https://cloud.r-project.org/web/packages/folio/index.html) provides several types of data related to broad topics in archaeology (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
 - [neotoma](https://github.com/ropensci/neotoma) is a package that facilitates access to the Neotoma Paleoecology Dataset which contains pollen and fossil data
 -  [zooaRch](http://cran.r-project.org/web/packages/zooaRch/) contains two zooarchaeological datasets.
 -  [gsloid](https://CRAN.R-project.org/package=gsloid) Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka
 - [evoarchdata](https://github.com/benmarwick/evoarchdata) contains four published datasets widely used in archaeological studies of cultural evolution
-
 
 ## Places to go for help
 
@@ -334,13 +335,13 @@ Dissimilarity coefficients
 
 -   CRAN Task View: [SocialSciences](http://cran.rstudio.com/web/views/SocialSciences.html)
 -   CRAN Task View: [Spatial](http://cran.rstudio.com/web/views/Spatial.html)
--   CRAN Task View: [Spatio-temporal](http://cran.rstudio.com/web/views/spatioTemporal.html)
+-   CRAN Task View: [Spatio-temporal](http://cran.r-project.org/web/views/SpatioTemporal.html)
 -   CRAN Task View: [Cluster analysis](http://cran.r-project.org/web/views/Cluster.html)
--   CRAN Task View: [Multivariate Statistics](http://cran.r-project.org/web/views/Multivariate.html)
+-   CRAN Task View: [Multivariate Statistics](http://cran.nexr.com/web/views/Multivariate.html)
 -   CRAN Task View: [Bayesian inference](http://cran.r-project.org/web/views/Bayesian.html)
 -   CRAN Task View: [Phylogenetics](http://cran.r-project.org/web/views/Phylogenetics.html)
 -   CRAN Task View: [Robust](http://cran.r-project.org/web/views/Robust.html)
--   CRAN Task View: [Visualization](http://cran.r-project.org/web/views/Graphics.html)
+-   CRAN Task View: [Visualization](http://cran.nexr.com/web/views/Graphics.html)
 -   CRAN Task View: [Reproducible research](http://cran.r-project.org/web/views/ReproducibleResearch.html)
 -   [David L. Carlson's guides on using R for 'Quantifying Archaeology' by Stephen Shennan 'Statistics for Archaeologists' by Robert Drennan]( http://people.tamu.edu/~dcarlson/quant/index.html)
 -   [Matt Peeples' scripts for archaeological statistics]( http://www.mattpeeples.net/resources.html)
@@ -361,9 +362,13 @@ d’Alpoim Guedes, J., Hanson, S., Higham, C., Higham, T., & Lertcharnrit, T. (2
 
 Angourakis, Andreas, Verònica Martínez Ferreras, Alexis Torrano, and Josep M. Gurt Esparraguera. (2018). “Presenting Multivariate Statistical Protocols in R Using Roman Wine Amphorae Productions in Catalonia, Spain.” _Journal of Archaeological Science_ 93 (May): 150–65. https://doi.org/10.1016/j.jas.2018.03.007. Describes the cerUB pkg
 
+Arranz-Otaegui, A., Roe, J. (2023). Revisiting the concept of the ‘Neolithic Founder Crops’ in southwest Asia. Veget Hist Archaeobot (2023). https://doi.org/10.1007/s00334-023-00917-1
+
 Arroyo-Kalin, Manuel and Riris Philip (2021). Did pre-Columbian populations of the Amazonian biome reach carrying capacity during the Late Holocene? _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190715 <http://doi.org/10.1098/rstb.2019.0715>
 
 Barr, W. A., Pobiner, B., Rowan, J., Du, A., & Faith, J. T. (2022). No sustained increase in zooarchaeological evidence for carnivory after the appearance of Homo erectus. _Proceedings of the National Academy of Sciences_, 119(5). https://doi.org/10.1073/pnas.2115540119
+
+Bartholdy, B. P., & Henry, A. G. (2022). Investigating Biases Associated With Dietary Starch Incorporation and Retention With an Oral Biofilm Model. _Frontiers in Earth Science_. <https://doi.org/10.3389/feart.2022.886512>
 
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
@@ -384,6 +389,8 @@ Bevan A. and Crema E. R. (2021). Modifiable reporting unit problems and time ser
 Biagetti S, Alcaina-Mateos J, Ruiz-Giralt A, Lancelotti C, Groenewald P, Ibañez-Insa J, et al. (2021). Identifying anthropogenic features at Seoke (Botswana) using pXRF: Expanding the record of southern African Stone Walled Sites. _PLoS ONE_ 16(5): e0250776. https://doi.org/10.1371/journal.pone.0250776
 
 Biagetti, S., Alcaina-Mateos, J., Crema, E.R., (2016). A matter of ephemerality: the study of Kel Tadrart Tuareg (southwest Libya) campsites via quantitative spatial analysis. Ecology and Society 21. https://doi.org/10.5751/ES-08202-210142 [GitHub repo](https://github.com/ercrema/a_matter_of_ephemerality).
+
+Bicho, N. and Esteves, E. (2022). Pleistocene hunter-gatherer coastal adaptations in Atlantic Iberia. _Frontiers in Earth Sciences_ 10:957214. https://doi.org/10.3389/feart.2022.957214
 
 Bicho, N. and Cascalheira, J. (2018). The use of lithic assemblages for the definition of short-term occupations in hunter-gatherer prehistory. In Picin, A. and Cascalheira, J. (eds.) _Short-term occupations in Paleolithic Archaeology._ Interdisciplinary Contributions to Archaeology. Springer. <https://doi.org/10.17605/OSF.IO/3WGSA>
 
@@ -417,6 +424,10 @@ Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans
 
 Brunner M, von Felten J, Hinz M, Hafner A (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE 15(12): e0243719. https://doi.org/10.1371/journal.pone.0243719
 
+Bustos-Pérez, G., Baena, J., & Vaquero, M. (2023). What lies in between: Levallois, discoid and intermediate methods. _Journal of Lithic Studies_, 10(2), https://doi.org/10.2218/jls.7132
+
+Bustos-Pérez, G., & Baena Preysler, J. (2022). Multiple approaches to predicting flake mass. _Journal of Archaeological Science: Reports_, 46, 103698. https://doi.org/10.1016/j.jasrep.2022.103698
+
 Bustos-Pérez, G., Baena, J., (2021). Predicting Flake Mass: A View from Machine Learning. _Lithic Technology_ 14. https://doi.org/10.1080/01977261.2021.1881267 <https://doi.org/10.1080/01977261.2021.1881267>
 
 Calandra, I., Schunk, L., Bob, K., Gneisinger, W., Pedergnana, A., Paixao, E., ... & Marreiros, J. (2019). The effect of numerical aperture on quantitative use-wear studies and its implication on reproducibility. _Scientific reports_, 9(1), 1-10. <https://doi.org/10.1038/s41598-019-42713-w>
@@ -441,6 +452,8 @@ Carney, M. and Davies, B., (2020). Agent-Based Modeling, Scientific Reproducibil
 
 Carrer, F., Kossowski, T. M., Wilk, J., Pietrzak, M. B., & Bivand, R. S. (2021). The application of Local Indicators for Categorical Data (LICD) to explore spatial dependence in archaeological spaces. _Journal of Archaeological Science_, 126, 105306. <https://doi.org/10.1016/j.jas.2020.105306>
 
+Carrero-Pazos, M. (2023). Análisis de patrones espaciales de puntos para el estudio de tendencias locacionales en distribuciones de yacimientos arqueológicos. Vegueta: Anuario de la Facultad de Geografía e Historia, 97–114. https://doi.org/10.51349/veg.2023.1.04
+
 Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
 
 Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Middle Paleolithic human settlement in westernmost Iberia. _Journal of Quaternary Science_ https://doi.org/10.1002/jqs.3286
@@ -455,13 +468,19 @@ Cheung, C., & Szpak, P. (2021). Interpreting Past Human Diets Using Stable Isoto
 
 Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin (2015). The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. _Journal of Human Evolution_  8, 46–64 [http://dx.doi.org/10.1016/j.jhevol.2015.03.014](http://dx.doi.org/10.1016/j.jhevol.2015.03.014)
 
+Cobos, V. A., Postillone, M. B., Bernal, V., & Perez, S. I. (2022). Spatio-temporal demographic dynamics of the human populations from Northwest Patagonia and central Chile during the Pleistocene-Holocene. _Journal of Archaeological Science: Reports_, 44, 103547. https://doi.org/10.1016/j.jasrep.2022.103547
+
 Cochrane, E. E., Tautunu, A. A. M. M., & DiNapoli, R. J. (2019). Hypotheses to explain the few early coastal archaeological deposits in Sāmoa: Preliminary evaluations. _Journal of Archaeological Science: Reports_, 26, 101931. <https://doi.org/10.17608/k6.auckland.7647218>
 
 Coco, E., & Iovita, R. (2020). Time-dependent taphonomic site loss leads to spatial averaging: implications for archaeological cultures. _Humanities and Social Sciences Communications_, 7(1), 1-9. <https://www.nature.com/articles/s41599-020-00635-3>
 
 Coco, E., Holdaway, S. & Iovita, R. (2020). The Effects of Secondary Recycling on the Technological Character of Lithic Assemblages. _Journal of Paleolithic Archaeology_  <https://doi.org/10.1007/s41982-020-00055-4>
 
+Codding, B. F., Brenner Coltrain, J., Louderback, L., Vernon, K. B., Magargal, K. E., Yaworsky, P. M., Robinson, E., Brewer, S. C., & Spangler, J. D. (2022). Socioecological Dynamics Structuring the Spread of Farming in the North American Basin-Plateau Region. Environmental Archaeology, 27(4), 434–446. https://doi.org/10.1080/14614103.2021.1927480
+
 Cole, K. E., Yaworsky, P. M., & Hart, I. A. (2022). Evaluating statistical models for establishing morphometric taxonomic identifications and a new approach using Random Forest. _Journal of Archaeological Science_ 143, 105610. https://doi.org/10.1016/j.jas.2022.105610
+
+Coltofean-Arizancu, L., Gaydarska, B., Plutniak, S., Mary, L., Hlad, M., Algrain, I., Sengeløv, A. (2023). Harassment, assault, bullying and intimidation (HABI) in archaeology: A Europe-wide survey. _Antiquity_ 1-19. http://doi.org/10.15184/aqy.2023.58
 
 Conrad, C., R. Shoocongdej, B. Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ https://doi.org/10.15184/aqy.2021.44
 
@@ -477,7 +496,13 @@ Coto-Sarmiento, M., Rubio-Campillo, X., Remesal, J., (2018). Identifying social 
 
 Courtenay, L.A., Herranz-Rodrigo, D., González-Aguilera, D. et al. (2021). Developments in data science solutions for carnivore tooth pit classification. _Scientific Reports_ 11, 10209  <https://doi.org/10.1038/s41598-021-89518-4>
 
+Cortell-Nicolau, A., García-Puchol, O., & Juan-Cabanilles, J. (2023). The geometric microliths of cueva de la cocina and their significance in the mesolithic of Eastern Iberia: A morphometric study. _Quaternary International_ https://doi.org/10.1016/j.quaint.2023.05.014
+
 Cortell-Nicolau A, García-Puchol O, Barrera-Cruz M, García-Rivero D (2021). The spread of agriculture in Iberia through Approximate Bayesian Computation and Neolithic projectile tools. PLoS ONE 16(12): e0261813. doi:10.1371/journal.pone.0261813
+
+Crawford, K., Huster, A., Peeples, M., Gauthier, N., Smith, M., Lobo, J., Lawrence, D. (2023). A systematic approach for studying the persistence of settlements in the past. Antiquity, 97(391), 213-230. https://doi.org/10.15184/aqy.2022.175
+
+Crema, E. R., Stevens, C. J., & Shoda, S. (2022). Bayesian analyses of direct radiocarbon dates reveal geographic variations in the rate of rice farming dispersal in prehistoric Japan. _Science Advances_, 8(38), eadc9171. https://doi.org/10.1126/sciadv.adc9171
 
 Crema, E. R. (2022). Statistical Inference of Prehistoric Demography from Frequency Distributions of Radiocarbon Dates: A Review and a Guide for the Perplexed. _Journal of Archaeological Method Theory_ https://doi.org/10.1007/s10816-022-09559-5
 
@@ -493,11 +518,33 @@ Crema, E.R., K. Edinborough, Giusti, D., Konidaris, G. E., Tourloukis, V., Marin
 
 Crema, E.R., Kerig, S.J. Shennan (2014). An Approximate Bayesian Computation approach for inferring patterns of cultural evolutionary change, _Journal of Archaeological Science_, Volume 50 Pages 160-170 http://dx.doi.org/10.1016/j.jas.2014.07.014
 
+Crema, E.R., Bevan, A., Shennan, S. (2017). Spatio-temporal approaches to archaeological radiocarbon dates. Journal of Archaeological Science 87, 1-9.https://github.com/ercrema/JAS2017_spatialSPD
+
+Crema E.R. (2014). A simulation model of fission-fusion dynamics and long-term settlement change. Journal of Archaeological Method and Theory , 21, 385-404 https://github.com/ercrema/fissionfusion2014
+
+Crema, E.R., Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015), Human Biology, 87 (3), 151-168 https://github.com/ercrema/CulturalIncubatorSourceCodes 
+
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507).
+
+Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Mesolithic social networks on the Iberian Peninsula using ornaments. _Archaeological and Anthropological Sciences_ 14, 174. https://doi.org/10.1007/s12520-022-01641-z
+
+Daems, D., Coco, E., Gillreath-Brown, A., & Kafetzaki, D. (2023). The Effects of Time-Averaging on Archaeological Networks. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09608-7
 
 Danielisová, A., Pajdla, P., Bursák, D., Strnad, L., Trubač, J. and Kmošek, J., (2021). Claiming the land or protecting the goods? The Duchcov hoard in Bohemia as a proxy for ‘Celtic migrations’ in Europe in the 4th century BCE. Journal of Archaeological Science 127, 105314. [https://doi.org/10.1016/j.jas.2020.105314](https://doi.org/10.1016/j.jas.2020.105314); [GitHub repo](https://github.com/petrpajdla/duchcov_si).
 
+Dapschauskas, R., Göden, M. B., Sommer, C., & Kandel, A. W. (2022). The Emergence of Habitual Ochre Use in Africa and its Significance for The Development of Ritual Behavior During The Middle Stone Age. _Journal of World Prehistory_, 35(3), 233–319. https://doi.org/10.1007/s10963-022-09170-2. [Zenodo repo](https://doi.org/10.5281/zenodo.5883926)
+
+Davis, D.S., G. Caspari, C. P. Lipo, and M. C. Sanger (2021). Deep Learning Reveals Extent of Archaic Native American Shell-Ring Building Practices. _Journal of Archaeological Science_ 132: 105433. https://doi.org/10.1016/j.jas.2021.105433
+
+Davis, D. S., Andriankaja, V., Carnat, T. L., Chrisostome, Z. M., Colombe, C., Fenomanana, F., Hubertine, L., Justome, R., Lahiniriko, F., Léonce, H., Manahira, G., Pierre, B. V., Roi, R., Soafiavy, P., Victorian, F., Voahirana, V., Manjakahery, B., & Douglass, K. (2020). Satellite-based remote sensing rapidly reveals extensive record of Holocene coastal settlement on Madagascar. Journal of Archaeological Science, 115, 105097. https://doi.org/10.1016/j.jas.2020.105097
+
+Davis, D. S., DiNapoli, R. J., Sanger, M. C., & Lipo, C. P. (2020). The Integration of Lidar and Legacy Datasets Provides Improved Explanations for the Spatial Patterning of Shell Rings in the American Southeast. Advances in Archaeological Practice, 8(4), 361–375. https://doi.org/10.1017/aap.2020.18
+
 Davis, D.S.; DiNapoli, R.J.; Douglass, K. (2020). Integrating Point Process Models, Evolutionary Ecology and Traditional Knowledge Improves Landscape Archaeology—A Case from Southwest Madagascar. _Geosciences_ , 10, 287.
+
+de la Peña P, Thomas M, Molefyane TR (2022). Particle size distribution: An experimental study using southern African reduction methods and raw materials. _PLOS ONE_ 17(12): e0278867. https://doi.org/10.1371/journal.pone.0278867
+
+Díaz-Rodríguez, M. Ramón Fábregas-Valcarce, Augusto Pérez-Alberti (2023). A predictive model for Palaeolithic sites: A case study of Monforte de Lemos basin, NW Iberian Peninsula, _Journal of Archaeological Science: Reports_, Volume 49, 104012, https://doi.org/10.1016/j.jasrep.2023.104012
 
 Díaz-Rodríguez, M., & Fábregas-Valcarce, R. (2022). Evaluating the effectiveness of three spatial cluster analysis methods on Palaeolithic site location distributions in Galicia, NW Iberian Peninsula. _Journal of Archaeological Science: Reports_, 41, 103323. https://doi.org/10.1016/j.jasrep.2021.103323
 
@@ -506,6 +553,8 @@ DiNapoli, R. J., Crema, E. R., Lipo, C. P., Rieth, T. M., & Hunt, T. L. (2021). 
 DiNapoli, R. J., Rieth, T. M., Lipo, C. P., & Hunt, T. L. (2020). A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). _Journal of Archaeological Science_, 105094.
 
 DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. E., & Becker, M. (2019). Rapa Nui (Easter Island) monument (ahu) locations explained by freshwater sources. PLOS ONE, 14(1), e0210409. https://doi.org/10.1371/journal.pone.0210409
+
+Dolbunova, E., Lucquin, A., McLaughlin, T.R. et al. (2022) The transmission of pottery technology among prehistoric European hunter-gatherers. Nature Human Behavior https://doi.org/10.1038/s41562-022-01491-8
 
 Dombrosky, Jonathan, Thomas F. Turner, Alexandra Harris, and Emily Lena Jones. (2022). “Body Size from Unconventional Specimens: A 3D Geometric Morphometrics Approach to Fishes from Ancestral Pueblo Contexts.” Journal of Archaeological Science 142: 105600.
 
@@ -521,9 +570,13 @@ Drake, Brandon L., (2012). The influence of climatic change on the Late Bronze A
 
 Drake, Brandon L., WH Wills, and Erik B Erhardt (2012). The 5.1 ka aridization event, expansion of piñon-juniper woodlands, and the introduction of maize (Zea mays) in the American Southwest The Holocene December 2012 22: 1353-1360, first published on July 9, 2012 [doi:10.1177/0959683612449758](http://hol.sagepub.com/content/22/12/1353.short)
 
+Dye, T. S., Buck, C. E., DiNapoli, R. J., & Philippe, A. (2023). Bayesian chronology construction and substance time. Journal of Archaeological Science, 153, 105765. https://doi.org/10.1016/j.jas.2023.105765
+
 Dye, Thomas S. (2011). “A Model-based Age Estimate for Polynesian Colonization of Hawai‘i”. _Archaeology in Oceania_ 46, pp. 130–138 [https://github.com/tsdye/hawaii-colonization](https://github.com/tsdye/hawaii-colonization)
 
 Dye, T. S. (2016). "Long-term rhythms in the development of Hawaiian social stratification." _Journal of Archaeological Science_ <http://www.sciencedirect.com/science/article/pii/S030544031630053X> 71: 1-9.
+
+Eberl, M., Bell, C., Spencer-Smith, J., Raj, M., Sarubbi, A., Johnson, P., McBride, M. (2023). Machine Learning–Based Identification of Lithic Microdebitage. Advances in Archaeological Practice, 1-12. http://doi.org/10.1017/aap.2022.35
 
 Edinborough, K., Porčić, M., Martindale, A., Brown, T. J., Supernant, K., & Ames, K. M. (2017). Radiocarbon test for demographic events in written and oral history. _Proceedings of the National Academy of Sciences_, 114(47), 12436-12441. <https://doi.org/10.1073/pnas.1713012114>
 
@@ -531,15 +584,21 @@ Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz
 
 Falcucci, A., Karakostis, F. A., Göldner, D., & Peresani, M. (2022). Bringing shape into focus: Assessing differences between blades and bladelets and their technological significance in 3D form. _Journal of Archaeological Science: Reports_, 43, 103490. https://doi.org/10.1016/j.jasrep.2022.103490
 
-Falcucci, A., Karakostis, F. A., Göldner, D., & Peresani, M. (2022). Bringing shape into focus: Assessing differences between blades and bladelets and their technological significance in 3D form. _Journal of Archaeological Science: Reports_, 43, 103490. https://doi.org/10.1016/j.jasrep.2022.103490
-
 Falcucci, A., & Peresani, M. (2022). The contribution of integrated 3D model analysis to Protoaurignacian stone tool design. _PLOS ONE_, 17(5), e0268539. https://doi.org/10.1371/journal.pone.0268539
+
+Falótico, T., Valença, T., Verderane, M. P., & Fogaça, M. D. (2022). Stone tools differences across three capuchin monkey populations: Food’s physical properties, ecology, and culture. _Scientific Reports_, 12(1), Article 1. https://doi.org/10.1038/s41598-022-18661-3
+
+Farahani, A., Miller, M. J., Porter, B. W., Dawson, T., & Routledge, B. (2023). Stable isotopes of archaeological and modern semi-terrestrial crabs (Potamon potamios) provide paleoecological insights into brachyuran ecology and human resource acquisition in late Holocene Jordan. _Quaternary International_. https://doi.org/10.1016/j.quaint.2023.03.001
 
 Farahani, A. (2018). A 2500-year historical ecology of agricultural production under empire in Dhiban, Jordan. _Journal of Anthropological Archaeology_, 52, 137-155. <http://dx.doi.org/10.17632/dygn8vp6pz.1>
 
 Field, S., Glowacki, D.M. & Gettler, L.T. (2022). The Importance of Energetics in Archaeological Least Cost Analysis. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-022-09564-8
 
+Fitzhugh, B., Brown, W. A., Misarti, N., Takase, K., & Tremayne, A. H. (2022). Human Paleodemography and Paleoecology of the North Pacific Rim from the Mid to Late Holocene. _Quaternary Research_ 108, 123–149. https://doi.org/10.1017/qua.2022.35
+
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8>
+
+Fontana, G., & Bernard, S. (2023). A new method for the energetics analysis of polygonal masonry in Samnite hillforts (Italy). _Journal of Archaeological Science_, 105730. https://doi.org/10.1016/j.jas.2023.105730
 
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
 
@@ -567,6 +626,8 @@ Gravel-Miguel, C., De Vynck, J., Wren, C. D., Murray, J. K., & Marean, C. W. (20
 
 Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W. (2021). Exploring variability in lithic armature discard in the archaeological record. _Journal of Human Evolution_, 155, 102981. <https://doi.org/10.1016/j.jhevol.2021.102981>
 
+Gregory, A., Mitchell, P. & Pargeter, J. (2023). Raw Material Surveys and Their Behavioral Implications in Highland Lesotho. _Journal of Paleolithic Archaeology_ 6, 18 https://doi.org/10.1007/s41982-023-00138-y
+
 Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M. L., Stewart, M., & Vella, N. C. (2022). The 4.2 ka Event and the End of the Maltese “Temple Period.” Frontiers in Earth Science, 9, 1227. <https://doi.org/10.3389/feart.2021.771683>
 
 Groucutt, H.S., White, T.S., Scerri, E.M.L. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. _Nature_  <https://doi.org/10.1038/s41586-021-03863-y> <https://doi.org/10.5281/zenodo.5082969>
@@ -577,13 +638,23 @@ Hatton A., Collins B, Schoville BJ, Wilkins J (2022). Ostrich eggshell beads fro
 
 Hausmann, N., Meredith-Williams, M., & Laurie, E. (2020). Shellfish resilience to prehistoric human consumption in the southern Red Sea: Variability in Conomurex fasciatus across time and space. _Quaternary International_. http://doi.org/10.1016/j.quaint.2020.04.034 
 
+Hecht, E.E., Pargeter, J., Khreisheh, N. et al. (2023). Neuroplasticity enables bio-cultural feedback in Paleolithic stone-tool making. Sci Rep 13, 2877 https://doi.org/10.1038/s41598-023-29994-y
+
 Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The human experience of social transformation: Insights from comparative archaeology. _PLOS ONE_ 13(11): e0208060. https://doi.org/10.1371/journal.pone.0208060
 
 Hermes, T. R., Schmid, C., Tabaldiev, K., & Motuzaite Matuzeviciute, G. (2022). Carbon and oxygen stable isotopic evidence for diverse sheep and goat husbandry strategies amid a Final Bronze Age farming milieu in the Kyrgyz Tian Shan. _International Journal of Osteoarchaeology_, 1– 12. https://doi.org/10.1002/oa.3103
 
+Aymeric, Hermann et al. (2023). Artifact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. _Sci. Adv._ 9, eadf4487 https://doi.org/10.1126/sciadv.adf4487
+
+Herrera Malatesta, E., Ulloa Hung, J. and Hofman, C.L., (2023). Looking at the Big Picture: Using Spatial Statistical Analyses to Study Indigenous Settlement Patterns in the North-Western Dominican Republic. _Journal of Computer Applications in Archaeology_, 6(1), pp.16–28. http://doi.org/10.5334/jcaa.83
+
 Hewitt, Richard J., Francis F. Wenban-Smith, and Martin R. Bates. (2020). "Detecting Associations between Archaeological Site Distributions and Landscape Features: A Monte Carlo Simulation Approach for the R Environment" Geosciences 10, no. 9: 326. https://doi.org/10.3390/geosciences10090326
 
+Hinz, Martin and Heitz, Caroline. (2022). "Unsupervised Classification of Neolithic Pottery From the Northern Alpine Space Using t-SNE and HDBSCAN" _Open Archaeology_, vol. 8, no. 1, , pp. 1183-1217. https://doi.org/10.1515/opar-2022-0274
+
 Hinz, M., (2020). Sensitivity of Radiocarbon Sum Calibration. _Journal of Computer Applications in Archaeology_, 3(1), pp.238–252. DOI: http://doi.org/10.5334/jcaa.53
+
+Hoebe, P. W., Peeters, J. H. M., & Arnoldussen, S. (2023). Parsing prehistoric patterns: Prospects and limitations of a big radiocarbon dataset for understanding the impact of climate on Late Palaeolithic and Mesolithic populations in northwest Europe (16–7.5 ka calBP). _Journal of Archaeological Science: Reports_, 49, 103944. https://doi.org/10.1016/j.jasrep.2023.103944
 
 Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic technological blade strategies: an experimental investigation. Lithics–The Journal of the Lithic Studies Society, (39), 52. <http://journal.lithics.org/index.php/lithics/article/view/737> <https://osf.io/5v8xh/>
 
@@ -601,11 +672,15 @@ Huffer, D. and Graham, S. (2017). The Insta-Dead: the rhetoric of the human rema
 
 Huffer, D. and Graham, S. (2018). Fleshing Out the Bones: Studying the Human Remains Trade with Tensorflow and Inception, _Journal of Computer Applications in Archaeology_ 1(1), pp.55-063. <https://doi.org/10.5334/jcaa.8>, code & data: <https:doi.org/10.17605/OSF.IO/9CFJA>
 
+Iminjili, V., Stewart, M., Culley, C., Hixon, S., Goldstein, S., Bleasdale, M., Jesús Sanchez Flores, A., Lucas, M., Ilgner, J., Prendergast, M. E., Crowther, A., Boivin, N., & Roberts, P. (2023). Late Pleistocene to late Holocene palaeoecology and human foraging at Kuumbi Cave, Zanzibar Island. Frontiers in _Environmental Archaeology_, 2. https://www.frontiersin.org/articles/10.3389/fearc.2023.1080785
+
 Ivanovaitė, L., Serwatka, K., Hoggard, C., Sauer, F., & Riede, F. (2020). All these Fantastic Cultures? Research History and Regionalization in the Late Palaeolithic Tanged Point Cultures of Eastern Europe. _European Journal of Archeology_, 23 (2), 162-185. doi:10.1017/eaa.2019.59 <https://osf.io/agrwb/> <https://github.com/CSHoggard/-Eastern-Europe-Tanged-Points>
 
 Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Ecological Factors Affect Long-Term Resilience of Voyaging Canoes in Pre-contact Eastern Polynesia: A Multiproxy Approach From the ArchaeoEcology Project. _Frontiers in Ecology and Evolution_, 9. https://www.frontiersin.org/article/10.3389/fevo.2021.750351
 
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
+
+Kempf, M., & Günther, G. (2023). Point pattern and spatial analyses using archaeological and environmental data – A case study from the Neolithic Carpathian Basin. _Journal of Archaeological Science: Reports_, 47, 103747. https://doi.org/10.1016/j.jasrep.2022.103747
 
 Kim, H., Lee, G.-A., & Crema, E. R. (2021). Bayesian analyses question the role of climate in Chulmun demography. Scientific Reports, 11(1), 23797. https://doi.org/10.1038/s41598-021-03180-4
 
@@ -614,6 +689,8 @@ King, C. L., Millard, A. R., Gröcke, D. R., Standen, V. G., Arriaza, B. T., & H
 Kintigh, K.W. and Peeples, M.A., (2020). Estimating Population Growth Rates and Instantaneous Population from Periodized Settlement Data. Journal of Computer Applications in Archaeology, 3(1), pp.197–209. DOI: <http://doi.org/10.5334/jcaa.58> <https://github.com/kintigh/RoomAccum>
 
 Kelmelis, Saige, and Sharon N. DeWitte. (2021). “Urban and Rural Survivorship in Pre- and Post-Black Death Denmark.” _Journal of Archaeological Science: Reports_ 38: 103089.
+
+Key, A, Ashton, N. (2022). Hominins likely occupied northern Europe before one million years ago. _Evolutionary Anthropology_  2022; 1- 16. http://doi.org/10.1002/evan.21966
 
 Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. Veget Hist Archaeobot <https://doi.org/10.1007/s00334-021-00856-9>
 
@@ -627,6 +704,8 @@ Lancelotti, C., Balbo, A.L. Madella, M., Iriarte, E., Rojo-Guerra, M., Ignacio R
 
 Lawrence D, Palmisano A, de Gruchy MW (2021). Collapse and continuity: A multi-proxy reconstruction of settlement organization and population trajectories in the Northern Fertile Crescent during the 4.2kya Rapid Climate Change event. _PLoS ONE_ 16(1): e0244871. <doi:10.1371/journal.pone.0244871>
 
+Leggett, S. (2022). A Hierarchical Meta-Analytical Approach to Western European Dietary Transitions in the First Millennium AD. _European Journal of Archaeology_, 1-21. https://doi.org/10.1017/eaa.2022.23
+
 Leggett, S. (2021). Migration and cultural integration in the early medieval cemetery of Finglesham, Kent, through stable isotopes. _Archaeol Anthropol Sci_ 13, 1. https://doi.org/10.1007/s12520-021-01429-7
 
 Leplongeon, Alice, Clément Ménard, Vincent Bonhomme, and Eugenio Bortolini. (2020). “Backed Pieces and Their Variability in the Later Stone Age of the Horn of Africa.” _African Archaeological Review_. <https://doi.org/10.1007/s10437-020-09401-x> <https://doi.org/10.6084/m9.figshare.7825607>
@@ -639,17 +718,31 @@ Lewis, J. (2020). Visibility of the Gask Ridge road from simulated Watchtowers: 
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
+Li, L., Reeves, J.S., Lin, S.C. et al. (2022). Quantifying knapping actions: a method for measuring the angle of blow on flakes. _Archaeological and Anthropological Sciences_ 14, 156 https://doi.org/10.1007/s12520-022-01626-y
+
+Lin, S.C., White, L.T., Jatmiko et al. (2022). Characterising the stone artefact raw materials at Liang Bua, Indonesia. J Paleo Arch 5, 22. https://doi.org/10.1007/s41982-022-00133-9
+
 Lin SC, Rezek Z, Abdolahzadeh A, Braun DR, Dogandžić T, Leader GM, et al. (2022). The mediating effect of platform width on the size and shape of stone flakes. PLoS ONE 17(1): e0262920. doi:10.1371/journal.pone.0262920
 
 Lipo, C. P., Hunt, T. L., Horneman, R., & Bonhomme, V. (2016). Weapons of war? Rapa Nui mata’a morphometric analyses. _Antiquity_, 90(349), 172–187. <doi:10.15184/aqy.2015.189>  <https://github.com/clipo/mataaMorphometrics>
 
+Liu, C., Khreisheh, N., Stout, D., & Pargeter, J. (2023). Differential effects of knapping skill acquisition on the cultural reproduction of Late Acheulean handaxe morphology: Archaeological and experimental insights. _Journal of Archaeological Science: Reports_, 49, 103974. https://doi.org/10.1016/j.jasrep.2023.103974
+
 Llorente-Rodríguez, L., Craig, O. E., Colonese, A. C., von Tersch, M., Roselló-Izquierdo, E., González Gómez de Agüero, E., Fernández-Rodríguez, C., Quirós-Castillo, J. A., López-Arias, B., Marlasca-Martín, R., Nottingham, J., & Morales Muñiz, A. (2022). Elucidating historical fisheries’ networks in the Iberian Peninsula using stable isotopes. _Fish and Fisheries_, 00, 1– 12. https://doi.org/10.1111/faf.12655
 
+Lombao, D., Cueva-Temprana, A., Mosquera, M., & Morales, J. I. (2020). A new approach to measure reduction intensity on cores and tools on cobbles: The Volumetric Reconstruction Method. Archaeological and Anthropological Sciences, 12(9), 222. https://doi.org/10.1007/s12520-020-01154-7
+
+Lombao, D., Rabuñal, J.R., Morales, J.I. et al. (2022). The Technological Behaviours of Homo antecessor: Core Management and Reduction Intensity at Gran Dolina-TD6.2 (Atapuerca, Spain). Journal of Archaeological Method and Theory https://doi.org/10.1007/s10816-022-09579-1
+
 Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar (2014). Ground-penetrating radar and burial practices in western Arnhem Land, Australia. _Archaeology in Oceania_  49(3): 148–157 [http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract](http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract)
+
+Machause López, S., & Diez Castillo, (2022). Analysing the sacred landscape in the Iberian Culture: GIS, caves and ritual performance. _Zephyrvs_, 90, 135-158. https://doi.org/10.14201/zephyrus202290135158
 
 Mackay, Alex, Sam C. Lin, Lachlan S. Kenna, and Alex F. Blackwood. (2018). Variance in the Response of Silcrete to Rapid Heating Complicates Assumptions about Past Heat Treatment Methods.” _Archaeological and Anthropological Sciences_, June 20, 2018, 1–12. <https://doi.org/10.1007/s12520-018-0663-1>.
 
 Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M (2014). Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. _Quaternary International_ [http://dx.doi.org/10.1016/j.quaint.2014.05.007](http://dx.doi.org/10.1016/j.quaint.2014.05.007)
+
+Maier, A., John, R., Linsel, F. et al. (2023). Analyzing Trends in Material Culture Evolution—a Case Study of Gravettian Points from Lower Austria and Moravia. _Journal of Paleolithic Archaeology_ 6, 15  https://doi.org/10.1007/s41982-023-00145-z
 
 Marwick, B., Wang, L.-Y., Robinson, R., & Loiselle, H. (2019). How to Use Replication Assignments for Teaching Integrity in Empirical Archaeology. _Advances in Archaeological Practice_, 1–9.  <https://doi.org/10.1017/aap.2019.38>
 
@@ -669,7 +762,11 @@ Marwick, B., (2013). Multiple Optima in Hoabinhian flaked stone artefact palaeoe
 
 Marwick, B. (2013). Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) _Data Mining Applications with R_ Elsevier. p. 63-93 [https://github.com/benmarwick/AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)
 
+Matzig, D.N., Schmid, C. & Riede, F. (2023). Mapping the field of cultural evolutionary theory and methods in archaeology using bibliometric methods. _Humanities and Social Sciences Communications_ 10, 271  https://doi.org/10.1057/s41599-023-01767-y
+
 Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27 (2021). <https://doi.org/10.1007/s41982-021-00097-2>
+
+McCool, W. C., Codding, B. F., Vernon, K. B., Wilson, K. M., Yaworsky, P. M., Marwan, N., & Kennett, D. J. (2022). Climate change–induced population pressure drives high rates of lethal violence in the Prehispanic central Andes. _Proceedings of the National Academy of Sciences_, 119(17), e2117556119. https://doi.org/10.1073/pnas.2117556119
 
 McLaughlin, T. Rowan, Gómez-Puche Magdalena, Cascalheira João, Bicho Nuno and Fernández-López de Pablo Javier (2021). Late Glacial and Early Holocene human demographic responses to climatic and environmental change in Atlantic Iberia _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190724 <http://doi.org/10.1098/rstb.2019.0724>
 
@@ -683,9 +780,14 @@ McPherron, Shannon P., Will Archer, Erik R. Otárola-Castillo, Melissa G. Torqua
 
 McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandžić, T., ... & Reeves, J. (2020). Introducing platform surface interior angle (PSIA) and its role in flake formation, size and shape. Plos one, 15(11), e0241714. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241714>
 
-McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation 
+esses using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
 
 Miller, J.M., Wang, Y.V. (2021). Ostrich eggshell beads reveal 50,000-year-old social network in Africa. _Nature_ https://doi.org/10.1038/s41586-021-04227-2
+
+Moclán, A., Cobo-Sánchez, L., Domínguez-Rodrigo, M. (2023). Spatial analysis of an Early Middle Palaeolithic kill/butchering site: the case of the Cuesta de la Bajada (Teruel, Spain). _Archaeological and Anthropological Sciences_ 15, 91  https://doi.org/10.1007/s12520-023-01792-7
+
+Motes-Rodrigo A, McPherron SP, Archer W, Hernandez-Aguilar RA, Tennie C (2022). Experimental investigation of orangutans’ lithic percussive and sharp stone tool behaviours. PLoS ONE 17(2): e0263343. https://doi.org/10.1371/journal.pone.0263343
 
 Nakagawa, T., Kohei Tamura, Yuji Yamaguchi, Naoko Matsumoto, Takehiko Matsugi, Hisashi Nakao, (2021). Population pressure and prehistoric violence in the Yayoi period of Japan, Journal of Archaeological Science, Volume 132, 2021, 105420, https://doi.org/10.1016/j.jas.2021.105420 https://github.com/tmr-kohei/nakagawa2021
 
@@ -697,11 +799,19 @@ Negre, J., Muñoz, F., Lancelotti, C., (2016). Geostatistical modelling of chemi
 
 Nishiaki, Y., Tamura, K., Suzuki, M., Nakamura, M., Kato, S., Nakagawa, K., Takakura, J., Yamaoka, T., Noguchi, A., Kondo, Y., & Kobayashi, Y. (2021). Spatiotemporal variability in lithic technology of Middle-to-Upper Paleolithic Asia: A new dataset and its statistical analyses. _Quaternary International_. https://doi.org/10.1016/j.quaint.2021.03.022
 
+Nørtoft, M., (2022). A New Framework for Quantifying Prehistoric Grave Wealth. _Journal of Computer Applications in Archaeology_, 5(1), pp.123–139. http://doi.org/10.5334/jcaa.86
+
+Ordonez, A., Riede, F. (2022). Changes in limiting factors for forager population dynamics in Europe across the last glacial-interglacial transition. _Nature Communications_ 13, 5140  https://doi.org/10.1038/s41467-022-32750-x
+
+Otárola-Castillo, E., Torquato, M., Wolfhagen, J., Hill, M., & Buck, C. (2022). Beyond Chronology, Using Bayesian Inference to Evaluate Hypotheses in Archaeology. _Advances in Archaeological Practice_, 1-17. https://doi.org/10.1017/aap.2022.10
+
 Orton, D., Gaastra, J., & Vander Linden, M. (2016). Between the Danube and the Deep Blue Sea: Zooarchaeological Meta-Analysis Reveals Variability in the Spread and Development of Neolithic Farming across the Western Balkans. Open Quaternary, 2, 6. DOI: <http://doi.org/10.5334/oq.28> data & code: <http://eprints.whiterose.ac.uk/104121/>
 
 Pardo-Gordó, S., Aubán, J. B., Jiménez-Puerto, J., Armero, C., & García-Donato, G. (2022). The chronology of archaeological assemblages based on an automatic Bayesian procedure: Eastern Iberia as study case. _Journal of Archaeological Science_, 139(105555), 105555. https://doi.org/10.1016/j.jas.2022.105555
 
 Paixão, E., Marreiros, J., Dubreuil, L., Gneisinger, W., Carver, G., Prévost, M., & Zaidner, Y. (2021). The Middle Paleolithic ground stones tools of Nesher Ramla unit V (Southern Levant): A multi-scale use-wear approach for assessing the assemblage functional variability. Quaternary International. https://doi.org/10.1016/j.quaint.2021.06.009
+
+Pajdla, P., (2023). Spatial Patterns and Grave Goods Differences at the Cemetery of Vedrovice (Czech Republic): A Resampling Approach to Identity Markers in the Early Neolithic. _Journal of Computer Applications in Archaeology_, 6(1), pp.1–15. http://doi.org/10.5334/jcaa.85
 
 Palmisano, A. (2017). Confronting scales of settlement hierarchy in state-level societies: Upper Mesopotamia and Central Anatolia in the Middle Bronze Age. _Journal of Archaeological Science: Reports_, 14, 220-240. <https://doi.org/10.1016/j.jasrep.2017.05.029>
 
@@ -711,11 +821,17 @@ Palmisano, A., Lawrence, D., de Gruchy, M. W., Bevan, A., & Shennan, S. (2021). 
 
 Palmisano, A., Bevan, A., Kabelindde, A. et al. (2021). Long-Term Demographic Trends in Prehistoric Italy: Climate Impacts and Regionalised Socio-Ecological Trajectories. _Journal of World Prehistory_  https://doi.org/10.1007/s10963-021-09159-3
 
+Pargeter, J., Brooks, A., Douze, K., Eren, M., Groucutt, H., McNeil, J., Leplongeon, A. (2023). Replicability in Lithic Analysis. _American Antiquity_, 1-24. https://doi.org/10.1017/aaq.2023.4
+
+Pargeter, J., Liu, C., Kilgore, M. B., Majoe, A., & Stout, D. (2022). Testing the Effect of Learning Conditions and Individual Motor/Cognitive Differences on Knapping Skill Acquisition. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09592-4
+
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. doi:10.15184/aqy.2021.181
 
 Park, G. & B. Marwick (2022). How did the introduction of stemmed points affect mobility and site occupation during the late Pleistocene in Korea? _Quaternary Science Reviews_, 277, 107312. 
 
 Parkinson, E.W., McLaughlin, T.R., Esposito, C. et al. (2021). Radiocarbon Dated Trends and Central Mediterranean Prehistory. _J World Prehist_. https://doi.org/10.1007/s10963-021-09158-4
+
+Pargeter, J., Chen, C., Buchanan, B., Fisch, M., Bebber, M., & Eren, M. I. (2022). Stone tool backing and adhesion in hunting weaponry: First results of an experimental program. _Journal of Archaeological Science: Reports_, 45, 103639. https://doi.org/10.1016/j.jasrep.2022.103639
 
 Pargeter, Justin, Paloma de la Peña, and Metin I. Eren. (2018). “Assessing Raw Material’s Role in Bipolar and Freehand Miniaturized Flake Shape, Technological Structure, and Fragmentation Rates.” Archaeological and Anthropological Sciences, May, 1–15. <https://doi.org/10.1007/s12520-018-0647-1> data & code: <https://osf.io/38tsn/>
 
@@ -725,9 +841,13 @@ Pedergnana, A., Calandra, I., Bob, K., Gneisinger, W., Paixão, E., Schunk, L., 
 
 Pedergnana, A., Calandra, I., Evans, A. A., Bob, K., Hildebrandt, A., & Ollé, A. (2020). Polish is quantitatively different on quartzite flakes used on different worked materials. PLOS ONE, 15(12), e0243295. https://doi.org/10.1371/journal.pone.0243295
 
+Pedersen, Jesper B., Martin E. Poulsen and Felix Riede (2022). Jels 3, a New Late Palaeolithic Open-Air Site in Denmark, Sheds Light on the Pioneer Colonization of Northern Europe, _Journal of Field Archaeology_ https://doi.org/10.1080/00934690.2022.2086346
+
 Pederzani, Sarah, Kate Britton, Vera Aldeias, et al. (2021). Subarctic Climate for the Earliest Homo Sapiens in Europe. _Science Advances_ 7(39).   <https://doi.org/10.1126/sciadv.abi4642>
 
 Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Pleistocene paleoclimate at the scale of human behavior: an example from the Neandertal occupation of La Ferrassie (France). _Scientific Reports_ 11, 1419  https://doi.org/10.1038/s41598-020-80777-1
+
+Peeples, M. A. and R. J. Bischoff (2023). Archaeological networks, community detection, and critical scales of interaction in the U.S. Southwest/Mexican Northwest, _Journal of Anthropological Archaeology_, Volume 70, 2023, 101511, https://doi.org/10.1016/j.jaa.2023.101511
 
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
 
@@ -736,6 +856,10 @@ Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using G
 Phillips, D., Wearing, H., & Clark, J. (2018). VILLAGE GROWTH, EMERGING INFECTIOUS DISEASE, AND THE END OF THE NEOLITHIC DEMOGRAPHIC TRANSITION IN THE SOUTHWEST UNITED STATES AND NORTHWEST MEXICO. _American Antiquity_, 83(2), 263-280. doi:10.1017/aaq.2018.3
 
 Phillips, N., Pargeter, J., Low, M. et al. (2018). Open-air preservation of miniaturised lithics: experimental research in the Cederberg Mountains, southern Africa. _Archaeological and Anthropological Sciences_ (2018). https://doi.org/10.1007/s12520-018-0617-7
+
+Plutniak, S. (2022). What Makes the Identity of a Scientific Method? A History of the “Structural and Analytical Typology” in the Growth of Evolutionary and Digital Archaeology in Southwestern Europe (1950s–2000s). _Journal of Paleolithic Archaeology_ 5, 10 https://doi.org/10.1007/s41982-022-00119-7
+
+Plutniak, S., Asftolfo Araujo, Bambang Sugiyanto, Adhi Agus Oktaviana, Jean-Michel Chazine & François-Xavier Ricaut (2022). Mainland-coastal interactions in East Borneo: Inter-site comparison and Bayesian chronological models of two Late Pleistocene–Holocene sequences (Liang Abu and Kimanis rock shelters), _The Journal of Island and Coastal Archaeology_, http://doi.org/10.1080/15564894.2022.2108947
 
 Plutniak, Sébastien (2021). The Strength of Parthood Ties. Modelling Spatial Units and Fragmented Objects with the TSAR Method — Topological Study of Archaeological Refitting. _Journal of Archaeological Science_ 136: 105501. <https://doi.org/10.1016/j.jas.2021.105501>
 
@@ -751,11 +875,19 @@ Porčić, M., Nikolić, M., (2016). The Approximate Bayesian Computation approac
 
 Potì, A., Kehl, M., Broich, M., Carrión Marco, Y., Hutterer, R., Jentke, T., Linstädter, J., López-Sáez, J.A., Mikdad, A., Morales, J., Pérez-Díaz, S., Portillo, M., Schmid, C., Vidal-Matutano, P., Weniger, G.-C., (2019). Human occupation and environmental change in the western Maghreb during the Last Glacial Maximum (LGM) and the Late Glacial. New evidence from the Iberomaurusian site Ifri El Baroud (northeast Morocco). _Quaternary Science Reviews_ 220, 87–110. https://doi.org/10.1016/j.quascirev.2019.07.013
 
+Pozo, J. M., Trentacoste, A., Nieto-Espinet, A., Guimarães, S., & Valenzuela-Lamas, S. (2022). zoolog R package: Zooarchaeological analysis with log-ratios. Quaternary International. https://doi.org/10.1016/j.quaint.2022.11.006
+
 Prates, L., Perez, S.I. (2021). Late Pleistocene South American megafaunal extinctions associated with rise of Fishtail points and human population. Nature Communications 12, 2175 https://doi.org/10.1038/s41467-021-22506-4
+
+Prentiss, A.M., Edinborough, K., Crema, E. R., Kuijt, I., Goodale, N., Ryan, E., et al. (2022). Divergent population dynamics in the middle to late Holocene lower Fraser valley and mid-Fraser canyon, British Columbia. Journal of Archaeological Science: Reports, 44, 103512. https://doi.org/10.1016/j.jasrep.2022.103512 
 
 Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-to-End Bayesian Analysis for Summarizing Sets of Radiocarbon Dates. _Journal of Archaeological Science_ 135: 105473. https://doi.org/10.1016/j.jas.2021.105473
 
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
+
+Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
+
+Radinovic, M., & Kajtez, I. (2021). Outlining the knapping techniques: Assessment of the shape and regularity of prismatic blades using elliptic Fourier analysis. _Journal of Archaeological Science: Reports_, 38, 103079. https://doi.org/10.1016/j.jasrep.2021.103079
 
 Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
 
@@ -773,9 +905,13 @@ Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., (2018). Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
+Riede, F., Lew-Levy, S., Johannsen, N. N., Lavi, N., & Andersen, M. M. (2022). Toys as Teachers: A Cross-Cultural Analysis of Object Use and Enskillment in Hunter–Gatherer Societies. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09593-3
+
 Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in prehistory at 50. _Evolutionary Human Sciences_, 4, E16. doi:10.1017/ehs.2022.18
 
 Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
+
+Riris, P. and de Souza JG (2021). Formal Tests for Resistance-Resilience in Archaeological Time Series. _Frontiers in Ecology and Evolution_ 9:740629. http://doi.org/10.3389/fevo.2021.740629
 
 Riris, P., Silva, F. (2021). Resolution and the detection of cultural dispersals: development and application of spatiotemporal methods in Lowland South America. _Humanities and Social Sciences Communications_ 8, 36  https://doi.org/10.1057/s41599-021-00717-w
 
@@ -785,11 +921,17 @@ Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South Ame
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
+Roalkvam, I. (2023). A simulation-based assessment of the relation between Stone age sites and relative sea-level change along the Norwegian Skagerrak coast. _Quaternary Science Reviews_, 299, 107880. https://doi.org/10.1016/j.quascirev.2022.107880
+
 Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021). Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
 
 Robinson, J.R. (2021). Investigating Isotopic Niche Space: Using rKIN for Stable Isotope Studies in Archaeology. _Journal of Archaeological Method and Theory_  <https://doi.org/10.1007/s10816-021-09541-7>
 
+Rodríguez, J., Willmes, C., Sommer, C., & Mateos, A. (2022). Sustainable human population density in Western Europe between 560.000 and 360.000 years ago. Scientific Reports, 12(1), 6907. https://doi.org/10.1038/s41598-022-10642-w
+
 Roscoe, Paul, Sandweiss Daniel H. and Robinson Erick (2021). Population density and size facilitate interactive capacity and the rise of the state _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190725 http://doi.org/10.1098/rstb.2019.0725
+
+Ruebens, K., Smith, G.M., Fewlass, H., Sinet-Mathiot, V., Hublin, J.-J. and Welker, F. (2023). Neanderthal subsistence, taphonomy and chronology at Salzgitter-Lebenstedt (Germany): a multifaceted analysis of morphologically unidentifiable bone. Journal of Quaternary Science. https://doi.org/10.1002/jqs.3499
 
 Rubio-Campillo, X., Montanier,, J.M., Rull, G., Bermúdez Lorenzo, J.M., Moros Díaz, J., Pérez González, J., Remesal Rodríguez, J. (2018). The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures, Journal of Archaeological Science, 92, pp. 37-47. doi:10.1016/j.jas.2018.02.010 <https://github.com/xrubio/ecologyStamps>
 
@@ -809,6 +951,8 @@ Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological
 
 Schotsmans, E.M.J., Busacca, G., Lin, S.C. et al. (2022). New insights on commemoration of the dead through mortuary and architectural use of pigments at Neolithic Çatalhöyük, Turkey. Scientific Reports 12, 4055. https://doi.org/10.1038/s41598-022-07284-3
 
+Selden, R. Z., & Dockall, J. E. (2023). Perdiz arrow points from Caddo burial contexts aid in defining discrete behavioral regions. _Southeastern Archaeology_, 42(2), 122–135. https://doi.org/10.1080/0734578X.2023.2182260
+
 Selden Jr., R. Z., Dockall, J. E., Bousman, C. B., & Perttula, T. K. (2021). Shape as a function of time + raw material + burial context? An exploratory analysis of Perdiz arrow points from the ancestral Caddo area of the American Southeast. _Journal of Archaeological Science: Reports_, 37, 102916. https://doi.org/10.1016/j.jasrep.2021.102916
 
 Schoville, B.J., Brown, K.S. & Wilkins, J. (2022). A Lithic Provisioning Model as a Proxy for Landscape Mobility in the Southern and Middle Kalahari. J Archaeol Method Theory 29, 162–187 https://doi.org/10.1007/s10816-021-09507-9
@@ -827,15 +971,31 @@ Sinensky, R., Schachner, G., Wilshusen, R., & Damiata, B. (2022). Volcanic clima
 
 Smith, G. R. Spasov, N. L. Martisius, V. Sinet-Mathiot, V. Aldeias, et al. (2021). Subsistence behavior during the Initial Upper Paleolithic in Europe: Site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria), Journal of Human Evolution, Volume 161, 2021, 103074, https://doi.org/10.1016/j.jhevol.2021.103074
 
+Smith, G.M., Noack, E.S., Behrens, N.M. et al. (2020). When Lithics Hit Bones: Evaluating the Potential of a Multifaceted Experimental Protocol to Illuminate Middle Palaeolithic Weapon Technology. _Journal of Paleolithic Archaeology_ 3, 126–156 https://doi.org/10.1007/s41982-020-00053-6
+
+Snitker, G., Moser, J. D., Southerlin, B., & Stewart, C. (2022). Detecting historic tar kilns and tar production sites using high-resolution, aerial LiDAR-derived digital elevation models: Introducing the Tar Kiln Feature Detection workflow (TKFD) using open-access R and FIJI software. Journal of Archaeological Science: Reports, 41, 103340. https://doi.org/10.1016/j.jasrep.2022.103340
+
+Sommer, C., Kandel, A. W., & Hochschild, V. (2022). The use of prehistoric ‘big data’ for mapping early human cultural networks. _Journal of Maps_, 1–12. https://doi.org/10.1080/17445647.2022.2118628
+
+Souza, J. G. de, Ruiz-Pérez, J., Lancelotti, C., & Madella, M. (2022). Environmental effects on the spread of the Neolithic crop package to South Asia. PLOS ONE, 17(7), e0268482. https://doi.org/10.1371/journal.pone.0268482
+
+Souza, J. G. de, & Riris, P. (2021). Delayed demographic transition following the adoption of cultivated plants in the eastern La Plata Basin and Atlantic coast, South America. Journal of Archaeological Science, 125, 105293. https://doi.org/10.1016/j.jas.2020.105293
+
 Spake, L., Cardoso, H.F.V. (2021). Interpolation of the Maresh diaphyseal length data for use in quantitative analyses of growth. _International Journal of Osteoarchaeology_ 31:232-242. <https://osf.io/c2x7k/> 
+
+Stantis, C., Maaranen, N., Kharobi, A., Nowell, G. M., Macpherson, C., Schutkowski, H., & Bourke, S. (2022). Jordanian migration and mobility in the Middle Bronze Age (ca. 2100–1550 BCE) at Pella. International Journal of Osteoarchaeology, 32(2), 339–357. https://doi.org/10.1002/oa.3069
 
 Stantis, C., Kharobi, A., Maaranen, N. et al. (2021). Multi-isotopic study of diet and mobility in the northeastern Nile Delta. Archaeological and Anthropological Sciences 13, 105 (2021). https://doi.org/10.1007/s12520-021-01344-x
 
 Steele, Teresa E., Alex Mackay, Kathryn E. Fitzsimmons, Marina Igreja, Ben Marwick, Jayson Orton, Steve Schwortz, and Mareike C. Stahlschmidt (2016). "Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howieson's Poort Assemblages in Southern Namaqualand, South Africa" _PaleoAnthropology_ 2016:100-163 <http://www.paleoanthro.org/media/journal/content/PA20160100.pdf>, < http://dx.doi.org/10.5281/zenodo.31903>
 
+Stewart, M., Carleton, W.C. and Groucutt, H.S. (2022). Extreme events in biological, societal, and earth sciences: A systematic review of the literature. _Frontiers of Earth Science_ 10:786829. https://doi.org/10.3389/feart.2022.786829
+
 Stewart, M., Carleton, W.C. & Groucutt, H.S. (2021). Climate change, not human population growth, correlates with Late Quaternary megafauna declines in North America. _Nature communications_ 12, 965 https://doi.org/10.1038/s41467-021-21201-8
 
 Stoddart, S., Palmisano, A.,Redhouse, D., Barker, G., di Paola, G., Motta, L., Rasmussen, T., Samuels, T. & Witcher, R. (2020). Patterns of EtruscanUrbanism. Front. Digit. Humanit. 7:1. <https://doi.org/10.3389/fdigh.2020.00001>
+
+Strand, L.M., Leggett, S., Skar, B., (2022). Multi-Isotope Variation Reveals Social Complexity in Viking Age Norway, _ISCIENCE_ https://doi.org/10.1016/j.isci.2022.105225
 
 Strawhacker, C., Snitker, G., Peeples, M. A., Kinzig, A. P., Kintigh, K. W., Bocinsky, K., ... & Sandor, J. A. (2020). A Landscape Perspective on Climate-Driven Risks to Food Security: Exploring the Relationship between Climate and Social Transformation in the Prehispanic US Southwest. _American Antiquity_, 85(3), 427-451.  <https://doi.org/10.1017/aaq.2020.35> <https://github.com/gsnitker/LTVTP> <https://core.tdar.org/collection/14044/long-term-vulnerability-and-transformation-project-ltvtp-documents-and-data>
 
@@ -845,9 +1005,19 @@ Suryanarayan, A., Cubas, M., Craig, O. E., Heron, C. P., Shinde, V. S., Singh, R
 
 Tallavaara, Miikka and Jørgensen Erlend Kirkeng (2021). Why are population growth rate estimates of past and present hunter–gatherers so different? _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190708 http://doi.org/10.1098/rstb.2019.0708
 
+Tenzer, M. (2022). Tweets in the Peak: Twitter Analysis - the impact of Covid-19 on cultural landscapes, _Internet Archaeology_ 59. https://doi.org/10.11141/ia.59.6
+
+Timbrell, L., Peña, P. de la, Way, A., Hoggard, C., Backwell, L., Francesco d’Errico, Wadley, L., & Grove, M. (2022). Technological and geometric morphometric analysis of ‘post-Howiesons Poort points’ from Border Cave, KwaZulu-Natal, South Africa. _Quaternary Science Reviews_, 297, 107813. https://doi.org/10.1016/j.quascirev.2022.107813
+
+Timbrell, L., Scott, C., Habte, B. et al. (2022). Testing inter-observer error under a collaborative research framework for studying lithic shape variability. _Archaeological Anthropological Science_ 14, 209 https://doi.org/10.1007/s12520-022-01676-2
+
 Timbrell, L., Grove, M., Manica, A. et al. A spatiotemporally explicit paleoenvironmental framework for the Middle Stone Age of eastern Africa. _Scientific Reports_ 12, 3689 (2022). https://doi.org/10.1038/s41598-022-07742-y
 
 Timpson, Adrian, Barberena Ramiro, Thomas Mark G., Méndez César and Manning Katie (2021). Directly modelling population dynamics in the South American Arid Diagonal using 14C dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190723 <http://doi.org/10.1098/rstb.2019.0723>
+
+Trentacoste, A., Nieto-Espinet, A., Guimarães Chiarelli, S., & Valenzuela-Lamas, S. (2022). Systems change: Investigating climatic and environmental impacts on livestock production in lowland Italy between the Bronze Age and Late Antiquity (c. 1700 BC – AD 700). _Quaternary International_. https://doi.org/10.1016/j.quaint.2022.11.005
+
+Tsirintoulaki, K., Matzig, D. N., & Riede, F. (2023). A 2D Geometric Morphometric Assessment of Chrono-Cultural Trends in Osseous Barbed Points of the European Final Palaeolithic and Early Mesolithic. Open Archaeology, 9(1). https://doi.org/10.1515/opar-2022-0276
 
 Ullah, Isaac I. T., Ian Kuijt, and Jacob Freeman. (2015). “Toward a Theory of Punctuated Subsistence Change.” _Proceedings of the National Academy of Sciences_ 112 (31): 9579–84. <https://doi.org/10.1073/pnas.1503628112>. <http://figshare.com/articles/Cross_cultural_data_for_multivariate_analysis_of_subsistence_strategies/1404233>
 
@@ -855,7 +1025,15 @@ Utting, B. (2022). Geochemical fingerprinting of Pleistocene stone tools from th
 
 Vander Linden, Marc and Silva Fabio (2021). Dispersals as demographic processes: testing and describing the spread of the Neolithic in the Balkans _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620200231 http://doi.org/10.1098/rstb.2020.0231
 
+Verhagen, P. (2023). Centrality on the periphery: an analysis of rural settlement hierarchy in the Dutch part of the Roman limes. _Archaeological and Anthropological Sciences_ 15, 45  https://doi.org/10.1007/s12520-023-01745-0
+
+Vidal-Cordasco, M., Ocio, D., Hickler, T. et al. (2022). Ecosystem productivity affected the spatiotemporal disappearance of Neanderthals in Iberia. _Nature Ecology and Evolution_ (2022). https://doi.org/10.1038/s41559-022-01861-5
+
 Vignoles, Anais, William E. Banks, Laurent Klaric, Masa Kageyama, Marlon E. Cobos, Daniel Romero-Alvarez. (2020). Investigating relationships between technological variability and ecology in the Middle Gravettian (ca. 32-28 ka cal. BP) in France. (2020), OSF, ud3hj, ver. 3 peer-reviewed and recommended by PCI Archaeology. <https://doi.org/10.31219/osf.io/ud3hj>
+
+Visentin, D., & Carrer, F. (2017). Evaluating Mesolithic settlement patterns in mountain environments (Dolomites, Eastern Italian Alps): the role of research biases and locational strategies. _Archeologia e calcolatori_ 28(1), 129-154. http://eprints.bice.rm.cnr.it/id/eprint/17240
+
+Visser, RM and Vorst, Y. (2022). Connecting Ships: Using Dendrochronological Network Analysis to Determine the Wood Provenance of Roman-Period River Barges Found in the Lower Rhine Region and Visualise Wood Use Patterns. International Journal of Wood Culture 1(aop): 1–29. https://doi.org/10.1163/27723194-bja10014.
 
 Visser, RM. (2021). On the similarity of tree-ring patterns: Assessing the influence of semi-synchronous growth changes on the Gleichläufigkeitskoeffizient for big tree-ring data sets. Archaeometry 63(1): 204–215. DOI: https://doi.org/10.1111/arcm.12600.
 
@@ -867,6 +1045,8 @@ Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study 
 
 Wang, L. and Marwick, B. (2020). Ornaments as indicators of social changes resulting from indirect effects of colonialism in northeastern Taiwan. _Archaeological Research in Asia_. <https://doi.org/10.1016/j.ara.2020.100226> <https://github.com/LiYingWang/kwl-ornaments> <https://osf.io/r8yga/>
 
+Wattanapituksakul, A., Shoocongdej, R., & Conrad, C. (2022). Preservation of Mammalian Teeth and Bones Influences Identification of Terminal Pleistocene to Middle Holocene Hunter-Gatherer Subsistence at Ban Rai Rockshelter, Northwest Thailand. _Quaternary_, 5(4), Article 4. https://doi.org/10.3390/quat5040051
+
 Way, A.M., de la Peña, P., de la Peña, E. et al. (2022). Howiesons Poort backed artifacts provide evidence for social connectivity across southern Africa during the Final Pleistocene. Scientific Reports 12, 9 https://doi.org/10.1038/s41598-022-12677-5
 
 Weiss, Marcel. (2020). “The Lichtenberg Keilmesser - It’s All about the Angle.” _PLOS ONE_ 15(10): e0239718. <https://doi.org/10.1371/journal.pone.0239718>
@@ -875,6 +1055,14 @@ Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee Riv
 
 Wilczek, J., Monna, F., Navarro, N., & Chateau-Smith, C. (2021). A computer tool to identify best matches for pottery fragments. Journal of Archaeological Science: Reports, 37, 102891. https://doi.org/10.1016/j.jasrep.2021.102891
 
+Will, M., Bader, G. D., Sommer, C., Cooper, A., & Green, A. (2022). Coastal adaptations on the eastern seaboard of South Africa during the Pleistocene and Holocene? Current evidence and future perspectives from archaeology and marine geology. _Frontiers in Earth Science_, 10, 964423. https://doi.org/10.3389/feart.2022.964423
+
+Wilson, Evan Patrick, Dietrich Stout, Cheng Liu, Megan Beney Kilgore & Justin Pargeter (2023). Skill and Core Uniformity: An Experiment with Oldowan-like Flaking Systems, Lithic Technology, https://doi.org/10.1080/01977261.2023.2178767
+
+Wilson, K.M., McCool, W.C., Brewer, S.C. et al. (2022). Climate and demography drive 7000 years of dietary change in the Central Andes. _Scientific Reports_ 12, 2026  https://doi.org/10.1038/s41598-022-05774-y
+
+Wolfhagen, J. (2023). Estimating the Ontogenetic Age and Sex Composition of Faunal Assemblages with Bayesian Multilevel Mixture Models. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09611-y
+
 Wolfhagen, J. (2020). Re-examining the use of the LSI technique in zooarchaeology. _Journal of Archaeological Science_ Volume 123, November 2020, 105254 https://doi.org/10.1016/j.jas.2020.105254 https://osf.io/4k62y/
 
 Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing between sheep and goat postcranial remains. _Journal of Archaeological Science: Reports_ 12: 625-31. <https://doi.org/10.1016/j.jasrep.2017.02.022>
@@ -882,6 +1070,10 @@ Wolfhagen, J. and Price, M. D. (2017). A probabilistic model for distinguishing 
 Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure of human populations during the Last Glacial Maximum (LGM) in Western Europe. PloS one, 14(6), e0217996. <https://osf.io/n24rq/>
 
 Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marean, C. W. (2019). The foraging potential of the Holocene Cape south coast of South Africa without the Palaeo-Agulhas Plain. _Quaternary Science Reviews_, 105789. <https://doi.org/10.1016/j.quascirev.2019.06.012>
+
+Wyatt-Spratt, S., (2022). After the Revolution: A Review of 3D Modelling as a Tool for Stone Artefact Analysis. _Journal of Computer Applications in Archaeology_, 5(1), pp.215–237. http://doi.org/10.5334/jcaa.103
+
+Yaworsky, P.M., Hussain, S.T. & Riede, F. (2023). Climate-driven habitat shifts of high-ranked prey species structure Late Upper Paleolithic hunting. _Scientific Reports_ 13, 4238 (2023). https://doi.org/10.1038/s41598-023-31085-x
 
 Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. _PloS one_, 15(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
 
