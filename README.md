@@ -234,7 +234,7 @@ Dissimilarity coefficients
 - [kairos](http://cran.rstudio.com/web/packages/kairos) provides methods for analysis of chronological patterns from archaeological count data, including Mean Ceramic Date (MCD)
 - [nimbleCarbon](https://cran.r-project.org/package=nimbleCarbon) add on library for the [nimble](https://cran.r-project.org/package=nimble) package for Bayesian Analyses of radiocarbon dates, including phase models and custom population growth growth models.
 
-## Tree-ring analysis / Dendrochronolohy
+## Tree-ring analysis / Dendrochronology
 
 - Dendrochronology Program Library in R [dplR] (https://cran.r-project.org/web/packages/dplR/index.html) is a library that includes many tools and functions to analyze and edit tree ring series.
 - [measuRing] (https://cran.r-project.org/web/packages/measuRing/index.html) provides tools to measure tree rings on scanned images of wood samples
