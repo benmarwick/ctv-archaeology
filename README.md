@@ -886,6 +886,8 @@ Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Interv
 
 Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
 
+Rabuñal, J.R., Gómez-Puche, M., Polo-Díaz, A. et al. (2023). Unraveling Early Holocene occupation patterns at El Arenal de la Virgen (Alicante, Spain) open-air site: an integrated palimpsest analysis. _Archaeolological and Anthropological Sciences_ 15, 108  https://doi.org/10.1007/s12520-023-01805-5
+
 Radinovic, M., & Kajtez, I. (2021). Outlining the knapping techniques: Assessment of the shape and regularity of prismatic blades using elliptic Fourier analysis. _Journal of Archaeological Science: Reports_, 38, 103079. https://doi.org/10.1016/j.jasrep.2021.103079
 
 Reese, K. M. (2021). Deep learning artificial neural networks for non-destructive archaeological site dating, Journal of Archaeological Science, Volume 132, 2021,105413,
