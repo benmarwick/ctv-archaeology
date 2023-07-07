@@ -1040,6 +1040,8 @@ Visser, RM. (2021). On the similarity of tree-ring patterns: Assessing the influ
 
 Visser, R.M., 2021. Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. Journal of Computer Applications in Archaeology 4(1): 230–253. DOI: http://doi.org/10.5334/jcaa.79
 
+Wang, X., Bocksberger, G., Lautenschläger, T., Finckh, M., Meller, P., O’Malley, G. E., & Oelze, V. M. (2023). A bioavailable strontium isoscape of Angola with implications for the archaeology of the transatlantic slave trade. _Journal of Archaeological Science_, 154, 105775. https://doi.org/10.1016/j.jas.2023.105775
+
 Wang, Li-Ying, and Ben Marwick (2021). A Bayesian Networks Approach to Infer Social Changes from Burials in Northeastern Taiwan during the European Colonization Period. _Journal of Archaeological Science_ 134: 105471.
 
 Wang, L. and Marwick, B. (2020). Standardization of ceramic shape: A case study from the Iron Age pottery from northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33. <https://doi.org/10.1016/j.jasrep.2020.102554> <https://github.com/LiYingWang/kwl.pottery> <https://osf.io/abvgf/>
