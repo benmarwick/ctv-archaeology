@@ -677,6 +677,8 @@ Ivanovaitė, L., Serwatka, K., Hoggard, C., Sauer, F., & Riede, F. (2020). All t
 
 Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Ecological Factors Affect Long-Term Resilience of Voyaging Canoes in Pre-contact Eastern Polynesia: A Multiproxy Approach From the ArchaeoEcology Project. _Frontiers in Ecology and Evolution_, 9. https://www.frontiersin.org/article/10.3389/fevo.2021.750351
 
+Kandel, A. W., Sommer, C., Kanaeva, Z., Bolus, M., Bruch, A. A., Groth, C., Haidle, M. N., Hertler, C., Heß, J., Malina, M., Märker, M., Hochschild, V., Mosbrugger, V., Schrenk, F., & Conard, N. J. (2023). The ROCEEH Out of Africa Database (ROAD): A large-scale research database serves as an indispensable tool for human evolutionary studies. _PLOS ONE_, 18(8), e0289513. https://doi.org/10.1371/journal.pone.0289513 https://doi.org/10.5281/zenodo.7669784
+
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
 
 Kempf, M., & Günther, G. (2023). Point pattern and spatial analyses using archaeological and environmental data – A case study from the Neolithic Carpathian Basin. _Journal of Archaeological Science: Reports_, 47, 103747. https://doi.org/10.1016/j.jasrep.2022.103747
