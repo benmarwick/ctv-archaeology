@@ -455,6 +455,8 @@ Carrero-Pazos, M. (2023). Análisis de patrones espaciales de puntos para el est
 
 Carrero-Pazos, M., Bevan, A., & Lake, M. W. (2019). The spatial structure of Galician megalithic landscapes (NW iberia): A case study from the Monte Penide region. _Journal of Archaeological Science_, 108, 104968. https://doi.org/10.1016/j.jas.2019.05.004
 
+Carrignon, S., Brughmans, T., & Romanowska, I. (2020). Tableware trade in the Roman East: Exploring cultural and economic transmission with agent-based modelling and approximate Bayesian computation. _PloS one_, 15(11),  <https://doi.org/10.1371/journal.pone.0240414>,[OSF repo](https://osf.io/s5mdw),[associated R code](https://github.com/simoncarrignon/abc-pandora) (notes: this paper combine multiple projects written in different C++/pyton/R)
+
 Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Middle Paleolithic human settlement in westernmost Iberia. _Journal of Quaternary Science_ https://doi.org/10.1002/jqs.3286
 
 Cascalheira, João. (2019). Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe. _PloS one_, 14(12). https://doi.org/10.1371/journal.pone.0225828
@@ -887,6 +889,8 @@ Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
 Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
+
+Pryce, T., Carrignon, S., Cadet, M., Oo, K., Oo, S., Win, T., Aye, A., Pradier, B., Bellina, B., Le Meur, C., Petchey, P. , Radivojević, M. (2023). A Partial Prehistory of the Southwest Silk Road: Archaeometallurgical Networks along the Sub-Himalayan Corridor. _Cambridge Archaeological Journal_, 1-40. doi:<https://doi.org/10.1017/S0959774323000185> [Github](https://github.com/simoncarrignon/bronze-age-ssr)
 
 Rabuñal, J.R., Gómez-Puche, M., Polo-Díaz, A. et al. (2023). Unraveling Early Holocene occupation patterns at El Arenal de la Virgen (Alicante, Spain) open-air site: an integrated palimpsest analysis. _Archaeolological and Anthropological Sciences_ 15, 108  https://doi.org/10.1007/s12520-023-01805-5
 
