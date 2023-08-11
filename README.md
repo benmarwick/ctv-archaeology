@@ -603,7 +603,7 @@ Fontana, G., & Bernard, S. (2023). A new method for the energetics analysis of p
 
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
 
-Frederiks, P. L. (2022). Rekonstruktion einer übermoorten, prähistorischen Landschaft bei Wanna, Ldkr. Cuxhaven. Siedlungs- und Küstenforschung im südlichen Nordseegebiet 45, 43–100.
+Frederiks, P. L. (2022). Rekonstruktion einer übermoorten, prähistorischen Landschaft bei Wanna, Ldkr. Cuxhaven. Siedlungs- und Küstenforschung im südlichen Nordseegebiet 45, 43–100. https://zenodo.org/record/7404607
 
 Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis (MCA): An Innovative way of Examining Questions in Archaeology Using Ethnographic Data. _Advances in Archaeological Practice_, 6(4), 328-341. http://doi.org/10.1017/aap.2018.9
 
