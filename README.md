@@ -681,6 +681,8 @@ Ivanovaitė, L., Serwatka, K., Hoggard, C., Sauer, F., & Riede, F. (2020). All t
 
 Kahn, J. G., Buffington, A., Escue, C., & Crabtree, S. A. (2022). Social and Ecological Factors Affect Long-Term Resilience of Voyaging Canoes in Pre-contact Eastern Polynesia: A Multiproxy Approach From the ArchaeoEcology Project. _Frontiers in Ecology and Evolution_, 9. https://www.frontiersin.org/article/10.3389/fevo.2021.750351
 
+Kafetzaki, D., Poblome, J. & Aerts, J. (2023). Fuzzy Typological (Re)arrangement: a Prototype of Rethinking the Typology of Roman Tablewares from Sagalassos, Southwest Anatolia. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09614-9
+
 Kandel, A. W., Sommer, C., Kanaeva, Z., Bolus, M., Bruch, A. A., Groth, C., Haidle, M. N., Hertler, C., Heß, J., Malina, M., Märker, M., Hochschild, V., Mosbrugger, V., Schrenk, F., & Conard, N. J. (2023). The ROCEEH Out of Africa Database (ROAD): A large-scale research database serves as an indispensable tool for human evolutionary studies. _PLOS ONE_, 18(8), e0289513. https://doi.org/10.1371/journal.pone.0289513 https://doi.org/10.5281/zenodo.7669784
 
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
