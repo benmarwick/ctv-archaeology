@@ -371,6 +371,8 @@ Bartholdy, B. P., & Henry, A. G. (2022). Investigating Biases Associated With Di
 
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
+Bebber, M.R., Buchanan, B., Eren, M.I. et al. (2023). Atlatl use equalizes female and male projectile weapon velocity. _Scientific Reports_ 13, 13349  https://doi.org/10.1038/s41598-023-40451-8
+
 Beck, J., Gjesfjeld, E., & Chrisomalis, S. (2021). Prestige or Perish: Publishing Decisions in Academic Archaeology. _American Antiquity_, 86(4), 669-695. doi:10.1017/aaq.2021.64
 
 Beck, J., & Smith, B. H. (2019). Don't throw the baby teeth out with the bathwater: Estimating subadult age using tooth wear in commingled archaeological assemblages. _International Journal of Osteoarchaeology_, 29(5), 831-842. <https://doi.org/10.1002/oa.2802>
