@@ -924,6 +924,8 @@ Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in 
 
 Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
 
+Riel-Salvatore J, Lythe A, Albornoz AU (2021). New insights into the spatial organization, stratigraphy and human occupations of the Aceramic Neolithic at Ganj Dareh, Iran. _PLOS ONE_ 16(8): e0251318. https://doi.org/10.1371/journal.pone.0251318
+
 Riris, P. and de Souza JG (2021). Formal Tests for Resistance-Resilience in Archaeological Time Series. _Frontiers in Ecology and Evolution_ 9:740629. http://doi.org/10.3389/fevo.2021.740629
 
 Riris, P., Silva, F. (2021). Resolution and the detection of cultural dispersals: development and application of spatiotemporal methods in Lowland South America. _Humanities and Social Sciences Communications_ 8, 36  https://doi.org/10.1057/s41599-021-00717-w
