@@ -17,7 +17,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 -    Basic calibration is possible with `r github("paleolimbot/carbon14")`, `r pkg(rintcal)` and `r pkg(ArchaeoChron)`
 -    `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. rcarbon, Bchron, oxcAAR, c14bazAAR, ArchaeoPhases, stratigraphr) together and work with them in a tidy data workflow.
 -    `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
--    Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("clam")`.
+-    Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 -    `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals
 -    The `r pkg("oxcAAR")` package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
 - `r pkg("ArchaeoPhases")` provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
@@ -96,6 +96,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 ### Survey, excavation, and stratigraphic analysis
 
+-  `r pkg("archeoViz")` is a packaged R Shiny application for the 2D and 3D visualisation, exploration, and web communication of spatial data from archaeological excavations.
 - `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology
 - `r pkg("recexcavAAR")` for 3D reconstruction and analysis of excavations, provides methods to reconstruct natural and artificial surfaces based on field measurements. This allows to spatially contextualize documented subunits and features. 
 - `r pkg("ISAAKiel/profileAAR")` provides a QGIS plugin to transforms profile control points for photogrammetric rectification from archaeological excavation
