@@ -559,7 +559,9 @@ DiNapoli, R. J., Lipo, C. P., Brosnan, T., Hunt, T. L., Hixon, S., Morrison, A. 
 
 Dolbunova, E., Lucquin, A., McLaughlin, T.R. et al. (2022) The transmission of pottery technology among prehistoric European hunter-gatherers. Nature Human Behavior https://doi.org/10.1038/s41562-022-01491-8
 
-Dombrosky, Jonathan, Thomas F. Turner, Alexandra Harris, and Emily Lena Jones. (2022). “Body Size from Unconventional Specimens: A 3D Geometric Morphometrics Approach to Fishes from Ancestral Pueblo Contexts.” Journal of Archaeological Science 142: 105600.
+Dombrosky, J., Ainsworth, C. S., Judkins, A. A., Valesca Meyer, J., Adler, M. A., & Lena Jones, E. (2023). Reconsidering archaeological garden hunting: A view from the northern U.S. Southwest. _Journal of Archaeological Science: Reports_, 51, 104194. https://doi.org/10.1016/j.jasrep.2023.104194
+
+Dombrosky, Jonathan, Thomas F. Turner, Alexandra Harris, and Emily Lena Jones. (2022). “Body Size from Unconventional Specimens: A 3D Geometric Morphometrics Approach to Fishes from Ancestral Pueblo Contexts.” _Journal of Archaeological Science_ 142: 105600.
 
 Dombrosky, J. (2020). A ~1000-year 13C Suess correction model for the study of past ecosystems. _The Holocene_, 30(3), 474–478. https://doi.org/10.1177/0959683619887416
 
