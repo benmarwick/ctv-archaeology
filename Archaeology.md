@@ -3,18 +3,20 @@ name: Archaeology
 topic: Archaeology
 maintainer: Ben Marwick
 email: benmarwick@gmail.com
-version: 2022-01-22
+version: 2023-09-15
 source: https://github.com/cran-task-views/Archaeology
 ---
 
-This task view is a list of packages useful for many kinds of archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, artefact types and faunal remains, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to guide archaeologists in finding a package relevant to specialised archaeological research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualisation, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not include those packages in this list. This lists assumes some familiarity with using R and is not an introduction to using R in archaeology. If you think that some package is missing from the list, please contact the maintainer.
+This task view is a list of packages useful for archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, various types of artefacts (lithics, pottery, etc.), faunal remains, geoarchaeological and landscape data, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to help archaeologists in their search for packages relevant to their research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualisation, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not include those packages in this list. This lists assumes some familiarity with using R and is not an introduction to using R in archaeology (see the links below for introductory resources). 
+
+If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages.  If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged – please see the linked GitHub repository for details.
 
 ### Analysis of dates (radiocarbon, etc.) and chronological patterns
 
--    Radiocarbon ages can be calibrated using many of the packages in this section, including `r github("paleolimbot/carbon14")`, `r pkg(rintcal)` and `r pkg(ArchaeoChron)`
+-    Radiocarbon ages can be calibrated using many of the packages in this section, `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensiely documented functions for hypothesis testing, and modelling radiocarbon ages. 
+-    Basic calibration is possible with `r github("paleolimbot/carbon14")`, `r pkg(rintcal)` and `r pkg(ArchaeoChron)`
 -    `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. rcarbon, Bchron, oxcAAR, c14bazAAR, ArchaeoPhases, stratigraphr) together and work with them in a tidy data workflow.
 -    `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
--    `r pkg("rcarbon")` is useful for calibration, hypothesis testing, and modelling. 
 -    Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("clam")`.
 -    `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals
 -    The `r pkg("oxcAAR")` package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
@@ -78,6 +80,7 @@ This task view is a list of packages useful for many kinds of archaeological sci
  
 ### Landscape analysis
 
+- `r github("SCSchmidt/percopackage")` implements percolation Analysis as a 2D point pattern analysis technique for identifying clusters of any size and form (e.g. of archaeological sites)
 - `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape
 -  `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
 -  `r github("ISAAKiel/pathAAR")` to reconstruct paths using archaeological monuments, model parameters of infrastructure and evaluate those parameters.
@@ -111,4 +114,14 @@ This task view is a list of packages useful for many kinds of archaeological sci
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
 - `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data. Accompanied by `r github("zooaRchGUI/zooaRchGUI")` which provides a Graphical User Interface (GUI) to `r pkg("zooaRch")`.
+
+### Links
+
+- Carlson, D. L. (2017). _Quantitative Methods in Archaeology Using R_. Cambridge University Press. https://doi.org/10.1017/9781139628730
+- Crema, E. R., & Bevan, A. (2021). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_, 63(1), 23–39. https://doi.org/10.1017/RDC.2020.95
+- Marwick, B. (2018). R Coding and Modeling. In _The Encyclopedia of Archaeological Sciences_ (pp. 1–5). y John Wiley & Sons. https://doi.org/10.1002/9781119188230.saseas0631
+- [CAA International](https://caa-international.org/) Special Interest Group (SIG) on [Scientific Scripting Languages in Archaeology](https://sslarch.github.io/). This groups focusses on the application of Scripting Languages in archaeological research.
+
+
+
 
