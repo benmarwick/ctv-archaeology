@@ -1,7 +1,7 @@
 ---
 name: Archaeology
 topic: Archaeology
-maintainer: Ben Marwick, Nicolas Frerebeau
+maintainer: Ben Marwick, Nicolas Frerebeau, Joe Roe
 email: benmarwick@gmail.com
 version: 2023-09-19
 source: https://github.com/cran-task-views/Archaeology
