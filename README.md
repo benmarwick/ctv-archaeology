@@ -1012,6 +1012,8 @@ Stewart, M., Carleton, W.C. and Groucutt, H.S. (2022). Extreme events in biologi
 
 Stewart, M., Carleton, W.C. & Groucutt, H.S. (2021). Climate change, not human population growth, correlates with Late Quaternary megafauna declines in North America. _Nature communications_ 12, 965 https://doi.org/10.1038/s41467-021-21201-8
 
+Steinmann, L. (2020). Finds from Miletus XXXII. Clay Rings from the Sanctuary of Dionysos in Miletus. _Archäologischer Anzeiger_, 1-49 (§). https://doi.org/10.34780/aa.v0i1.1014
+
 Stoddart, S., Palmisano, A.,Redhouse, D., Barker, G., di Paola, G., Motta, L., Rasmussen, T., Samuels, T. & Witcher, R. (2020). Patterns of EtruscanUrbanism. Front. Digit. Humanit. 7:1. <https://doi.org/10.3389/fdigh.2020.00001>
 
 Strand, L.M., Leggett, S., Skar, B., (2022). Multi-Isotope Variation Reveals Social Complexity in Viking Age Norway, _ISCIENCE_ https://doi.org/10.1016/j.isci.2022.105225
