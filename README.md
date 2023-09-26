@@ -425,6 +425,8 @@ Broughton, J. M., & Weitzel, E. M. (2018). Population reconstructions for humans
 
 Brunner M, von Felten J, Hinz M, Hafner A (2020). Central European Early Bronze Age chronology revisited: A Bayesian examination of large-scale radiocarbon dating. PLOS ONE 15(12): e0243719. https://doi.org/10.1371/journal.pone.0243719
 
+Bustos-Pérez, G., & Ollé, A. (2023). The quantification of surface abrasion on flint stone tools. _Archaeometry_ https://doi.org/10.1111/arcm.12913
+
 Bustos-Pérez, G., Baena, J., & Vaquero, M. (2023). What lies in between: Levallois, discoid and intermediate methods. _Journal of Lithic Studies_, 10(2), https://doi.org/10.2218/jls.7132
 
 Bustos-Pérez, G., & Baena Preysler, J. (2022). Multiple approaches to predicting flake mass. _Journal of Archaeological Science: Reports_, 46, 103698. https://doi.org/10.1016/j.jasrep.2022.103698
