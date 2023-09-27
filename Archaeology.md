@@ -59,7 +59,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 -  `r pkg("zooaRch")` contains two zooarchaeological datasets.
 -  `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka
 - `r github("benmarwick/evoarchdata")` contains four published datasets widely used in archaeological studies of cultural evolution
-- `r github("tesselle/fasti")` contains two datasets for chronological modelling with `r pkg("ArchaeoPhases")`.
+- `r github("ArchaeoStat/ArchaeoData")` contains two datasets for chronological modelling with `r pkg("ArchaeoPhases")`.
 - `r github("ropensci/c14bazAAR")` contains over 20 datasets of radiocarbon ages from around the world. 
 -  `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
 -  `r github("joeroe/islay")` includes various datasets relating to the prehistoric archaeology of the Scottish island of Islay and recorded by the ‘Southern Hebrides Mesolithic Project’ (Mithen et al. 2000).
