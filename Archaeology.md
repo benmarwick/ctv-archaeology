@@ -30,6 +30,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("tonydoss/UThwigl")` compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
 - `r pkg("era")` provides a consistent representation of year-based time scales as a numeric vector with an associated era). `r pkg("aion")` contains a toolkit for handling archaeological time series.
 - `r github("lsteinmann/datplot")` for converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. 
+- `r pkg("SPARTAAS")` and `r pkg("kairos")` provide methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
 
 ### Artefact analysis
 
@@ -37,7 +38,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("ISAAKiel/shapAAR")` for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.
 - `r github("cornelmpop/Lithics3D")` for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
 - `r pkg("iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.)
-- `r pkg("SPARTAAS")` provides methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
 - `r github("maciejkasinski/quantatools")` for analysis of quantum (common measurement units) in archaeological data with cosine quantogram and related statistical methods.
 - `r github("Johanna-Mestorf-Academy/sdsanalysis")` for exploration and visusaliation of Exploration and visualization of lithic datasets recorded using the 'Systematic and digital documentation of stone artefacts' recording system 
 
