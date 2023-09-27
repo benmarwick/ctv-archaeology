@@ -28,7 +28,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("aoristic")`, `r pkg("kairos")` and `r github("ISAAKiel/aoristAAR")` provide functions for the aoristic analysis of archaeological data (takes into account the uncertainty of the exact moment that an event occurred when examining the overall incidence of events over time)
 - `r pkg("kairos")` provides functions for mean ceramic date estimation
 - `r github("tonydoss/UThwigl")` compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
-- `r github("joeroe/era")` provides a consistent representation of year-based time scales as a numeric vector with an associated era). `r pkg("aion")` contains a toolkit for handling archaeological time series.
+- `r pkg("era")` provides a consistent representation of year-based time scales as a numeric vector with an associated era). `r pkg("aion")` contains a toolkit for handling archaeological time series.
 - `r github("lsteinmann/datplot")` for converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. 
 
 ### Artefact analysis
