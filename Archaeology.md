@@ -1,7 +1,7 @@
 ---
 name: Archaeology
 topic: Archaeology
-maintainer: Ben Marwick, Bjørn Peare Bartholdy, Nicolas Frerebeau, Joe Roe, Sophie C. Schmidt, Laure Spake, Lisa Steinmann, Liying Wang
+maintainer: Ben Marwick, Bjørn Peare Bartholdy, Nicolas Frerebeau, Sarah Pederzani, Joe Roe, Sophie C. Schmidt, Laure Spake, Lisa Steinmann, Liying Wang
 email: benmarwick@gmail.com
 version: 2023-09-19
 source: https://github.com/cran-task-views/Archaeology
