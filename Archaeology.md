@@ -14,7 +14,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 ### Analysis of dates (radiocarbon, etc.) and chronological patterns
 
 -    Radiocarbon ages can be calibrated using many of the packages in this section, `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensiely documented functions for hypothesis testing, and modelling radiocarbon ages. 
--    Basic calibration is possible with `r github("paleolimbot/carbon14")`, `r pkg(rintcal)` and `r pkg(ArchaeoChron)`
+-    Basic calibration is possible with `r github("paleolimbot/carbon14")`, `r pkg("rintcal")` and `r pkg("ArchaeoChron")`
 -    `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. rcarbon, Bchron, oxcAAR, c14bazAAR, ArchaeoPhases, stratigraphr) together and work with them in a tidy data workflow.
 -    `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
 -    Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
