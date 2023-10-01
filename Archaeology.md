@@ -67,6 +67,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("joeroe/swapdata")` a collection of archaeological datasets and tools related to the prehistory of Southwest Asia
 - `r github("benmarwick/mjbnaturepaper")` contains stone artefact and total station data for excavations at Madjedbebe, a rock shelter in northern Australia
 - `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient Greek city on the western coast of Anatolia
+- `r github("bischrob/Rosegate-Projectile-Points-in-the-Fremont-Region/tree")` contains frequency data for different types of projectile points across 23 sites in the Fremont Region of the American Southwest
 
 ### Geoarchaeological analysis
 
