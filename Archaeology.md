@@ -1,7 +1,7 @@
 ---
 name: Archaeology
 topic: Archaeology
-maintainer: Ben Marwick, Bjørn Peare Bartholdy, Nicolas Frerebeau, Joe Roe, Laure Spake, Lisa Steinmann, Liying Wang
+maintainer: Ben Marwick, Bjørn Peare Bartholdy, Nicolas Frerebeau, Sarah Pederzani, Joe Roe, Sophie C. Schmidt, Laure Spake, Lisa Steinmann, Liying Wang
 email: benmarwick@gmail.com
 version: 2023-09-19
 source: https://github.com/cran-task-views/Archaeology
@@ -73,7 +73,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("ISAAKiel/magAAR")` analyse geomagnetic data from archaeological contexts
 - `r pkg("G2Sd")`, `r pkg("rysgran")` and `r pkg("EMMAgeo")` for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods, like Folk & Ward (1957), etc.
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using ggplot2
--  ` r pkg("siar")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data
+-  ` r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data
 -  `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sediment colour
 - `r github("Andros-Spica/cerUB")` for multivariate statistic protocols for integrating archaeometric data (geochemical, mineralogical, petrographic)
  
