@@ -705,6 +705,8 @@ Kelmelis, Saige, and Sharon N. DeWitte. (2021). “Urban and Rural Survivorship 
 
 Key, A, Ashton, N. (2022). Hominins likely occupied northern Europe before one million years ago. _Evolutionary Anthropology_  2022; 1- 16. http://doi.org/10.1002/evan.21966
 
+Kudo, Y., Sakamoto, M., Hakozaki, M., Stevens, C. J., & Crema, E. R. (2023). An Archaeological Radiocarbon Database of Japan _Journal of Open Archaeology Data_, DOI: https://doi.org/10.5334/joad.115
+
 Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. Veget Hist Archaeobot <https://doi.org/10.1007/s00334-021-00856-9>
 
 Lancelotti, C. (2018). Not all that burns is wood. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC). _PLoS One_ 13(3): e0192364.
