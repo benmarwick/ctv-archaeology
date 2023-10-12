@@ -60,9 +60,12 @@ If you have any questions feel free to reach out to the task view maintainers or
 -  `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka
 - `r github("benmarwick/evoarchdata")` contains four published datasets widely used in archaeological studies of cultural evolution
 - `r github("tesselle/fasti")` contains two datasets for chronological modelling with `r pkg("ArchaeoPhases")`.
-- `r github("ropensci/c14bazAAR")` contains over 20 datasets of radiocarbon ages from around the world. 
--  `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
--  `r github("joeroe/islay")` includes various datasets relating to the prehistoric archaeology of the Scottish island of Islay and recorded by the ‘Southern Hebrides Mesolithic Project’ (Mithen et al. 2000).
+- `r github("ropensci/c14bazAAR")` contains over 20 datasets of radiocarbon ages from around the world.
+- `r github("people3k/p3k14c")` contains a global dataset of radiocarbon dates
+- `r github("xronos/xronos.R")` accesses [XRONOS](https://xronos.ch), a global dataset of radiocarbon and other chronometric dates
+- `r github("joeroe/rintchron")` accesses [IntChron](https://www.intchron.org/), an indexing service for chronological information
+- `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
+- `r github("joeroe/islay")` includes various datasets relating to the prehistoric archaeology of the Scottish island of Islay and recorded by the ‘Southern Hebrides Mesolithic Project’ (Mithen et al. 2000).
 - `r github("DCPollard94/knossoscemeteries")` includes artefacts data from two Early Iron Age Cemeteries at Knossos, Crete
 - `r github("joeroe/swapdata")` a collection of archaeological datasets and tools related to the prehistory of Southwest Asia
 - `r github("benmarwick/mjbnaturepaper")` contains stone artefact and total station data for excavations at Madjedbebe, a rock shelter in northern Australia
