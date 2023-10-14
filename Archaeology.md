@@ -56,7 +56,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 -  `r pkg("BSDA")` contains a dataset of 60 radiocarbon ages of observations taken from an archaeological site with four phases of occupation.
 -  `r github("sfsheath/cawd")` contains 15 datasets of ancient Greek, Roman and Persian maps and digital atlas data
 -  `r pkg("chemometrics")` contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
--  `r pkg("zooaRch")` contains two zooarchaeological datasets.
 -  `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka
 - `r github("benmarwick/evoarchdata")` contains four published datasets widely used in archaeological studies of cultural evolution
 - `r github("tesselle/fasti")` contains two datasets for chronological modelling with `r pkg("ArchaeoPhases")`.
@@ -75,7 +74,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 ### Geoarchaeological analysis
 
 - `r github("ISAAKiel/magAAR")` analyse geomagnetic data from archaeological contexts.
-- `r pkg("G2Sd")`, `r pkg("rysgran")` and `r pkg("EMMAgeo")` for working with sedimentary grain-size data in logarithmic (phi) and geometric. (micrometers) scales, based on various methods, like Folk & Ward (1957), etc.
+- `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` for working with sedimentary grain-size data in logarithmic (phi) and geometric. (micrometers) scales, based on various methods, like Folk & Ward (1957), etc.
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using `ggplot2`.
 - `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
 - `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sediment colour.
@@ -116,7 +115,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 ### Zooarchaeological analysis
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
-- `r pkg("zooaRch")` provides analytical tools to make inferences on zooarchaeological data. Functions in this package allow users to read, manipulate, visualize, and analyze zooarchaeological data. Accompanied by `r github("zooaRchGUI/zooaRchGUI")` which provides a Graphical User Interface (GUI) to `r pkg("zooaRch")`.
 
 ### Links
 
