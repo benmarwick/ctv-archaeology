@@ -91,11 +91,12 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 ### Geoarchaeological analysis
 
-- `r pkg("G2Sd")` and `r pkg("EMMAgeo")` for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods, like Folk & Ward (1957), etc.
+- `r pkg("aqp")` simplifies the quantitative analysis of soil profile data. It allows soil profile visualization, aggregation, and classification. `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` can be used for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods.
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using `ggplot2`.
 - `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
-- `r pkg("munsell")` and `r pkg("aqp")` provide methods for working with sediment colour.
-- `r github("mauricio-camargo/rysgran")` is a port to R of the SysGran program, written in Delphi by Camargo (2006).
+- `r pkg("munsell")` provides methods for working with sediment colour.
+- `r pkg("isopleuros")` allows to create ternary plots. It also includes common ternary diagrams useful for the archaeologist (e.g. soil texture charts, ceramic phase diagram).
+
 - `r github("ISAAKiel/magAAR")` analyse geomagnetic data from archaeological contexts.
 - `r github("Andros-Spica/cerUB")` for multivariate statistic protocols for integrating archaeometric data (geochemical, mineralogical, petrographic).
  
