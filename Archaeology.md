@@ -9,7 +9,7 @@ source: https://github.com/cran-task-views/Archaeology
 
 This task view is a list of packages useful for archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, various types of artefacts (lithics, pottery, etc.), faunal remains, geoarchaeological and landscape data, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to help archaeologists in their search for packages relevant to their research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualisation, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")` task views. To minimise overlap we do not include those packages in this list. This lists assumes some familiarity with using R and is not an introduction to using R in archaeology (see the links below for introductory resources). 
 
-If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged – please see the linked GitHub repository for details.
+If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged -- please see the linked GitHub repository for details.
 
 ### Analysis of dates and chronological patterns
 
@@ -54,7 +54,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("ISAAKiel/shapAAR")` for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Especially it aims at the analysis of the shapes/profiles of eg. ceramic vessels or arrow heads.
 - `r github("cornelmpop/Lithics3D")` for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
 - `r github("maciejkasinski/quantatools")` for analysis of quantum (common measurement units) in archaeological data with cosine quantogram and related statistical methods.
-- `r github("Johanna-Mestorf-Academy/sdsanalysis")` for exploration and visusaliation of Exploration and visualization of lithic datasets recorded using the 'Systematic and digital documentation of stone artefacts' recording system.
+- `r github("Johanna-Mestorf-Academy/sdsanalysis")` for exploration and visualization lithic datasets recorded using the 'Systematic and digital documentation of stone artefacts' recording system.
 
 ### Cultural evolutionary analysis
 
@@ -119,7 +119,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 ### Survey, excavation, and stratigraphic analysis
 
 - `r pkg("archeoViz")` is a packaged R Shiny application for the 2D and 3D visualisation, exploration, and web communication of spatial data from archaeological excavations.
-- `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology
+- `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology.
 - `r pkg("recexcavAAR")` for 3D reconstruction and analysis of excavations, provides methods to reconstruct natural and artificial surfaces based on field measurements. This allows to spatially contextualize documented subunits and features. 
 - `r github("joeroe/stratigraphr")` provides a tidy framework for working with archaeological stratigraphy and chronology in R. It includes tools for reading, analysing, and visualising stratigraphies (Harris matrices) and sequences as directed graphs; helper functions for using radiocarbon dates in a tidy data analysis; and an R interface to OxCal's Chronological Query Language (CQL).
 - `r github("joeroe/fieldwalkr")` for designing and evaluating sampling strategies in spatial survey (fieldwalking in archaeological jargon). It contains functions for simulating the effect of different survey units, sampling methods and detection functions on the estimation of randomly generated or observed point processes.
@@ -131,7 +131,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("dimensio")` provides simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
 - `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 - `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
-
 
 ### Zooarchaeological analysis
 
