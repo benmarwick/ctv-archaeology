@@ -11,27 +11,41 @@ This task view is a list of packages useful for archaeological science. It inclu
 
 If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged – please see the linked GitHub repository for details.
 
-### Analysis of dates (radiocarbon, etc.) and chronological patterns
+### Analysis of dates and chronological patterns
 
-- Radiocarbon ages can be calibrated using many of the packages in this section, `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensiely documented functions for hypothesis testing, and modelling radiocarbon ages. 
-- Basic calibration is possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`
+#### Radiometric Dating
+
+- Radiocarbon ages can be calibrated using many of the packages in this section, `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing, and modelling radiocarbon ages. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
 - `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models; and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
 - Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
-- The `r pkg("oxcAAR")` package allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
-- `r pkg("ArchaeoPhases")` provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution (i.e. MCMC samples) of a sequence of dates. Includes testing procedures to check the presence of a gap between two successive phases or periods.
-- Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` package (including radial plotting) and in the `r pkg("numOSL")` package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
-- `r pkg("kairos")` provides functions for mean ceramic date estimation.
-- `r pkg("era")` provides a consistent representation of year-based time scales as a numeric vector with an associated era). `r pkg("aion")` contains a toolkit for handling archaeological time series.
-- `r pkg("SPARTAAS")` and `r pkg("kairos")` provide methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
-- `r github("paleolimbot/carbon14")` enables basic calibration.
-- `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. `rcarbon`, `Bchron`, `oxcAAR`, `c14bazAAR`, `ArchaeoPhases`, `stratigraphr`) together and work with them in a tidy data workflow.
-- The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges.
-- The `r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
+- `r pkg("oxcAAR")` allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
+- `r pkg("ArchaeoPhases")` allows you to post-process Markov Chain Monte Carlo (MCMC) simulations from [ChronoModel](https://chronomodel.com/), [Oxcal](https://c14.arch.ox.ac.uk/oxcal.html) or [BCal](https://bcal.shef.ac.uk/). It provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution of a sequence of dates and includes testing procedures to check the presence of a gap between two successive phases.
+- `r pkg("IsoplotR")` offers a statistical toolbox for radiometric geochronology.
+
 - `r github("ropensci/c14bazAAR")` for the retrieval and preparation of large radiocarbon datasets.
-- `r pkg("aoristic")`, `r pkg("kairos")` and `r github("ISAAKiel/aoristAAR")` provide functions for the aoristic analysis of archaeological data (takes into account the uncertainty of the exact moment that an event occurred when examining the overall incidence of events over time)
-- `r github("tonydoss/UThwigl")` compute closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
-- `r github("lsteinmann/datplot")` for converting date ranges into dating 'steps' eases the visualization of changes in e.g. pottery consumption, style and other variables over time. 
+- `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. `rcarbon`, `Bchron`, `oxcAAR`, `c14bazAAR`, `ArchaeoPhases`, `stratigraphr`) together and work with them in a tidy data workflow.
+- `r github("tonydoss/UThwigl")` computes closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
+- The `r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
+
+#### Luminescence Dating
+
+- Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` package (including radial plotting) and in the `r pkg("numOSL")` package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
+- `r pkg("BayLum")` provides chronological bayesian models integrating Optically Stimulated Luminescence and radiocarbon age dating.
+
+#### Paleoenvironmental Proxies
+
+- `r pkg("shoredate")` offers methods to shoreline date coastal sites based on their present-day elevation and the trajectory of past relative sea-level change.
+
+#### Archaeological Time Series
+
+- `r pkg("era")` provides a consistent representation of year-based time scales as a numeric vector with an associated era). `r pkg("aion")` contains a toolkit for handling archaeological time series.
+- `r pkg("aoristic")`, `r pkg("kairos")` and `r github("ISAAKiel/aoristAAR")` provide functions for the aoristic analysis of archaeological data (takes into account the uncertainty of the exact moment that an event occurred when examining the overall incidence of events over time).
+- `r pkg("kairos")` provides functions for mean ceramic date estimation.
+- `r pkg("SPARTAAS")` and `r pkg("kairos")` provide methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
+
+- `r github("lsteinmann/datplot")` converts date ranges into dating 'steps' to ease the visualization of changes in e.g. pottery consumption, style and other variables over time. 
+- The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges.
 
 ### Artefact analysis
 
