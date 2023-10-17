@@ -22,7 +22,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("oxcAAR")` allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
 - `r pkg("ArchaeoPhases")` allows you to post-process Markov Chain Monte Carlo (MCMC) simulations from [ChronoModel](https://chronomodel.com/), [Oxcal](https://c14.arch.ox.ac.uk/oxcal.html) or [BCal](https://bcal.shef.ac.uk/). It provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution of a sequence of dates and includes testing procedures to check the presence of a gap between two successive phases.
 - `r pkg("IsoplotR")` offers a statistical toolbox for radiometric geochronology.
-
 - `r github("ropensci/c14bazAAR")` for the retrieval and preparation of large radiocarbon datasets.
 - `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. `rcarbon`, `Bchron`, `oxcAAR`, `c14bazAAR`, `ArchaeoPhases`, `stratigraphr`) together and work with them in a tidy data workflow.
 - `r github("tonydoss/UThwigl")` computes closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
@@ -78,7 +77,8 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("DCPollard94/knossoscemeteries")` includes artefacts data from two Early Iron Age Cemeteries at Knossos, Crete.
 - `r github("joeroe/swapdata")` a collection of archaeological datasets and tools related to the prehistory of Southwest Asia.
 - `r github("benmarwick/mjbnaturepaper")` contains stone artefact and total station data for excavations at Madjedbebe, a rock shelter in northern Australia
-- `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient Greek city on the western coast of Anatolia.
+- `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient Greek city on the western coast of Anatolia
+- `r github("bischrob/Rosegate-Projectile-Points-in-the-Fremont-Region")` contains frequency data for different types of projectile points across 23 sites in the Fremont Region of the American Southwest
 
 #### Radiocarbon datasets and APIs
 
