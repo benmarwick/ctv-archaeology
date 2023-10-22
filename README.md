@@ -380,6 +380,8 @@ Beck, J., & Smith, B. H. (2019). Don't throw the baby teeth out with the bathwat
 
 Beheim, Bret A., and Adrian V. Bell. (2011). Inheritance, Ecology and the Evolution of the Canoes of East Oceania. _Proceedings of the Royal Society B: Biological Sciences_, February. <https://doi.org/10.1098/rspb.2011.0060> <https://github.com/babeheim/polynesian-canoe-analysis>
 
+Belmiro J., Terradas X., Cascalheira J. (2023). Creating frames of reference for chert exploitation during the Late Pleistocene in Southwesternmost Iberia. _PLOS ONE_ 18(10): e0293223. https://doi.org/10.1371/journal.pone.0293223
+
 Belmiro, J., Bicho, N., Haws, J., & Cascalheira, J. (2020). The Gravettian-Solutrean transition in westernmost Iberia: New data from the sites of Vale Boi and Lapa do Picareiro. _Quaternary International_ <https://doi.org/10.1016/j.quaint.2020.08.027> <https://www.doi.org/10.17605/OSF.IO/456EG>
 
 Benjamin J, O’Leary M, McDonald J, Wiseman C, McCarthy J, Beckett E, et al. (2020). Aboriginal artefacts on the continental shelf reveal ancient drowned cultural landscapes in northwest Australia. PLoS ONE 15(7): e0233912. <https://doi.org/10.1371/journal.pone.0233912> <https://github.com/patrick-morrison/benjamin_et_al_2020_submerged_cb>
