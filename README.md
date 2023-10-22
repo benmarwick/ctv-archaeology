@@ -470,6 +470,8 @@ Cascalheira, João. (2019). Territoriality and the organization of technology du
 
 Chan, B, Francisco Gibaja J, García-Díaz V, Hoggard CS, Mazzucco N, Rowland JT, et al. (2020). Towards an understanding of retouch flakes: A use-wear blind test on knapped stone microdebitage. _PLoS ONE_ 15(12): e0243101. https://doi.org/10.1371/journal.pone.0243101
 
+Chen, Y. and B. Marwick (2023). Women in the Lab, Men in the Field? Correlations between Gender and Research Topics at Three Major Archaeology Conferences, _Journal of Field Archaeology_, https://doi.org/10.1080/00934690.2023.2261083
+
 Cheung, C., & Szpak, P. (2020). Interpreting Past Human Diets Using Stable Isotope Mixing Models. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-020-09492-5>
 
 Cheung, C., & Szpak, P. (2021). Interpreting Past Human Diets Using Stable Isotope Mixing Models—Best Practices for Data Acquisition. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-021-09514-w>
