@@ -610,6 +610,8 @@ Fitzhugh, B., Brown, W. A., Misarti, N., Takase, K., & Tremayne, A. H. (2022). H
 
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021). Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ <https://doi.org/10.1038/s41559-020-01379-8>
 
+Foecke, K. K., Hammond, A. S., & Kelley, J. (2022). Portable x-ray fluorescence spectroscopy geochemical sourcing of Miocene primate fossils from Kenya. _Journal of Human Evolution_, 170, 103234. https://doi.org/10.1016/j.jhevol.2022.103234
+
 Fontana, G., & Bernard, S. (2023). A new method for the energetics analysis of polygonal masonry in Samnite hillforts (Italy). _Journal of Archaeological Science_, 105730. https://doi.org/10.1016/j.jas.2023.105730
 
 Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, J. M. (2020). The global ecology of human population density and interpreting changes in paleo-population density. _Journal of Archaeological Science_, 120, 105168. <https://github.com/people3k/JAS2020Ethnographic-Population-Density>
