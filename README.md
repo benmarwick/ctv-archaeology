@@ -700,6 +700,8 @@ Kandel, A. W., Sommer, C., Kanaeva, Z., Bolus, M., Bruch, A. A., Groth, C., Haid
 
 Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral Theory and Beyond, in: Prentiss, A.M. (Ed.), Handbook of Evolutionary Research in Archaeology. Springer International Publishing, Cham, pp. 83–108. https://doi.org/10.1007/978-3-030-11117-5_5  [GitHub repo](https://github.com/ercrema/HERAChp.KandlerCrema)
 
+Kelly, R. L., Mackie, M. E., & Kandel, A. W. (2023). Rapid increase in production of symbolic artifacts after 45,000 years ago is not a consequence of taphonomic bias. _Journal of Archaeological Science_, 160, 105885. https://doi.org/10.1016/j.jas.2023.105885
+
 Kempf, M., & Günther, G. (2023). Point pattern and spatial analyses using archaeological and environmental data – A case study from the Neolithic Carpathian Basin. _Journal of Archaeological Science: Reports_, 47, 103747. https://doi.org/10.1016/j.jasrep.2022.103747
 
 Kim, H., Lee, G.-A., & Crema, E. R. (2021). Bayesian analyses question the role of climate in Chulmun demography. Scientific Reports, 11(1), 23797. https://doi.org/10.1038/s41598-021-03180-4
