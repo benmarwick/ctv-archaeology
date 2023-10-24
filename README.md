@@ -468,6 +468,8 @@ Cascalheira, J., Gonçalves, C. and Maio D. (2020). The spatial patterning of Mi
 
 Cascalheira, João. (2019). Territoriality and the organization of technology during the Last Glacial Maximum in southwestern Europe. _PloS one_, 14(12). https://doi.org/10.1371/journal.pone.0225828
 
+Cegielski, W., Snitker, G., Barton, C. M., Bernabeu Aubán, J., Cortell-Nicolau, A., Pardo-Gordó, S., Bergin, S., & Castillo, A. D. (2023). A multi-method approach with machine learning to evaluating the distribution and intensity of prehistoric land use in Eastern Iberia. _Quaternary International_. https://doi.org/10.1016/j.quaint.2023.08.011
+
 Chan, B, Francisco Gibaja J, García-Díaz V, Hoggard CS, Mazzucco N, Rowland JT, et al. (2020). Towards an understanding of retouch flakes: A use-wear blind test on knapped stone microdebitage. _PLoS ONE_ 15(12): e0243101. https://doi.org/10.1371/journal.pone.0243101
 
 Chen, Y. and B. Marwick (2023). Women in the Lab, Men in the Field? Correlations between Gender and Research Topics at Three Major Archaeology Conferences, _Journal of Field Archaeology_, https://doi.org/10.1080/00934690.2023.2261083
