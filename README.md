@@ -646,6 +646,8 @@ Gravel-Miguel, C., Murray, J. K., Schoville, B. J., Wren, C. D., & Marean, C. W.
 
 Gregory, A., Mitchell, P. & Pargeter, J. (2023). Raw Material Surveys and Their Behavioral Implications in Highland Lesotho. _Journal of Paleolithic Archaeology_ 6, 18 https://doi.org/10.1007/s41982-023-00138-y
 
+Großmann R, Weinelt M, Müller J (2023). Demographic dynamics between 5500 and 3500 calBP (3550–1550 BCE) in selected study regions of Central Europe and the role of regional climate influences. PLOS ONE 18(10): e0291956. https://doi.org/10.1371/journal.pone.0291956
+
 Groucutt, H. S., Carleton, W. C., Fenech, K., Gauci, R., Grima, R., Scerri, E. M. L., Stewart, M., & Vella, N. C. (2022). The 4.2 ka Event and the End of the Maltese “Temple Period.” Frontiers in Earth Science, 9, 1227. <https://doi.org/10.3389/feart.2021.771683>
 
 Groucutt, H.S., White, T.S., Scerri, E.M.L. et al. (2021). Multiple hominin dispersals into Southwest Asia over the past 400,000 years. _Nature_  <https://doi.org/10.1038/s41586-021-03863-y> <https://doi.org/10.5281/zenodo.5082969>
