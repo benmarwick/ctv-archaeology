@@ -720,6 +720,8 @@ Key, A, Ashton, N. (2022). Hominins likely occupied northern Europe before one m
 
 Kudo, Y., Sakamoto, M., Hakozaki, M., Stevens, C. J., & Crema, E. R. (2023). An Archaeological Radiocarbon Database of Japan _Journal of Open Archaeology Data_, DOI: https://doi.org/10.5334/joad.115
 
+Krištuf, P., Janovský, M. P., Turek, J., Horák, J., Ferenczi, L., & Hejcman, M. (2023). Neolithic long barrows were built on the margins of settlement zones as revealed by elemental soil analysis at four sites in the Czech Republic. _Journal of Archaeological Science_, 160, 105881. https://doi.org/10.1016/j.jas.2023.105881
+
 Krzyzanska, M., Hunt, H.V., Crema, E.R. et al.  (2021). Modelling the potential ecological niche of domesticated buckwheat in China: archaeological evidence, environmental constraints and climate change. Veget Hist Archaeobot <https://doi.org/10.1007/s00334-021-00856-9>
 
 Lancelotti, C. (2018). Not all that burns is wood. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC). _PLoS One_ 13(3): e0192364.
