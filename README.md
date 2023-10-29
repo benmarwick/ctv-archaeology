@@ -995,6 +995,8 @@ Selden, R. Z., & Dockall, J. E. (2023). Perdiz arrow points from Caddo burial co
 
 Selden Jr., R. Z., Dockall, J. E., Bousman, C. B., & Perttula, T. K. (2021). Shape as a function of time + raw material + burial context? An exploratory analysis of Perdiz arrow points from the ancestral Caddo area of the American Southeast. _Journal of Archaeological Science: Reports_, 37, 102916. https://doi.org/10.1016/j.jasrep.2021.102916
 
+Schoville, Precious Chiwara-Maenzanise, Erik Otárola-Castillo & Jayne Wilkins (2023). Function, Style, and Standardization: Is the Proximal or Distal End of a Middle Stone Age Point More Variable?, _Lithic Technology_, http://doi.org/10.1080/01977261.2023.2233167
+
 Schoville, B.J., Brown, K.S. & Wilkins, J. (2022). A Lithic Provisioning Model as a Proxy for Landscape Mobility in the Southern and Middle Kalahari. J Archaeol Method Theory 29, 162–187 https://doi.org/10.1007/s10816-021-09507-9
 
 Selden, R. Z., Dockall, J. E., & Dubied, M. (2020). A quantitative assessment of intraspecific morphological variation in Gahagan bifaces from the southern Caddo area and central Texas. Southeastern Archaeology, 39(2), pp.125–145. DOI: <https://doi.org/10.1080/0734578X.2020.1744416> data & code: <https://osf.io/2g95w/>
