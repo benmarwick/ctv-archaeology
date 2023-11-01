@@ -748,6 +748,8 @@ Lewis, J. (2020). Visibility of the Gask Ridge road from simulated Watchtowers: 
 
 Lightfoot E and O'Connell TC (2016). “On The Use of Biomineral Oxygen Isotope Data to Identify Human Migrants in the Archaeological Record: Intra-Sample Variation, Statistical Methods and Geographical Considerations.” PLoS ONE 11(4). [http://doi:10.1371/journal.pone.0153850](http://doi:10.1371/journal.pone.0153850), code and data: [https://www.repository.cam.ac.uk/handle/1810/252773](https://www.repository.cam.ac.uk/handle/1810/252773)
 
+Li Li, Jonathan S. Reeves, Sam C. Lin, David R. Braun, Shannon P. McPherron, (2023). Did Early Pleistocene hominins control hammer strike angles when making stone tools? _Journal of Human Evolution_ https://doi.org/10.1016/j.jhevol.2023.103427.
+
 Li, L., Reeves, J.S., Lin, S.C. et al. (2022). Quantifying knapping actions: a method for measuring the angle of blow on flakes. _Archaeological and Anthropological Sciences_ 14, 156 https://doi.org/10.1007/s12520-022-01626-y
 
 Lin, S.C., White, L.T., Jatmiko et al. (2022). Characterising the stone artefact raw materials at Liang Bua, Indonesia. J Paleo Arch 5, 22. https://doi.org/10.1007/s41982-022-00133-9
