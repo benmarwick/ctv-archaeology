@@ -1125,6 +1125,9 @@ Yaworsky, P.M., Hussain, S.T. & Riede, F. (2023). Climate-driven habitat shifts 
 
 Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology: An evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. _PloS one_, 15(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
 
+Yrarrazaval, S., Cartajena, I., Borrero, L., & Salazar, D. (2023). Identifying non-anthropogenic accumulation in zooarchaeological assemblages using naive Bayesian classifier: A trace-oriented actualistic taphonomic approach in the hyperarid coasts of the Atacama desert. _Quaternary Science Advances_, 100143. https://doi.org/10.1016/j.qsa.2023.100143
+
+
 ## Contributors
 
 [Ben Marwick](https://github.com/benmarwick), Agustin Diez Castillo, Allar Haav, Sebastian Heath, Phil Riris, Tom Brughmans, Lee Drake, Stefano Costa, [Enrico Crema](https://github.com/ercrema), [Domenico Giusti](https://github.com/dncgst), Matt Peeples, Mark Madsen, Daniel Contreras, [Tal Galili](https://github.com/talgalili), [Li-Ying Wang](https://github.com/LiYingWang), [Bjørn Peare Bartholdy](https://github.com/bbartholdy), [Ronald Visser](https://github.com/RonaldVisser), [Moritz Mennenga](https://github.com/MoritzMennenga)
