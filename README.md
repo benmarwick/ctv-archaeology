@@ -885,6 +885,8 @@ Pederzani, S., Aldeias, V., Dibble, H.L. et al. (2021). Reconstructing Late Plei
 
 Peeples, M. A. and R. J. Bischoff (2023). Archaeological networks, community detection, and critical scales of interaction in the U.S. Southwest/Mexican Northwest, _Journal of Anthropological Archaeology_, Volume 70, 2023, 101511, https://doi.org/10.1016/j.jaa.2023.101511
 
+Pereira D, Manen C, Rigaud S (2023). The shaping of social and symbolic capital during the transition to farming in the Western Mediterranean: Archaeological network analyses of pottery decorations and personal ornaments. _PLOS ONE_ 18(11): e0294111. https://doi.org/10.1371/journal.pone.0294111
+
 Perri et al (2019). Dietary variation among indigenous Nicaraguan horticulturalists and their dogs: An ethnoarchaeological application of the Canine Surrogacy Approach _Journal of Anthropological Archaeology_ Volume 55,<https://doi.org/10.1016/j.jaa.2019.05.002> <https://osf.io/dbxe9/>
 
 Pestle WJ, Hubbell C, Hubbe M (2021). (DIGSS) Determination of Intervals using Georeferenced Survey Simulation: An R package for subsurface survey. _PLoS ONE_ 16(9): e0257386. doi:10.1371/journal.pone.0257386
