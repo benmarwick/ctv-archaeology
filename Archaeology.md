@@ -139,6 +139,9 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
 
+### Data management and cleaning
+- `r pkg("unstruwwel")` can detect and transform strings containing historic dates (e.g. "3rd century CE") to numeric values.
+
 ### Links
 
 - Carlson, D. L. (2017). _Quantitative Methods in Archaeology Using R_. Cambridge University Press. https://doi.org/10.1017/9781139628730
