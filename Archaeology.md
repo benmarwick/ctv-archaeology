@@ -80,6 +80,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("joeroe/swapdata")` a collection of archaeological datasets and tools related to the prehistory of Southwest Asia.
 - `r github("benmarwick/mjbnaturepaper")` contains stone artefact and total station data for excavations at Madjedbebe, a rock shelter in northern Australia
 - `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient city of Miletus on the western coast of Anatolia
+- `r github("lsteinmann/datplot")` contains a data set on Inscriptions from Bithynia as used in B. Weissova (2019) _Regional Economy, Settlement Patterns and the Road System in Bithynia (4th Century BC-6th Century AD). Spatial and Quantitative Analysis_ suitable for geographical and chronological analysis.
 - `r github("bischrob/Rosegate-Projectile-Points-in-the-Fremont-Region")` contains frequency data for different types of projectile points across 23 sites in the Fremont Region of the American Southwest
 
 #### Radiocarbon datasets and APIs
