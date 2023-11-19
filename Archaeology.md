@@ -43,8 +43,8 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("aoristic")`, `r pkg("kairos")` and `r github("ISAAKiel/aoristAAR")` provide functions for the aoristic analysis of archaeological data (takes into account the uncertainty of the exact moment that an event occurred when examining the overall incidence of events over time).
 - `r pkg("kairos")` provides functions for mean ceramic date estimation.
 - `r pkg("SPARTAAS")` and `r pkg("kairos")` provide methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
+- `r pkg("datplot")` converts date ranges into dating 'steps' to ease the visualization of changes in e.g. pottery consumption, style and other variables over time. 
 
-- `r github("lsteinmann/datplot")` converts date ranges into dating 'steps' to ease the visualization of changes in e.g. pottery consumption, style and other variables over time. 
 - The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges.
 
 ### Artefact analysis
@@ -71,6 +71,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
 - `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka.
 - `r pkg("chemometrics")` contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
+- `r pkg("datplot")` contains a data set on Inscriptions from Bithynia as used in B. Weissova (2019) _Regional Economy, Settlement Patterns and the Road System in Bithynia (4th Century BC-6th Century AD). Spatial and Quantitative Analysis_ suitable for geographical and chronological analysis.
 
 - `r github("geanes/bioanth")` contains three osteometric datasets useful for biological and forensic anthropology.
 - `r github("sfsheath/cawd")` contains 15 datasets of ancient Greek, Roman and Persian maps and digital atlas data.
@@ -80,7 +81,6 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r github("joeroe/swapdata")` a collection of archaeological datasets and tools related to the prehistory of Southwest Asia.
 - `r github("benmarwick/mjbnaturepaper")` contains stone artefact and total station data for excavations at Madjedbebe, a rock shelter in northern Australia
 - `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient city of Miletus on the western coast of Anatolia
-- `r github("lsteinmann/datplot")` contains a data set on Inscriptions from Bithynia as used in B. Weissova (2019) _Regional Economy, Settlement Patterns and the Road System in Bithynia (4th Century BC-6th Century AD). Spatial and Quantitative Analysis_ suitable for geographical and chronological analysis.
 - `r github("bischrob/Rosegate-Projectile-Points-in-the-Fremont-Region")` contains frequency data for different types of projectile points across 23 sites in the Fremont Region of the American Southwest
 
 #### Radiocarbon datasets and APIs
