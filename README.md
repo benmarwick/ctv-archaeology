@@ -420,7 +420,9 @@ Breslawski RP, Etter BL, Jorgeson I, Boulanger MT (2018). The Atlatl to Bow Tran
 
 Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploitation Based on Fetal Prey Osteometry and Reproductive Phenology. _Archaeological and Anthropological Sciences_ <http://doi.org/10.1007/s12520-017-0500-y> <https://github.com/taphocoenose/Probabilistic-Models-of-Seasonal-Bison-Exploitation>
 
-Brown, A., & Crema, E. (2019). Maori Population Growth in Pre-contact New Zealand: regional population dynamics inferred from summed probability distributions of radiocarbon dates. _The Journal of Island and Coastal Archaeology_ <https://doi-org/10.1080/15564894.2019.1605429> <https://zenodo.org/record/2250314>
+Brown, A., & Crema, E. (2019). Maori Population Growth in Pre-contact New Zealand: regional population dynamics inferred from summed probability distributions of radiocarbon dates. _The Journal of Island and Coastal Archaeology_ <https://doi.org/10.1080/15564894.2019.1605429> <https://zenodo.org/record/2250314>
+
+Brownlee E. A Radiocarbon-Based Model of Changing Burial Rites in Early Medieval England._Radiocarbon_. 2023:1-21. https://doi.org/10.1017/RDC.2023.110
 
 Brownlee, E. (2021). Grave Goods in Early Medieval Europe: regional variability and decline, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.11
 
