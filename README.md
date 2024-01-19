@@ -668,7 +668,7 @@ Hegmon M, Peeples MA, on behalf of the LTVTP-NABO collaboration (2018). The huma
 
 Hermes, T. R., Schmid, C., Tabaldiev, K., & Motuzaite Matuzeviciute, G. (2022). Carbon and oxygen stable isotopic evidence for diverse sheep and goat husbandry strategies amid a Final Bronze Age farming milieu in the Kyrgyz Tian Shan. _International Journal of Osteoarchaeology_, 1– 12. https://doi.org/10.1002/oa.3103
 
-Aymeric, Hermann et al. (2023). Artifact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. _Sci. Adv._ 9, eadf4487 https://doi.org/10.1126/sciadv.adf4487
+Hermann, Aymeric et al. (2023). Artifact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers. _Science Advances_ 9, eadf4487 https://doi.org/10.1126/sciadv.adf4487
 
 Herrera Malatesta, E., Ulloa Hung, J. and Hofman, C.L., (2023). Looking at the Big Picture: Using Spatial Statistical Analyses to Study Indigenous Settlement Patterns in the North-Western Dominican Republic. _Journal of Computer Applications in Archaeology_, 6(1), pp.16–28. http://doi.org/10.5334/jcaa.83
 
@@ -713,6 +713,8 @@ Kandler, A., Crema, E.R., (2019). Analysing Cultural Frequency Data: Neutral The
 Kelly, R. L., Mackie, M. E., & Kandel, A. W. (2023). Rapid increase in production of symbolic artifacts after 45,000 years ago is not a consequence of taphonomic bias. _Journal of Archaeological Science_, 160, 105885. https://doi.org/10.1016/j.jas.2023.105885
 
 Kempf, M., & Günther, G. (2023). Point pattern and spatial analyses using archaeological and environmental data – A case study from the Neolithic Carpathian Basin. _Journal of Archaeological Science: Reports_, 47, 103747. https://doi.org/10.1016/j.jasrep.2022.103747
+
+Key, A., Eren, M. I., Bebber, M. R., Buchanan, B., Cortell-Nicolau, A., Martín-Ramos, C., ... & Jarić, I. (2024). Identifying accurate artefact morphological ranges using optimal linear estimation: Method validation, case studies, and code. Journal of Archaeological Science, 162, 105921.
 
 Kim, H., Lee, G.-A., & Crema, E. R. (2021). Bayesian analyses question the role of climate in Chulmun demography. Scientific Reports, 11(1), 23797. https://doi.org/10.1038/s41598-021-03180-4
 
@@ -820,6 +822,8 @@ McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandž
 
 McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation 
 esses using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+
+Milks, A., Hoggard, C. & Pope, M. (2023). Reassessing the Interpretative Potential of Ethnographic Collections for Early Hunting Technologies. _Journal of Archaeological Method and Theory_  https://doi.org/10.1007/s10816-023-09635-4
 
 Miller, J.M., Wang, Y.V. (2021). Ostrich eggshell beads reveal 50,000-year-old social network in Africa. _Nature_ https://doi.org/10.1038/s41586-021-04227-2
 
