@@ -622,6 +622,8 @@ Freeman, J., Robinson, E., Beckman, N. G., Bird, D., Baggio, J. A., & Anderies, 
 
 Frederiks, P. L. (2022). Rekonstruktion einer übermoorten, prähistorischen Landschaft bei Wanna, Ldkr. Cuxhaven. Siedlungs- und Küstenforschung im südlichen Nordseegebiet 45, 43–100. https://zenodo.org/record/7404607
 
+Fusco, M., Carletti, E., Gallinaro, M., Zerboni, A., & Spinapolice, E. (2021). Lithic variability and raw material exploitation at the Middle Stone Age (MSA) site of Gotera, southern Ethiopia: A combined technological and quantitative approach. _Journal of Lithic Studies_, 8(1), 29 p. https://doi.org/10.2218/jls.6530
+
 Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis (MCA): An Innovative way of Examining Questions in Archaeology Using Ethnographic Data. _Advances in Archaeological Practice_, 6(4), 328-341. http://doi.org/10.1017/aap.2018.9
 
 Garland, N. (2021). TRAC at 30: A Bibliometric Analysis of the TRAC Community. _Theoretical Roman Archaeology Journal_, 4(1), Article 1. https://doi.org/10.16995/traj.4344
