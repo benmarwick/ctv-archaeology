@@ -1025,6 +1025,8 @@ Sinensky, R. J., and A. Farahani. (2018). DIVERSITY-DISTURBANCE RELATIONSHIPS IN
 
 Sinensky, R., Schachner, G., Wilshusen, R., & Damiata, B. (2022). Volcanic climate forcing, extreme cold and the Neolithic Transition in the northern US Southwest. _Antiquity_, 96(385), 123-141. doi:10.15184/aqy.2021.19
 
+Smith, G.M., Ruebens, K., Zavala, E.I. et al. (2024). The ecology, subsistence and diet of 45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany. _Nature Ecology and Evolution_  https://doi.org/10.1038/s41559-023-02303-6
+
 Smith, G. R. Spasov, N. L. Martisius, V. Sinet-Mathiot, V. Aldeias, et al. (2021). Subsistence behavior during the Initial Upper Paleolithic in Europe: Site use, dietary practice, and carnivore exploitation at Bacho Kiro Cave (Bulgaria), Journal of Human Evolution, Volume 161, 2021, 103074, https://doi.org/10.1016/j.jhevol.2021.103074
 
 Smith, G.M., Noack, E.S., Behrens, N.M. et al. (2020). When Lithics Hit Bones: Evaluating the Potential of a Multifaceted Experimental Protocol to Illuminate Middle Palaeolithic Weapon Technology. _Journal of Paleolithic Archaeology_ 3, 126–156 https://doi.org/10.1007/s41982-020-00053-6
