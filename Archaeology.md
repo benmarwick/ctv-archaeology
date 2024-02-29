@@ -148,7 +148,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 ### Links
 
-- Carlson, D. L. (2017). _Quantitative Methods in Archaeology Using R_. Cambridge University Press. https://doi.org/10.1017/9781139628730
-- Crema, E. R., & Bevan, A. (2021). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_, 63(1), 23–39. https://doi.org/10.1017/RDC.2020.95
-- Marwick, B. (2018). R Coding and Modeling. In _The Encyclopedia of Archaeological Sciences_ (pp. 1–5). y John Wiley & Sons. https://doi.org/10.1002/9781119188230.saseas0631
+- Carlson, D. L. (2017). _Quantitative Methods in Archaeology Using R_. Cambridge: Cambridge University Press. DOI: [10.1017/9781139628730](https://doi.org/10.1017/9781139628730).
+- Crema, E. R., & Bevan, A. (2021). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_, 63(1), 23-39. https://doi.org/10.1017/RDC.2020.95
+- Marwick, B. (2018). R Coding and Modeling. In S.L. López Varela (Ed.), _The Encyclopedia of Archaeological Sciences_, p. 1-5. John Wiley & Sons. DOI: [10.1002/9781119188230.saseas0631](https://doi.org/10.1002/9781119188230.saseas0631).
 - [CAA International](https://caa-international.org/) Special Interest Group (SIG) on [Scientific Scripting Languages in Archaeology](https://sslarch.github.io/). This groups focusses on the application of Scripting Languages in archaeological research.
