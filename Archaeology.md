@@ -38,6 +38,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 #### Paleoenvironmental Proxies
 
+- `r pkg("tidypaleo")` provides a set of functions for age-depth model management, stratigraphic visualization, and common statistical transformations.
 - `r pkg("shoredate")` offers methods to shoreline date coastal sites based on their present-day elevation and the trajectory of past relative sea-level change.
 
 #### Archaeological Time Series
@@ -98,7 +99,6 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Geoarchaeological analysis
 
 - `r pkg("aqp")` simplifies the quantitative analysis of soil profile data. It allows soil profile visualization, aggregation, and classification. `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` can be used for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods.
-- `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using `ggplot2`.
 - `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
 - `r pkg("munsell")` provides methods for working with sediment colour.
 - `r pkg("nexus")` provides tools for compositional data analysis, chemical fingerprinting and source tracking of ancient materials.
