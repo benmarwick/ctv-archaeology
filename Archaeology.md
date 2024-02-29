@@ -11,7 +11,7 @@ This task view is a list of packages useful for archaeological science. It inclu
 
 If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged -- please see the linked GitHub repository for details.
 
-### Analysis of dates and chronological patterns
+### Analysis of Dates and Chronological Patterns
 
 #### Radiometric Dating
 
@@ -51,7 +51,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 - The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges.
 
-### Artefact analysis
+### Artefact Analysis
 
 - `r pkg("iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.).
 
@@ -61,30 +61,30 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("maciejkasinski/quantatools")` for analysis of quantum (common measurement units) in archaeological data with cosine quantogram and related statistical methods.
 - `r github("Johanna-Mestorf-Academy/sdsanalysis")` for exploration and visualization of lithic datasets recorded using the 'Systematic and digital documentation of stone artefacts' recording system.
 
-### Cultural evolutionary analysis
+### Cultural Evolutionary Analysis
 
 - `r github("ercrema/cTransmission")` for an Approximate Bayesian Computation Framework for inferring patterns of cultural transmission from frequency data.
 - `r github("ercrema/HERAChp.KandlerCrema")` enables the reproduction of the analysis and associated figures for the book chapter _Analysing cultural frequency data: neutral theory_ by Anne Kandler and Enrico Crema for the volume _Handbook of Evolutionary Research in Archaeology_, edited by Anna Prentiss. The package contains two main functions for simulating cultural transmission.
 - `r github("benmarwick/signatselect")` provides two functions useful for investigating change over time in artefact assemblages (and genetic time-series data).
 - `r github("benmarwick/roev")` provide functions for analysing and visualizing rates of evolution following the methods in Philip D. Gingerich’s 2019 book _Rates of Evolution: A Quantitative Synthesis_.
 
-### Quantitative analysis
+### Quantitative Analysis
 
 - `r pkg("tabula")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
 - `r pkg("dimensio")` provides simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
 - `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 - `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
 
-### Zooarchaeological analysis
+### Zooarchaeological Analysis
 
 - `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
 
-### Mortuary analysis
+### Mortuary Analysis
 
 - `r pkg("mortAAR")` calculates a life table based on archaeological demographic data.
 - `r github("nevrome/varnastats")` for bi- and multivariate analysis of matrices of archaeological data. Developed and used for the analysis of Varna Necropolis (Bulgaria).
 
-### Geoarchaeological analysis
+### Geoarchaeological Analysis
 
 - `r pkg("aqp")` simplifies the quantitative analysis of soil profile data. It allows soil profile visualization, aggregation, and classification. `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` can be used for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods.
 - `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
@@ -95,7 +95,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("ISAAKiel/magAAR")` analyzes geomagnetic data from archaeological contexts.
 - `r github("Andros-Spica/cerUB")` for multivariate statistic protocols for integrating archaeometric data (geochemical, mineralogical, petrographic).
  
-### Landscape analysis
+### Landscape Analysis
 
 - `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape.
 - `r github("SCSchmidt/percopackage")` implements percolation Analysis as a 2D point pattern analysis technique for identifying clusters of any size and form (e.g. of archaeological sites).
@@ -106,7 +106,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("nevrome/bleiglas")` calculates of three-dimensional Voronoi diagrams from input point clouds for spatiotemporal applications in archaeology.
 - `r github("wccarleton/lamap")` calculates the Locally Adaptive Model of Archaeological Potential (LAMAP).
 
-### Survey, excavation, and stratigraphic analysis
+### Survey, Excavation, and Stratigraphic Analysis
 
 - `r pkg("archeoViz")` is a packaged R Shiny application for the 2D and 3D visualization, exploration, and web communication of spatial data from archaeological excavations.
 - `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology.
@@ -115,7 +115,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("joeroe/fieldwalkr")` for designing and evaluating sampling strategies in spatial survey (fieldwalking in archaeological jargon). It contains functions for simulating the effect of different survey units, sampling methods and detection functions on the estimation of randomly generated or observed point processes.
 - `r github("mrecos/signboardr")` Utilize Google Vision API to extract text from archaeological photos containing a sign board.
 
-### Data management and cleaning
+### Data Management and Cleaning
 - `r pkg("unstruwwel")` can detect and transform strings containing historic dates (e.g. "3rd century CE") to numeric values.
 
 ### Datasets
@@ -137,7 +137,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("lsteinmann/clayringsmiletus")` data on clay rings from the Sanctuary of Dionysos in the ancient city of Miletus on the western coast of Anatolia
 - `r github("bischrob/Rosegate-Projectile-Points-in-the-Fremont-Region")` contains frequency data for different types of projectile points across 23 sites in the Fremont Region of the American Southwest
 
-#### Radiocarbon datasets and APIs
+#### Radiocarbon Datasets and APIs
 
 - `r pkg("BSDA")` contains a dataset of 60 radiocarbon ages of observations taken from an archaeological site with four phases of occupation.
 - `r github("ropensci/c14bazAAR")` contains over 20 datasets of radiocarbon ages from around the world.
