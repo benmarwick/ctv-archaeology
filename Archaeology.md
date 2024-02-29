@@ -21,6 +21,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
 - `r pkg("oxcAAR")` allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
 - `r pkg("ArchaeoPhases")` allows you to post-process Markov Chain Monte Carlo (MCMC) simulations from [ChronoModel](https://chronomodel.com/), [Oxcal](https://c14.arch.ox.ac.uk/oxcal.html) or [BCal](https://bcal.shef.ac.uk/). It provides statistical tools to analyze and to estimate archaeological phases from the posterior distribution of a sequence of dates and includes testing procedures to check the presence of a gap between two successive phases.
+- `r pkg("spDates")` allows analysis of spatial gradients in radiocarbon dates.
 - `r pkg("IsoplotR")` offers a statistical toolbox for radiometric geochronology.
 
 - `r github("ropensci/c14bazAAR")` facilitates retrieval and preparation of large radiocarbon datasets.
