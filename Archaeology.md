@@ -15,7 +15,9 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 #### Radiometric Dating
 
-- Radiocarbon ages can be calibrated using many of the packages in this section. `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
+Radiocarbon ages can be calibrated using many of the packages in this section:
+
+- `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
 - `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models, and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
 - Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
@@ -31,7 +33,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 #### Luminescence Dating
 
-- Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` package (including radial plotting) and in the `r pkg("numOSL")` package, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
+- Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` and `r pkg("numOSL")` packages, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
 - `r pkg("BayLum")` provides chronological bayesian models integrating Optically Stimulated Luminescence and radiocarbon age dating.
 
 #### Paleoenvironmental Proxies
@@ -99,6 +101,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 - `r pkg("tidypaleo")` for creating stratigraphic diagrams of proxy data using `ggplot2`.
 - `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
 - `r pkg("munsell")` provides methods for working with sediment colour.
+- `r pkg("nexus")` provides tools for compositional data analysis, chemical fingerprinting and source tracking of ancient materials.
 - `r pkg("isopleuros")` allows creation of ternary plots. It also includes common ternary diagrams useful for the archaeologist (e.g. soil texture charts, ceramic phase diagram).
 
 - `r github("ISAAKiel/magAAR")` analyzes geomagnetic data from archaeological contexts.
