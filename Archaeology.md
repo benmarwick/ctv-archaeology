@@ -17,7 +17,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 Radiocarbon ages can be calibrated using many of the packages in this section:
 
-- `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
+- `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. See Crema and Bevan ([2021](https://doi.org/10.1017/RDC.2020.95)) for an introduction. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
 - `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models, and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
 - Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
@@ -149,6 +149,5 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Links
 
 - Carlson, D. L. (2017). _Quantitative Methods in Archaeology Using R_. Cambridge: Cambridge University Press. DOI: [10.1017/9781139628730](https://doi.org/10.1017/9781139628730).
-- Crema, E. R., & Bevan, A. (2021). INFERENCE FROM LARGE SETS OF RADIOCARBON DATES: SOFTWARE AND METHODS. _Radiocarbon_, 63(1), 23-39. https://doi.org/10.1017/RDC.2020.95
 - Marwick, B. (2018). R Coding and Modeling. In S.L. López Varela (Ed.), _The Encyclopedia of Archaeological Sciences_, p. 1-5. John Wiley & Sons. DOI: [10.1002/9781119188230.saseas0631](https://doi.org/10.1002/9781119188230.saseas0631).
 - [CAA International](https://caa-international.org/) Special Interest Group (SIG) on [Scientific Scripting Languages in Archaeology](https://sslarch.github.io/). This groups focusses on the application of Scripting Languages in archaeological research.
