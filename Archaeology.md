@@ -31,6 +31,11 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("tonydoss/UThwigl")` computes closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
 - The `r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
 
+#### Dendrochronology
+
+- `r pkg("dendroNetwork")` allows to create dendrochronological networks based on the similarity between tree-ring series or chronologies.
+- `r github("ropensci/fellingdater")` offers a suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
+
 #### Luminescence Dating
 
 - Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` and `r pkg("numOSL")` packages, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
