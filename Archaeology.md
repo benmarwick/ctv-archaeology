@@ -31,6 +31,11 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("tonydoss/UThwigl")` computes closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
 - The `r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
 
+#### Dendrochronology
+
+- `r pkg("dendroNetwork")` allows to create dendrochronological networks based on the similarity between tree-ring series or chronologies.
+- `r github("ropensci/fellingdater")` offers a suite of functions designed to assist dendrochronologists in inferring estimates for felling dates, derived from dated tree-ring series.
+
 #### Luminescence Dating
 
 - Various R functions for Luminescence Dating data analysis are in the `r pkg("Luminescence")` and `r pkg("numOSL")` packages, including equivalent dose calculation, annual dose rate determination, growth curve fitting, decay curve decomposition, statistical age model optimization, and statistical plot visualization.
@@ -71,7 +76,6 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Quantitative Analysis
 
 - `r pkg("tabula")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
-- `r pkg("dimensio")` provides simple Principal Components Analysis (PCA) and Correspondence Analysis (CA) based on the Singular Value Decomposition (SVD). This package provides S4 classes and methods to compute, extract, summarize and visualize results of multivariate data analysis. It also includes methods for partial bootstrap validation.
 - `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 - `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
 
