@@ -93,7 +93,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Geoarchaeological Analysis
 
 - `r pkg("aqp")` simplifies the quantitative analysis of soil profile data. It allows soil profile visualization, aggregation, and classification. `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` can be used for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods.
-- `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
+- `r pkg("SIBER")`, `r pkg("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
 - `r pkg("munsell")` provides methods for working with sediment colour.
 - `r pkg("nexus")` provides tools for compositional data analysis, chemical fingerprinting and source tracking of ancient materials.
 - `r pkg("isopleuros")` allows creation of ternary plots. It also includes common ternary diagrams useful for the archaeologist (e.g. soil texture charts, ceramic phase diagram).
