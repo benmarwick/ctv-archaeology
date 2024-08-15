@@ -7,7 +7,9 @@ version: 2023-09-19
 source: https://github.com/cran-task-views/Archaeology
 ---
 
-This task view is a list of packages useful for archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, various types of artefacts (lithics, pottery, etc.), faunal remains, geoarchaeological and landscape data, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to help archaeologists in their search for packages relevant to their research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualization, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")`. To minimise overlap we do not include those packages in this list. This list assumes some familiarity with using R and is not an introduction to using R in archaeology (see the links below for introductory resources). 
+This task view is a list of packages useful for archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, various types of artefacts (lithics, pottery, etc.), faunal remains, geoarchaeological and landscape data, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to help archaeologists in their search for packages relevant to their research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualization, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")`. To minimise overlap we do not include those packages in this list. This list assumes some familiarity with using R and is not an introduction to using R in archaeology (see the links below for introductory resources).
+
+Within each thematic section, you will find first the packages distributed on CRAN, followed by a selection of code projects in other repositories. Please keep in mind that the order in which packages are listed should not be taken as an indicator of quality or endorsement.
 
 If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged -- please see the linked GitHub repository for details.
 
@@ -17,7 +19,7 @@ If you have any questions feel free to reach out to the task view maintainers or
 
 Radiocarbon ages can be calibrated using many of the packages in this section:
 
-- `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. See Crema and Bevan ([2021](https://doi.org/10.1017/RDC.2020.95)) for an introduction. Basic calibration is also possible with `r pkg("rintcal")` and `r pkg("ArchaeoChron")`.
+- `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. See Crema and Bevan ([2021](https://doi.org/10.1017/RDC.2020.95)) for an introduction. Basic calibration is also possible with `r pkg("rintcal")`.
 - `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models, and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
 - Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
@@ -30,6 +32,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("joeroe/c14")` provides basic classes and functions for radiocarbon data in R. It makes it easier to combine methods from several existing packages (e.g. `rcarbon`, `Bchron`, `oxcAAR`, `c14bazAAR`, `ArchaeoPhases`, `stratigraphr`) together and work with them in a tidy data workflow.
 - `r github("tonydoss/UThwigl")` computes closed- and open-system uranium-thorium (U-Th) ages of geological and archaeological samples.
 - The `r github("UCL/ADMUR")` package provides tools to directly model underlying population dynamics using chronological datasets (radiocarbon and other) with a variety of models, including Continuous Piecewise Linear (CPL) model framework, and model comparison framework using BIC.
+- `r github("ArchaeoStat/ArchaeoChron")` allows basic radiocarbon calibration and Bayesian combination of radiocarbon dates.
 
 #### Dendrochronology
 
@@ -58,8 +61,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 ### Artefact Analysis
 
-- `r pkg("iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.).
-
+- `r github("zoometh/iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.).
 - `r github("yesdavid/outlineR")` for the fast and easy extraction of single outline shapes of, for example, stone tools from images containing multiple thereof, such as the ones present in archaeological publications.
 - `r github("ISAAKiel/shapAAR")` for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Aims especially at the analysis of the shapes/profiles of e.g. ceramic vessels or arrow heads.
 - `r github("cornelmpop/Lithics3D")` for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
@@ -91,7 +93,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Geoarchaeological Analysis
 
 - `r pkg("aqp")` simplifies the quantitative analysis of soil profile data. It allows soil profile visualization, aggregation, and classification. `r pkg("G2Sd")`, `r github("mauricio-camargo/rysgran")` and `r pkg("EMMAgeo")` can be used for working with sedimentary grain-size data in logarithmic (phi) and geometric (micrometers) scales, based on various methods.
-- `r pkg("SIBER")`, `r pgk("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
+- `r pkg("SIBER")`, `r pkg("MixSIAR")`, `r pkg("simmr")` and `r pkg("IsotopeR")` provide methods for working with isotope data.
 - `r pkg("munsell")` provides methods for working with sediment colour.
 - `r pkg("nexus")` provides tools for compositional data analysis, chemical fingerprinting and source tracking of ancient materials.
 - `r pkg("isopleuros")` allows creation of ternary plots. It also includes common ternary diagrams useful for the archaeologist (e.g. soil texture charts, ceramic phase diagram).
@@ -102,6 +104,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Landscape Analysis
 
 - `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape.
+
 - `r github("SCSchmidt/percopackage")` implements percolation Analysis as a 2D point pattern analysis technique for identifying clusters of any size and form (e.g. of archaeological sites).
 - `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
 - `r github("ISAAKiel/pathAAR")` to reconstruct paths using archaeological monuments, model parameters of infrastructure, and evaluate those parameters.
@@ -115,11 +118,13 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r pkg("archeoViz")` is a packaged R Shiny application for the 2D and 3D visualization, exploration, and web communication of spatial data from archaeological excavations.
 - `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology.
 - `r pkg("recexcavAAR")` for 3D reconstruction and analysis of excavations, provides methods to reconstruct natural and artificial surfaces based on field measurements. This allows to spatially contextualize documented subunits and features. 
+
 - `r github("joeroe/stratigraphr")` provides a tidy framework for working with archaeological stratigraphy and chronology in R. It includes tools for reading, analysing, and visualising stratigraphies (Harris matrices) and sequences as directed graphs; helper functions for using radiocarbon dates in a tidy data analysis; and an R interface to OxCal's Chronological Query Language (CQL).
 - `r github("joeroe/fieldwalkr")` for designing and evaluating sampling strategies in spatial survey (fieldwalking in archaeological jargon). It contains functions for simulating the effect of different survey units, sampling methods and detection functions on the estimation of randomly generated or observed point processes.
 - `r github("mrecos/signboardr")` Utilize Google Vision API to extract text from archaeological photos containing a sign board.
 
 ### Data Management and Cleaning
+
 - `r pkg("unstruwwel")` can detect and transform strings containing historic dates (e.g. "3rd century CE") to numeric values.
 
 ### Datasets
