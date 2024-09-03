@@ -77,17 +77,17 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 ### Quantitative Analysis
 
-- `r pkg("tabula")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
+- `r pkg("tabula", priority = "core")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
 - `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 - `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
 
 ### Zooarchaeological Analysis
 
-- `r pkg("zoolog")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
+- `r pkg("zoolog", priority = "core")` to generate and manipulate log-ratios (also known as log size index (LSI) values) from measurements obtained on zooarchaeological material.
 
 ### Mortuary Analysis
 
-- `r pkg("mortAAR")` calculates a life table based on archaeological demographic data.
+- `r pkg("mortAAR", priority = "core")` calculates a life table based on archaeological demographic data.
 - `r github("nevrome/varnastats")` for bi- and multivariate analysis of matrices of archaeological data. Developed and used for the analysis of Varna Necropolis (Bulgaria).
 
 ### Geoarchaeological Analysis
@@ -103,7 +103,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
  
 ### Landscape Analysis
 
-- `r pkg("leastcostpath")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape.
+- `r pkg("leastcostpath", priority = "core")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape.
 
 - `r github("SCSchmidt/percopackage")` implements percolation Analysis as a 2D point pattern analysis technique for identifying clusters of any size and form (e.g. of archaeological sites).
 - `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
