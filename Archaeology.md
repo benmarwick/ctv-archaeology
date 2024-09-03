@@ -61,9 +61,12 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 ### Artefact Analysis
 
+- `r pkg("tabula", priority = "core")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
+
 - `r github("zoometh/iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.).
-- `r github("yesdavid/outlineR")` for the fast and easy extraction of single outline shapes of, for example, stone tools from images containing multiple thereof, such as the ones present in archaeological publications.
+- `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
 - `r github("ISAAKiel/shapAAR")` for the extraction, analysis and classification of (not only) archaeological objects derived from scanned images. Aims especially at the analysis of the shapes/profiles of e.g. ceramic vessels or arrow heads.
+- `r github("yesdavid/outlineR")` for the fast and easy extraction of single outline shapes of, for example, stone tools from images containing multiple thereof, such as the ones present in archaeological publications.
 - `r github("cornelmpop/Lithics3D")` for working with 3D scans of archaeological lithics (clean triangular meshes and existing landmarks).
 - `r github("maciejkasinski/quantatools")` for analysis of quantum (common measurement units) in archaeological data with cosine quantogram and related statistical methods.
 - `r github("Johanna-Mestorf-Academy/sdsanalysis")` for exploration and visualization of lithic datasets recorded using the 'Systematic and digital documentation of stone artefacts' recording system.
@@ -74,12 +77,6 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r github("ercrema/HERAChp.KandlerCrema")` enables the reproduction of the analysis and associated figures for the book chapter _Analysing cultural frequency data: neutral theory_ by Anne Kandler and Enrico Crema for the volume _Handbook of Evolutionary Research in Archaeology_, edited by Anna Prentiss. The package contains two main functions for simulating cultural transmission.
 - `r github("benmarwick/signatselect")` provides two functions useful for investigating change over time in artefact assemblages (and genetic time-series data).
 - `r github("benmarwick/roev")` provide functions for analysing and visualizing rates of evolution following the methods in Philip D. Gingerich’s 2019 book _Rates of Evolution: A Quantitative Synthesis_.
-
-### Quantitative Analysis
-
-- `r pkg("tabula", priority = "core")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
-- `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
-- `r github("ISAAKiel/quantAAR")` contains tidy wrappers and useful utility function for common applications of exploratory statistics in archaeology.
 
 ### Zooarchaeological Analysis
 
@@ -104,6 +101,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Landscape Analysis
 
 - `r pkg("leastcostpath", priority = "core")` calculates Least Cost Paths (LCPs) using numerous time- and energy-based cost functions that approximate the difficulty of moving across a landscape.
+- `r pkg("skyscapeR")` for data reduction, visualization and analysis in skyscape archaeology, archaeoastronomy and cultural astronomy.
 
 - `r github("SCSchmidt/percopackage")` implements percolation Analysis as a 2D point pattern analysis technique for identifying clusters of any size and form (e.g. of archaeological sites).
 - `r github("ISAAKiel/lecAAR")` for calculating the largest empty circles and estimation of archaeological sites theoretically to be expected in region of interest.
