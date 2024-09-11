@@ -995,6 +995,8 @@ Rubio-Campillo, X., Coto-Sarmiento, M., Pérez-Gonzalez, J. and Remesal Rodrígu
 
 Sanger, M.C., Bourcy, S., Ogden, Q.M. et al. (2020). Post-marital Residence Patterns in the Late Archaic Coastal Southeast USA: Similarities in Stone Tools Revealed by Geometric Morphometrics. _Journal of Archaeological Method and Theory_ 27, 327–359  <https://doi.org/10.1007/s10816-019-09435-9> <https://orb.binghamton.edu/dissertation_and_theses/46/>
 
+Samawi, O., Hallinan, E. (2024). More Than Surface Finds: Nubian Levallois Core Metric Variability and Site Distribution Across Africa and Southwest Asia. _Journal of Paleolithic Archaeology_ 7, 26  https://doi.org/10.1007/s41982-024-00192-0
+
 Schauer, Peter, Andrew Bevan, Stephen Shennan, Kevan Edinborough, Tim Kerig, Mike Parker Pearson (2020). British Neolithic axe distributions and their implications. _Journal of Archaeological Method and Theory_ 27, 836–859. <https://doi.org/10.1007/s10816-019-09438-6>
 
 Schmid, C. (2019). Evaluating Cultural Transmission in Bronze Age burial rites of Central, Northern and Northwestern Europe using radiocarbon data. _Adaptive Behavior_, 1059712319860842. <https://osf.io/b6np2/>
