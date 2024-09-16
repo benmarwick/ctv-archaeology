@@ -87,6 +87,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Mortuary Analysis
 
 - `r pkg("mortAAR", priority = "core")` calculates a life table based on archaeological demographic data.
+- `r pkg("JSDNE")` calculates the age at death from human skeletal remains using the Dirichlet Normal Energy (DNE) on the whole auricular surface and the apex of the auricular surface. The package includes data from the Louis Lopes Collection in Lisbon, the 21st Century Identified Human Remains Collection in Coimbra, and the CAL Milano Cemetery Skeletal Collection in Milan.
 - `r github("nevrome/varnastats")` for bi- and multivariate analysis of matrices of archaeological data. Developed and used for the analysis of Varna Necropolis (Bulgaria).
 
 ### Geoarchaeological Analysis
