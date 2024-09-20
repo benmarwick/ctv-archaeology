@@ -959,6 +959,8 @@ Reynolds, N., Germonpré, M., Bessudnov, A. A., & Sablin, M. V. (2019). The Late
 
 Režek, Ž., Dibble, H.L., McPherron, S.P., Braun, D.R., Lin, S.C., (2018). Two million years of flaking stone and the evolutionary efficiency of stone tool technology. _Nature Ecology & Evolution_ 1.<https://doi.org/10.1038/s41559-018-0488-4>, <https://doi.org/10.5281/zenodo.1194711>
 
+Riede, F., & Lombard, M. (2024). Hunting with poisoned arrows during the Terminal Pleistocene in Northern Europe? A tip cross-sectional area assessment and list of potential arrow poison ingredients. _Journal of Archaeological Science: Reports_, 59, 104757. https://doi.org/10.1016/j.jasrep.2024.104757
+
 Riede, F., Lew-Levy, S., Johannsen, N. N., Lavi, N., & Andersen, M. M. (2022). Toys as Teachers: A Cross-Cultural Analysis of Object Use and Enskillment in Hunter–Gatherer Societies. _Journal of Archaeological Method and Theory_. https://doi.org/10.1007/s10816-022-09593-3
 
 Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in prehistory at 50. _Evolutionary Human Sciences_, 4, E16. doi:10.1017/ehs.2022.18
