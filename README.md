@@ -373,6 +373,8 @@ Bartholdy, B. P., & Henry, A. G. (2022). Investigating Biases Associated With Di
 
 Barton, C. M., Tortosa, J. E. A., Garcia-Puchol, O., Riel-Salvatore, J. G., Gauthier, N., Conesa, M. V., & Bouchard, G. P. (2017). Risk and resilience in the late glacial: A case study from the western Mediterranean. _Quaternary Science Reviews_. <https://doi.org/10.1016/j.quascirev.2017.09.015>
 
+Batist, Z. & Roe, J. (2024). Open archaeology, open source? Collaborative practices in an emerging community of archaeological software engineers. _Internet Archaeology_ 67. <https://doi.org/10.11141/ia.67.13>
+
 Bebber, M. R., Kim, N. C., Tripoli, S., Quick, R., Buchanan, B., Walker, R. S., Paige, J., Baldino, J., McKinny, S., Taylor, J., & Eren, M. I. (2024). The gravity of Paleolithic hunting. _Journal of Archaeological Science: Reports_, 59, 104785. https://doi.org/10.1016/j.jasrep.2024.104785
 
 Bebber, M.R., Buchanan, B., Eren, M.I. et al. (2023). Atlatl use equalizes female and male projectile weapon velocity. _Scientific Reports_ 13, 13349  https://doi.org/10.1038/s41598-023-40451-8
@@ -388,6 +390,8 @@ Belmiro J., Terradas X., Cascalheira J. (2023). Creating frames of reference for
 Belmiro, J., Bicho, N., Haws, J., & Cascalheira, J. (2020). The Gravettian-Solutrean transition in westernmost Iberia: New data from the sites of Vale Boi and Lapa do Picareiro. _Quaternary International_ <https://doi.org/10.1016/j.quaint.2020.08.027> <https://www.doi.org/10.17605/OSF.IO/456EG>
 
 Benjamin J, O’Leary M, McDonald J, Wiseman C, McCarthy J, Beckett E, et al. (2020). Aboriginal artefacts on the continental shelf reveal ancient drowned cultural landscapes in northwest Australia. PLoS ONE 15(7): e0233912. <https://doi.org/10.1371/journal.pone.0233912> <https://github.com/patrick-morrison/benjamin_et_al_2020_submerged_cb>
+
+Bergin, S., & Snitker, G. (2023). ArchaeoSRP: An R Package for Extracting and Synthesizing Federal Cultural Resources Data for Research and Management. _Advances in Archaeological Practice_, 1–11. https://doi.org/10.1017/aap.2023.22
 
 Bevan, A., Colledge, S., Fuller, D., Fyfe, R., Shennan, S., & Stevens, C. (2017). Holocene fluctuations in human population demonstrate repeated links to food production and climate. Proceedings of the National Academy of Sciences of the United States of America, 114(49), E10524–E10531. https://doi.org/10.1073/pnas.1709190114
 
@@ -543,6 +547,10 @@ Crema, E.R., Lake, M. (2015) Cultural Incubators and Spread of Innovation (2015)
 
 Crema, E.R., Kobayashi, K., (2020). A multi-proxy inference of Jōmon population dynamics using bayesian phase models, residential data, and summed probability distribution of 14C dates. Journal of Archaeological Science 117, 105136. https://doi.org/10.1016/j.jas.2020.105136 [GitHub repo](https://github.com/ercrema/jomonPhasesAndPopulation), [Zenodo repo](https://doi.org/10.5281/zenodo.3719507).
 
+Crema, E. R. (2024). A Bayesian alternative for aoristic analyses in archaeology. _Archaeometry_. https://doi.org/10.1111/arcm.12984
+
+Crema, E. R., Bloxam, A., Stevens, C. J., & Vander Linden, M. (2024). Modelling diffusion of innovation curves using radiocarbon data. _Journal of Archaeological Science_, 165, 105962. <https://doi.org/10.1016/j.jas.2024.105962>
+
 Cucart-Mora, C., Gómez-Puche, M., Romano, V. et al. (2022). Reconstructing Mesolithic social networks on the Iberian Peninsula using ornaments. _Archaeological and Anthropological Sciences_ 14, 174. https://doi.org/10.1007/s12520-022-01641-z
 
 Daems, D., Coco, E., Gillreath-Brown, A., & Kafetzaki, D. (2023). The Effects of Time-Averaging on Archaeological Networks. _Journal of Archaeological Method and Theory_ https://doi.org/10.1007/s10816-023-09608-7
@@ -632,6 +640,8 @@ Gantley, M., Whitehouse, H., & Bogaard, A. (2018). Material Correlates Analysis 
 Garland, N. (2021). TRAC at 30: A Bibliometric Analysis of the TRAC Community. _Theoretical Roman Archaeology Journal_, 4(1), Article 1. https://doi.org/10.16995/traj.4344
 
 Garvey, Raven. (2018). Current and potential roles of archaeology in the development of cultural evolutionary theory. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170057. https://doi.org/10.1098/rstb.2017.0057 <https://dx.doi.org/10.6084/m9.figshare.c.3965853>
+
+Gaydarska, B., Roe, J., & Slavchev, V., (2024). Dietary Variability in the Varna Chalcolithic Cemeteries. _European Journal of Archaeology_. <https://doi.org/10.1017/eaa.2024.33>
 
 Gauthier, Nicolas (2021). Hydroclimate variability influenced social interaction in the prehistoric american southwest. _Frontiers in Earth Science_ 8:713. DOI:10.3389/feart.2020.620856.
 
@@ -789,6 +799,8 @@ Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M (2014). Putslaagte 1
 
 Maier, A., John, R., Linsel, F. et al. (2023). Analyzing Trends in Material Culture Evolution—a Case Study of Gravettian Points from Lower Austria and Moravia. _Journal of Paleolithic Archaeology_ 6, 15  https://doi.org/10.1007/s41982-023-00145-z
 
+Marom, N., & Wolkowski, U. (2024). A note on predator-prey dynamics in radiocarbon datasets. _Peer Community Journal_, 4. <https://doi.org/10.24072/pcjournal.395>
+
 Marwick, B., Wang, L.-Y., Robinson, R., & Loiselle, H. (2019). How to Use Replication Assignments for Teaching Integrity in Empirical Archaeology. _Advances in Archaeological Practice_, 1–9.  <https://doi.org/10.1017/aap.2019.38>
 
 Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. (2017). Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_ <http://doi.org/10.1016/j.jasrep.2017.07.004>
@@ -936,6 +948,8 @@ Prentiss, A.M., Edinborough, K., Crema, E. R., Kuijt, I., Goodale, N., Ryan, E.,
 
 Price, Michael Holton, José M. Capriles, Julie A. Hoggarth, et al. (2021). End-to-End Bayesian Analysis for Summarizing Sets of Radiocarbon Dates. _Journal of Archaeological Science_ 135: 105473. https://doi.org/10.1016/j.jas.2021.105473
 
+Price, M. D., & Wolfhagen, J. (2024). Wool they, won’t they: Zooarchaeological perspectives on the political and subsistence economies of wool in northern Mesopotamia. _Journal of Anthropological Archaeology_, 74, 101590. https://doi.org/10.1016/j.jaa.2024.101590
+
 Price, M. D., Wolfhagen, J., and Otárola-Castillo, E. (2016). Confidence Intervals in the Analysis of Mortality and Survivorship Curves in Zooarchaeology. _American Antiquity_ 81(1): 157-73. <https://doi.org/10.7183/0002-7316.81.1.157>
 
 Proffitt, T., Reeves, J. S., Braun, D. R., Malaivijitnond, S., & Luncz, L. V. (2023). Wild macaques challenge the origin of intentional tool production. Science Advances, 9(10), eade8159. https://doi.org/10.1126/sciadv.ade8159
@@ -972,6 +986,8 @@ Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archa
 
 Riel-Salvatore J, Lythe A, Albornoz AU (2021). New insights into the spatial organization, stratigraphy and human occupations of the Aceramic Neolithic at Ganj Dareh, Iran. _PLOS ONE_ 16(8): e0251318. https://doi.org/10.1371/journal.pone.0251318
 
+Riris, P., Silva, F., Crema, E., Palmisano, A., Robinson, E., Siegel, P. E., French, J. C., Jørgensen, E. K., Maezumi, S. Y., Solheim, S., Bates, J., Davies, B., Oh, Y., & Ren, X. (2024). Frequent disturbances enhanced the resilience of past human populations. _Nature_, 629(8013), 837–842. <https://doi.org/10.1038/s41586-024-07354-8>
+
 Riris, P. and de Souza JG (2021). Formal Tests for Resistance-Resilience in Archaeological Time Series. _Frontiers in Ecology and Evolution_ 9:740629. http://doi.org/10.3389/fevo.2021.740629
 
 Riris, P., Silva, F. (2021). Resolution and the detection of cultural dispersals: development and application of spatiotemporal methods in Lowland South America. _Humanities and Social Sciences Communications_ 8, 36  https://doi.org/10.1057/s41599-021-00717-w
@@ -983,6 +999,10 @@ Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South Ame
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
 
 Roalkvam, I. (2023). A simulation-based assessment of the relation between Stone age sites and relative sea-level change along the Norwegian Skagerrak coast. _Quaternary Science Reviews_, 299, 107880. https://doi.org/10.1016/j.quascirev.2022.107880
+
+Roalkvam, I. (2023). shoredate: An R package for shoreline dating coastal Stone Age sites. _Journal of Open Source Software_, 8(85), 5337. https://doi.org/10.21105/joss.05337
+
+Roalkvam, I., & Solheim, S. (2023). Comparing summed probability distributions of shoreline and radiocarbon dates from the Mesolithic Skagerrak coast of Norway (preprint). _SocArXiv_. https://doi.org/10.31235/osf.io/2f8ph
 
 Robinson, Erick, Bocinsky R. Kyle, Bird Darcy, Freeman Jacob and Kelly Robert L. (2021). Dendrochronological dates confirm a Late Prehistoric population decline in the American Southwest derived from radiocarbon dates _Philosophical Transactions of the Royal Society B: Biological Sciences_ B37620190718 <http://doi.org/10.1098/rstb.2019.0718>
 
@@ -1067,6 +1087,8 @@ Stoddart, S., Palmisano, A.,Redhouse, D., Barker, G., di Paola, G., Motta, L., R
 Strand, L.M., Leggett, S., Skar, B., (2022). Multi-Isotope Variation Reveals Social Complexity in Viking Age Norway, _ISCIENCE_ https://doi.org/10.1016/j.isci.2022.105225
 
 Strawhacker, C., Snitker, G., Peeples, M. A., Kinzig, A. P., Kintigh, K. W., Bocinsky, K., ... & Sandor, J. A. (2020). A Landscape Perspective on Climate-Driven Risks to Food Security: Exploring the Relationship between Climate and Social Transformation in the Prehispanic US Southwest. _American Antiquity_, 85(3), 427-451.  <https://doi.org/10.1017/aaq.2020.35> <https://github.com/gsnitker/LTVTP> <https://core.tdar.org/collection/14044/long-term-vulnerability-and-transformation-project-ltvtp-documents-and-data>
+
+Stroud, E., Jones, G., Charles, M. & Bogaard, A. (2024). Sieving the Weeds from the Grains: An R Based Package for Classifying Archaeobotanical Samples of Cereals and Pulses According to Crop Processing Stages. _Vegetation History and Archaeobotany_. <https://doi.org/10.1007/s00334-024-01006-7>
 
 Suárez, R., & Cardillo, M. (2019). Life history or stylistic variation? A geometric morphometric method for evaluation of Fishtail point variability. Journal of Archaeological Science: Reports, 27, 101997. <https://doi.org/10.1016/j.jasrep.2019.101997>
 
