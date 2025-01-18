@@ -1150,6 +1150,8 @@ Weitzel, E. M. (2019). Declining foraging efficiency in the Middle Tennessee Riv
 
 Wilczek, J., Monna, F., Navarro, N., & Chateau-Smith, C. (2021). A computer tool to identify best matches for pottery fragments. Journal of Archaeological Science: Reports, 37, 102891. https://doi.org/10.1016/j.jasrep.2021.102891
 
+Will, M., Rathmann, H. (2025) Exploring the utility of unretouched lithic flakes as markers of cultural change. _Scientific Reports_ 15, 1571 https://doi.org/10.1038/s41598-025-85399-z
+
 Will, M., Bader, G. D., Sommer, C., Cooper, A., & Green, A. (2022). Coastal adaptations on the eastern seaboard of South Africa during the Pleistocene and Holocene? Current evidence and future perspectives from archaeology and marine geology. _Frontiers in Earth Science_, 10, 964423. https://doi.org/10.3389/feart.2022.964423
 
 Wilson, Evan Patrick, Dietrich Stout, Cheng Liu, Megan Beney Kilgore & Justin Pargeter (2023). Skill and Core Uniformity: An Experiment with Oldowan-like Flaking Systems, Lithic Technology, https://doi.org/10.1080/01977261.2023.2178767
