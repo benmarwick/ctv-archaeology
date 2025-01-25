@@ -1168,6 +1168,8 @@ Wren, C. D., & Burke, A. (2019). Habitat suitability and the genetic structure o
 
 Wren, C. D., Botha, S., De Vynck, J., Janssen, M. A., Hill, K., Shook, E., Marean, C. W. (2019). The foraging potential of the Holocene Cape south coast of South Africa without the Palaeo-Agulhas Plain. _Quaternary Science Reviews_, 105789. <https://doi.org/10.1016/j.quascirev.2019.06.012>
 
+Wyatt-Spratt, S. (2025). Core Concept: Defining Cores in the Archaeology of Indigenous Australia. _Lithic Technology_, 1–18. https://doi.org/10.1080/01977261.2025.2451546
+
 Wyatt-Spratt, S., (2022). After the Revolution: A Review of 3D Modelling as a Tool for Stone Artefact Analysis. _Journal of Computer Applications in Archaeology_, 5(1), pp.215–237. http://doi.org/10.5334/jcaa.103
 
 Yaworsky, P.M., Hussain, S.T. & Riede, F. (2023). Climate-driven habitat shifts of high-ranked prey species structure Late Upper Paleolithic hunting. _Scientific Reports_ 13, 4238 (2023). https://doi.org/10.1038/s41598-023-31085-x
