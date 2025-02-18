@@ -609,6 +609,8 @@ Edinborough, K., Porčić, M., Martindale, A., Brown, T. J., Supernant, K., & Am
 
 Ellis, E.C., N. Gauthier, K. Klein Goldewijk, R. Bliege Bird, N. Boivin, S. Diaz, D. Fuller, J. Gill, J. Kaplan, N. Kingston, H. Locke, C. McMichael, D. Ranco, T. Rick, M.R. Shaw, L. Stephens, J.C. Svenning, J.E.M. Watson, (2021). People have shaped most of terrestrial nature for at least 12,000 years. _Proceedings of the National Academy of Sciences_. https://doi.org/10.1073/pnas.2023483118
 
+Falcucci, A., Giusti, D., Zangrossi, F. et al.  (2025). Refitting the Context: A Reconsideration of Cultural Change among Early Homo sapiens at Fumane Cave through Blade Break Connections, Spatial Taphonomy, and Lithic Technology. _Journal of Paleolithic Archaeology_ 8, 2 https://doi.org/10.1007/s41982-024-00203-0
+
 Falcucci, A., Karakostis, F. A., Göldner, D., & Peresani, M. (2022). Bringing shape into focus: Assessing differences between blades and bladelets and their technological significance in 3D form. _Journal of Archaeological Science: Reports_, 43, 103490. https://doi.org/10.1016/j.jasrep.2022.103490
 
 Falcucci, A., & Peresani, M. (2022). The contribution of integrated 3D model analysis to Protoaurignacian stone tool design. _PLOS ONE_, 17(5), e0268539. https://doi.org/10.1371/journal.pone.0268539
