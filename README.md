@@ -15,8 +15,6 @@ CRAN Task View: Archaeological Science
 Ben Marwick</td>
 <td align="left"><strong>Contact:</strong>
 benmarwick at gmail.com</td>
-<td align="left"><strong>Version:</strong>
-2025-02-18</td>
 </tr>
 </tbody>
 </table>
@@ -1001,6 +999,8 @@ Riris, P. (2020). Spatial structure among the geometric earthworks of western Am
 Riris, P., & Arroyo-Kalin, M. (2019). Widespread population decline in South America correlates with mid-Holocene climate change. _Scientific reports_, 9(1), 6850.
 
 Riris, P. (2018). Dates as Data Revisited: A Statistical Examination of the Peruvian Preceramic Radiocarbon Record. _Journal of Archaeological Science_ 97 (September 1, 2018): 67–76.<https://doi.org/10.1016/j.jas.2018.06.008>
+
+Roalkvam, I. and S. Solheim (2025). Comparing Summed Probability Distributions of Shoreline and Radiocarbon Dates from the Mesolithic Skagerrak Coast of Norway. _Journal of Archaeological Method and Theory_ 32. https://doi.org/10.1007/s10816-025-09696-7. 
 
 Roalkvam, I. (2023). A simulation-based assessment of the relation between Stone age sites and relative sea-level change along the Norwegian Skagerrak coast. _Quaternary Science Reviews_, 299, 107880. https://doi.org/10.1016/j.quascirev.2022.107880
 
