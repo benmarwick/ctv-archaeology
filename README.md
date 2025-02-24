@@ -1066,6 +1066,8 @@ Smith, G.M., Noack, E.S., Behrens, N.M. et al. (2020). When Lithics Hit Bones: E
 
 Snitker, G., Moser, J. D., Southerlin, B., & Stewart, C. (2022). Detecting historic tar kilns and tar production sites using high-resolution, aerial LiDAR-derived digital elevation models: Introducing the Tar Kiln Feature Detection workflow (TKFD) using open-access R and FIJI software. Journal of Archaeological Science: Reports, 41, 103340. https://doi.org/10.1016/j.jasrep.2022.103340
 
+Soler Mayor, B., Pardo-Gordó, S., Pascual Benito, J.L. et al. (2025). Personal ornament in transition. Final Paleolithic – Mesolithic data from the Iberian Mediterranean Region (16.5 – 7 ky cal. BP). _Archaeological and Anthropological Sciences_ 17, 55 https://doi.org/10.1007/s12520-025-02170-1
+
 Sommer, C., Kandel, A. W., & Hochschild, V. (2022). The use of prehistoric ‘big data’ for mapping early human cultural networks. _Journal of Maps_, 1–12. https://doi.org/10.1080/17445647.2022.2118628
 
 Souza, J. G. de, Ruiz-Pérez, J., Lancelotti, C., & Madella, M. (2022). Environmental effects on the spread of the Neolithic crop package to South Asia. PLOS ONE, 17(7), e0268482. https://doi.org/10.1371/journal.pone.0268482
