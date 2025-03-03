@@ -1188,6 +1188,8 @@ Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F.
 
 Yrarrazaval, S., Cartajena, I., Borrero, L., & Salazar, D. (2023). Identifying non-anthropogenic accumulation in zooarchaeological assemblages using naive Bayesian classifier: A trace-oriented actualistic taphonomic approach in the hyperarid coasts of the Atacama desert. _Quaternary Science Advances_, 100143. https://doi.org/10.1016/j.qsa.2023.100143
 
+Zhang, P., Haas, R., Paine, C. et al. (2024). A Cold Habitat: Mapping Blade Assemblages Between the Siberian Altai and the Tibetan Plateau During MIS 3. _Journal of Paleolithic Archaeology_ 7, 11  https://doi.org/10.1007/s41982-024-00175-1
+
 
 ## Contributors
 
