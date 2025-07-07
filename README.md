@@ -715,7 +715,7 @@ Huffer, D. and Graham, S. (2017). The Insta-Dead: the rhetoric of the human rema
 
 Huffer, D. and Graham, S. (2018). Fleshing Out the Bones: Studying the Human Remains Trade with Tensorflow and Inception, _Journal of Computer Applications in Archaeology_ 1(1), pp.55-063. <https://doi.org/10.5334/jcaa.8>, code & data: <https:doi.org/10.17605/OSF.IO/9CFJA>
 
-Hussain, S.T., Riede, F., Matzig, D.N. et al. A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya. _Scientific Data_ 10, 593 (2023). https://doi.org/10.1038/s41597-023-02500-9
+Hussain, S.T., Riede, F., Matzig, D.N. et al. (2023). A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya. _Scientific Data_ 10, 593  https://doi.org/10.1038/s41597-023-02500-9
 
 Iminjili, V., Stewart, M., Culley, C., Hixon, S., Goldstein, S., Bleasdale, M., Jesús Sanchez Flores, A., Lucas, M., Ilgner, J., Prendergast, M. E., Crowther, A., Boivin, N., & Roberts, P. (2023). Late Pleistocene to late Holocene palaeoecology and human foraging at Kuumbi Cave, Zanzibar Island. Frontiers in _Environmental Archaeology_, 2. https://www.frontiersin.org/articles/10.3389/fearc.2023.1080785
 
@@ -829,7 +829,7 @@ Marwick, B. (2013). Discovery of Emergent Issues and Controversies in Anthropolo
 
 Matzig, D.N., Schmid, C. & Riede, F. (2023). Mapping the field of cultural evolutionary theory and methods in archaeology using bibliometric methods. _Humanities and Social Sciences Communications_ 10, 271  https://doi.org/10.1057/s41599-023-01767-y
 
-Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27 (2021). <https://doi.org/10.1007/s41982-021-00097-2>
+Matzig, D.N., Hussain, S.T. & Riede, F. (2021). Design Space Constraints and the Cultural Taxonomy of European Final Palaeolithic Large Tanged Points: A Comparison of Typological, Landmark-Based and Whole-Outline Geometric Morphometric Approaches. J Paleo Arch 4, 27  <https://doi.org/10.1007/s41982-021-00097-2>
 
 McCool, W. C., Codding, B. F., Vernon, K. B., Wilson, K. M., Yaworsky, P. M., Marwan, N., & Kennett, D. J. (2022). Climate change–induced population pressure drives high rates of lethal violence in the Prehispanic central Andes. _Proceedings of the National Academy of Sciences_, 119(17), e2117556119. https://doi.org/10.1073/pnas.2117556119
 
@@ -990,7 +990,7 @@ Riede, F., Lew-Levy, S., Johannsen, N. N., Lavi, N., & Andersen, M. M. (2022). T
 
 Riede, F., Araujo, A., & Marwick, B. (2022). Robert C. Dunnell's Systematics in prehistory at 50. _Evolutionary Human Sciences_, 4, E16. doi:10.1017/ehs.2022.18
 
-Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55 (2019)   https://www.nature.com/articles/s41599-019-0260-7#Fn1
+Riede, F. C. Hoggard & S. Shennan (2019). Reconciling material cultures in archaeology with genetic data requires robust cultural evolutionary taxonomies. _Palgrave Communications_ 5, Article number: 55   https://www.nature.com/articles/s41599-019-0260-7#Fn1
 
 Riel-Salvatore J, Lythe A, Albornoz AU (2021). New insights into the spatial organization, stratigraphy and human occupations of the Aceramic Neolithic at Ganj Dareh, Iran. _PLOS ONE_ 16(8): e0251318. https://doi.org/10.1371/journal.pone.0251318
 
