@@ -349,7 +349,9 @@ board shortcuts. There are also packages that make scholarly writing in RStudio 
 -  [Michael Baxter's 'Notes on Quantitative Archaeology using R'](http://www.mikemetrics.com/r-chaeology/4568129078)
 -   [GitHub repository for this Task View](https://github.com/benmarwick/ctv-archaeology)
 
-## Publications that include R code
+When making an addition to the list below, please ensure the date is after the authors only, and only in the format `(YYYY).` Please ensure the entire reference is on a single line. This will ensure the list can be easily quantified for visualisation etc., e.g. at https://github.com/benmarwick/archaepaperswithcode 
+
+## Publications that include R code 
 
 Allison, James R. (2019). Ceramic Production and Exchange among the Virgin Anasazi, 30 Years Later, _KIVA_, 85:4, 289-312, <http://doi.org/10.1080/00231940.2019.1689660>
 
@@ -427,7 +429,7 @@ Breslawski RP, Playford T (2017). Probabilistic Models of Seasonal Bison Exploit
 
 Brown, A., & Crema, E. (2019). Maori Population Growth in Pre-contact New Zealand: regional population dynamics inferred from summed probability distributions of radiocarbon dates. _The Journal of Island and Coastal Archaeology_ <https://doi.org/10.1080/15564894.2019.1605429> <https://zenodo.org/record/2250314>
 
-Brownlee E. A Radiocarbon-Based Model of Changing Burial Rites in Early Medieval England._Radiocarbon_. 2023:1-21. https://doi.org/10.1017/RDC.2023.110
+Brownlee E. (2023). A Radiocarbon-Based Model of Changing Burial Rites in Early Medieval England._Radiocarbon_. 1-21. https://doi.org/10.1017/RDC.2023.110
 
 Brownlee, E. (2021). Grave Goods in Early Medieval Europe: regional variability and decline, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.11
 
@@ -703,9 +705,7 @@ Hoggard, C. S., & Stade, C. M. (2019). The efficiency of Middle Palaeolithic tec
 
 Hoggard, C. S., McNabb, J., & Cole, J. N. (2019). The Application of Elliptic Fourier Analysis in Understanding Biface Shape and Symmetry Through the British Acheulean. _Journal of Paleolithic Archaeology_. <https://doi.org/10.1007/s41982-019-00024-6> <https://osf.io/td92j/>
 
-Horta, P., Bicho, N., & Cascalheira, J. (2022). Lithic bipolar methods as an adaptive 
-strategy through space and time. Journal of Archaeological Science: Reports, 
-41, 103263.
+Horta, P., Bicho, N., & Cascalheira, J. (2022). Lithic bipolar methods as an adaptive  strategy through space and time. Journal of Archaeological Science: Reports,  41, 103263.
 
 Horta, P., Cascalheira, J., & Bicho, N. (2019). The Role of Lithic Bipolar Technology in Western Iberia’s Upper Paleolithic: the Case of Vale Boi (Southern Portugal). _Journal of Paleolithic Archaeology_ <https://doi.org/10.1007/s41982-019-0022-5> <https://osf.io/wpxgh/>
 
@@ -845,8 +845,7 @@ McPherron, Shannon P., Will Archer, Erik R. Otárola-Castillo, Melissa G. Torqua
 
 McPherron, S. P., Abdolahzadeh, A., Archer, W., Chan, A., Djakovic, I., Dogandžić, T., ... & Reeves, J. (2020). Introducing platform surface interior angle (PSIA) and its role in flake formation, size and shape. Plos one, 15(11), e0241714. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241714>
 
-McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation 
-esses using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
+McPherron SP (2018). Additional statistical and graphical methods for analyzing site formation processes using artifact orientations. _PLOS ONE_ 13(1): e0190195. <https://doi.org/10.1371/journal.pone.0190195>
 
 Milks, A., Hoggard, C. & Pope, M. (2023). Reassessing the Interpretative Potential of Ethnographic Collections for Early Hunting Technologies. _Journal of Archaeological Method and Theory_  https://doi.org/10.1007/s10816-023-09635-4
 
