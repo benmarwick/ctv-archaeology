@@ -48,7 +48,6 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 #### Paleoenvironmental Proxies
 
-- `r pkg("rpaleoclim")` provides a simple interface for downloading [PaleoClim](http://www.paleoclim.org/) data in R, with support for caching and filtering retrieved data by period, resolution, and geographic extent.
 - `r pkg("shoredate")` offers methods to shoreline date coastal sites based on their present-day elevation and the trajectory of past relative sea-level change.
 - `r pkg("tidypaleo")` provides a set of functions for age-depth model management, stratigraphic visualization, and common statistical transformations.
 
@@ -113,9 +112,12 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka.
 - `r pkg("datplot")` contains a data set on Inscriptions from Bithynia as used in B. Weissova (2019) _Regional Economy, Settlement Patterns and the Road System in Bithynia (4th Century BC-6th Century AD). Spatial and Quantitative Analysis_ suitable for geographical and chronological analysis.
 
-#### Radiocarbon Datasets and APIs
-
 - `r github("people3k/p3k14c")` contains a global dataset of radiocarbon dates.
+
+### APIs
+
+- `r pkg("rpaleoclim")` provides a simple interface for downloading [PaleoClim](http://www.paleoclim.org/) data, with support for caching and filtering retrieved data by period, resolution, and geographic extent.
+
 - `r github("xronos-ch/xronos.R")` accesses [XRONOS](https://xronos.ch), a global dataset of radiocarbon and other chronometric dates.
 - `r github("joeroe/rintchron")` accesses [IntChron](https://www.intchron.org/), an indexing service for chronological information.
 
