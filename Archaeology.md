@@ -13,6 +13,8 @@ Within each thematic section, you will find first the packages distributed on CR
 
 If you have any questions feel free to reach out to the task view maintainers or the maintainers of specific packages. If there is an archaeological science package on CRAN or elsewhere that we have missed, please let us know. Contributions are always welcome, and encouraged -- please see the linked GitHub repository for details.
 
+If you are looking for more open source archaeological software and resources (including R packages), [open-archeo](https://open-archaeo.info/) is the ideal complement to this taks view.
+
 ### Analysis of Dates and Chronological Patterns
 
 #### Radiometric Dating
