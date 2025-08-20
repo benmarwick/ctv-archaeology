@@ -23,6 +23,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 - `r pkg("rcarbon", priority = "core")` is useful for calibration, and also contains extensively documented functions for hypothesis testing and modelling radiocarbon ages. See Crema and Bevan ([2021](https://doi.org/10.1017/RDC.2020.95)) for an introduction. Basic calibration is also possible with `r pkg("rintcal")`.
 - `r pkg("Bchron")` adds various calibration curves (including user generated ones); also does age-depth modelling, relative sea level rate estimation incorporating time uncertainty in polynomial regression models, and non-parametric phase modelling via Gaussian mixtures as a means to determine the activity of a site (and as an alternative to the Oxcal function SUM). `r pkg("clam")` similarly does 'classical' age-depth modelling of deposits.
+- `r pkg("ananke")` allows simple radiocarbon calibration and chronological analysis. It also provides tools for visualising results and estimating statistical summaries.
 - Bayesian age-depth modelling of radiocarbon dates is available in `r pkg("nimbleCarbon")` and `r pkg("rbacon")`.
 - `r pkg("coffee")` uses Bayesian methods to enforce the chronological ordering of radiocarbon and other dates, for example for trees with multiple radiocarbon dates spaced at exactly known intervals.
 - `r pkg("oxcAAR")` allows you to use R to connect to a local installation of the OxCal software to calibrate radiocarbon dates and a variety of other OxCal operations.
@@ -47,8 +48,9 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 #### Paleoenvironmental Proxies
 
-- `r pkg("tidypaleo")` provides a set of functions for age-depth model management, stratigraphic visualization, and common statistical transformations.
+- `r pkg("rpaleoclim")` provides a simple interface for downloading [PaleoClim](http://www.paleoclim.org/) data in R, with support for caching and filtering retrieved data by period, resolution, and geographic extent.
 - `r pkg("shoredate")` offers methods to shoreline date coastal sites based on their present-day elevation and the trajectory of past relative sea-level change.
+- `r pkg("tidypaleo")` provides a set of functions for age-depth model management, stratigraphic visualization, and common statistical transformations.
 
 #### Archaeological Time Series
 
