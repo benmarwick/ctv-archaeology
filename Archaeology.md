@@ -63,7 +63,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 ### Artefact Analysis
 
-- `r pkg("tabula", priority = "core")` provides several tests and measures of diversity: heterogeneity and evenness (Brillouin, Shannon, Simpson, etc.), richness and rarefaction (Chao1, Chao2, ACE, ICE, etc.), turnover and similarity (Brainerd-Robinson, etc.). The package make it easy to visualize count data and statistical thresholds: rank vs. abundance plots, heatmaps, Ford (1962) and Bertin (1977) diagrams.
+- `r pkg("tabula", priority = "core")` provides an easy way to examine archaeological count data. This package allows to visualize count data and statistical thresholds (rank vs. abundance plots, heatmaps, Ford and Bertin diagrams) and provides several tests and measures of diversity (Brillouin, Shannon, Simpson, Chao1, Chao2, ACE, ICE, Brainerd-Robinson, etc.). `r pkg("kinesis")` provides a collection of R [Shiny](https://shiny.posit.co/) applications for the main features of `tabula`.
 - `r pkg("lakhesis")` provides an interactive platform and critical measures for seriating binary data matrices through the exploration, selection, and consensus of partially seriated sequences.
 
 - `r github("zoometh/iconr")` for modeling prehistoric iconographic compositions and preparing for further analysis (clustering, typology tree, Harris diagram, etc.).
