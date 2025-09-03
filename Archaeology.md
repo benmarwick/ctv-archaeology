@@ -118,6 +118,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 
 - `r pkg("rpaleoclim")` provides a simple interface for downloading [PaleoClim](http://www.paleoclim.org/) data, with support for caching and filtering retrieved data by period, resolution, and geographic extent.
 
+- `r github("ropensci/c14bazAAR")` accesses different openly accessible radiocarbon date databases. It allows basic data cleaning, calibration and merging.
 - `r github("xronos-ch/xronos.R")` accesses [XRONOS](https://xronos.ch), a global dataset of radiocarbon and other chronometric dates.
 - `r github("joeroe/rintchron")` accesses [IntChron](https://www.intchron.org/), an indexing service for chronological information.
 
