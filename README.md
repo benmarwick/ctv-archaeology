@@ -1082,6 +1082,8 @@ Soler Mayor, B., Pardo-Gordó, S., Pascual Benito, J.L. et al. (2025). Personal 
 
 Sommer, C., Kandel, A. W., & Hochschild, V. (2022). The use of prehistoric ‘big data’ for mapping early human cultural networks. _Journal of Maps_, 1–12. https://doi.org/10.1080/17445647.2022.2118628
 
+Sommer, C., Pedersen, J. B., Kanaeva, Z., Streicher, T. P., Kandel, A. W., Conard, N. J., & Hochschild, V. (2026). roadDB: An R package for exploring early human prehistory and environments with the ROCEEH Out of Africa Database. PLOS ONE, 21(10), e0359952. https://doi.org/10.1371/journal.pone.0359952
+
 Souza, J. G. de, Ruiz-Pérez, J., Lancelotti, C., & Madella, M. (2022). Environmental effects on the spread of the Neolithic crop package to South Asia. PLOS ONE, 17(7), e0268482. https://doi.org/10.1371/journal.pone.0268482
 
 Souza, J. G. de, & Riris, P. (2021). Delayed demographic transition following the adoption of cultivated plants in the eastern La Plata Basin and Atlantic coast, South America. Journal of Archaeological Science, 125, 105293. https://doi.org/10.1016/j.jas.2020.105293
